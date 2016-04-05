@@ -14,7 +14,7 @@ async function getMedium() {
   while( (regRes = regExp.exec(html)) !== null ) {
     linkArray.push({
       title: regRes[1],
-      url: regRes[2],
+      url: `https://medium.com/p/${regRes[2]}`,
     });
   }
 
