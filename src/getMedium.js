@@ -19,7 +19,7 @@ async function getMedium() {
   }
 
   // console.log(linkArray);
-  return linkArray;
+  return linkArray.slice(0,10);
 
 }
 

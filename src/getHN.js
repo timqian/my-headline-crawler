@@ -22,7 +22,7 @@ async function getHN() {
   // find 10 links with most points
   const newLinkArray = linkArray
     .sort((a, b) => b.score - a.score)
-    .slice(0, 9);
+    .slice(0, 10);
 
   // console.log(newLinkArray);
   return newLinkArray;
