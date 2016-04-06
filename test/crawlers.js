@@ -3,9 +3,16 @@ import getHN from '../src/getHN'
 import getReddit from '../src/getReddit'
 import getMedium from '../src/getMedium'
 import getV2 from '../src/getV2'
-
+import getGithub from '../src/getGithub'
 
 describe('test crawler', async () => {
+  it('github', async () => {
+    const linkArray = await getGithub();
+    console.log(linkArray);
+    assert.equal(linkArray.length, 10);
+    assert.equal(typeof linkArray[1].title, 'string');
+  })
+
   it('HN', async () => {
     const linkArray = await getHN();
     console.log(linkArray);
