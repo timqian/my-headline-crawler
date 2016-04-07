@@ -27,6 +27,7 @@
     "mocha": "^2.4.5"
   },
   "dependencies": {
-    "axios": "^0.9.1"
+    "axios": "^0.9.1",
+    "moment": "^2.12.0"
   }
 }
