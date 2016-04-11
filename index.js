@@ -18,7 +18,7 @@ async function makeJson() {
   console.log('github done');
   json.reddit = await getReddit().catch(err => {throw err});
   console.log('reddit done');
-  json.medium = await getMedium().catch(err => {throw err});
+  //json.medium = await getMedium().catch(err => {throw err});
   console.log('medium done'); 
   json.v2ex = await getV2().catch(err => {throw err});
   console.log('v2ex done');
@@ -38,3 +38,8 @@ makeJson()
   .catch(err => {
     console.log('err: ', err)
   });
+
+  
+  
+  
+  
