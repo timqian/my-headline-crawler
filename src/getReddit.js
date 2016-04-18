@@ -15,8 +15,8 @@ async function getReddit() {
   let regRes;
   while( (regRes = regExp.exec(html)) !== null ) {
     linkArray.push({
-      url: `${regRes[2]}`,
-      title: `${regRes[1]}`,
+      url: regRes[2],
+      title: regRes[1],
     });
   }
 
