@@ -13,7 +13,7 @@ async function getMedium() {
   let regRes;
   while( (regRes = regExp.exec(html)) !== null ) {
     linkArray.push({
-      title: regRes[1],
+      title: `${regRes[1]}`,
       url: `https://medium.com/p/${regRes[2]}`,
     });
   }

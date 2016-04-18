@@ -14,7 +14,7 @@ async function getV2() {
   while( (regRes = regExp.exec(html)) !== null ) {
     linkArray.push({
       url: `https://www.v2ex.com${regRes[1]}`,
-      title: regRes[2],
+      title: `${regRes[2]}`,
     });
   }
 

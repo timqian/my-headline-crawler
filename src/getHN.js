@@ -14,7 +14,7 @@ async function getHN() {
   while( (regRes = regExp.exec(html)) !== null ) {
     linkArray.push({
       url: `https://news.ycombinator.com/${regRes[3]}`,
-      title: regRes[1],
+      title: `${regRes[1]}`,
       score: regRes[2],
     });
   }
