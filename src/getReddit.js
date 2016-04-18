@@ -23,10 +23,8 @@ async function getReddit() {
   // find 10 links with most points
   if (linkArray.length === 26) {
     return linkArray.slice(1, 11);
-  } else if (linkArray.length === 25) {
-    return linkArray.slice(0, 10);
   } else {
-    throw "error: not 25 or 26";
+    return linkArray.slice(0, 10);
   }
 
   // console.log(newLinkArray);
