@@ -7,7 +7,7 @@ async function getHN() {
   const linkArray = [];
   const res = await axios.get("https://news.ycombinator.com").catch( res => {throw res;} );
   const html = res.data;
-  console.log(html)
+  // console.log(html)
   const regExp = /class="storylink">(.*?)<\/a>.*?\n.*?class="score".*?>(.*?)\spoints<\/span>.*?class="age"><a\shref="(.*?)">/ig;
 
   // Finding successive matches. ref: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/exec#Finding_successive_matches
