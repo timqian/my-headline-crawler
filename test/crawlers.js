@@ -21,14 +21,14 @@ describe('test crawler', async () => {
     assert.equal(typeof linkArray[1].title, 'string');
     assert.equal(typeof linkArray[0].url, 'string');
   })
-  
+
   it('V2', async () => {
     const linkArray = await getV2();
     console.log(linkArray);
     assert.equal(typeof linkArray[1].title, 'string');
     assert.equal(typeof linkArray[0].url, 'string');
   })
-  
+
   it('Medium', async () => {
     const linkArray = await getMedium();
     console.log(linkArray);
@@ -36,7 +36,7 @@ describe('test crawler', async () => {
     assert.equal(typeof linkArray[1].title, 'string');
     assert.equal(typeof linkArray[0].url, 'string');
   })
-  
+
   it('Reddit', async () => {
     const linkArray = await getReddit();
     console.log(linkArray);
