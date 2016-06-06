@@ -2,39 +2,24 @@
 
 import fs from 'fs'
 import moment from 'moment'
+import getDailyHeadline from './src/getDailyHeadline'
 
-import getHN from './src/getHN'
-import getReddit from './src/getReddit'
-import getMedium from './src/getMedium'
-import getV2 from './src/getV2'
-import getGithub from './src/getGithub'
+(async () => {
 
-
-async function makeJson() {
-  const json = {};
-  json.HN = await getHN().catch(err => {throw err});
-  console.log('HN done');
-  json.reddit = await getReddit().catch(err => {throw err});
-  console.log('reddit done');
-  json.medium = await getMedium().catch(err => {throw err});
-  console.log('medium done');
-  json.github = await getGithub().catch(err => {throw err});
-  console.log('github done');
-  json.v2ex = await getV2().catch(err => {throw err});
-  console.log('v2ex done');
-  console.log(json);
-  return json;
-}
+  // generate daily headline json file
+  const dailyHeadline = await getDailyHeadline()
+  fs.writeFileSync(`./data/${moment().format('YYYY/MM/DD')}.json`, JSON.stringify(dailyHeadline), 'utf8')
+  console.log('write dailyHeadline succeed')
 
 
-makeJson()
-  .then(json => {
-    const fileName = `${moment().format('YYYY-MM-DD')}.json`
-    fs.writeFile(`./data/${fileName}`, JSON.stringify(json), 'utf8', (err) => {
-      if (err) throw err;
-      console.log(fileName, 'wrote succeed');
-    });
-  })
-  .catch(err => {
-    console.log('err: ', err)
-  });
+  // // generate weekly headline json file
+  // if (/*周一*/) {
+  //
+  // }
+  //
+  // // generate monthly headline json file
+  // if (/*月一*/) {
+  //
+  // }
+
+})()

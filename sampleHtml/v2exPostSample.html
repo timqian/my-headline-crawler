@@ -1,0 +1,583 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0036)https://www.v2ex.com/t/283428#reply7 -->
+<html lang="zh-CN"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<meta content="True" name="HandheldFriendly">
+	
+    <meta name="detectify-verification" content="d0264f228155c7a1f72c3d91c17ce8fb">
+<meta name="alexaVerifyID" content="OFc8dmwZo7ttU4UCnDh1rKDtLlY">
+<meta name="baidu-site-verification" content="D00WizvYyr">
+<meta name="msvalidate.01" content="D9B08FEA08E3DA402BF07ABAB61D77DE">
+<meta property="wb:webmaster" content="f2f4cb229bda06a4">
+<meta name="google-site-verification" content="LM_cJR94XJIqcYJeOCscGVMWdaRUvmyz6cVOqkFplaU">
+    
+    <title>求助：被 python 的编码搞疯了 - V2EX</title>
+    
+        <link rel="stylesheet" type="text/css" media="screen" href="./求助：被 python 的编码搞疯了 - V2EX_files/basic.css">
+    
+    <link rel="stylesheet" type="text/css" media="screen" href="./求助：被 python 的编码搞疯了 - V2EX_files/style.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="./求助：被 python 的编码搞疯了 - V2EX_files/desktop.css">
+    <link rel="stylesheet" href="./求助：被 python 的编码搞疯了 - V2EX_files/tomorrow.css" type="text/css">
+    <script async="" src="./求助：被 python 的编码搞疯了 - V2EX_files/prum.min.js"></script><script async="" src="./求助：被 python 的编码搞疯了 - V2EX_files/analytics.js"></script><script type="text/javascript" src="./求助：被 python 的编码搞疯了 - V2EX_files/highlight.pack.js"></script>
+    <link rel="shortcut icon" href="https://www.v2ex.com/static/img/icon_rayps_64.png" type="image/png">
+    <link rel="apple-touch-icon" href="https://www.v2ex.com/static/apple-touch-icon.png">
+    <link rel="stylesheet" type="text/css" href="./求助：被 python 的编码搞疯了 - V2EX_files/font-awesome.min.css">
+	<script src="./求助：被 python 的编码搞疯了 - V2EX_files/jquery.js" type="text/javascript"></script>
+	<script src="./求助：被 python 的编码搞疯了 - V2EX_files/jquery-ui.js" type="text/javascript"></script>
+	<script src="./求助：被 python 的编码搞疯了 - V2EX_files/jquery.autosize.js" type="text/javascript"></script>
+    <link href="./求助：被 python 的编码搞疯了 - V2EX_files/jquery.textcomplete.css" rel="stylesheet">
+    <script src="./求助：被 python 的编码搞疯了 - V2EX_files/v2ex.js" type="text/javascript"></script>
+    <link href="./求助：被 python 的编码搞疯了 - V2EX_files/select2.css" rel="stylesheet">
+    <script src="./求助：被 python 的编码搞疯了 - V2EX_files/select2.min.js" type="text/javascript"></script>
+    <link href="./求助：被 python 的编码搞疯了 - V2EX_files/selectboxit.css" rel="stylesheet">
+    <script src="./求助：被 python 的编码搞疯了 - V2EX_files/selectboxit.min.js" type="text/javascript"></script>
+    <meta name="description" content="Python - lovebeyondalways - 小弟用的是 python3.5 ，听说 python3 解决了编码问题  然而  import urllib.request  html = urllib.request.urlopen(">
+    
+    
+    <link rel="canonical" href="https://www.v2ex.com/t/283428">
+    
+    
+    
+    <link rel="top" title="回到顶部" href="https://www.v2ex.com/t/283428#">
+    
+    
+	<script>
+		$(function(){
+			protectTraffic();
+
+            
+
+            $('#reply_content').autosize().blur();
+
+            $("#reply_content").textcomplete([{
+                match: /(^|\s)@(\w*)$/,
+                search: function (term, callback) {
+                    term = term.toLowerCase();
+                    var words = ['276562578', 'GPU', 'SuperMild', 'Sylv', 'a412739861', 'janxin', 'lovebeyondalways'];
+                    callback($.map(words, function (word) {
+                        return word.toLowerCase().indexOf(term) === 0 ? word : null;
+                    }));
+                },
+                replace: function (value) {
+                    return '$1@' + value + ' ';;
+                }
+            }]);
+
+            
+		});
+
+        
+        var csrfToken = "lwafskhfpdcdmswtyqxnioixusweayhb";
+        
+	</script>
+    <script type="text/javascript">
+function format(tpl) {
+    var index = 1, items = arguments;
+    return (tpl || '').replace(/{(\w*)}/g, function(match, p1) {
+        return items[index++] || p1 || match;
+    });
+}
+function loadCSS(url, callback) {
+    return $('<link type="text/css" rel="stylesheet"/>')
+        .attr({ href: url })
+        .on('load', callback)
+        .appendTo(document.head);
+}
+function lazyGist(element) {
+    var $btn = $(element);
+    var $self = $(element).parent();
+    var $link = $self.find('a');
+    $btn.prop('disabled', 'disabled').text('Loading...');
+    $.getJSON(format('{}.json?callback=?', $link.prop('href').replace($link.prop('hash'), '')))
+        .done(function(data) {
+            loadCSS(data.stylesheet, function() {
+                $self.replaceWith(data.div);
+                $('.gist .gist-file .gist-meta a').filter(function() { return this.href === $link.prop('href'); }).parents('.gist-file').siblings().remove();
+            });
+        })
+        .fail(function() { $self.replaceWith($('<a>').attr('href', url).text(url)); });
+}
+</script>
+
+<style>#haloword-pron { background: url(chrome-extension://bhkcehpnnlgncpnefpanachijmhikocj/img/icon.svg) -94px -34px; }#haloword-pron:hover { background: url(chrome-extension://bhkcehpnnlgncpnefpanachijmhikocj/img/icon.svg) -111px -34px; }#haloword-open { background: url(chrome-extension://bhkcehpnnlgncpnefpanachijmhikocj/img/icon.svg) -94px -17px; }#haloword-open:hover { background: url(chrome-extension://bhkcehpnnlgncpnefpanachijmhikocj/img/icon.svg) -111px -17px; }#haloword-close { background: url(chrome-extension://bhkcehpnnlgncpnefpanachijmhikocj/img/icon.svg) -94px 0; }#haloword-close:hover { background: url(chrome-extension://bhkcehpnnlgncpnefpanachijmhikocj/img/icon.svg) -111px 0; }#haloword-add { background: url(chrome-extension://bhkcehpnnlgncpnefpanachijmhikocj/img/icon.svg) -94px -51px; }#haloword-add:hover { background: url(chrome-extension://bhkcehpnnlgncpnefpanachijmhikocj/img/icon.svg) -111px -51px; }#haloword-remove { background: url(chrome-extension://bhkcehpnnlgncpnefpanachijmhikocj/img/icon.svg) -94px -68px; }#haloword-remove:hover { background: url(chrome-extension://bhkcehpnnlgncpnefpanachijmhikocj/img/icon.svg) -111px -68px; }</style></head>
+<body>
+    <div id="Top">
+        <div class="content">
+            <div style="padding-top: 6px;">
+            <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                <tbody><tr>
+                    <td width="110" align="left"><a href="https://www.v2ex.com/" name="top" title="way to explore"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/logo@2x.png" border="0" align="default" alt="V2EX" width="94" height="30"></a></td>
+                    <td width="auto" align="left">
+                        <div id="Search"><form onsubmit="return dispatch()"><div style="width: 276px; height: 28px; background-size: 276px 28px; background-image: url(&#39;/static/img/qbar_light@2x.png&#39;); background-repeat: no-repeat; display: inline-block;"><input type="text" maxlength="40" name="q" id="q" value=""></div></form></div>
+                    </td>
+                    <td width="570" align="right" style="padding-top: 2px;"><a href="https://www.v2ex.com/" class="top">首页</a>&nbsp;&nbsp;&nbsp;<a href="https://www.v2ex.com/member/timqian" class="top">timqian</a>&nbsp;&nbsp;&nbsp;<a href="https://workspace.v2ex.com/" target="_blank" class="top">工作空间</a>&nbsp;&nbsp;&nbsp;<a href="https://www.v2ex.com/notes" class="top">记事本</a>&nbsp;&nbsp;&nbsp;<a href="https://www.v2ex.com/t" class="top">时间轴</a>&nbsp;&nbsp;&nbsp;<a href="https://www.v2ex.com/settings" class="top">设置</a>&nbsp;&nbsp;&nbsp;<a href="https://www.v2ex.com/t/283428#;" onclick="if (confirm(&#39;确定要从 V2EX 登出？&#39;)) { location.href= &#39;/signout?once=68581&#39;; }" class="top">登出</a></td>
+                </tr>
+            </tbody></table>
+            </div>
+        </div>
+    </div>
+    <div id="Wrapper">
+        <div class="content">
+            
+            <div id="Leftbar"></div>
+            <div id="Rightbar">
+                <div class="sep20"></div>
+                
+                    
+                    <div class="box">
+                        <div class="cell">
+                            <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                <tbody><tr>
+                                    <td width="48" valign="top"><a href="https://www.v2ex.com/member/timqian"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/139594_large.png" class="avatar" border="0" align="default" style="max-width: 48px; max-height: 48px;"></a></td>
+                                    <td width="10" valign="top"></td>
+                                    <td width="auto" align="left"><span class="bigger"><a href="https://www.v2ex.com/member/timqian">timqian</a></span>
+                                        
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                            <div class="sep10"></div>
+                            <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                <tbody><tr>
+                                    <td width="33%" align="center"><a href="https://www.v2ex.com/my/nodes" class="dark" style="display: block;"><span class="bigger">0</span><div class="sep3"></div><span class="fade">节点收藏</span></a></td>
+                                    <td width="34%" style="border-left: 1px solid rgba(100, 100, 100, 0.4); border-right: 1px solid rgba(100, 100, 100, 0.4);" align="center"><a href="https://www.v2ex.com/my/topics" class="dark" style="display: block;"><span class="bigger">41</span><div class="sep3"></div><span class="fade">主题收藏</span></a></td>
+                                    <td width="33%" align="center"><a href="https://www.v2ex.com/my/following" class="dark" style="display: block;"><span class="bigger">14</span><div class="sep3"></div><span class="fade">特别关注</span></a></td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+                        <div class="cell">
+                        <div style="width: 250px; background-color: #f0f0f0; height: 3px; display: inline-block; vertical-align: middle;"><div style="width: 18px; background-color: #ccc; height: 3px; display: inline-block;"></div></div>
+                        </div>
+                        
+                        <div class="cell" style="padding: 5px;">
+                            <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                <tbody><tr>
+                                    <td width="32"><a href="https://www.v2ex.com/new"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/flat_compose.png" width="32" border="0"></a></td>
+                                    <td width="10"></td>
+                                    <td width="auto" valign="middle" align="left"><a href="https://www.v2ex.com/new">创作新主题</a></td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+                        <div class="inner"><div class="fr" id="money"><a href="https://www.v2ex.com/balance" class="balance_area" style="">1 <img src="./求助：被 python 的编码搞疯了 - V2EX_files/gold.png" alt="G" align="absmiddle" border="0" style="padding-bottom: 2px;"> 13 <img src="./求助：被 python 的编码搞疯了 - V2EX_files/silver.png" alt="S" align="absmiddle" border="0" style="padding-bottom: 2px;"> 44 <img src="./求助：被 python 的编码搞疯了 - V2EX_files/bronze.png" alt="B" align="absmiddle" border="0"></a></div><a href="https://www.v2ex.com/notifications" class="fade">0 条未读提醒</a></div>
+                        
+                    </div>
+                    
+                    
+
+    
+    <div class="sep20"></div>
+    <div class="box">
+        <div class="inner">
+            <a href="https://www.v2ex.com/t/283279"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/tingyun_20160603.gif" border="0" alt="听云" width="100%"></a>
+<div class="sep10"></div>
+<a href="https://www.wilddog.com/?utm_source=v2ex.topics&amp;utm_medium=banner&amp;utm_content=right&amp;utm_campaign=suzhoucodingcamp" target="_blank"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/v2ex-500x120-1.jpg" border="0" width="100%" alt="野狗实时后端云"></a>
+<div class="sep10"></div>
+<a href="http://yacebao.com/index.shtml" target="_blank"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/yacebao_20160529.gif" border="0" width="100%" alt="压测宝"></a>
+<div class="sep10"></div>
+<a href="https://mos.meituan.com/" target="_blank"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/mos_20160524.jpg" border="0" alt="美团云" width="100%"></a>
+<div class="sep10"></div>
+<a href="http://www.ucloud.cn/site/seo.html?utm_source=cost&amp;utm_campaign=v2ex&amp;utm_medium=display&amp;utm_content=shengji&amp;ytag=%5Fv2ex%5Fdisplay" target="_blank"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/ucloud_20160415.png" border="0" alt="UCloud" width="100%"></a>
+<div class="sep10"></div>
+<strong class="green">推荐学习书目</strong>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="http://learnpythonthehardway.org/book/" target="_blank">Learn Python the Hard Way</a>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="http://www.amazon.cn/mn/detailApp/ref=as_li_ss_tl?_encoding=UTF8&amp;tag=v06-23&amp;linkCode=as2&amp;asin=B004TUJ7A6&amp;camp=536&amp;creative=3132&amp;creativeASIN=B004TUJ7A6">Python 学习手册</a><img src="./求助：被 python 的编码搞疯了 - V2EX_files/ir" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;">
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="http://www.amazon.cn/mn/detailApp/ref=as_li_ss_tl?_encoding=UTF8&amp;tag=v06-23&amp;linkCode=as2&amp;asin=B003LPO4KS&amp;camp=536&amp;creative=3132&amp;creativeASIN=B003LPO4KS">Python Cookbook</a><img src="./求助：被 python 的编码搞疯了 - V2EX_files/ir(1)" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;">
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="http://www.amazon.cn/mn/detailApp/ref=as_li_ss_tl?_encoding=UTF8&amp;tag=v06-23&amp;linkCode=as2&amp;asin=B003TSBAMM&amp;camp=536&amp;creative=3132&amp;creativeASIN=B003TSBAMM">Python 基础教程</a><img src="./求助：被 python 的编码搞疯了 - V2EX_files/ir(2)" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;">
+<div class="sep10"></div>
+<strong class="fade">Python Sites</strong>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="http://pypi.python.org/pypi" target="_blank"><strong>PyPI</strong> - Python Package Index</a>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="http://www.simple-is-better.com/" target="_blank">http://www.simple-is-better.com/</a>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="http://diveintopython.org/toc/index.html" target="_blank">http://diveintopython.org/toc/index.html</a>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="http://www.pocoo.org/" target="_blank">Pocoo</a>
+<div class="sep10"></div>
+<strong class="green">值得关注的项目</strong>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="http://www.pypy.org/" target="_blank">PyPy</a>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="http://celeryproject.org/" target="_blank">Celery</a>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="http://jinja.pocoo.org/docs/" target="_blank">Jinja2</a>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="http://www.readthedocs.org/" target="_blank">Read the Docs</a>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="http://www.gevent.org/" target="_blank">gevent</a>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="http://www.virtualenv.org/" target="_blank">virtualenv</a>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="http://www.stackless.com/" target="_blank">Stackless Python</a>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="http://www.crummy.com/software/BeautifulSoup/" target="_blank">Beautiful Soup</a>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="https://github.com/fxsjy/jieba" target="_blank">结巴中文分词</a>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="http://www.gunicorn.org/" target="_blank">Green Unicorn</a>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="https://getsentry.com/signup/r_D0rG/" target="_blank">Sentry</a>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="https://github.com/seomoz/shovel" target="_blank">Shovel</a>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="https://github.com/pyflakes/pyflakes/" target="_blank">Pyflakes</a>
+<div class="sep10"></div>
+<strong class="green">Python 编程</strong>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="http://pypi.python.org/pypi/pep8" target="_blank">pep8 Checker</a>
+<div class="sep10"></div>
+<strong class="green">Styles</strong>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="http://www.python.org/dev/peps/pep-0008/" target="_blank">PEP 8</a>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="http://google-styleguide.googlecode.com/svn/trunk/pyguide.html" target="_blank">Google Python Style Guide</a>
+<div class="sep5"></div>
+<span class="chevron">›</span> <a href="http://docs.python-guide.org/en/latest/writing/style/" target="_blank">Code Style from The Hitchhiker's Guide</a>
+        </div>
+    </div>
+    
+
+
+                    
+                    <div class="sep20"></div>
+                    
+
+<div class="box">
+    <div class="inner" align="center">
+        <a href="https://www.wilddog.com/?utm_source=v2ex&amp;utm_medium=banner&amp;utm_content=homepageright&amp;utm_campaign=suzhoucodingcamp" target="_blank"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/v2ex-500x500-1.jpg" border="0" width="250" height="250" alt="100offer"></a>
+    </div>
+</div>
+
+
+                    <div class="sep20"></div>
+                    
+                    
+                    
+                
+            </div>
+            <div id="Main">
+                <div class="sep20"></div>
+                
+<div class="box" style="border-bottom: 0px;">
+    <div class="header"><div class="fr"><a href="https://www.v2ex.com/member/lovebeyondalways"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/114307_large.png" class="avatar" border="0" align="default"></a></div>
+    <a href="https://www.v2ex.com/">V2EX</a> <span class="chevron">&nbsp;›&nbsp;</span> <a href="https://www.v2ex.com/go/python">Python</a>
+    <div class="sep10"></div>
+    <h1>求助：被 python 的编码搞疯了</h1>
+    <div id="topic_283428_votes" class="votes">
+<a href="javascript:" onclick="upVoteTopic(283428);" class="vote"><li class="fa fa-chevron-up"></li></a> &nbsp;<a href="javascript:" onclick="downVoteTopic(283428);" class="vote"><li class="fa fa-chevron-down"></li></a></div> &nbsp; <small class="gray"><a href="https://www.v2ex.com/member/lovebeyondalways">lovebeyondalways</a> · 23 分钟前 · 143 次点击 &nbsp; </small>
+    </div>
+    
+    
+    
+    <div class="cell">
+        
+        <div class="topic_content"><div class="markdown_body"><p>小弟用的是 python3.5 ，听说 python3 解决了编码问题<br>
+然而<br>
+import urllib.request<br>
+html = urllib.request.urlopen('<a href="http://www.baidu.com/" rel="nofollow">http://www.baidu.com</a>').read().decode('utf-8')<br>
+print(html)</p>
+<p>结果：<br>
+Traceback (most recent call last):<br>
+File ".\Desktop\work\<a href="http://wearther.py/" rel="nofollow">wearther.py</a>", line 3, in &lt;module&gt;<br>
+print(html)<br>
+UnicodeEncodeError: 'gbk' codec can't encode character '\xbb' in position 25395: illegal multibyte sequence</p>
+<p>这样也不行.decode('utf-8').encode('utf-8')<br>
+所以新手求助啊</p>
+</div></div>
+        <script>hljs.initHighlightingOnLoad();</script>
+        
+    </div>
+    
+    
+    <div class="topic_buttons"><div class="fr gray f11" style="line-height: 12px; padding-top: 3px; text-shadow: 0px 1px 0px #fff;">143 次点击 &nbsp;</div><a href="https://www.v2ex.com/favorite/topic/283428?t=lwafskhfpdcdmswtyqxnioixusweayhb" class="tb">加入收藏</a> &nbsp;<a href="https://www.v2ex.com/t/283428#;" onclick="window.open(&#39;https://twitter.com/share?url=http://www.v2ex.com/t/283428?r\u003Dtimqian&amp;related=v2ex&amp;hashtags=python&amp;text=求助：被 python 的编码搞疯了&#39;, &#39;_blank&#39;, &#39;width=550,height=370&#39;); recordOutboundLink(this, &#39;Share&#39;, &#39;twitter.com&#39;);" class="tb">Tweet</a> &nbsp;<a href="https://www.v2ex.com/t/283428#;" onclick="window.open(&#39;http://service.weibo.com/share/share.php?url=http://www.v2ex.com/t/283428?r\u003Dtimqian&amp;title=V2EX%20-%20求助：被 python 的编码搞疯了&#39;, &#39;_blank&#39;, &#39;width=550,height=370&#39;); recordOutboundLink(this, &#39;Share&#39;, &#39;weibo.com&#39;);" class="tb">Weibo</a> &nbsp;<a href="https://www.v2ex.com/t/283428#;" onclick="if (confirm(&#39;确定不想再看到这个主题？&#39;)) { location.href = &#39;/ignore/topic/283428?once=68581&#39;; }" class="tb">忽略主题</a> &nbsp;<div id="topic_thank"><a href="https://www.v2ex.com/t/283428#;" onclick="if (confirm(&#39;你确定要向本主题创建者发送谢意？&#39;)) { thankTopic(283428, &#39;lwafskhfpdcdmswtyqxnioixusweayhb&#39;); }" class="tb">感谢</a></div></div>
+</div>
+
+<div class="sep20"></div>
+
+
+<div class="box">
+    <div class="cell"><div class="fr" style="margin: -3px -5px 0px 0px;"><a href="https://www.v2ex.com/tag/HTML" class="tag"><li class="fa fa-tag"></li> HTML</a><a href="https://www.v2ex.com/tag/utf-8&#39;" class="tag"><li class="fa fa-tag"></li> utf-8'</a><a href="https://www.v2ex.com/tag/print" class="tag"><li class="fa fa-tag"></li> print</a><a href="https://www.v2ex.com/tag/Python" class="tag"><li class="fa fa-tag"></li> Python</a></div><span class="gray">7 回复 &nbsp;<strong class="snow">|</strong> &nbsp;直到 2016-06-04 11:29:59 +08:00</span>
+    </div>
+    
+
+    
+        
+        
+        <div id="r_3241239" class="cell">
+        
+        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tbody><tr>
+                <td width="48" valign="top" align="center"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/e9d829a3253b1fb8e788514d20c00389" class="avatar" border="0" align="default"></td>
+                <td width="10" valign="top"></td>
+                <td width="auto" valign="top" align="left"><div class="fr"><div id="thank_area_3241239" class="thank_area"><a href="https://www.v2ex.com/t/283428#;" onclick="if (confirm(&#39;确认要不再显示来自 @276562578 的这条回复？&#39;)) { ignoreReply(3241239, &#39;68581&#39;); }" class="thank" style="color: #ccc;">隐藏</a> &nbsp; &nbsp; &nbsp; <a href="https://www.v2ex.com/t/283428#;" onclick="if (confirm(&#39;确认花费 10 个铜币向 @276562578 的这条回复发送感谢？&#39;)) { thankReply(3241239, &#39;lwafskhfpdcdmswtyqxnioixusweayhb&#39;); }" class="thank">感谢回复者</a></div> &nbsp; <a href="https://www.v2ex.com/t/283428#;" onclick="replyOne(&#39;276562578&#39;);"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/reply.png" align="absmiddle" border="0" alt="Reply"></a> &nbsp;&nbsp; <span class="no">1</span></div>
+                    <div class="sep3"></div>
+                    <strong><a href="https://www.v2ex.com/member/276562578" class="dark">276562578</a></strong>&nbsp; &nbsp;<span class="fade small">19 分钟前</span> 
+                    <div class="sep5"></div>
+                    <div class="reply_content">先看看是什么格式的编码，用 chardet 库，然后再 de 和 en</div>
+                </td>
+            </tr>
+        </tbody></table>
+        </div>
+    
+
+    
+        
+        
+        <div id="r_3241257" class="cell">
+        
+        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tbody><tr>
+                <td width="48" valign="top" align="center"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/33037_normal.png" class="avatar" border="0" align="default"></td>
+                <td width="10" valign="top"></td>
+                <td width="auto" valign="top" align="left"><div class="fr"><div id="thank_area_3241257" class="thank_area"><a href="https://www.v2ex.com/t/283428#;" onclick="if (confirm(&#39;确认要不再显示来自 @GPU 的这条回复？&#39;)) { ignoreReply(3241257, &#39;68581&#39;); }" class="thank" style="color: #ccc;">隐藏</a> &nbsp; &nbsp; &nbsp; <a href="https://www.v2ex.com/t/283428#;" onclick="if (confirm(&#39;确认花费 10 个铜币向 @GPU 的这条回复发送感谢？&#39;)) { thankReply(3241257, &#39;lwafskhfpdcdmswtyqxnioixusweayhb&#39;); }" class="thank">感谢回复者</a></div> &nbsp; <a href="https://www.v2ex.com/t/283428#;" onclick="replyOne(&#39;GPU&#39;);"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/reply.png" align="absmiddle" border="0" alt="Reply"></a> &nbsp;&nbsp; <span class="no">2</span></div>
+                    <div class="sep3"></div>
+                    <strong><a href="https://www.v2ex.com/member/GPU" class="dark">GPU</a></strong>&nbsp; &nbsp;<span class="fade small">14 分钟前</span> 
+                    <div class="sep5"></div>
+                    <div class="reply_content">不是应该用 requests 吗？ 
+<br>
+<br>腰不酸腿不疼</div>
+                </td>
+            </tr>
+        </tbody></table>
+        </div>
+    
+
+    
+        
+        
+        <div id="r_3241258" class="cell">
+        
+        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tbody><tr>
+                <td width="48" valign="top" align="center"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/5af94fe81750e6f9894d7fc2301219d1" class="avatar" border="0" align="default"></td>
+                <td width="10" valign="top"></td>
+                <td width="auto" valign="top" align="left"><div class="fr"><div id="thank_area_3241258" class="thank_area"><a href="https://www.v2ex.com/t/283428#;" onclick="if (confirm(&#39;确认要不再显示来自 @SuperMild 的这条回复？&#39;)) { ignoreReply(3241258, &#39;68581&#39;); }" class="thank" style="color: #ccc;">隐藏</a> &nbsp; &nbsp; &nbsp; <a href="https://www.v2ex.com/t/283428#;" onclick="if (confirm(&#39;确认花费 10 个铜币向 @SuperMild 的这条回复发送感谢？&#39;)) { thankReply(3241258, &#39;lwafskhfpdcdmswtyqxnioixusweayhb&#39;); }" class="thank">感谢回复者</a></div> &nbsp; <a href="https://www.v2ex.com/t/283428#;" onclick="replyOne(&#39;SuperMild&#39;);"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/reply.png" align="absmiddle" border="0" alt="Reply"></a> &nbsp;&nbsp; <span class="no">3</span></div>
+                    <div class="sep3"></div>
+                    <strong><a href="https://www.v2ex.com/member/SuperMild" class="dark">SuperMild</a></strong>&nbsp; &nbsp;<span class="fade small">14 分钟前</span> 
+                    <div class="sep5"></div>
+                    <div class="reply_content">可能是 Windows 的坑</div>
+                </td>
+            </tr>
+        </tbody></table>
+        </div>
+    
+
+    
+        
+        
+        <div id="r_3241270" class="cell">
+        
+        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tbody><tr>
+                <td width="48" valign="top" align="center"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/8042_normal.png" class="avatar" border="0" align="default"></td>
+                <td width="10" valign="top"></td>
+                <td width="auto" valign="top" align="left"><div class="fr"><div id="thank_area_3241270" class="thank_area"><a href="https://www.v2ex.com/t/283428#;" onclick="if (confirm(&#39;确认要不再显示来自 @janxin 的这条回复？&#39;)) { ignoreReply(3241270, &#39;68581&#39;); }" class="thank" style="color: #ccc;">隐藏</a> &nbsp; &nbsp; &nbsp; <a href="https://www.v2ex.com/t/283428#;" onclick="if (confirm(&#39;确认花费 10 个铜币向 @janxin 的这条回复发送感谢？&#39;)) { thankReply(3241270, &#39;lwafskhfpdcdmswtyqxnioixusweayhb&#39;); }" class="thank">感谢回复者</a></div> &nbsp; <a href="https://www.v2ex.com/t/283428#;" onclick="replyOne(&#39;janxin&#39;);"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/reply.png" align="absmiddle" border="0" alt="Reply"></a> &nbsp;&nbsp; <span class="no">4</span></div>
+                    <div class="sep3"></div>
+                    <strong><a href="https://www.v2ex.com/member/janxin" class="dark">janxin</a></strong>&nbsp; &nbsp;<span class="fade small">10 分钟前</span> 
+                    <div class="sep5"></div>
+                    <div class="reply_content">试了一下没有问题啊，你这是 Windows 的坑吧</div>
+                </td>
+            </tr>
+        </tbody></table>
+        </div>
+    
+
+    
+        
+        
+        <div id="r_3241276" class="cell">
+        
+        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tbody><tr>
+                <td width="48" valign="top" align="center"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/862696dbed093e7c1f42ff7a1bb73e23" class="avatar" border="0" align="default"></td>
+                <td width="10" valign="top"></td>
+                <td width="auto" valign="top" align="left"><div class="fr"><div id="thank_area_3241276" class="thank_area"><a href="https://www.v2ex.com/t/283428#;" onclick="if (confirm(&#39;确认要不再显示来自 @a412739861 的这条回复？&#39;)) { ignoreReply(3241276, &#39;68581&#39;); }" class="thank" style="color: #ccc;">隐藏</a> &nbsp; &nbsp; &nbsp; <a href="https://www.v2ex.com/t/283428#;" onclick="if (confirm(&#39;确认花费 10 个铜币向 @a412739861 的这条回复发送感谢？&#39;)) { thankReply(3241276, &#39;lwafskhfpdcdmswtyqxnioixusweayhb&#39;); }" class="thank">感谢回复者</a></div> &nbsp; <a href="https://www.v2ex.com/t/283428#;" onclick="replyOne(&#39;a412739861&#39;);"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/reply.png" align="absmiddle" border="0" alt="Reply"></a> &nbsp;&nbsp; <span class="no">5</span></div>
+                    <div class="sep3"></div>
+                    <strong><a href="https://www.v2ex.com/member/a412739861" class="dark">a412739861</a></strong>&nbsp; &nbsp;<span class="fade small">9 分钟前</span> 
+                    <div class="sep5"></div>
+                    <div class="reply_content">我用 requests 似乎需要设置这个的，直接能够打开 gbk 的。
+<br>只是在 post 数据的时候，要 encode 成对应的编码，这个地方要自己写。</div>
+                </td>
+            </tr>
+        </tbody></table>
+        </div>
+    
+
+    
+        
+        
+        <div id="r_3241277" class="cell">
+        
+        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tbody><tr>
+                <td width="48" valign="top" align="center"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/114307_normal.png" class="avatar" border="0" align="default"></td>
+                <td width="10" valign="top"></td>
+                <td width="auto" valign="top" align="left"><div class="fr"><div id="thank_area_3241277" class="thank_area"><a href="https://www.v2ex.com/t/283428#;" onclick="if (confirm(&#39;确认要不再显示来自 @lovebeyondalways 的这条回复？&#39;)) { ignoreReply(3241277, &#39;68581&#39;); }" class="thank" style="color: #ccc;">隐藏</a> &nbsp; &nbsp; &nbsp; <a href="https://www.v2ex.com/t/283428#;" onclick="if (confirm(&#39;确认花费 10 个铜币向 @lovebeyondalways 的这条回复发送感谢？&#39;)) { thankReply(3241277, &#39;lwafskhfpdcdmswtyqxnioixusweayhb&#39;); }" class="thank">感谢回复者</a></div> &nbsp; <a href="https://www.v2ex.com/t/283428#;" onclick="replyOne(&#39;lovebeyondalways&#39;);"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/reply.png" align="absmiddle" border="0" alt="Reply"></a> &nbsp;&nbsp; <span class="no">6</span></div>
+                    <div class="sep3"></div>
+                    <strong><a href="https://www.v2ex.com/member/lovebeyondalways" class="dark">lovebeyondalways</a></strong>&nbsp; &nbsp;<span class="fade small">9 分钟前</span> 
+                    <div class="sep5"></div>
+                    <div class="reply_content">@<a href="https://www.v2ex.com/member/janxin">janxin</a> 我靠 windows 这坑怎么跳过</div>
+                </td>
+            </tr>
+        </tbody></table>
+        </div>
+    
+
+    
+        
+        
+        <div id="r_3241278" class="cell">
+        
+        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tbody><tr>
+                <td width="48" valign="top" align="center"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/51499_normal.png" class="avatar" border="0" align="default"></td>
+                <td width="10" valign="top"></td>
+                <td width="auto" valign="top" align="left"><div class="fr"><div id="thank_area_3241278" class="thank_area"><a href="https://www.v2ex.com/t/283428#;" onclick="if (confirm(&#39;确认要不再显示来自 @Sylv 的这条回复？&#39;)) { ignoreReply(3241278, &#39;68581&#39;); }" class="thank" style="color: #ccc;">隐藏</a> &nbsp; &nbsp; &nbsp; <a href="https://www.v2ex.com/t/283428#;" onclick="if (confirm(&#39;确认花费 10 个铜币向 @Sylv 的这条回复发送感谢？&#39;)) { thankReply(3241278, &#39;lwafskhfpdcdmswtyqxnioixusweayhb&#39;); }" class="thank">感谢回复者</a></div> &nbsp; <a href="https://www.v2ex.com/t/283428#;" onclick="replyOne(&#39;Sylv&#39;);"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/reply.png" align="absmiddle" border="0" alt="Reply"></a> &nbsp;&nbsp; <span class="no">7</span></div>
+                    <div class="sep3"></div>
+                    <strong><a href="https://www.v2ex.com/member/Sylv" class="dark">Sylv</a></strong>&nbsp; &nbsp;<span class="fade small">9 分钟前 via iPhone</span> 
+                    <div class="sep5"></div>
+                    <div class="reply_content">Python 3 的字符串已经是 unicode 了，你为什么还要 decode ？
+<br>基础知识：
+<br>unicode.encode(encoding) -&gt; bytes
+<br>bytes.decode(encoding) -&gt; unicode 
+<br>unicode.decode(encoding) -&gt; unicode.encode(defaultencoding).decode(encoding) -&gt; unicode 
+<br>
+<br>Python 3 是解决了部分 Python 2 的编码坑，但并不代表不再需要掌握基础的编码知识了。</div>
+                </td>
+            </tr>
+        </tbody></table>
+        </div>
+    
+
+
+</div>
+<div class="sep20"></div>
+
+
+
+
+<div class="box">
+    <div class="cell"><div class="fr"><a href="https://www.v2ex.com/t/283428#" onclick="goTop()"><strong>↑</strong> 回到顶部</a></div>
+        添加一条新回复
+    </div>
+    <div class="cell"><form method="post" action="https://www.v2ex.com/t/283428">
+        <textarea name="content" maxlength="10000" class="mll" id="reply_content" style="overflow: hidden; word-wrap: break-word; resize: none; height: 112px;"></textarea>
+        <div class="sep10"></div>
+        <div class="fr"><div class="sep5"></div><span class="gray">请尽量让自己的回复能够对别人有帮助</span></div>
+        <input type="hidden" value="68581" name="once">
+        <input type="submit" value="回复" class="super normal button">
+        <script type="text/javascript">
+        $("#reply_content").keydown(function(e) {
+            if ((e.ctrlKey || e.metaKey) && e.which === 13) {
+                e.preventDefault();
+                $("#reply_content").parent().submit();
+            }
+        });
+        </script>
+        </form>
+    </div>
+    <div class="inner">
+        <div class="fr"><a href="https://www.v2ex.com/">← V2EX</a></div>
+        &nbsp;
+    </div>
+</div>
+
+
+
+
+
+<div class="sep20"></div>
+<div class="box">
+<div class="inner">
+<div class="fr">
+
+
+
+
+
+
+</div>
+
+    
+        <a href="https://www.v2ex.com/t/283428#;" onclick="if (confirm(&#39;你确认需要报告这个主题？&#39;)) { location.href = &#39;/report/topic/283428?t=1443022944&#39;; }">报告这个主题</a>
+    
+&nbsp;
+</div></div>
+
+
+
+
+
+
+
+
+
+
+            </div>
+            
+            
+        </div>
+        <div class="c"></div>
+        <div class="sep20"></div>
+    </div>
+    <div id="Bottom">
+        <div class="content">
+            <div class="inner">
+                <div class="sep10"></div>
+                    <div class="fr">
+                        <a href="https://www.digitalocean.com/?refcode=1b51f1a7651d" target="_blank"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/do.png" width="64" border="0" alt="DigitalOcean"></a>
+                    </div>
+                    <strong><a href="https://www.v2ex.com/about" class="dark" target="_self">关于</a> &nbsp; <span class="snow">·</span> &nbsp; <a href="https://www.v2ex.com/faq" class="dark" target="_self">FAQ</a> &nbsp; <span class="snow">·</span> &nbsp; <a href="https://www.v2ex.com/p/7v9TEc53" class="dark" target="_self">API</a> &nbsp; <span class="snow">·</span> &nbsp; <a href="https://www.v2ex.com/mission" class="dark" target="_self">我们的愿景</a> &nbsp; <span class="snow">·</span> &nbsp; <a href="https://www.v2ex.com/ip" class="dark" target="_self">IP 查询</a> &nbsp; <span class="snow">·</span> &nbsp; <a href="https://workspace.v2ex.com/" class="dark" target="_blank">工作空间</a> &nbsp; <span class="snow">·</span> &nbsp; <a href="https://www.v2ex.com/advertise" class="dark" target="_self">广告投放</a> &nbsp; <span class="snow">·</span> &nbsp; <a href="https://www.v2ex.com/advertise/2015.html" class="dark" target="_self">鸣谢</a> &nbsp; <span class="snow">·</span> &nbsp; <a href="https://www.v2ex.com/start" class="dark" target="_blank">上网首页</a> &nbsp; <span class="snow">·</span> &nbsp; 1115 人在线</strong> &nbsp; <span class="fade">最高记录 1893</span> &nbsp; <span class="snow">·</span> &nbsp; <a href="https://www.v2ex.com/select/language"><img src="./求助：被 python 的编码搞疯了 - V2EX_files/lang_zhcn_32.png" align="absmiddle" border="0" width="20" alt=""></a>
+                    <div class="sep20"></div>
+                    创意工作者们的社区
+                    <div class="sep5"></div>
+                    World is powered by solitude
+                    <div class="sep20"></div>
+                    <span class="small fade">VERSION: 3.9.7.3 · 53ms · UTC 03:39 · PVG 11:39 · LAX 20:39 · JFK 23:39<br>♥ Do have faith in what you're doing.</span>
+                    <div class="sep20"></div>
+                    <span class="f12 gray"><a href="http://www.miibeian.gov.cn/" target="_blank" rel="nofollow">沪ICP备15015613号-1</a></span>
+                <div class="sep10"></div>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-11940834-2', 'v2ex.com');
+	  ga('send', 'pageview');
+
+	</script>
+    
+
+    <script src="./求助：被 python 的编码搞疯了 - V2EX_files/jquery.textcomplete.min.js" type="text/javascript"></script>
+    <script>
+    var _prum = [['id', '545c72a7abe53df84c575b28'],
+                 ['mark', 'firstbyte', (new Date()).getTime()]];
+    (function() {
+        var s = document.getElementsByTagName('script')[0]
+          , p = document.createElement('script');
+        p.async = 'async';
+        p.src = '//rum-static.pingdom.net/prum.min.js';
+        s.parentNode.insertBefore(p, s);
+    })();
+    </script>
+    
+
+<textarea tabindex="-1" style="position: absolute; top: -999px; left: 0px; right: auto; bottom: auto; border: 0px; padding: 0px; box-sizing: content-box; word-wrap: break-word; overflow: hidden; transition: none; height: 0px !important; min-height: 0px !important; font-family: &#39;Helvetica Neue&#39;, &#39;Luxi Sans&#39;, &#39;DejaVu Sans&#39;, Tahoma, &#39;Hiragino Sans GB&#39;, &#39;Microsoft Yahei&#39;, sans-serif; font-size: 14px; font-weight: 400; font-style: normal; letter-spacing: 0px; text-transform: none; word-spacing: 0px; text-indent: 0px; line-height: normal; width: 738px;" class="autosizejs" id="autosizejs"></textarea><div id="haloword-lookup" class="ui-widget-content ui-draggable"><div id="haloword-title"><span id="haloword-word"></span><a herf="#" id="haloword-pron" class="haloword-button" title="发音"></a><audio id="haloword-audio"></audio><div id="haloword-control-container"><a herf="#" id="haloword-add" class="haloword-button" title="加入单词表"></a><a herf="#" id="haloword-remove" class="haloword-button" title="移出单词表"></a><a href="https://www.v2ex.com/t/283428#" id="haloword-open" class="haloword-button" title="查看单词详细释义" target="_blank"></a><a herf="#" id="haloword-close" class="haloword-button" title="关闭查询窗"></a></div><br style="clear: both;"></div><div id="haloword-content"></div></div></body></html>

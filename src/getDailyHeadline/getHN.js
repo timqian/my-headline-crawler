@@ -26,6 +26,7 @@ async function getHN() {
     .slice(0, 10);
 
   // console.log(newLinkArray);
+  console.log('HN linkArray.length', newLinkArray.length);
   return newLinkArray;
 
 }

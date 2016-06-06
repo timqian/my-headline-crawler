@@ -18,7 +18,7 @@ async function getV2() {
     });
   }
 
-  // console.log(linkArray);
+  console.log('v2 linkArray.length', linkArray.length);
   return linkArray;
 
 }
