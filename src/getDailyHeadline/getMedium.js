@@ -18,7 +18,7 @@ async function getMedium() {
     });
   }
 
-  // console.log(linkArray);
+  console.log('Medium linkArray.length', linkArray.length);
   return linkArray.slice(0,10);
 
 }

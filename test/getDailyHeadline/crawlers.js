@@ -1,11 +1,11 @@
 import assert from 'assert'
-import getHN from '../src/getHN'
-import getReddit from '../src/getReddit'
-import getMedium from '../src/getMedium'
-import getV2 from '../src/getV2'
-import getGithub from '../src/getGithub'
+import getHN from '../../src/getDailyHeadline/getHN'
+import getReddit from '../../src/getDailyHeadline/getReddit'
+import getMedium from '../../src/getDailyHeadline/getMedium'
+import getV2 from '../../src/getDailyHeadline/getV2'
+import getGithub from '../../src/getDailyHeadline/getGithub'
 
-describe('test crawler', async () => {
+describe('getDailyHeadline Daily crawlers', async () => {
   it('github', async () => {
     const linkArray = await getGithub();
     console.log(linkArray);
