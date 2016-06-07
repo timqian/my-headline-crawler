@@ -3,6 +3,7 @@
  * 2. 调用 getHeadlineOfRange()
  */
 import moment from 'moment'
+import fs from 'fs'
 import getAllHeadlineOfRange from '../src/getAllHeadlineOfRange'
 
 const dayArray = []
