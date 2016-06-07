@@ -1,5 +1,5 @@
 import fs from 'fs'
-import axios from 'axios'
+import axios from './utils/aaxios.js'
 import moment from 'moment'
 import timeout from './utils/timeout'
 import getDateRange from './utils/dateRange'
@@ -45,7 +45,7 @@ async function getHeadlineOfRange(site, from, to, num) {
         continue
       }
 
-      console.log('html.length', html.length)
+      console.log(`${site} html.length`, html.length)
       // V2EX 某些帖子需要登录才可见。参考： https://www.v2ex.com/t/183547
       try {
         // console.log(config)
