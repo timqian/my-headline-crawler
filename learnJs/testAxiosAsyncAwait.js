@@ -1,11 +1,11 @@
-import axios from 'axios'
+import axios from '../src/utils/aaxios'
 import fs from 'fs'
 (async () => {
   try {
-    const res = await axios.get('https://medium.com/p/ask-ethan-why-does-space-appear-black-7a971c3e6be4')
-    fs.writeFileSync('./sampleHtml/medium3.html', res.data)
+    const res = await axios.get('https://www.reddit.com/r/programming/comments/4lq4ik/a_facebook_sixth_sense/')
+    fs.writeFileSync('./sampleHtml/reddit1.html', res.data)
   } catch (e) {
-    console.log(e)
+    console.log('catched e', e)
   }
 
 })()
