@@ -6,7 +6,7 @@ import moment from 'moment'
 import getAllHeadlineOfRange from '../src/getAllHeadlineOfRange'
 
 const dayArray = []
-let startDay = moment('2016/05/01')
+let startDay = moment('2016/05/08')
 
 for (let i = 0; i < 6; i++) {
   dayArray.push(startDay.format('YYYY/MM/DD'))
