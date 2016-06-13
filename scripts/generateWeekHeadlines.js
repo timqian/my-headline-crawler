@@ -7,9 +7,9 @@ import fs from 'fs'
 import getAllHeadlineOfRange from '../src/getAllHeadlineOfRange'
 
 const dayArray = []
-let startDay = moment('2016/05/08')
+let startDay = moment('2016/05/01')
 
-for (let i = 0; i < 6; i++) {
+for (let i = 0; i < 7; i++) {
   dayArray.push(startDay.format('YYYY/MM/DD'))
   startDay.add(7, 'days')
 }
@@ -21,7 +21,7 @@ for (let i = 0; i < 6; i++) {
 (async () => {
   for (let sunday of dayArray) {
     const weekOfMonth = moment(sunday).day(-7).week() - moment(sunday).day(-7).startOf('month').week() + 1
-    const fileName = `./data/${moment(sunday).day(-1).format('YYYY/MM')}/w${weekOfMonth}.json`
+    const fileName = `./data/${moment(sunday).day(-7).format('YYYY/MM')}/w${weekOfMonth}.json`
     console.log('fileName: ', fileName)
 
     const fromDate = moment(sunday).day(-7).format('YYYY/MM/DD')

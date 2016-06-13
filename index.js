@@ -13,9 +13,10 @@ import getAllHeadlineOfRange from './src/getAllHeadlineOfRange'
   console.log('write dailyHeadline succeed')
 
   // generate weekly headline json file
+  // 周日在哪个月，这周就算哪个月的
   if (moment().day() === 0) {
     const weekOfMonth = moment().day(-7).week() - moment().day(-7).startOf('month').week() + 1
-    const fileName = `./data/${moment().day(-1).format('YYYY/MM')}/w${weekOfMonth}.json`
+    const fileName = `./data/${moment().day(-7).format('YYYY/MM')}/w${weekOfMonth}.json`
     console.log(fileName)
 
     const fromDate = moment().day(-7).format('YYYY/MM/DD')
@@ -28,7 +29,7 @@ import getAllHeadlineOfRange from './src/getAllHeadlineOfRange'
   }
 
   // generate monthly headline json file
-  if (moment().date() === 1) {
+  if (moment().date() === 7) {
     // TODO: get from weeklyHeadline
     // const fromDate = moment().subtract(1, 'months').format('YYYY/MM/DD')
     // const toDate = moment().subtract(1, 'days').format('YYYY/MM/DD')
