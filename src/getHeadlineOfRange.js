@@ -34,6 +34,19 @@ async function getHeadlineOfRange(site, from, to, num) {
     for (let headline of dayBest) {
       console.log('headline.url', headline.url)
 
+      // 去除重复
+      let isContained = false
+      headlineArray.forEach( headlineInlist => {
+        if (headlineInlist.title === headline.title) {
+          isContained = true
+        }
+      })
+      if (isContained) {
+        console.log('same post:', headline.title)
+        continue
+      }
+
+      // 获取相应html
       let html
       try {
         const res = await axios.get(headline.url)
@@ -71,7 +84,6 @@ async function getHeadlineOfRange(site, from, to, num) {
         // add headline into the right place of headlineArray
         // (类似插入排序) 参考：https://zh.wikipedia.org/wiki/插入排序
         let i = length - 1
-        console.log('i', i)
         for (; i >= 0 && headline.score > headlineArray[i].score; i--) {
           headlineArray[i+1] = headlineArray[i]
         }
