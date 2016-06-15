@@ -4,6 +4,7 @@ import fs from 'fs'
 import moment from 'moment'
 import getDailyHeadline from './src/getDailyHeadline'
 import getAllHeadlineOfRange from './src/getAllHeadlineOfRange'
+import getMonthlyHeadline from './src/getMonthlyHeadline';
 
 (async () => {
 
@@ -30,15 +31,9 @@ import getAllHeadlineOfRange from './src/getAllHeadlineOfRange'
 
   // generate monthly headline json file
   if (moment().date() === 7) {
-    // TODO: get from weeklyHeadline
-    // const fromDate = moment().subtract(1, 'months').format('YYYY/MM/DD')
-    // const toDate = moment().subtract(1, 'days').format('YYYY/MM/DD')
-    // console.log(`from ${fromDate} to ${toDate}`)
-    // const monthlyHeadline = await getAllHeadlineOfRange(fromDate, toDate, 10)
-    // console.log('monthlyHeadline', monthlyHeadline)
-    // const fileName = `./data/${moment().subtract(1, 'months').format('YYYY/MM')}/m.json`
-    // fs.writeFileSync(fileName, JSON.stringify(monthlyHeadline), 'utf8')
-    // console.log('monthlyHeadline wrote succeed')
+    // const month = moment().subtract(1, 'months').format('YYYY/MM')
+    // const monthlyHeadline = getMonthlyHeadline(month)
+    // fs.writeFileSync()
   }
 
 })()

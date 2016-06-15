@@ -1,0 +1,210 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=11781053",
+      "title": "Jury in Oracle v. Google finds in Google's favour",
+      "score": 1832
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11737232",
+      "title": "How Technology Hijacks People’s Minds",
+      "score": 1612
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11673103",
+      "title": "Introducing unlimited private repositories",
+      "score": 1576
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11744518",
+      "title": "Reverse Engineering a Mysterious UDP Stream in My Hotel",
+      "score": 1423
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11634600",
+      "title": "Apple Stole My Music",
+      "score": 1259
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11787271",
+      "title": "All European scientific publicly funded articles to be freely accessible by 2020",
+      "score": 1167
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11593532",
+      "title": "Who's downloading pirated papers? Everyone",
+      "score": 1085
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11686029",
+      "title": "Announcing SyntaxNet: The World’s Most Accurate Natural Language Parser",
+      "score": 1083
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11682816",
+      "title": "A cave which was sealed for 5.5M years discovered in Romania",
+      "score": 889
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11680013",
+      "title": "The NYPD Was Ticketing Legally Parked Cars; Open Data Put an End to It",
+      "score": 868
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4l77w2/google_wins_trial_against_oracle_as_jury_finds/",
+      "title": "Google wins trial against Oracle as jury finds Android is “fair use”",
+      "score": 8429
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4kdmmb/reverse_engineering_a_mysterious_udp_stream_in_my/",
+      "title": "Reverse Engineering a Mysterious UDP Stream in My Hotel",
+      "score": 5368
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4kt4tc/cryengine_now_available_on_github/",
+      "title": "CRYENGINE now available on github",
+      "score": 3328
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4lx3sh/stop_designing_languages_write_libraries_instead/",
+      "title": "&quot;Stop Designing Languages. Write Libraries Instead.&quot;",
+      "score": 2816
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4lff5w/a_game_about_hacking_an_imaginary_device_using_a/",
+      "title": "A game about hacking an imaginary device using a real assembly instruction set. It gives you a debugger and a memory dump and you have to figure out how to exploit it.",
+      "score": 2309
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4k3tc9/ceo_larry_page_defends_google_on_the_stand/",
+      "title": "CEO Larry Page defends Google on the stand: “Declaring code is not code”",
+      "score": 2304
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4jvnl4/programming_doesnt_require_talent_or_even_passion/",
+      "title": "Programming Doesn’t Require Talent or Even Passion",
+      "score": 2151
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4h5ul3/do_experienced_programmers_use_google_frequently/",
+      "title": "Do Experienced Programmers Use Google Frequently? · Code Ahoy",
+      "score": 2113
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4lcw7d/over_the_last_ten_to_fifteen_years_ive_noticed_a/",
+      "title": "&quot;over the last ten to fifteen years I’ve noticed a quiet crisis unfolding in software development leading to low quality applications, unhappy employees and unhappy users. Silver bullet solutions keep creeping into our awareness (Scrum, anyone?) and predictably keep letting us down.&quot;",
+      "score": 2006
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4lr1tx/i_made_a_program_that_recognizes_rubiks_cube_and/",
+      "title": "I made a program that recognizes Rubik's cube and shows how to solve it using augmented reality",
+      "score": 1990
+    }
+  ],
+  "medium": [
+    {
+      "title": "What are people working on in coffee shops?",
+      "url": "https://medium.com/p/what-are-people-working-on-in-coffee-shops-cdf351e28b6",
+      "score": 9279
+    },
+    {
+      "title": "How Technology Hijacks People’s Minds — from a Magician and Google’s Design Ethicist",
+      "url": "https://medium.com/p/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3",
+      "score": 8451
+    },
+    {
+      "title": "Here’s my secret weapon: I read",
+      "url": "https://medium.com/p/heres-my-secret-weapon-i-read-a549859d0b6a",
+      "score": 5516
+    },
+    {
+      "title": "Please do learn to code",
+      "url": "https://medium.com/p/please-do-learn-to-code-233597dd141c",
+      "score": 5482
+    },
+    {
+      "title": "I’m a black man. Here’s what happened when I booked an Airbnb.",
+      "url": "https://medium.com/p/i-read-about-this-phenomenon-of-black-people-being-rejected-on-airbnb-f36dd3ab0375",
+      "score": 5282
+    },
+    {
+      "title": "Being A Developer After 40",
+      "url": "https://medium.com/p/being-a-developer-after-40-3c5dd112210c",
+      "score": 5181
+    },
+    {
+      "title": "Our first date was perfect, then she died",
+      "url": "https://medium.com/p/our-first-date-was-perfect-then-she-died-2631ec05d9ad",
+      "score": 5144
+    },
+    {
+      "title": "This 10-Minute Routine Will Increase Your Clarity And Creativity",
+      "url": "https://medium.com/p/this-10-minute-routine-will-increase-your-clarity-and-creativity-2082630411d8",
+      "score": 4494
+    },
+    {
+      "title": "The Ideal Design Workflow",
+      "url": "https://medium.com/p/the-ideal-design-workflow-2c200b8e337d",
+      "score": 3757
+    },
+    {
+      "title": "I want to quit. Right now.",
+      "url": "https://medium.com/p/i-want-to-quit-right-now-beadc6f971b9",
+      "score": 3627
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/277881",
+      "title": "我们的活动没那么复杂，留言抽奖送 T 恤",
+      "score": 611
+    },
+    {
+      "url": "https://www.v2ex.com/t/278487",
+      "title": "在 Github 上新建了一个 V2EX 的 Organizations 可以在个人 profile 上显示一个 badge 留下用户名我发邀请",
+      "score": 511
+    },
+    {
+      "url": "https://www.v2ex.com/t/280801",
+      "title": "开车出事故了，求参考意见或者注意事项。",
+      "score": 413
+    },
+    {
+      "url": "https://www.v2ex.com/t/279193",
+      "title": "我的维权， JD，违法了就应该受到制裁，不死磕就是纵容",
+      "score": 319
+    },
+    {
+      "url": "https://www.v2ex.com/t/281552",
+      "title": "求支持~~~小弟的淘宝新店，限量免费送优质 T 恤，增加点爆光度。",
+      "score": 294
+    },
+    {
+      "url": "https://www.v2ex.com/t/277602",
+      "title": "人大硕士雷洋的苹果手机被解锁，警方怎么做到的？",
+      "score": 225
+    },
+    {
+      "url": "https://www.v2ex.com/t/279567",
+      "title": "没有技术背景女 PM 想做独立开发，求助各位程序爸爸",
+      "score": 214
+    },
+    {
+      "url": "https://www.v2ex.com/t/275608",
+      "title": "想换发行版了，经不起折腾了。大家给点建议",
+      "score": 188
+    },
+    {
+      "url": "https://www.v2ex.com/t/282452",
+      "title": "@Livid Happy Birthday",
+      "score": 181
+    },
+    {
+      "url": "https://www.v2ex.com/t/279191",
+      "title": "联通国内 1G 流量半年包 10 元",
+      "score": 179
+    }
+  ]
+}
