@@ -1,262 +1,262 @@
 {
   "HN": [
     {
-      "url": "https://news.ycombinator.com/item?id=11921900",
-      "title": "Critical Update on DAO Vulnerability",
-      "score": "488"
-    },
-    {
       "url": "https://news.ycombinator.com/item?id=11922453",
       "title": "How are zlib, gzip and Zip related? (2013)",
-      "score": "428"
+      "score": "551"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11921900",
+      "title": "Critical Update on DAO Vulnerability",
+      "score": "518"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11918741",
+      "title": "Antarctic CO2 Hit 400 PPM for First Time in 4M Years",
+      "score": "434"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11921208",
+      "title": "Serverless Architectures",
+      "score": "394"
     },
     {
       "url": "https://news.ycombinator.com/item?id=11922299",
       "title": "The Children's Illustrated Guide to Kubernetes",
-      "score": "278"
+      "score": "347"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11927404",
+      "title": "China issues demolition order on world’s largest religious town in Tibet",
+      "score": "314"
     },
     {
       "url": "https://news.ycombinator.com/item?id=11922740",
       "title": "Home Depot Files Antitrust Lawsuit Against Visa, MasterCard",
-      "score": "275"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=11922485",
-      "title": "ReStructuredText vs. Markdown for documentation",
-      "score": "160"
+      "score": "310"
     },
     {
       "url": "https://news.ycombinator.com/item?id=11926015",
       "title": "Valve funding VR projects, exclusivity-free, with pre-paid Steam revenue",
-      "score": "138"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=11922864",
-      "title": "DarkForest: Deep learning engine for playing Go from Facebook research",
-      "score": "114"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=11923769",
-      "title": "Ruru: native Ruby extensions written in Rust",
-      "score": "108"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=11925904",
-      "title": "DAOs, Hacks and the Law",
-      "score": "100"
+      "score": "253"
     },
     {
       "url": "https://news.ycombinator.com/item?id=11925201",
       "title": "Facebook is wrong, text is deathless",
-      "score": "100"
+      "score": "247"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11925904",
+      "title": "DAOs, Hacks and the Law",
+      "score": "186"
     }
   ],
   "reddit": [
     {
-      "url": "https://www.reddit.com/r/programming/comments/4ol7ix/many_programming_courses_are_about_to_be_gone/",
-      "title": "Many programming courses are about to be gone. ‪Coursera‬ is removing 472 free ‪online‬ courses‬ from the internet on June 30th. This guide will show you how to hurry up and ‪legally‬ download as many courses as possible before June 30th. [‎MOOCS‬] • /r/learnprogramming",
-      "score": "2704"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4oibhx/dennis_ritchie_hated_const_and_volatile_with_a/",
-      "title": "Dennis Ritchie hated const and volatile with a passion",
-      "score": "147"
+      "url": "https://www.reddit.com/r/programming/comments/4olq83/javascript_the_language_where_every_solution_is_a/",
+      "title": "Javascript, the language where every solution is a new problem",
+      "score": "1126"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4okm58/jpeg_101_how_does_jpeg_work/",
       "title": "JPEG 101 - How does JPEG work?",
-      "score": "84"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4oie88/apple_has_opensourced_its_lzfse_compressor/",
-      "title": "Apple has open-sourced its LZFSE compressor (default since iOS 9 and OS X 10.11) - the first widely used which switched from Huffman to ANS",
-      "score": "81"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4ojg50/zstandard_compression_algorithm_has_reached_final/",
-      "title": "Zstandard (compression algorithm) has reached &quot;Final Compression Format&quot; stage",
-      "score": "53"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4oi0vh/migrating_a_10000line_legacy_javascript_codebase/",
-      "title": "Migrating a 10,000-line legacy JavaScript codebase to TypeScript",
-      "score": "43"
+      "score": "173"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4ojuvm/visual_programming_with_lazarus/",
       "title": "Visual Programming with Lazarus",
-      "score": "40"
+      "score": "59"
     },
     {
-      "url": "https://www.reddit.com/r/programming/comments/4oj038/the_dao_smart_contract_has_a_recursive_calling/",
-      "title": "&quot;The DAO&quot; smart contract has a recursive calling vulnerability, attacker taking ether tokens currently worth millions of dollars",
-      "score": "35"
+      "url": "https://www.reddit.com/r/programming/comments/4ompfb/stop_saying_learning_to_code_is_easy_scott/",
+      "title": "Stop saying learning to code is easy - Scott Hanselman",
+      "score": "44"
     },
     {
-      "url": "https://www.reddit.com/r/programming/comments/4oii4b/openjdk_check_by_pvsstudio/",
-      "title": "OpenJDK check by PVS-Studio",
+      "url": "https://www.reddit.com/r/programming/comments/4olwz9/java_9s_sneaky_first_step_towards_aot_compilation/",
+      "title": "Java 9's sneaky first step towards AOT compilation and native binaries",
+      "score": "39"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4okv7h/the_childrens_illustrated_guide_to_kubernetes/",
+      "title": "The Children's Illustrated Guide to Kubernetes",
       "score": "32"
     },
     {
-      "url": "https://www.reddit.com/r/programming/comments/4oi7zp/modern_c_features_constexpr/",
-      "title": "Modern C++ Features – constexpr",
-      "score": "28"
+      "url": "https://www.reddit.com/r/programming/comments/4on174/why_you_shouldnt_write_an_application_builder_and/",
+      "title": "Why You Shouldn't Write an Application Builder (and What to Do Instead)",
+      "score": "29"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4okp21/we_have_this_man_to_thank_for_modern_computing/",
+      "title": "We have this man to thank for modern computing",
+      "score": "26"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4onwp4/a_forgotten_era_retro_japanese_computers/",
+      "title": "A forgotten era: Retro Japanese Computers",
+      "score": "19"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4onkp2/my_friend_is_making_a_game_engine_from_scratch/",
+      "title": "My friend is making a game engine from scratch, and posting updates every 100 hours of programming, here's 200 hours.",
+      "score": "18"
     }
   ],
   "medium": [
     {
       "title": "One does not simply learn to code",
-      "score": "1501",
+      "score": "1814",
       "url": "https://medium.com/p/one-does-not-simply-learn-to-code-f25bacdc5b62"
     },
     {
       "title": "How Republicans Can Defeat Trumpism",
-      "score": "303",
+      "score": "398",
       "url": "https://medium.com/p/how-republicans-can-beat-trump-after-orlando-response-d9dc82e6c076"
     },
     {
-      "title": "The Winners and Losers of Game 6",
-      "score": "108",
-      "url": "https://medium.com/p/winners-and-losers-of-nba-finals-game-6-f14c57812198"
-    },
-    {
-      "title": "Why I Need an AR-15",
-      "score": "226",
-      "url": "https://medium.com/p/why-i-need-an-ar-15-832e05ae801c"
-    },
-    {
-      "title": "Thinking About Hillary — A Plea for Reason",
-      "score": "1887",
-      "url": "https://medium.com/p/thinking-about-hillary-a-plea-for-reason-308fce6d187c"
-    },
-    {
-      "title": "Lazy Leadership",
-      "score": "908",
-      "url": "https://medium.com/p/lazy-leadership-8ba19e34f959"
-    },
-    {
       "title": "Sugar Babies, the Gathering",
-      "score": "48",
+      "score": "61",
       "url": "https://medium.com/p/sugar-babies-the-gathering-b9273f6272c9"
     },
     {
       "title": "When Cavaliers Become Warriors",
-      "score": "142",
+      "score": "177",
       "url": "https://medium.com/p/cavaliers-warriors-game-6-finals-b8f7cd1a711f"
     },
     {
-      "title": "How to download Coursera’s courses before they’re gone forever",
-      "score": "1204",
-      "url": "https://medium.com/p/the-day-472-free-online-courses-will-vanish-from-the-internet-3060bb4e9704"
+      "title": "Why I Need an AR-15",
+      "score": "244",
+      "url": "https://medium.com/p/why-i-need-an-ar-15-832e05ae801c"
     },
     {
-      "title": "Your Fat Friend, Before & After",
-      "score": "370",
-      "url": "https://medium.com/p/your-fat-friend-before-after-1d35d11516d3"
+      "title": "The Winners and Losers of Game 6",
+      "score": "126",
+      "url": "https://medium.com/p/winners-and-losers-of-nba-finals-game-6-f14c57812198"
+    },
+    {
+      "title": "Thinking About Hillary — A Plea for Reason",
+      "score": "1941",
+      "url": "https://medium.com/p/thinking-about-hillary-a-plea-for-reason-308fce6d187c"
+    },
+    {
+      "title": "My cofounder said “I love what we’re doing” and we shut down our startup",
+      "score": "161",
+      "url": "https://medium.com/p/my-cofounder-said-i-love-what-were-doing-and-we-shut-down-our-startup-80d5e710c2b2"
+    },
+    {
+      "title": "Lazy Leadership",
+      "score": "1003",
+      "url": "https://medium.com/p/lazy-leadership-8ba19e34f959"
+    },
+    {
+      "title": "Are We Sure ‘Braveheart’ Is Good?",
+      "score": "32",
+      "url": "https://medium.com/p/braveheart-game-of-thrones-a8fcfd1fdb35"
     }
   ],
   "github": [
     {
       "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
       "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
-      "score": "807"
+      "score": "766"
     },
     {
       "url": "https://github.com/x64dbg/x64dbg",
       "title": "x64dbg/x64dbg: An open-source x64/x32 debugger for windows.",
-      "score": "713"
-    },
-    {
-      "url": "https://github.com/algolia/places",
-      "title": "algolia/places:  Turn any &lt;input&gt; into an address autocomplete",
-      "score": "447"
-    },
-    {
-      "url": "https://github.com/yakyak/yakyak",
-      "title": "yakyak/yakyak: Desktop chat client for Google Hangouts",
-      "score": "400"
+      "score": "590"
     },
     {
       "url": "https://github.com/nayafia/lemonade-stand",
       "title": "nayafia/lemonade-stand: A handy guide to making $$ in open source",
-      "score": "388"
+      "score": "413"
     },
     {
-      "url": "https://github.com/ElemeFE/mint-ui",
-      "title": "ElemeFE/mint-ui: Mobile UI elements for vue.js",
-      "score": "283"
-    },
-    {
-      "url": "https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe",
-      "title": "HoneyNeutrons/RecyclerViewUndoSwipe: Swipe and drag support for RecyclerView with undo action.",
-      "score": "259"
+      "url": "https://github.com/yakyak/yakyak",
+      "title": "yakyak/yakyak: Desktop chat client for Google Hangouts",
+      "score": "342"
     },
     {
       "url": "https://github.com/facebookresearch/darkforestGo",
       "title": "facebookresearch/darkforestGo: DarkForest, the Facebook Go engine.",
-      "score": "235"
+      "score": "308"
     },
     {
-      "url": "https://github.com/tj/react-enroute",
-      "title": "tj/react-enroute: React router with a small footprint for modern browsers",
-      "score": "230"
+      "url": "https://github.com/algolia/places",
+      "title": "algolia/places:  Turn any &lt;input&gt; into an address autocomplete",
+      "score": "313"
     },
     {
-      "url": "https://github.com/wooplr/Spotlight",
-      "title": "wooplr/Spotlight: Spotlight is a android library to onboard user by showcasing specific features in the app.",
-      "score": "220"
+      "url": "https://github.com/dvLden/Vidage",
+      "title": "dvLden/Vidage: Your solution to full-screen background video &amp; image combined.",
+      "score": "192"
+    },
+    {
+      "url": "https://github.com/yahoo/AppDevKit",
+      "title": "yahoo/AppDevKit: AppDevKit is an iOS development library that provides foundational and developer everyday required features for their iOS app development.",
+      "score": "179"
+    },
+    {
+      "url": "https://github.com/ElemeFE/mint-ui",
+      "title": "ElemeFE/mint-ui: Mobile UI elements for vue.js",
+      "score": "171"
+    },
+    {
+      "url": "https://github.com/donnemartin/awesome-aws",
+      "title": "donnemartin/awesome-aws: A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.",
+      "score": "170"
     }
   ],
   "v2ex": [
     {
-      "url": "https://www.v2ex.com/t/286629#reply33",
+      "url": "https://www.v2ex.com/t/286629#reply132",
       "title": "618 你都败了些啥？我先说说我的！",
+      "score": "132"
+    },
+    {
+      "url": "https://www.v2ex.com/t/286666#reply77",
+      "title": "618 有没有完全没在狗东下单的？来报个到",
+      "score": "77"
+    },
+    {
+      "url": "https://www.v2ex.com/t/286636#reply62",
+      "title": "景安貌似炸了",
+      "score": "62"
+    },
+    {
+      "url": "https://www.v2ex.com/t/286731#reply33",
+      "title": "用了几年网易新闻 ios 客户端，今天终于删除了",
       "score": "33"
     },
     {
-      "url": "https://www.v2ex.com/t/286636#reply16",
-      "title": "景安貌似炸了",
-      "score": "16"
+      "url": "https://www.v2ex.com/t/286693#reply33",
+      "title": "618 的尾巴，给大家一个福利， Indiegogo 众筹成功的英国 FORMcard 我买了好多，淘宝上卖 30 元的，现成本价 12 元出给大家玩",
+      "score": "33"
     },
     {
-      "url": "https://www.v2ex.com/t/286621#reply15",
-      "title": "对于某手机招聘 APP 上的创业公司好无语",
-      "score": "15"
+      "url": "https://www.v2ex.com/t/286656#reply31",
+      "title": "业余时间到处开坑，发现个人任务的优先级管理也真是大问题···",
+      "score": "31"
     },
     {
-      "url": "https://www.v2ex.com/t/286624#reply12",
+      "url": "https://www.v2ex.com/t/286642#reply30",
+      "title": "大家都说说最近正在读的或者计划要读的书或者读过还不错的书吧",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/286624#reply28",
       "title": "马上的大四狗，对前途有点迷茫。顺便求带走。",
-      "score": "12"
+      "score": "28"
     },
     {
-      "url": "https://www.v2ex.com/t/286623#reply6",
-      "title": "有什么技术可以提高关键字查询速度和提升性能？",
-      "score": "6"
+      "url": "https://www.v2ex.com/t/286650#reply28",
+      "title": "无聊闲谈：大家觉得 Root Explorer 和 Solid Explorer，或者其他文件管理，哪个好用",
+      "score": "28"
     },
     {
-      "url": "https://www.v2ex.com/t/286620#reply3",
-      "title": "dao 币 1 个小时暴跌 80%",
-      "score": "3"
-    },
-    {
-      "url": "https://www.v2ex.com/t/286622#reply3",
-      "title": "请问在美国的朋友们， Brandeis 大学的计算机硕士就业如何？本人非美国公民/永住",
-      "score": "3"
-    },
-    {
-      "url": "https://www.v2ex.com/t/286637#reply3",
-      "title": "都有什么样的反劫持方法？",
-      "score": "3"
-    },
-    {
-      "url": "https://www.v2ex.com/t/286635#reply2",
-      "title": "京东小白理财限制省份购买了，请大家推荐一些靠譜的理财，谢谢啦",
-      "score": "2"
-    },
-    {
-      "url": "https://www.v2ex.com/t/286630#reply1",
-      "title": "上海联通劫持",
-      "score": "1"
+      "url": "https://www.v2ex.com/t/286679#reply26",
+      "title": "程序猿做梦都想找的搜索资源利器（干货）",
+      "score": "26"
     }
   ]
 }
