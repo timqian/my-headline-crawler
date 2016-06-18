@@ -5,9 +5,9 @@ import axios from '../utils/aaxios.js';
 */
 async function getV2() {
   const linkArray = [];
-  const res = await axios.get("https://www.v2ex.com").catch( res => {throw res;} );
+  const res = await axios.get("https://www.v2ex.com/?tab=hot").catch( res => {throw res;} );
   const html = res.data;
-  const regExp = /item_hot_topic_title">\s*?<a\s*?href="(.*?)">(.*?)<\/a>/ig;
+  const regExp = /item_title.*href="(.*)">(.*)<\/a>[\w\W]*?count_livid">(\d{1,6})<\/a>/ig;
 
   // Finding successive matches. ref: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/exec#Finding_successive_matches
   let regRes;
@@ -15,11 +15,12 @@ async function getV2() {
     linkArray.push({
       url: `https://www.v2ex.com${regRes[1]}`,
       title: `${regRes[2]}`,
+      score: regRes[3]
     });
   }
 
   console.log('v2 linkArray.length', linkArray.length);
-  return linkArray;
+  return linkArray.slice(0, 10);
 
 }
 
