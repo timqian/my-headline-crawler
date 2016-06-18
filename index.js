@@ -10,7 +10,7 @@ import getMonthlyHeadline from './src/getMonthlyHeadline';
 
   // generate daily headline json file
   const dailyHeadline = await getDailyHeadline()
-  fs.writeFileSync(`./data/${moment().format('YYYY/MM/DD')}.json`, JSON.stringify(dailyHeadline), 'utf8')
+  fs.writeFileSync(`./data/${moment().format('YYYY/MM/DD')}.json`, JSON.stringify(dailyHeadline, null, 2), 'utf8')
   console.log('write dailyHeadline succeed')
 
   // generate weekly headline json file
@@ -25,7 +25,7 @@ import getMonthlyHeadline from './src/getMonthlyHeadline';
     console.log(`from ${fromDate} to ${toDate}`)
     const weeklyHeadline = await getAllHeadlineOfRange(fromDate, toDate, 10)
     console.log('weeklyHeadline: ', weeklyHeadline)
-    fs.writeFileSync(fileName, JSON.stringify(weeklyHeadline), 'utf8')
+    fs.writeFileSync(fileName, JSON.stringify(weeklyHeadline, null, 2), 'utf8')
     console.log('weeklyHeadline wrote succeed')
   }
 
