@@ -1,0 +1,262 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=11929493",
+      "title": "Spaceship Generator",
+      "score": "670"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11922453",
+      "title": "How are zlib, gzip and Zip related? (2013)",
+      "score": "612"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11929396",
+      "title": "Y Combinator's Xerox Alto: restoring the legendary 1970s GUI computer",
+      "score": "260"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11929267",
+      "title": "JSON Web Tokens vs. Sessions",
+      "score": "233"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11928092",
+      "title": "Deconstructing the DAO Attack: A Brief Code Tour",
+      "score": "226"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11931270",
+      "title": "The management myth (2006)",
+      "score": "204"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11923573",
+      "title": "How Hired Hackers Got “Complete Control” of Palantir",
+      "score": "168"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11929208",
+      "title": "Simple Contracts are Better Contracts: the Meltdown of the DAO",
+      "score": "159"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11931104",
+      "title": "The RC2014 Retro Computer",
+      "score": "126"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11931181",
+      "title": "Thinking About Smart Contract Security",
+      "score": "112"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4oq3yd/a_blender_script_that_procedurally_generates_3d/",
+      "title": "A blender script that procedurally generates 3D starships",
+      "score": "2380"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4op508/10_principles_i_try_and_follow_in_my_day_to_day/",
+      "title": "10 principles I try and follow in my day to day work based on 10 years of coding experience",
+      "score": "322"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4oshrm/why_i_left_google/",
+      "title": "Why I left Google",
+      "score": "85"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4opfx5/json_web_tokens_jwt_vs_sessions/",
+      "title": "JSON Web Tokens (JWT) vs Sessions",
+      "score": "41"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4oqoh5/dafny_a_verificationaware_programming_language/",
+      "title": "Dafny: a verification-aware programming language",
+      "score": "25"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4osmn8/japanese_guy_uses_a_genetic_algorithm_to_train_a/",
+      "title": "Japanese Guy uses a Genetic Algorithm to Train a Robot into Riding a Swing.",
+      "score": "21"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4oq4ul/writing_c_parsers_with_unicode_support_just_got_a/",
+      "title": "Writing C++ parsers with Unicode support just got a lot easier (ANTLR4 now supports C++)",
+      "score": "18"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4os304/make_everything_the_same_a_different_way_to/",
+      "title": "Make Everything The Same - A different way to convert Arabic numbers into Roman numerals",
+      "score": "17"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4oszol/utf8_everywhere/",
+      "title": "UTF8 everywhere",
+      "score": "21"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ot2dm/rprogrammertil_programmers_post_tidbits_as_they/",
+      "title": "/r/ProgrammerTIL - Programmers post tidbits as they learn them",
+      "score": "19"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Why I “Need” an AR-15",
+      "score": "563",
+      "url": "https://medium.com/p/why-i-need-an-ar-15-832e05ae801c"
+    },
+    {
+      "title": "One does not simply learn to code",
+      "score": "2215",
+      "url": "https://medium.com/p/one-does-not-simply-learn-to-code-f25bacdc5b62"
+    },
+    {
+      "title": "Grief Work",
+      "score": "218",
+      "url": "https://medium.com/p/grief-work-a5365285eb46"
+    },
+    {
+      "title": "How Dr. Steve Perry Sells Black Kids To The Highest Bidder",
+      "score": "337",
+      "url": "https://medium.com/p/how-dr-steve-perry-sells-black-kids-to-the-highest-bidder-78f487e1e67a"
+    },
+    {
+      "title": "The 49 best free websites and apps to learn something new",
+      "score": "1312",
+      "url": "https://medium.com/p/the-49-best-free-websites-and-apps-to-learn-something-new-abfe69142d4b"
+    },
+    {
+      "title": "How Republicans Can Defeat Trumpism",
+      "score": "538",
+      "url": "https://medium.com/p/how-republicans-can-beat-trump-after-orlando-response-d9dc82e6c076"
+    },
+    {
+      "title": "My cofounder said “I love what we’re doing” and we shut down our startup",
+      "score": "255",
+      "url": "https://medium.com/p/my-cofounder-said-i-love-what-were-doing-and-we-shut-down-our-startup-80d5e710c2b2"
+    },
+    {
+      "title": "Thinking About Hillary — A Plea for Reason",
+      "score": "2044",
+      "url": "https://medium.com/p/thinking-about-hillary-a-plea-for-reason-308fce6d187c"
+    },
+    {
+      "title": "This 6-letter word is the secret to achieving your toughest goals",
+      "score": "216",
+      "url": "https://medium.com/p/this-6-letter-word-is-the-secret-to-achieving-your-toughest-goals-360486231cec"
+    },
+    {
+      "title": "Lazy Leadership",
+      "score": "1172",
+      "url": "https://medium.com/p/lazy-leadership-8ba19e34f959"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/a1studmuffin/SpaceshipGenerator",
+      "title": "a1studmuffin/SpaceshipGenerator: A Blender script to procedurally generate 3D spaceships",
+      "score": "604"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "526"
+    },
+    {
+      "url": "https://github.com/nayafia/lemonade-stand",
+      "title": "nayafia/lemonade-stand: A handy guide to making $$ in open source",
+      "score": "373"
+    },
+    {
+      "url": "https://github.com/algolia/places",
+      "title": "algolia/places:  Turn any &lt;input&gt; into an address autocomplete",
+      "score": "210"
+    },
+    {
+      "url": "https://github.com/dvLden/Vidage",
+      "title": "dvLden/Vidage: Your solution to full-screen background video &amp; image combined.",
+      "score": "130"
+    },
+    {
+      "url": "https://github.com/coursera-dl/coursera-dl",
+      "title": "coursera-dl/coursera-dl: Script for downloading Coursera.org videos and naming them.",
+      "score": "107"
+    },
+    {
+      "url": "https://github.com/yakyak/yakyak",
+      "title": "yakyak/yakyak: Desktop chat client for Google Hangouts",
+      "score": "108"
+    },
+    {
+      "url": "https://github.com/weixin/WeFlow",
+      "title": "weixin/WeFlow: An efficient and powerful, cross-platform front-end development workflow tool.",
+      "score": "103"
+    },
+    {
+      "url": "https://github.com/git-tips/tips",
+      "title": "git-tips/tips: Most commonly used git tips and tricks.",
+      "score": "104"
+    },
+    {
+      "url": "https://github.com/GitAlias/gitalias",
+      "title": "GitAlias/gitalias: Git alias commands for faster easier version control",
+      "score": "93"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/286769#reply92",
+      "title": "编制是否真的那么重要？",
+      "score": "92"
+    },
+    {
+      "url": "https://www.v2ex.com/t/286778#reply72",
+      "title": "图床神器 iPic 与 Finder 结合，你喜欢哪种方式呢？",
+      "score": "72"
+    },
+    {
+      "url": "https://www.v2ex.com/t/286790#reply52",
+      "title": "谈谈骑行 20 公里后的小牛电动感觉",
+      "score": "52"
+    },
+    {
+      "url": "https://www.v2ex.com/t/286771#reply43",
+      "title": "Python 百度贴吧 签到",
+      "score": "43"
+    },
+    {
+      "url": "https://www.v2ex.com/t/286798#reply37",
+      "title": "有没有今年毕业的呀，你们的毕业旅行都准备去哪？",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/286862#reply36",
+      "title": "三年码农一枚，即将赴德国码砖，求熟悉那里的前辈给建议",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/286871#reply35",
+      "title": "谁和我一样稍一看屏幕就有一种眼睛很累睁不开眼的感觉",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/286773#reply32",
+      "title": "我与树莓的番外篇（制作越南春卷）",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/286832#reply29",
+      "title": "好久好久没玩游戏了，最近攒了一个机子，配件陆陆续续快到了，求推荐点游戏玩",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/286834#reply29",
+      "title": "大家有没有经常看心理医生的习惯？",
+      "score": "29"
+    }
+  ]
+}
