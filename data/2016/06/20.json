@@ -1,0 +1,262 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=11933427\" name=\"11933427",
+      "title": "The Fathers of the Internet Urge Today’s Software Engineers to Reinvent the Web",
+      "score": "584"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11932943\" name=\"11932943",
+      "title": "When everything else fails, amateur radio will still be there and thriving",
+      "score": "318"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11935665\" name=\"11935665",
+      "title": "How Diane Greene Transformed Google's Cloud",
+      "score": "197"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11934457\" name=\"11934457",
+      "title": "APFS in Detail",
+      "score": "188"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11936435\" name=\"11936435",
+      "title": "How SQLite Is Tested",
+      "score": "169"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11937926\" name=\"11937926",
+      "title": "Hello, Tensorflow",
+      "score": "148"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11936058\" name=\"11936058",
+      "title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "score": "147"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11936444\" name=\"11936444",
+      "title": "Make for hipsters",
+      "score": "139"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11937132\" name=\"11937132",
+      "title": "Ask HN: Profitable SaaS? How did you grow your business?",
+      "score": "120"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11934717\" name=\"11934717",
+      "title": "New ransomware written in JavaScript discovered",
+      "score": "118"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ovecl/were_pretty_happy_with_sqlite_not_urgently/",
+      "title": "we’re pretty happy with SQLite &amp; not urgently interested in a fancier DBMS",
+      "score": "482"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4oyd9w/what_all_can_you_do_with_a_single_div_element/",
+      "title": "What all can you do with a single &lt;div&gt; element using pure CSS? Check this out!",
+      "score": "185"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ow3a4/a_possible_model_of_an_impossible_cube_of_mc/",
+      "title": "A possible model of an impossible cube of M.C. Escher",
+      "score": "72"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ov147/advanced_programming_languages/",
+      "title": "Advanced programming languages",
+      "score": "73"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4oxqrn/reflection_in_c/",
+      "title": "Reflection in C++",
+      "score": "77"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4otwj6/the_coming_age_of_the_polyglot_programmer/",
+      "title": "The Coming Age of the Polyglot Programmer",
+      "score": "43"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4oxw8k/dying_programmer_and_community_builder_pieter/",
+      "title": "Dying programmer and community builder Pieter Hintjens shares his insights",
+      "score": "40"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ou28v/a_curated_list_of_sql_python_and_r_courses/",
+      "title": "A curated list of SQL, Python and R courses",
+      "score": "37"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4oxfy3/making_faster_fragment_shaders_by_using/",
+      "title": "Making Faster Fragment Shaders by Using Tessellation Shaders",
+      "score": "17"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ov3la/videos_from_scala_days_2016_new_york/",
+      "title": "Videos from Scala Days 2016, New York",
+      "score": "15"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Why I “Need” an AR-15",
+      "score": "843",
+      "url": "https://medium.com/p/why-i-need-an-ar-15-832e05ae801c"
+    },
+    {
+      "title": "The Best Moments From Game 7",
+      "score": "149",
+      "url": "https://medium.com/p/nba-finals-game-7-cavaliers-4428b5e342ed"
+    },
+    {
+      "title": "This 6-letter word is the secret to achieving your toughest goals",
+      "score": "540",
+      "url": "https://medium.com/p/this-6-letter-word-is-the-secret-to-achieving-your-toughest-goals-360486231cec"
+    },
+    {
+      "title": "One does not simply learn to code",
+      "score": "2629",
+      "url": "https://medium.com/p/one-does-not-simply-learn-to-code-f25bacdc5b62"
+    },
+    {
+      "title": "I Never Learned How to Swim (Or, “How Privilege, Race, and Class Work in America”)",
+      "score": "340",
+      "url": "https://medium.com/p/i-never-learned-how-to-swim-or-how-privilege-race-and-class-work-in-america-ae623e050431"
+    },
+    {
+      "title": "My cofounder said “I love what we’re doing” and we shut down our startup",
+      "score": "359",
+      "url": "https://medium.com/p/my-cofounder-said-i-love-what-were-doing-and-we-shut-down-our-startup-80d5e710c2b2"
+    },
+    {
+      "title": "The 49 best free websites and apps to learn something new",
+      "score": "2034",
+      "url": "https://medium.com/p/the-49-best-free-websites-and-apps-to-learn-something-new-abfe69142d4b"
+    },
+    {
+      "title": "The Ivy Lee Method: The Daily Routine Experts Recommend for Peak Productivity",
+      "score": "713",
+      "url": "https://medium.com/p/the-ivy-lee-method-the-daily-routine-experts-recommend-for-peak-productivity-9bb8119d9bee"
+    },
+    {
+      "title": "LeBron James vs. LeBron James",
+      "score": "174",
+      "url": "https://medium.com/p/lebron-james-legacy-game-7-nba-finals-4b120c0874b4"
+    },
+    {
+      "title": "What If You Have No Talent?",
+      "score": "413",
+      "url": "https://medium.com/p/what-if-youre-a-talentless-hack-208fff60f6a3"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/a1studmuffin/SpaceshipGenerator",
+      "title": "a1studmuffin/SpaceshipGenerator: A Blender script to procedurally generate 3D spaceships",
+      "score": "099"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "599"
+    },
+    {
+      "url": "https://github.com/nayafia/lemonade-stand",
+      "title": "nayafia/lemonade-stand: A handy guide to making $$ in open source",
+      "score": "488"
+    },
+    {
+      "url": "https://github.com/kataras/iris",
+      "title": "kataras/iris: The fastest web framework for Go in (THIS) earth",
+      "score": "306"
+    },
+    {
+      "url": "https://github.com/dvLden/Vidage",
+      "title": "dvLden/Vidage: Your solution to full-screen background video &amp; image combined.",
+      "score": "256"
+    },
+    {
+      "url": "https://github.com/facebookresearch/darkforestGo",
+      "title": "facebookresearch/darkforestGo: DarkForest, the Facebook Go engine.",
+      "score": "229"
+    },
+    {
+      "url": "https://github.com/algolia/places",
+      "title": "algolia/places:  Turn any &lt;input&gt; into an address autocomplete",
+      "score": "231"
+    },
+    {
+      "url": "https://github.com/weixin/WeFlow",
+      "title": "weixin/WeFlow: An efficient and powerful, cross-platform front-end development workflow tool.",
+      "score": "217"
+    },
+    {
+      "url": "https://github.com/binIoter/GuideView",
+      "title": "binIoter/GuideView: 最最轻量级的新手引导库（只有7个类），能够快速的为一个Activity里的任何一个View控件创建一个遮罩式的导航页，支持单个页面，多个引导提示，以及引导动画，方便扩展",
+      "score": "140"
+    },
+    {
+      "url": "https://github.com/fed135/Kalm",
+      "title": "fed135/Kalm: Node socket wrapper and optimizer",
+      "score": "145"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/286941#reply178",
+      "title": "要不要买车呢？给我点建议吧。所有回复全部感谢。",
+      "score": "178"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287069#reply75",
+      "title": "公司突然宣布 996 炸了",
+      "score": "75"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287002#reply60",
+      "title": "[长沙] 工具型移动互联网产品，特辛苦/特折磨人 [附] 骗子老板的忏悔",
+      "score": "60"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287033#reply48",
+      "title": "ubuntu16.04 下的 QQ 解决方案",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/286994#reply45",
+      "title": "身份证过期了，怎么处理",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287054#reply44",
+      "title": "骑士夺冠怎么没有讨论？",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287025#reply39",
+      "title": "鼠标用多了之后手腕不舒服……怎么破？",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287051#reply33",
+      "title": "请推荐一个同步盘",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/286949#reply33",
+      "title": "继续 FORMcard 低价出， Indiegogo 众筹成功的英国 FORMcard 我买了好多，淘宝上卖 30 元的，现成本价 12 元出给大家玩",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/286932#reply30",
+      "title": "ss 代理能不能不用客户端进行连接？",
+      "score": "30"
+    }
+  ]
+}
