@@ -1,0 +1,262 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=11939851\" name=\"11939851",
+      "title": "Alan Kay has agreed to do an AMA today",
+      "score": "885"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11939557\" name=\"11939557",
+      "title": "The Monaco Code Editor",
+      "score": "562"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11937926\" name=\"11937926",
+      "title": "Hello, Tensorflow",
+      "score": "520"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11939147\" name=\"11939147",
+      "title": "Docker Betas for AWS, Azure, Mac, and Windows",
+      "score": "270"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11939055\" name=\"11939055",
+      "title": "Docker 1.12: Now with Built-In Orchestration",
+      "score": "226"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11938405\" name=\"11938405",
+      "title": "Show HN: A Fortran web framework",
+      "score": "205"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11938876\" name=\"11938876",
+      "title": "OpenAI technical goals",
+      "score": "186"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11940597\" name=\"11940597",
+      "title": "Study suggests that the “brain training” industry may be a placebo",
+      "score": "177"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11941758\" name=\"11941758",
+      "title": "Ethereum is Doomed",
+      "score": "175"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11941130\" name=\"11941130",
+      "title": "Building a more power-efficient browser",
+      "score": "171"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4oyd9w/what_all_can_you_do_with_a_single_div_element/",
+      "title": "What all can you do with a single &lt;div&gt; element using pure CSS? Check this out!",
+      "score": "1350"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4oxqrn/reflection_in_c/",
+      "title": "Reflection in C++",
+      "score": "126"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4oxw8k/dying_programmer_and_community_builder_pieter/",
+      "title": "Dying programmer and community builder Pieter Hintjens shares his insights",
+      "score": "97"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ozr75/you_dont_get_the_java_memory_model_do_you/",
+      "title": "You Don’t Get The Java Memory Model, Do You?",
+      "score": "88"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4oz8h9/making_of_ldc_10_a_post_by_the_maintainer_of_the/",
+      "title": "Making Of: LDC 1.0 -- a post by the maintainer of the LLVM D Compiler",
+      "score": "64"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4oz9nt/fortranio_a_fortran_web_framework/",
+      "title": "Fortran.io - a Fortran web framework",
+      "score": "58"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4oyer0/the_fathers_of_the_internet_urge_todays_software/",
+      "title": "The Fathers of the Internet Urge Today’s Software Engineers to Reinvent the Web",
+      "score": "50"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4oxfy3/making_faster_fragment_shaders_by_using/",
+      "title": "Making Faster Fragment Shaders by Using Tessellation Shaders",
+      "score": "34"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4p078i/the_monaco_code_editor/",
+      "title": "The Monaco Code Editor",
+      "score": "39"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4oyr4u/codeless_code_case_232_education/",
+      "title": "[Codeless Code] Case 232: Education",
+      "score": "28"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Why I “Need” an AR-15",
+      "score": "952",
+      "url": "https://medium.com/p/why-i-need-an-ar-15-832e05ae801c"
+    },
+    {
+      "title": "The Best Moments From Game 7",
+      "score": "267",
+      "url": "https://medium.com/p/nba-finals-game-7-cavaliers-4428b5e342ed"
+    },
+    {
+      "title": "LeBron James vs. LeBron James",
+      "score": "276",
+      "url": "https://medium.com/p/lebron-james-legacy-game-7-nba-finals-4b120c0874b4"
+    },
+    {
+      "title": "Breaking Down the Big Freakin’ Battle on ‘Game of Thrones’",
+      "score": "136",
+      "url": "https://medium.com/p/game-of-thrones-season-six-episode-nine-8aaf965eee18"
+    },
+    {
+      "title": "This 6-letter word is the secret to achieving your toughest goals",
+      "score": "685",
+      "url": "https://medium.com/p/this-6-letter-word-is-the-secret-to-achieving-your-toughest-goals-360486231cec"
+    },
+    {
+      "title": "One does not simply learn to code",
+      "score": "2859",
+      "url": "https://medium.com/p/one-does-not-simply-learn-to-code-f25bacdc5b62"
+    },
+    {
+      "title": "My cofounder said “I love what we’re doing” and we shut down our startup",
+      "score": "420",
+      "url": "https://medium.com/p/my-cofounder-said-i-love-what-were-doing-and-we-shut-down-our-startup-80d5e710c2b2"
+    },
+    {
+      "title": "How Siri Started — and Lost — the Assistant Race",
+      "score": "81",
+      "url": "https://medium.com/p/apple-siri-lost-assistant-race-2ffc86fe5dfa"
+    },
+    {
+      "title": "“If you want something done, give it to someone who is very busy.”",
+      "score": "204",
+      "url": "https://medium.com/p/busy-people-work-smarter-bd023e14e62c"
+    },
+    {
+      "title": "On the Rebound from Epic Failure",
+      "score": "181",
+      "url": "https://medium.com/p/on-the-rebound-from-epic-failure-88e77d2b39af"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/a1studmuffin/SpaceshipGenerator",
+      "title": "a1studmuffin/SpaceshipGenerator: A Blender script to procedurally generate 3D spaceships",
+      "score": "759"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "705"
+    },
+    {
+      "url": "https://github.com/Microsoft/monaco-editor",
+      "title": "Microsoft/monaco-editor: A browser based code editor",
+      "score": "522"
+    },
+    {
+      "url": "https://github.com/nayafia/lemonade-stand",
+      "title": "nayafia/lemonade-stand: A handy guide to financial support for open source",
+      "score": "476"
+    },
+    {
+      "url": "https://github.com/ManrajGrover/SingleDivProject",
+      "title": "ManrajGrover/SingleDivProject: One &lt;div&gt;. Many possibilities.",
+      "score": "430"
+    },
+    {
+      "url": "https://github.com/qs-lll/ExpandingPager",
+      "title": "qs-lll/ExpandingPager: ExpandingPager is a card peek/pop controller",
+      "score": "346"
+    },
+    {
+      "url": "https://github.com/kataras/iris",
+      "title": "kataras/iris: The fastest web framework for Go in (THIS) earth",
+      "score": "349"
+    },
+    {
+      "url": "https://github.com/algolia/places",
+      "title": "algolia/places:  Turn any &lt;input&gt; into an address autocomplete",
+      "score": "336"
+    },
+    {
+      "url": "https://github.com/dvLden/Vidage",
+      "title": "dvLden/Vidage: Your solution to full-screen background video &amp; image combined.",
+      "score": "272"
+    },
+    {
+      "url": "https://github.com/donnemartin/awesome-aws",
+      "title": "donnemartin/awesome-aws: A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.",
+      "score": "243"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/287226#reply260",
+      "title": "盖楼送 Tee，体验 Ci 送京东卡！开发板！ Xbox!",
+      "score": "260"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287194#reply62",
+      "title": "顺丰的时效好像没啥竞争力了……",
+      "score": "62"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287193#reply46",
+      "title": "攒学费去读大专是否可行？",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287256#reply34",
+      "title": "心力交瘁。。。求安慰。。。",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287229#reply27",
+      "title": "Steam 平台上的 Limbo （地狱边境）将于今天（ 6 月 21 日）中午 12 点以后开始限免",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287231#reply20",
+      "title": "如果让你开一个直播间，你会直播什么呢？（就是好奇 V2EX 会有什么样的答案 哈-哈-哈）",
+      "score": "20"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287253#reply17",
+      "title": "ECS 无故被初始化... 阿里云到底想干嘛？！",
+      "score": "17"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287210#reply17",
+      "title": "windows 怎么导出任务管理器中所有进程的内存使用量",
+      "score": "17"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287208#reply16",
+      "title": "[上海] 求个 CTO/技术总监职位",
+      "score": "16"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287241#reply15",
+      "title": "Windows 复制粘贴功能丢失，如何修复？",
+      "score": "15"
+    }
+  ]
+}
