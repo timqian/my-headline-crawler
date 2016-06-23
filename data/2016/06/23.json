@@ -1,262 +1,262 @@
 {
   "HN": [
     {
-      "url": "https://news.ycombinator.com/item?id=11952927",
-      "title": "Lenin was a mushroom",
-      "score": "509"
+      "url": "https://news.ycombinator.com/item?id=11958682",
+      "title": "How a comment on Hacker News led to 4½ new Unicode characters",
+      "score": "871"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=11953935",
-      "title": "In Newly Created Life-Form, a Major Mystery",
-      "score": "480"
+      "url": "https://news.ycombinator.com/item?id=11961034",
+      "title": "Defending Our Brand",
+      "score": "368"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=11953882",
-      "title": "New Life Found That Lives Off Electricity",
-      "score": "359"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=11956623",
-      "title": "Where have all the iOS games gone?",
-      "score": "226"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=11955068",
-      "title": "Progress Towards 100% HTTPS, June 2016",
-      "score": "202"
+      "url": "https://news.ycombinator.com/item?id=11958359",
+      "title": "Apple confirms iOS kernel code left unencrypted intentionally",
+      "score": "296"
     },
     {
       "url": "https://news.ycombinator.com/item?id=11957958",
       "title": "Google Fiber agrees to acquire Webpass",
-      "score": "196"
+      "score": "286"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=11956234",
-      "title": "Mozilla Awards $385,000 to Open Source Projects",
-      "score": "160"
+      "url": "https://news.ycombinator.com/item?id=11959230",
+      "title": "The Rule of 72",
+      "score": "215"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=11954988",
-      "title": "How Google Is Remaking Itself for “Machine Learning First”",
-      "score": "149"
+      "url": "https://news.ycombinator.com/item?id=11958724",
+      "title": "Monitoring and Tuning the Linux Networking Stack: Receiving Data",
+      "score": "118"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=11956109",
-      "title": "German government agrees to ban fracking indefinitely",
-      "score": "149"
+      "url": "https://news.ycombinator.com/item?id=11958660",
+      "title": "Time-travel queries in CockroachDB",
+      "score": "110"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=11953566",
-      "title": "Relativistic-microwave theory of ball lightning",
-      "score": "141"
+      "url": "https://news.ycombinator.com/item?id=11960763",
+      "title": "PayPal Restores Seafile's Account after File-Monitoring Row",
+      "score": "100"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11960358",
+      "title": "ArangoDB 3.0 Release – A Solid Ground to Scale",
+      "score": "85"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11959781",
+      "title": "Mir Spacecraft: Worst collision in the history of space flight [video]",
+      "score": "81"
     }
   ],
   "reddit": [
     {
+      "url": "https://www.reddit.com/r/programming/comments/4pfdi2/how_a_comment_on_hackernews_lead_to_4_½_new/",
+      "title": "How a comment on HackerNews lead to 4 ½ new Unicode characters",
+      "score": "1292"
+    },
+    {
       "url": "https://www.reddit.com/r/programming/comments/4pcomf/everything_i_know_about_the_script_tag/",
       "title": "Everything I Know About The Script Tag",
-      "score": "342"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4pa4i5/dotty_a_next_generation_compiler_for_scala/",
-      "title": "Dotty: a next generation compiler for Scala",
-      "score": "320"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4pa4uq/vim_refactoring_patterns/",
-      "title": "Vim Refactoring Patterns",
-      "score": "148"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4paq34/detecting_cats_in_images_with_opencv/",
-      "title": "Detecting cats in images with OpenCV.",
-      "score": "136"
+      "score": "621"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4pdgej/red_hat_acquires_api_management_company_3scale/",
       "title": "Red Hat acquires API management company 3scale, will open-source the code",
-      "score": "133"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4pai3i/erlangotp_190_has_been_released/",
-      "title": "Erlang/OTP 19.0 has been released",
-      "score": "109"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4p9g8w/four_months_with_haskell/",
-      "title": "Four months with Haskell",
-      "score": "99"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4p9vnh/keep_refreshing_eclipse_neon_will_be_released/",
-      "title": "Keep refreshing: Eclipse Neon will be released today",
-      "score": "84"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4p9b6o/why_not_use_qtquickqml_for_game_ui/",
-      "title": "Why (not?) use QtQuick/QML for game UI",
-      "score": "86"
+      "score": "241"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4pb5mg/megaprocessor_tour_1/",
       "title": "Megaprocessor Tour 1",
-      "score": "65"
+      "score": "72"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pc9i2/79_podcasts_for_developers_programmers_and/",
+      "title": "79 Podcasts for Developers, Programmers and Software Engineers",
+      "score": "59"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pcsc2/alan_kay_and_rich_hickey_discussing_about_data/",
+      "title": "Alan Kay and Rich Hickey discussing about data",
+      "score": "53"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pbqgv/else_if_is_not_special_except_in_python/",
+      "title": "Else If Is Not Special (Except in Python)",
+      "score": "29"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pep9j/mozilla_awards_385000_to_open_source_projects_as/",
+      "title": "Mozilla Awards $385,000 to Open Source Projects as part of MOSS “Mission Partners” Program",
+      "score": "24"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pgos3/conan_cc_package_manager/",
+      "title": "Conan: C/C++ Package Manager",
+      "score": "21"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pb4p7/minipascal/",
+      "title": "MiniPascal",
+      "score": "17"
     }
   ],
   "medium": [
     {
       "title": "Love Will Be the Death of Us",
-      "score": "914",
+      "score": "1037",
       "url": "https://medium.com/p/love-will-be-the-death-of-us-7baa690dcd0"
     },
     {
+      "title": "How Google is Remaking Itself as a “Machine Learning First” Company",
+      "score": "520",
+      "url": "https://medium.com/p/how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70"
+    },
+    {
       "title": "You Won’t Be Able to Sue The Next Gawker",
-      "score": "797",
+      "score": "830",
       "url": "https://medium.com/p/you-wont-be-able-to-sue-the-next-gawker-e6c8a3900969"
     },
     {
       "title": "The Practical Guide to Becoming a Professional Web Developer",
-      "score": "1104",
+      "score": "1265",
       "url": "https://medium.com/p/the-practical-guide-to-becoming-a-professional-web-developer-2f255bc25c90"
     },
     {
-      "title": "Jon and Sansa Finally Reclaim Their Home — Now What’s Next?",
-      "score": "269",
-      "url": "https://medium.com/p/ask-the-maester-battle-of-the-bastards-game-of-thrones-890f9b23894a"
-    },
-    {
       "title": "Donald Trump Is Dead Wrong About the “Good Guy With A Gun” Theory - A Ballistics and Firearms…",
-      "score": "302",
+      "score": "342",
       "url": "https://medium.com/p/what-i-learned-about-the-good-guy-with-a-gun-theory-from-a-ballistics-and-firearms-expert-f7b695565369"
     },
     {
+      "title": "Jon and Sansa Finally Reclaim Their Home — Now What’s Next?",
+      "score": "288",
+      "url": "https://medium.com/p/ask-the-maester-battle-of-the-bastards-game-of-thrones-890f9b23894a"
+    },
+    {
       "title": "Like This",
-      "score": "428",
+      "score": "479",
       "url": "https://medium.com/p/like-this-41b68c216809"
     },
     {
-      "title": "Does “Deadbeat Donald” Have Any Money?",
-      "score": "231",
-      "url": "https://medium.com/p/does-deadbeat-donald-have-any-money-be34eaaf8b00"
-    },
-    {
-      "title": "On the Rebound from Epic Failure",
-      "score": "458",
-      "url": "https://medium.com/p/on-the-rebound-from-epic-failure-88e77d2b39af"
-    },
-    {
       "title": "This is the “growth hack” that got my whole company started",
-      "score": "448",
+      "score": "542",
       "url": "https://medium.com/p/this-is-the-growth-hack-that-got-my-whole-company-started-f5572fa6d36f"
     },
     {
-      "title": "How Google is Remaking Itself as a “Machine Learning First” Company",
-      "score": "257",
-      "url": "https://medium.com/p/how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70"
+      "title": "We’ve All Dated This One Person",
+      "score": "199",
+      "url": "https://medium.com/p/weve-all-dated-this-one-person-50270e58c4d5"
+    },
+    {
+      "title": "Cai a máscara do fascismo na UnB",
+      "score": "115",
+      "url": "https://medium.com/p/cai-a-máscara-do-fascismo-na-unb-812dfffd4148"
     }
   ],
   "github": [
     {
       "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
       "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
-      "score": "667"
-    },
-    {
-      "url": "https://github.com/conorpp/u2f-zero",
-      "title": "conorpp/u2f-zero: U2F USB token optimized for physical security, affordability, and style",
-      "score": "553"
-    },
-    {
-      "url": "https://github.com/kataras/iris",
-      "title": "kataras/iris: The fastest web framework for Go in (THIS) earth",
-      "score": "355"
+      "score": "702"
     },
     {
       "url": "https://github.com/chmln/flatpickr",
       "title": "chmln/flatpickr: lightweight, powerful datetimepicker. zero dependencies",
-      "score": "317"
+      "score": "448"
     },
     {
-      "url": "https://github.com/zetbaitsu/Compressor",
-      "title": "zetbaitsu/Compressor: An android image compression library.",
-      "score": "304"
+      "url": "https://github.com/conorpp/u2f-zero",
+      "title": "conorpp/u2f-zero: U2F USB token optimized for physical security, affordability, and style",
+      "score": "385"
     },
     {
-      "url": "https://github.com/Microsoft/monaco-editor",
-      "title": "Microsoft/monaco-editor: A browser based code editor",
-      "score": "278"
+      "url": "https://github.com/baoyachi/StepView",
+      "title": "baoyachi/StepView: Step by step，just use stepviewIndicator，step indicator，flow indicator，timeline",
+      "score": "307"
     },
     {
-      "url": "https://github.com/alexkuz/react-input-enhancements",
-      "title": "alexkuz/react-input-enhancements: Set of enhancements for input control",
-      "score": "271"
-    },
-    {
-      "url": "https://github.com/barteksc/AndroidPdfViewer",
-      "title": "barteksc/AndroidPdfViewer: Android view for displaying PDFs rendered with PdfiumAndroid",
-      "score": "190"
-    },
-    {
-      "url": "https://github.com/ManrajGrover/SingleDivProject",
-      "title": "ManrajGrover/SingleDivProject: One &lt;div&gt;. Many possibilities.",
-      "score": "186"
+      "url": "https://github.com/GeniusVJR/LearningNotes",
+      "title": "GeniusVJR/LearningNotes: Enjoy Learning.",
+      "score": "267"
     },
     {
       "url": "https://github.com/yoshuawuyts/choo",
       "title": "yoshuawuyts/choo:  - sturdy frontend framework",
-      "score": "186"
+      "score": "281"
+    },
+    {
+      "url": "https://github.com/zetbaitsu/Compressor",
+      "title": "zetbaitsu/Compressor: An android image compression library.",
+      "score": "264"
+    },
+    {
+      "url": "https://github.com/kataras/iris",
+      "title": "kataras/iris: The fastest web framework for Go in (THIS) earth",
+      "score": "263"
+    },
+    {
+      "url": "https://github.com/Microsoft/monaco-editor",
+      "title": "Microsoft/monaco-editor: A browser based code editor",
+      "score": "229"
+    },
+    {
+      "url": "https://github.com/alexkuz/react-input-enhancements",
+      "title": "alexkuz/react-input-enhancements: Set of enhancements for input control",
+      "score": "205"
     }
   ],
   "v2ex": [
     {
-      "url": "https://www.v2ex.com/t/287709#reply68",
+      "url": "https://www.v2ex.com/t/287709#reply136",
       "title": "又见猝死--阿里欧吉良",
-      "score": "68"
+      "score": "136"
     },
     {
-      "url": "https://www.v2ex.com/t/287743#reply23",
+      "url": "https://www.v2ex.com/t/287743#reply118",
       "title": "四川高考高出 1 本线 5 分，今年满 19，复读还是大学？",
-      "score": "23"
+      "score": "118"
     },
     {
-      "url": "https://www.v2ex.com/t/287717#reply20",
+      "url": "https://www.v2ex.com/t/287803#reply79",
+      "title": "高考可查分了，侄儿子只考了 340 +，怎么安慰他",
+      "score": "79"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287717#reply64",
       "title": "微信 Android 大陆版为什么不用 Chrome WebView 而用 QQ 浏览器?",
-      "score": "20"
+      "score": "64"
     },
     {
-      "url": "https://www.v2ex.com/t/287704#reply19",
-      "title": "九章算法 我求你了 别给我发邮件了",
-      "score": "19"
+      "url": "https://www.v2ex.com/t/287778#reply54",
+      "title": "大家上下班最后一公里都是怎么解决的？",
+      "score": "54"
     },
     {
-      "url": "https://www.v2ex.com/t/287699#reply16",
-      "title": "iPhone 5c 99 刀，求带",
-      "score": "16"
+      "url": "https://www.v2ex.com/t/287850#reply54",
+      "title": "AMAZON EC2 免费 tier 不知为啥收了费",
+      "score": "54"
     },
     {
-      "url": "https://www.v2ex.com/t/287728#reply15",
+      "url": "https://www.v2ex.com/t/287891#reply50",
+      "title": "一旦使用便回不去的神器",
+      "score": "50"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287728#reply40",
       "title": "适合跑步时候听的歌有哪些？？",
-      "score": "15"
+      "score": "40"
     },
     {
-      "url": "https://www.v2ex.com/t/287701#reply13",
-      "title": "有朋友遇到过睡眠唤醒后丢失 DP 输出信号吗？",
-      "score": "13"
+      "url": "https://www.v2ex.com/t/287805#reply31",
+      "title": "如果你是英国公民，你脱不脱？",
+      "score": "31"
     },
     {
-      "url": "https://www.v2ex.com/t/287721#reply13",
-      "title": "应届生签了三方，还没发毕业证，未签正式劳动合同。此时公司会为我办理社保吗？",
-      "score": "13"
-    },
-    {
-      "url": "https://www.v2ex.com/t/287710#reply12",
-      "title": "身为程序员要换工作，你会从那些方面去了解这家互联网公司？",
-      "score": "12"
-    },
-    {
-      "url": "https://www.v2ex.com/t/287702#reply11",
-      "title": "我的 mac 上不能同步 dropbox 了，你们用什么方法？",
-      "score": "11"
+      "url": "https://www.v2ex.com/t/287849#reply30",
+      "title": "胳膊还是扭不过大腿，邮件还是 qq 好。",
+      "score": "30"
     }
   ]
 }
