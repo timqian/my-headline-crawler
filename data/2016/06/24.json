@@ -1,0 +1,262 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=11961034",
+      "title": "Defending Our Brand",
+      "score": "1229"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11958682",
+      "title": "How a comment on Hacker News led to 4½ new Unicode characters",
+      "score": "1076"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11962139",
+      "title": "Phoenix 1.2",
+      "score": "343"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11961432",
+      "title": "Twilio opens trading at $23.99 per share",
+      "score": "325"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11964880",
+      "title": "EU Referendum Results",
+      "score": "318"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11963362",
+      "title": "Crispr Wins Key Approval to Fight Cancer in Human Trials",
+      "score": "262"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11961649",
+      "title": "Why we challenge Microsoft’s battery test",
+      "score": "245"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11960692",
+      "title": "Coconut – Pythonic functional programming language",
+      "score": "213"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11961472",
+      "title": "Real-time crash reporting tool Sentry raises $9M",
+      "score": "184"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11960606",
+      "title": "Lessons from Doom (2010)",
+      "score": "156"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pfdi2/how_a_comment_on_hackernews_lead_to_4_½_new/",
+      "title": "How a comment on HackerNews lead to 4 ½ new Unicode characters",
+      "score": "2339"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pht32/c_70_what_to_expect/",
+      "title": "C# 7.0 - What to Expect",
+      "score": "58"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pgos3/conan_cc_package_manager/",
+      "title": "Conan: C/C++ Package Manager",
+      "score": "48"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pigg8/cygwin_library_now_available_under_gnu_lesser/",
+      "title": "Cygwin library now available under GNU Lesser General Public License",
+      "score": "33"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ph9gc/coconut_pythonic_functional_programming_language/",
+      "title": "Coconut - Pythonic functional programming language",
+      "score": "33"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pep9j/mozilla_awards_385000_to_open_source_projects_as/",
+      "title": "Mozilla Awards $385,000 to Open Source Projects as part of MOSS “Mission Partners” Program",
+      "score": "30"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pi4mz/llvm_thinlto_to_be_shipped_in_xcode_8_fast/",
+      "title": "LLVM ThinLTO to be shipped in Xcode 8 (fast, incremental link-time optimisation)",
+      "score": "25"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pj4am/launching_the_2016_nim_community_survey/",
+      "title": "Launching the 2016 Nim community survey",
+      "score": "22"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ph5jt/use_the_freakin_debugger/",
+      "title": "Use the freakin' debugger",
+      "score": "24"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ph2ae/postgresql_postgresql_96_beta_2_released/",
+      "title": "PostgreSQL: PostgreSQL 9.6 Beta 2 Released",
+      "score": "19"
+    }
+  ],
+  "medium": [
+    {
+      "title": "How Google is Remaking Itself as a “Machine Learning First” Company",
+      "score": "732",
+      "url": "https://medium.com/p/how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70"
+    },
+    {
+      "title": "Love Will Be the Death of Us",
+      "score": "1199",
+      "url": "https://medium.com/p/love-will-be-the-death-of-us-7baa690dcd0"
+    },
+    {
+      "title": "We’ve All Dated This One Person",
+      "score": "340",
+      "url": "https://medium.com/p/weve-all-dated-this-one-person-50270e58c4d5"
+    },
+    {
+      "title": "What’s the Most Fan Service-y Thing ‘Game of Thrones’ Can Pull Off Now?",
+      "score": "47",
+      "url": "https://medium.com/p/whats-the-most-fan-service-y-thing-game-of-thrones-can-pull-off-now-d1f158d37f9e"
+    },
+    {
+      "title": "The Practical Guide to Becoming a Professional Web Developer",
+      "score": "1397",
+      "url": "https://medium.com/p/the-practical-guide-to-becoming-a-professional-web-developer-2f255bc25c90"
+    },
+    {
+      "title": "5 Things Every Man Should Know",
+      "score": "719",
+      "url": "https://medium.com/p/5-things-every-man-should-know-8ed5b90eb831"
+    },
+    {
+      "title": "This is the “growth hack” that got my whole company started",
+      "score": "614",
+      "url": "https://medium.com/p/this-is-the-growth-hack-that-got-my-whole-company-started-f5572fa6d36f"
+    },
+    {
+      "title": "Are the Knicks Trying to Tank or Contend?",
+      "score": "71",
+      "url": "https://medium.com/p/new-york-knicks-derrick-rose-tank-or-contend-43140bb94b99"
+    },
+    {
+      "title": "Meet The New Boss, Same As The Old Boss",
+      "score": "198",
+      "url": "https://medium.com/p/meet-the-new-boss-same-as-the-old-boss-aff0a3dd132e"
+    },
+    {
+      "title": "Fact-Checking Brexit: The Conclusion",
+      "score": "315",
+      "url": "https://medium.com/p/fact-checking-brexit-the-conclusion-c1f56ba4cb70"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "703"
+    },
+    {
+      "url": "https://github.com/chmln/flatpickr",
+      "title": "chmln/flatpickr: lightweight, powerful datetimepicker. zero dependencies",
+      "score": "603"
+    },
+    {
+      "url": "https://github.com/baoyachi/StepView",
+      "title": "baoyachi/StepView: Step by step，just use stepviewIndicator，step indicator，flow indicator，timeline",
+      "score": "381"
+    },
+    {
+      "url": "https://github.com/yoshuawuyts/choo",
+      "title": "yoshuawuyts/choo:  - sturdy frontend framework",
+      "score": "295"
+    },
+    {
+      "url": "https://github.com/GeniusVJR/LearningNotes",
+      "title": "GeniusVJR/LearningNotes: Enjoy Learning.",
+      "score": "248"
+    },
+    {
+      "url": "https://github.com/zetbaitsu/Compressor",
+      "title": "zetbaitsu/Compressor: An android image compression library.",
+      "score": "255"
+    },
+    {
+      "url": "https://github.com/sindresorhus/emoj",
+      "title": "sindresorhus/emoj: Find relevant emoji from text on the command-line ",
+      "score": "267"
+    },
+    {
+      "url": "https://github.com/recruit-mtl/Graphs",
+      "title": "recruit-mtl/Graphs: o",
+      "score": "252"
+    },
+    {
+      "url": "https://github.com/conorpp/u2f-zero",
+      "title": "conorpp/u2f-zero: U2F USB token optimized for physical security, affordability, and style",
+      "score": "206"
+    },
+    {
+      "url": "https://github.com/getify/You-Dont-Know-JS",
+      "title": "getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.",
+      "score": "195"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/287950#reply70",
+      "title": "女孩子,今年安徽高考 570,该读什么专业什么学校,希望大家出出注意！",
+      "score": "70"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287949#reply38",
+      "title": "求推荐 64G usb3.0 的 U 盘",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287969#reply19",
+      "title": "魅蓝 3s 跟红米 3s 那个更合适？",
+      "score": "19"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287973#reply17",
+      "title": "Github 开始根据政府要求过滤内容",
+      "score": "17"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287960#reply15",
+      "title": "这个网站的 adsense 这样布置算不算违规？",
+      "score": "15"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287958#reply14",
+      "title": "PHP 如何引入第三方类库",
+      "score": "14"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287951#reply13",
+      "title": "Steam 夏季特惠开始了",
+      "score": "13"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287978#reply13",
+      "title": "大家还在 godaddy 注册域名吗？",
+      "score": "13"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287955#reply11",
+      "title": "英国退欧计票实时结果",
+      "score": "11"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287954#reply10",
+      "title": "Angular 让一个 directive 等另一个或者多个 directive 执行完后再执行",
+      "score": "10"
+    }
+  ]
+}
