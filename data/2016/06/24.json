@@ -1,0 +1,262 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=11966167",
+      "title": "UK votes to leave EU",
+      "score": "2244"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11958682",
+      "title": "How a comment on Hacker News led to 4½ new Unicode characters",
+      "score": "1137"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11961432",
+      "title": "Twilio opens trading at $23.99 per share",
+      "score": "351"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11963362",
+      "title": "Crispr Wins Key Approval to Fight Cancer in Human Trials",
+      "score": "323"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11966570",
+      "title": "Alan Kay on the misunderstanding of OOP (1998)",
+      "score": "167"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11968389",
+      "title": "How to Make an RPG: Release",
+      "score": "162"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11964658",
+      "title": "AI, Apple and Google",
+      "score": "136"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11963548",
+      "title": "APL compiler targeting a typed array intermediate language",
+      "score": "100"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11959103",
+      "title": "Hyperinflation in America: The End of Grades?",
+      "score": "78"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11963528",
+      "title": "Fire in Microgravity",
+      "score": "78"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4plc5r/a_complete_introduction_to_docker_for_beginners/",
+      "title": "A complete introduction to docker for beginners",
+      "score": "531"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pigg8/cygwin_library_now_available_under_gnu_lesser/",
+      "title": "Cygwin library now available under GNU Lesser General Public License",
+      "score": "103"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pht32/c_70_what_to_expect/",
+      "title": "C# 7.0 - What to Expect",
+      "score": "92"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pmhg6/dolphin_50_release/",
+      "title": "Dolphin 5.0 Release",
+      "score": "69"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pj4am/launching_the_2016_nim_community_survey/",
+      "title": "Launching the 2016 Nim community survey",
+      "score": "48"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pi4mz/llvm_thinlto_to_be_shipped_in_xcode_8_fast/",
+      "title": "LLVM ThinLTO to be shipped in Xcode 8 (fast, incremental link-time optimisation)",
+      "score": "48"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ph9gc/coconut_pythonic_functional_programming_language/",
+      "title": "Coconut - Pythonic functional programming language",
+      "score": "44"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pj5yi/tinywm_implemented_in_nim/",
+      "title": "TinyWM implemented in Nim",
+      "score": "36"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pmjjn/from_filesharing_to_prison_a_megaupload/",
+      "title": "From file-sharing to prison: A Megaupload programmer tells his story. Programmer Andrew Nõmm: &quot;I had to be made an example of as a warning to all IT people.&quot;",
+      "score": "31"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pl1r9/bellmanford_algorithm/",
+      "title": "Bellman–Ford Algorithm",
+      "score": "18"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Love Will Be the Death of Us",
+      "score": "1333",
+      "url": "https://medium.com/p/love-will-be-the-death-of-us-7baa690dcd0"
+    },
+    {
+      "title": "How Google is Remaking Itself as a “Machine Learning First” Company",
+      "score": "859",
+      "url": "https://medium.com/p/how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70"
+    },
+    {
+      "title": "Coding Is Over",
+      "score": "408",
+      "url": "https://medium.com/p/coding-is-over-6d653abe8da8"
+    },
+    {
+      "title": "We’ve All Dated This One Person",
+      "score": "404",
+      "url": "https://medium.com/p/weve-all-dated-this-one-person-50270e58c4d5"
+    },
+    {
+      "title": "Are the Knicks Trying to Tank or Contend?",
+      "score": "83",
+      "url": "https://medium.com/p/new-york-knicks-derrick-rose-tank-or-contend-43140bb94b99"
+    },
+    {
+      "title": "NBA Draft Winners and Losers",
+      "score": "70",
+      "url": "https://medium.com/p/nba-draft-winners-and-losers-24249a04abb7"
+    },
+    {
+      "title": "The Unquestioned Pursuit of Weight Loss Had Us Eating Wrong for Years",
+      "score": "200",
+      "url": "https://medium.com/p/the-unquestioned-pursuit-of-weight-loss-had-us-eating-wrong-for-years-e43a0e60a1"
+    },
+    {
+      "title": "Brexit wins. An illusion dies.",
+      "score": "210",
+      "url": "https://medium.com/p/brexit-wins-an-illusion-dies-b60b6efad2d7"
+    },
+    {
+      "title": "The Ringer’s 2016 NBA Mock Draft",
+      "score": "43",
+      "url": "https://medium.com/p/ringer-2016-nba-mock-draft-8a439a6584f"
+    },
+    {
+      "title": "What’s the Most Fan Service-y Thing ‘Game of Thrones’ Can Pull Off Now?",
+      "score": "52",
+      "url": "https://medium.com/p/whats-the-most-fan-service-y-thing-game-of-thrones-can-pull-off-now-d1f158d37f9e"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "674"
+    },
+    {
+      "url": "https://github.com/chmln/flatpickr",
+      "title": "chmln/flatpickr: lightweight, powerful datetimepicker. zero dependencies",
+      "score": "643"
+    },
+    {
+      "url": "https://github.com/baoyachi/StepView",
+      "title": "baoyachi/StepView: Step by step，just use stepviewIndicator，step indicator，flow indicator，timeline",
+      "score": "264"
+    },
+    {
+      "url": "https://github.com/yoshuawuyts/choo",
+      "title": "yoshuawuyts/choo:  - sturdy frontend framework",
+      "score": "254"
+    },
+    {
+      "url": "https://github.com/evhub/coconut",
+      "title": "evhub/coconut: Simple, elegant, Pythonic functional programming.",
+      "score": "243"
+    },
+    {
+      "url": "https://github.com/torchnet/torchnet",
+      "title": "torchnet/torchnet: Torch on steroids",
+      "score": "233"
+    },
+    {
+      "url": "https://github.com/sindresorhus/emoj",
+      "title": "sindresorhus/emoj: Find relevant emoji from text on the command-line ",
+      "score": "227"
+    },
+    {
+      "url": "https://github.com/recruit-mtl/Graphs",
+      "title": "recruit-mtl/Graphs: o",
+      "score": "201"
+    },
+    {
+      "url": "https://github.com/getify/You-Dont-Know-JS",
+      "title": "getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.",
+      "score": "186"
+    },
+    {
+      "url": "https://github.com/ldoublem/LoadingView",
+      "title": "ldoublem/LoadingView: a simple lodingview for android with animation",
+      "score": "166"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/287950#reply128",
+      "title": "女孩子,今年安徽高考 570,该读什么专业什么学校,希望大家出出注意！",
+      "score": "128"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288030#reply111",
+      "title": "大家对于公司不给配第二个显示器怎么看<img src=\"/static/img/doge.gif\" style=\"vertical-align: middle; margin: 0px 0px 2px 0px\" alt=\"doge\" />",
+      "score": "111"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288069#reply88",
+      "title": "Tony1ee 出成绩了 计算机专业大家看哪个学校比较好",
+      "score": "88"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287973#reply79",
+      "title": "Github 开始根据政府要求过滤内容",
+      "score": "79"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287949#reply70",
+      "title": "求推荐 64G usb3.0 的 U 盘",
+      "score": "70"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288018#reply66",
+      "title": "年轻人的第一张信用卡，该怎么选？",
+      "score": "66"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287996#reply63",
+      "title": "接到腾讯云的电话要求删除关于抨击阿里云的视频",
+      "score": "63"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288023#reply34",
+      "title": "又到 steam 夏季剁手季，说说这次打算入些啥？",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287978#reply33",
+      "title": "大家还在 godaddy 注册域名吗？",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/287960#reply31",
+      "title": "这个网站的 adsense 这样布置算不算违规？",
+      "score": "31"
+    }
+  ]
+}
