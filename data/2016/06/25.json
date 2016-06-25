@@ -1,0 +1,262 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=11966167",
+      "title": "UK votes to leave EU",
+      "score": "2946"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11972135",
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "score": "320"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11973232",
+      "title": "Comodo has filed for express abandonment of LetsEncrypt trademark applications",
+      "score": "274"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11971486",
+      "title": "“Oculus removed the headset check from the DRM in Oculus Runtime 1.5”",
+      "score": "257"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11975560",
+      "title": "Series of books diving deep into the core mechanisms of the JavaScript language",
+      "score": "196"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11972107",
+      "title": "Facebook Bug – Delete Any Video",
+      "score": "191"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11973491",
+      "title": "Finding an ATM Skimmer: It pays to be paranoid",
+      "score": "190"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11973365",
+      "title": "How to Backdoor Diffie-Hellman",
+      "score": "187"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11971721",
+      "title": "My God, it's full of yaks",
+      "score": "168"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11974922",
+      "title": "Infrastructure Software is Dead",
+      "score": "165"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pol3u/why_so_many_developers_hate_recruiters/",
+      "title": "Why so many developers hate recruiters",
+      "score": "849"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4po58u/the_development_of_the_c_language_by_dennis_m/",
+      "title": "The Development of the C Language by Dennis M. Ritchie",
+      "score": "218"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pphk3/i_made_this_512_byte_snake_game_in_pure_assembly/",
+      "title": "I made this 512 byte snake game in pure assembly, what do you think?",
+      "score": "95"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4po2j5/a_comparison_between_rust_and_d/",
+      "title": "A comparison between Rust and D",
+      "score": "68"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pneoa/powernex_a_kernel_written_in_the_d_programming/",
+      "title": "PowerNex: a kernel written in the D Programming Language",
+      "score": "59"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4po4ip/arco_a_new_solver_that_given_a_dynamical_system/",
+      "title": "Arco, a new solver that, given a dynamical system specification in the form of a set of differential equations, generates physically realizable configurations for programmable analog devices that are algebraically equivalent to the specified system [PDF]",
+      "score": "35"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4po2cm/mypy_optional_static_type_checker_for_python_042/",
+      "title": "Mypy (Optional static type checker for python) 0.4.2 Released",
+      "score": "21"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pqmts/transaction_oriented_collector_toc_gos_next_gc/",
+      "title": "Transaction Oriented Collector (TOC) - Go's next GC. [repost from /r/golang]",
+      "score": "17"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pnnrn/glimmerings_of_a_fully_functional_3d_ide_in/",
+      "title": "Glimmerings of a fully functional 3D IDE in Squeak Smalltalk using OpenGL",
+      "score": "15"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ps0al/linux_lockfile_explained_how_to_use_them_the_easy/",
+      "title": "Linux lockfile explained, how to use them the easy or hard way",
+      "score": "15"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Coding Is Over",
+      "score": "997",
+      "url": "https://medium.com/p/coding-is-over-6d653abe8da8"
+    },
+    {
+      "title": "The Unquestioned Pursuit of Weight Loss Had Us Eating Wrong for Years",
+      "score": "428",
+      "url": "https://medium.com/p/the-unquestioned-pursuit-of-weight-loss-had-us-eating-wrong-for-years-e43a0e60a1"
+    },
+    {
+      "title": "Love Will Be the Death of Us",
+      "score": "1543",
+      "url": "https://medium.com/p/love-will-be-the-death-of-us-7baa690dcd0"
+    },
+    {
+      "title": "Why so many developers hate recruiters",
+      "score": "545",
+      "url": "https://medium.com/p/the-tech-recruiter-red-pill-967dd492560c"
+    },
+    {
+      "title": "OKC Breaks Up Its Big Three",
+      "score": "124",
+      "url": "https://medium.com/p/oklahoma-city-thunder-orlando-magic-trade-ibaka-oladipo-d3d224e5e752"
+    },
+    {
+      "title": "NBA Draft Winners and Losers",
+      "score": "100",
+      "url": "https://medium.com/p/nba-draft-winners-and-losers-24249a04abb7"
+    },
+    {
+      "title": "The Five Most Interesting Teams of the 2016 NBA Draft",
+      "score": "50",
+      "url": "https://medium.com/p/nba-draft-2016-sixers-celtics-warriors-51d9f13cf33"
+    },
+    {
+      "title": "Brexit wins. An illusion dies.",
+      "score": "325",
+      "url": "https://medium.com/p/brexit-wins-an-illusion-dies-b60b6efad2d7"
+    },
+    {
+      "title": "I am sorry",
+      "score": "829",
+      "url": "https://medium.com/p/i-am-sorry-c2751286635c"
+    },
+    {
+      "title": "How Google is Remaking Itself as a “Machine Learning First” Company",
+      "score": "1023",
+      "url": "https://medium.com/p/how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "534"
+    },
+    {
+      "url": "https://github.com/chmln/flatpickr",
+      "title": "chmln/flatpickr: lightweight, powerful datetimepicker. zero dependencies",
+      "score": "360"
+    },
+    {
+      "url": "https://github.com/getify/You-Dont-Know-JS",
+      "title": "getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.",
+      "score": "326"
+    },
+    {
+      "url": "https://github.com/torchnet/torchnet",
+      "title": "torchnet/torchnet: Torch on steroids",
+      "score": "172"
+    },
+    {
+      "url": "https://github.com/kataras/iris",
+      "title": "kataras/iris: The fastest web framework for Go on (THIS) earth",
+      "score": "151"
+    },
+    {
+      "url": "https://github.com/baoyachi/StepView",
+      "title": "baoyachi/StepView: Step by step，just use stepviewIndicator，step indicator，flow indicator，timeline，order process",
+      "score": "127"
+    },
+    {
+      "url": "https://github.com/infinitered/ignite",
+      "title": "infinitered/ignite: The unfair starting CLI, Generator, and more for React Native",
+      "score": "127"
+    },
+    {
+      "url": "https://github.com/evhub/coconut",
+      "title": "evhub/coconut: Simple, elegant, Pythonic functional programming.",
+      "score": "126"
+    },
+    {
+      "url": "https://github.com/yoshuawuyts/choo",
+      "title": "yoshuawuyts/choo:  - sturdy frontend framework",
+      "score": "114"
+    },
+    {
+      "url": "https://github.com/sindresorhus/emoj",
+      "title": "sindresorhus/emoj: Find relevant emoji from text on the command-line ",
+      "score": "105"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/288291#reply62",
+      "title": "某白帽子向世纪佳缘网报告漏洞，结果被警方逮捕",
+      "score": "62"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288222#reply62",
+      "title": "Potatso is fully Open Source",
+      "score": "62"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288197#reply60",
+      "title": "国外程序员加班情况如何",
+      "score": "60"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288190#reply43",
+      "title": "笨办法学 C 翻译完成",
+      "score": "43"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288244#reply38",
+      "title": "Mac pro 屏幕用纸巾擦擦出划痕",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288200#reply29",
+      "title": "发个小广告,做了个黑客闯关游戏,欢迎来玩",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288202#reply29",
+      "title": "apple id 被盗",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288290#reply26",
+      "title": "为什么很多公司要求 mysql 表主键 id 必须是 long 型？",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288215#reply26",
+      "title": "有没有老司机带带路，帮我配个游戏主机！？",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288251#reply25",
+      "title": "主要目的是 google hangout 流畅， 请教搭板凳累梯子的正确姿势",
+      "score": "25"
+    }
+  ]
+}
