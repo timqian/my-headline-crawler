@@ -1,0 +1,262 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=11979492",
+      "title": "The “Cobra Effect” that is disabling paste on password fields",
+      "score": "470"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11975560",
+      "title": "A book series on JavaScript",
+      "score": "398"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11977304",
+      "title": "Penetration Testing Tools Cheat Sheet",
+      "score": "388"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11977909",
+      "title": "Typography of “Alien” (2014)",
+      "score": "359"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11978646",
+      "title": "Gag Order on Lavabit’s Levison Lifted",
+      "score": "241"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11976916",
+      "title": "Natron: Open-source compositing software for Mac, Windows and Linux",
+      "score": "212"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11977298",
+      "title": "What are “actual pictures” of atoms actually pictures of?",
+      "score": "203"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11976509",
+      "title": "Build Your First Thing with WebAssembly",
+      "score": "176"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11976769",
+      "title": "On the Complexity and Performance of Parsing with Derivatives",
+      "score": "165"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11978188",
+      "title": "Crash Course – Educational course videos on YouTube",
+      "score": "164"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ptdt6/build_your_first_thing_with_webassembly/",
+      "title": "Build Your First Thing With WebAssembly",
+      "score": "454"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pwh2l/calcasm_is_minimal_arithmetic_calculator_in_x86/",
+      "title": "Calc.asm is minimal arithmetic calculator in x86 assembly with properly commented code for beginners.",
+      "score": "498"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pvtfg/i_made_a_nodejs_fridge_with_movable_magnets_that/",
+      "title": "I made a node.js fridge with movable magnets that update in real time. Source code on github",
+      "score": "130"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pulp6/what_the_iso_c_committee_added_to_the_c17_working/",
+      "title": "What the ISO C++ committee added to the C++17 working draft at the Oulu 2016 meeting",
+      "score": "76"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ptxmc/stack_overflow_command_line_interface/",
+      "title": "Stack overflow command line interface",
+      "score": "39"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pws9d/99problems_in_scala_haskell_and_java_8/",
+      "title": "99-problems in Scala, Haskell, and Java 8",
+      "score": "40"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4px0eu/dont_automate_it_yet_a_story/",
+      "title": "Don't automate it (yet) - a story",
+      "score": "30"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pt5ct/conways_game_of_life_simulated_with_webglhaxe/",
+      "title": "Conway's game of life simulated with WebGL/Haxe",
+      "score": "32"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pvx03/natron_opensource_compositing_software_for_mac/",
+      "title": "Natron: Open-source compositing software for Mac, Windows and Linux",
+      "score": "30"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pw8ih/running_an_sql_injection_attack/",
+      "title": "Running an SQL Injection Attack",
+      "score": "17"
+    }
+  ],
+  "medium": [
+    {
+      "title": "I am sorry",
+      "score": "2093",
+      "url": "https://medium.com/p/i-am-sorry-c2751286635c"
+    },
+    {
+      "title": "Coding Is Over",
+      "score": "1337",
+      "url": "https://medium.com/p/coding-is-over-6d653abe8da8"
+    },
+    {
+      "title": "Love Will Be the Death of Us",
+      "score": "1704",
+      "url": "https://medium.com/p/love-will-be-the-death-of-us-7baa690dcd0"
+    },
+    {
+      "title": "Why so many developers hate recruiters",
+      "score": "686",
+      "url": "https://medium.com/p/the-tech-recruiter-red-pill-967dd492560c"
+    },
+    {
+      "title": "The Unquestioned Pursuit of Weight Loss Had Us Eating Wrong for Years",
+      "score": "518",
+      "url": "https://medium.com/p/the-unquestioned-pursuit-of-weight-loss-had-us-eating-wrong-for-years-e43a0e60a1"
+    },
+    {
+      "title": "How to Use the “5 Hour Rule” to Radically Improve Your Intelligence and Success",
+      "score": "557",
+      "url": "https://medium.com/p/how-to-use-the-5-hour-rule-to-radically-improve-your-intelligence-and-success-c3343b0ef232"
+    },
+    {
+      "title": "8 Programs to Help You Learn—No School Required",
+      "score": "833",
+      "url": "https://medium.com/p/8-programs-to-help-you-learn-no-school-required-d6658612bf2e"
+    },
+    {
+      "title": "How Google is Remaking Itself as a “Machine Learning First” Company",
+      "score": "1155",
+      "url": "https://medium.com/p/how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70"
+    },
+    {
+      "title": "Spiders in the Highest Attics Love to Play at Acrobatics",
+      "score": "152",
+      "url": "https://medium.com/p/spiders-in-the-highest-attics-love-to-play-at-acrobatics-ce3744fefbe9"
+    },
+    {
+      "title": "The Five Most Interesting Teams of the 2016 NBA Draft",
+      "score": "80",
+      "url": "https://medium.com/p/nba-draft-2016-sixers-celtics-warriors-51d9f13cf33"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/getify/You-Dont-Know-JS",
+      "title": "getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.",
+      "score": "910"
+    },
+    {
+      "url": "https://github.com/guarinogabriel/mac-cli",
+      "title": "guarinogabriel/mac-cli: The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.",
+      "score": "714"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "513"
+    },
+    {
+      "url": "https://github.com/icodesign/Potatso-iOS",
+      "title": "icodesign/Potatso-iOS: Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework in iOS 9.",
+      "score": "349"
+    },
+    {
+      "url": "https://github.com/chmln/flatpickr",
+      "title": "chmln/flatpickr: lightweight, powerful datetimepicker. zero dependencies",
+      "score": "197"
+    },
+    {
+      "url": "https://github.com/herrbischoff/awesome-osx-command-line",
+      "title": "herrbischoff/awesome-osx-command-line: Use your OS X terminal shell to do awesome things.",
+      "score": "139"
+    },
+    {
+      "url": "https://github.com/algolia/places",
+      "title": "algolia/places:  Turn any &lt;input&gt; into an address autocomplete",
+      "score": "97"
+    },
+    {
+      "url": "https://github.com/kataras/iris",
+      "title": "kataras/iris: The fastest web framework for Go on (THIS) earth",
+      "score": "94"
+    },
+    {
+      "url": "https://github.com/blechschmidt/massdns",
+      "title": "blechschmidt/massdns: A high-performance DNS stub resolver in C",
+      "score": "88"
+    },
+    {
+      "url": "https://github.com/sindresorhus/emoj",
+      "title": "sindresorhus/emoj: Find relevant emoji from text on the command-line ",
+      "score": "88"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/288418#reply72",
+      "title": "大家有没有系统洁癖",
+      "score": "72"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288433#reply53",
+      "title": "舅舅家孩子上大学，送什么礼物好？",
+      "score": "53"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288355#reply45",
+      "title": "android 开发，各位大神帮忙选一台笔记本电脑",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288375#reply45",
+      "title": "关于电冰箱的猜想 <img src=\"/static/img/doge.gif\" style=\"vertical-align: middle; margin: 0px 0px 2px 0px\" alt=\"doge\" />",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288380#reply38",
+      "title": "百度推广公司可能和部分域名注册局有暗中交易",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288408#reply36",
+      "title": "thinkPHP 被黑，尚不清楚源码受没受影响",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288368#reply34",
+      "title": "还是得问问，在 Linux 下面有没有比较好用的类似 Xshell 的 ssh 客户端？",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288405#reply34",
+      "title": "终于知道为什么 QQ 上搜不到 Laravel 相关的群了",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288452#reply34",
+      "title": "打算干掉 W10, 彻底使用 linux, 请问安装之前我要备份好什么东西",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288353#reply26",
+      "title": "关于“某白帽子在乌云报漏洞，结果逮捕”，国内还有白帽子的环境吗？",
+      "score": "26"
+    }
+  ]
+}

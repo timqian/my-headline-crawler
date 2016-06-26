@@ -1,0 +1,210 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=11966167",
+      "title": "UK votes to leave EU",
+      "score": 3056
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11939851",
+      "title": "Alan Kay has agreed to do an AMA today",
+      "score": 1394
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11961034",
+      "title": "Defending Our Brand",
+      "score": 1335
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11958682",
+      "title": "How a comment on Hacker News led to 4½ new Unicode characters",
+      "score": 1175
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11944011",
+      "title": "PayPal has demanded that we monitor data traffic",
+      "score": 1026
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11929493",
+      "title": "Spaceship Generator",
+      "score": 850
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11939557",
+      "title": "The Monaco Code Editor",
+      "score": 724
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11922453",
+      "title": "How are zlib, gzip and Zip related? (2013)",
+      "score": 651
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11933427",
+      "title": "The Fathers of the Internet Urge Today’s Software Engineers to Reinvent the Web",
+      "score": 642
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11937926",
+      "title": "Hello, Tensorflow",
+      "score": 592
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4oq3yd/a_blender_script_that_procedurally_generates_3d/",
+      "title": "A blender script that procedurally generates 3D starships",
+      "score": 2737
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4oyd9w/what_all_can_you_do_with_a_single_div_element/",
+      "title": "What all can you do with a single &lt;div&gt; element using pure CSS? Check this out!",
+      "score": 1593
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4plc5r/a_complete_introduction_to_docker_for_beginners/",
+      "title": "A complete introduction to docker for beginners",
+      "score": 1203
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4oshrm/why_i_left_google/",
+      "title": "Why I left Google",
+      "score": 1136
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pol3u/why_so_many_developers_hate_recruiters/",
+      "title": "Why so many developers hate recruiters",
+      "score": 963
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pcomf/everything_i_know_about_the_script_tag/",
+      "title": "Everything I Know About The Script Tag",
+      "score": 670
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ot2dm/rprogrammertil_programmers_post_tidbits_as_they/",
+      "title": "/r/ProgrammerTIL - Programmers post tidbits as they learn them",
+      "score": 607
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ovecl/were_pretty_happy_with_sqlite_not_urgently/",
+      "title": "we’re pretty happy with SQLite &amp; not urgently interested in a fancier DBMS",
+      "score": 544
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pmjjn/from_filesharing_to_prison_a_megaupload/",
+      "title": "From file-sharing to prison: A Megaupload programmer tells his story. Programmer Andrew Nõmm: &quot;I had to be made an example of as a warning to all IT people.&quot;",
+      "score": 435
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pmhg6/dolphin_50_release/",
+      "title": "Dolphin 5.0 Release",
+      "score": 428
+    }
+  ],
+  "medium": [
+    {
+      "title": "One does not simply learn to code",
+      "score": 3782,
+      "url": "https://medium.com/p/one-does-not-simply-learn-to-code-f25bacdc5b62"
+    },
+    {
+      "title": "The 49 best free websites and apps to learn something new",
+      "score": 3608,
+      "url": "https://medium.com/p/the-49-best-free-websites-and-apps-to-learn-something-new-abfe69142d4b"
+    },
+    {
+      "title": "Thinking About Hillary — A Plea for Reason",
+      "score": 2264,
+      "url": "https://medium.com/p/thinking-about-hillary-a-plea-for-reason-308fce6d187c"
+    },
+    {
+      "title": "I am sorry",
+      "score": 2095,
+      "url": "https://medium.com/p/i-am-sorry-c2751286635c"
+    },
+    {
+      "title": "The Practical Guide to Becoming a Professional Web Developer",
+      "score": 1817,
+      "url": "https://medium.com/p/the-practical-guide-to-becoming-a-professional-web-developer-2f255bc25c90"
+    },
+    {
+      "title": "Love Will Be the Death of Us",
+      "score": 1704,
+      "url": "https://medium.com/p/love-will-be-the-death-of-us-7baa690dcd0"
+    },
+    {
+      "title": "Lazy Leadership",
+      "score": 1639,
+      "url": "https://medium.com/p/lazy-leadership-8ba19e34f959"
+    },
+    {
+      "title": "Coding Is Over",
+      "score": 1337,
+      "url": "https://medium.com/p/coding-is-over-6d653abe8da8"
+    },
+    {
+      "title": "5 Things Every Man Should Know",
+      "score": 1185,
+      "url": "https://medium.com/p/5-things-every-man-should-know-8ed5b90eb831"
+    },
+    {
+      "title": "The Ivy Lee Method: The Daily Routine Experts Recommend for Peak Productivity",
+      "score": 1181,
+      "url": "https://medium.com/p/the-ivy-lee-method-the-daily-routine-experts-recommend-for-peak-productivity-9bb8119d9bee"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/287226#reply385",
+      "title": "盖楼送 Tee，体验 Ci 送京东卡！开发板！ Xbox!",
+      "score": 432
+    },
+    {
+      "url": "https://www.v2ex.com/t/287253#reply107",
+      "title": "ECS 无故被初始化... 阿里云到底想干嘛？！",
+      "score": 197
+    },
+    {
+      "url": "https://www.v2ex.com/t/287709#reply136",
+      "title": "又见猝死--阿里欧吉良",
+      "score": 158
+    },
+    {
+      "url": "https://www.v2ex.com/t/287069#reply75",
+      "title": "公司突然宣布 996 炸了",
+      "score": 156
+    },
+    {
+      "url": "https://www.v2ex.com/t/288030#reply111",
+      "title": "大家对于公司不给配第二个显示器怎么看<img src=\"/static/img/doge.gif\" style=\"vertical-align: middle; margin: 0px 0px 2px 0px\" alt=\"doge\" />",
+      "score": 153
+    },
+    {
+      "url": "https://www.v2ex.com/t/287301#reply81",
+      "title": "今天快乐上班，然后就悲剧了，校车好猖狂，路上被刮蹭，交警责任认定双方，有异议，怎么办？",
+      "score": 147
+    },
+    {
+      "url": "https://www.v2ex.com/t/287743#reply118",
+      "title": "四川高考高出 1 本线 5 分，今年满 19，复读还是大学？",
+      "score": 141
+    },
+    {
+      "url": "https://www.v2ex.com/t/287950#reply70",
+      "title": "女孩子,今年安徽高考 570,该读什么专业什么学校,希望大家出出注意！",
+      "score": 136
+    },
+    {
+      "url": "https://www.v2ex.com/t/287229#reply70",
+      "title": "Steam 平台上的 Limbo （地狱边境）将于今天（ 6 月 21 日）中午 12 点以后开始限免",
+      "score": 135
+    },
+    {
+      "url": "https://www.v2ex.com/t/288069#reply88",
+      "title": "Tony1ee 出成绩了 计算机专业大家看哪个学校比较好",
+      "score": 126
+    }
+  ]
+}
