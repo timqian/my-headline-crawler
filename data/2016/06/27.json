@@ -1,0 +1,262 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=11979492",
+      "title": "The “Cobra Effect” that is disabling paste on password fields",
+      "score": "847"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11980795",
+      "title": "A ZFS developer’s analysis of Apple’s new APFS file system",
+      "score": "360"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11980977",
+      "title": "An audio engineer explains NPR’s signature sound",
+      "score": "358"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11985261",
+      "title": "Cheap HDMI capture for Linux",
+      "score": "243"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11983716",
+      "title": "Caltech glassblower's retirement has scientists sighing",
+      "score": "209"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11982342",
+      "title": "Passive TCP/IP Geo-Location",
+      "score": "170"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11984609",
+      "title": "US Customs wants to collect social media account names at the border",
+      "score": "156"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11983451",
+      "title": "How We Analyzed and Visualized Hamilton’s Rhyming Lyrics",
+      "score": "146"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11985368",
+      "title": "Best Seed Pitch",
+      "score": "142"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11985904",
+      "title": "Woman wins $10,000 judgment against Microsoft for forced Windows 10 upgrade",
+      "score": "138"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pziho/a_zfs_developers_analysis_of_apples_new_apfs_file/",
+      "title": "A ZFS developer’s analysis of Apple’s new APFS file system",
+      "score": "851"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4q1fho/this_guy_does_case_studies_of_specific_shaders/",
+      "title": "This guy does case studies of specific shaders from well known games and they're awesome.",
+      "score": "538"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4q2534/the_open_source_society_has_created_a_solid_path/",
+      "title": "The Open Source Society has created a solid path for you that want to learn Data Science and Machine Learning, online for free as a github repo.",
+      "score": "202"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4q0u3i/what_orms_have_taught_me_just_learn_sql/",
+      "title": "What ORMs have taught me: just learn SQL",
+      "score": "139"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pz2ur/two_minute_papers_procedural_yarn_models_for/",
+      "title": "Two Minute Papers - Procedural Yarn Models for Cloth Rendering",
+      "score": "121"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pz3hr/use_nasas_open_source_software/",
+      "title": "Use NASA's Open Source Software",
+      "score": "35"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pzsed/dynamix_a_new_take_on_polymorphism_in_c/",
+      "title": "DynaMix - A new take on polymorphism in C++",
+      "score": "26"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4q0bb7/spry_a_programming_language_inspired_by/",
+      "title": "Spry: a programming language inspired by Smalltalk/Rebol and written in Nim",
+      "score": "24"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4q0d7k/why_pinterest_just_opensourced_new_tools_for_the/",
+      "title": "Why Pinterest just open-sourced new tools for the Elixir programming language",
+      "score": "22"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4py875/dlib_190_clean_c11_deep_learning_api/",
+      "title": "dlib 19.0 - Clean C++11 Deep Learning API",
+      "score": "22"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Coding Is Over",
+      "score": "1616",
+      "url": "https://medium.com/p/coding-is-over-6d653abe8da8"
+    },
+    {
+      "title": "Love Will Be the Death of Us",
+      "score": "1833",
+      "url": "https://medium.com/p/love-will-be-the-death-of-us-7baa690dcd0"
+    },
+    {
+      "title": "Why Most People Will Never Be Successful",
+      "score": "950",
+      "url": "https://medium.com/p/why-most-people-will-never-be-successful-aa52e333a59c"
+    },
+    {
+      "title": "Spiders in the Highest Attics Love to Play at Acrobatics",
+      "score": "272",
+      "url": "https://medium.com/p/spiders-in-the-highest-attics-love-to-play-at-acrobatics-ce3744fefbe9"
+    },
+    {
+      "title": "I am sorry",
+      "score": "2596",
+      "url": "https://medium.com/p/i-am-sorry-c2751286635c"
+    },
+    {
+      "title": "How to write better without becoming a better writer",
+      "score": "342",
+      "url": "https://medium.com/p/how-to-write-better-without-becoming-a-better-writer-a43f646e45e7"
+    },
+    {
+      "title": "A Father’s War, a Son’s Toxic Inheritance",
+      "score": "188",
+      "url": "https://medium.com/p/a-fathers-war-a-son-s-toxic-inheritance-2eb6f511cef0"
+    },
+    {
+      "title": "How to Use the “5 Hour Rule” to Radically Improve Your Intelligence and Success",
+      "score": "852",
+      "url": "https://medium.com/p/how-to-use-the-5-hour-rule-to-radically-improve-your-intelligence-and-success-c3343b0ef232"
+    },
+    {
+      "title": "The ‘Game of Thrones’ Finale Has Its Cake — and Blows It Up, Too",
+      "score": "99",
+      "url": "https://medium.com/p/game-of-thrones-season-6-episode-10-a77129f35c7c"
+    },
+    {
+      "title": "The Sad State of Web Development",
+      "score": "3964",
+      "url": "https://medium.com/p/the-sad-state-of-web-development-1603a861d29f"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/guarinogabriel/mac-cli",
+      "title": "guarinogabriel/mac-cli: The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.",
+      "score": "043"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "622"
+    },
+    {
+      "url": "https://github.com/getify/You-Dont-Know-JS",
+      "title": "getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.",
+      "score": "612"
+    },
+    {
+      "url": "https://github.com/shadowsocks/Potatso-iOS",
+      "title": "shadowsocks/Potatso-iOS: Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework in iOS 9.",
+      "score": "367"
+    },
+    {
+      "url": "https://github.com/flouthoc/calc.asm",
+      "title": "flouthoc/calc.asm: Minimal arithmetic calculator in x86 assembly",
+      "score": "315"
+    },
+    {
+      "url": "https://github.com/Bilibili/MagicaSakura",
+      "title": "Bilibili/MagicaSakura: MagicaSakura 是 Android 多主题框架。~ is an Android multi theme library which supporting both daily colorful theme and night theme.",
+      "score": "294"
+    },
+    {
+      "url": "https://github.com/chmln/flatpickr",
+      "title": "chmln/flatpickr: lightweight, powerful datetimepicker. zero dependencies",
+      "score": "271"
+    },
+    {
+      "url": "https://github.com/huluoyang/freecodecamp.cn",
+      "title": "huluoyang/freecodecamp.cn: 干货都在Wiki中，千万不要错过。",
+      "score": "207"
+    },
+    {
+      "url": "https://github.com/kongnanlive/SideBar",
+      "title": "kongnanlive/SideBar: 全新的快速索引导航栏，联系人字母排序侧边栏。",
+      "score": "179"
+    },
+    {
+      "url": "https://github.com/52inc/Scoops",
+      "title": "52inc/Scoops: Android library for managing and applying multiple themes and custom theme modification",
+      "score": "168"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/288552#reply97",
+      "title": "win10 大家用着的感觉怎么样？",
+      "score": "97"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288535#reply60",
+      "title": "23 岁了，练字还有希望吗",
+      "score": "60"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288580#reply55",
+      "title": "iPhone 5S 的屏幕比 6/6S 高到不知道哪里去了",
+      "score": "55"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288512#reply54",
+      "title": "报到证重要吗？",
+      "score": "54"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288520#reply47",
+      "title": "427 分，复读还是上一个三本？",
+      "score": "47"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288525#reply39",
+      "title": "swift 相比起 objective-c 到底有什么优势呢",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288532#reply39",
+      "title": "为什么别人家返回的 json 字符串是自带格式化效果的, 而我的就是一坨长串?",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288572#reply34",
+      "title": "农业户口转非农户口不好转吗？刚毕业，户口迁回原籍，可以落集体户口，或者村里的农业户口。一直听说现在农业户口不好弄，值钱，所以想落成农业户口。但家里人都说农转非不好转。有没有知道这些事的？",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288563#reply30",
+      "title": "疑似传销性质的 dayshow 纳米补水仪 被我扒完皮后 朋友依然执迷不悟",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288556#reply27",
+      "title": "godaddy 现在不能支付宝了",
+      "score": "27"
+    }
+  ]
+}
