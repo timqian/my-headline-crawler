@@ -1,0 +1,262 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=11987032",
+      "title": "New Cities",
+      "score": "841"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11986705",
+      "title": "Announcing .NET Core 1.0",
+      "score": "683"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11987414",
+      "title": "Inappropriate Uses of Google Trends",
+      "score": "452"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11992358",
+      "title": "NSA tracking cellphone locations worldwide, Snowden documents show (2013)",
+      "score": "319"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11988344",
+      "title": "10-Year Exercise Periods Make Sense",
+      "score": "301"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11986307",
+      "title": "How landlords get kickbacks to lock tenants into big Internet providers",
+      "score": "291"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11990152",
+      "title": "Volkswagen's U.S. diesel emissions settlement to cost $15B",
+      "score": "283"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11991479",
+      "title": "Why Google Stores Billions of Lines of Code in a Single Repository",
+      "score": "260"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11991167",
+      "title": "Bluetooth 5 will quadruple the range, double the speed",
+      "score": "251"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11987295",
+      "title": "Edward Snowden’s Strangely Free Life as a Robot",
+      "score": "213"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4q3xoq/net_core_10_has_been_released/",
+      "title": ".NET Core 1.0 Has Been Released",
+      "score": "1689"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4q41us/visual_studio_2015_update_3/",
+      "title": "Visual Studio 2015 - Update 3",
+      "score": "97"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4q4qao/the_pyret_code_or_a_rationale_for_the_pyret/",
+      "title": "The Pyret Code; or A Rationale for the Pyret Programming Language",
+      "score": "38"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4q55xa/fast_elegant_regexes_in_haskell/",
+      "title": "Fast, Elegant Regexes in Haskell",
+      "score": "28"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4q5tzh/a_fast_alternative_to_the_modulo_reduction/",
+      "title": "A fast alternative to the modulo reduction",
+      "score": "30"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4q4w1u/why_google_stores_billions_of_lines_of_code_in_a/",
+      "title": "Why Google Stores Billions of Lines of Code in a Single Repository",
+      "score": "22"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4q6vs0/animejs_polyvalent_javascript_animation_engine/",
+      "title": "Anime.js – Polyvalent JavaScript Animation Engine",
+      "score": "27"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4q74yf/the_mwc64x_random_number_generator_opencl/",
+      "title": "The MWC64X Random Number Generator [OpenCL]",
+      "score": "26"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4q44c1/docsmicrosoftcom_moves_forward_net_documentation/",
+      "title": "docs.microsoft.com moves forward - .NET documentation added",
+      "score": "21"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4q3x4s/java_9_additions_to_stream_blogcodefx/",
+      "title": "Java 9 Additions To Stream - blog@CodeFX",
+      "score": "16"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Season 6 ‘Game of Thrones’ Book Club",
+      "score": "227",
+      "url": "https://medium.com/p/season-6-game-of-thrones-book-club-af5d0ba87fb4"
+    },
+    {
+      "title": "The ‘Game of Thrones’ Finale Has Its Cake — and Blows It Up, Too",
+      "score": "200",
+      "url": "https://medium.com/p/game-of-thrones-season-6-episode-10-a77129f35c7c"
+    },
+    {
+      "title": "Stop Using Google Trends",
+      "score": "504",
+      "url": "https://medium.com/p/stop-using-google-trends-a5014dd32588"
+    },
+    {
+      "title": "How to write better without becoming a better writer",
+      "score": "683",
+      "url": "https://medium.com/p/how-to-write-better-without-becoming-a-better-writer-a43f646e45e7"
+    },
+    {
+      "title": "Love Will Be the Death of Us",
+      "score": "1967",
+      "url": "https://medium.com/p/love-will-be-the-death-of-us-7baa690dcd0"
+    },
+    {
+      "title": "My thoughts on the plight of Labour",
+      "score": "306",
+      "url": "https://medium.com/p/my-thoughts-on-the-plight-of-labour-38413229f88"
+    },
+    {
+      "title": "Why Most People Will Never Be Successful",
+      "score": "1393",
+      "url": "https://medium.com/p/why-most-people-will-never-be-successful-aa52e333a59c"
+    },
+    {
+      "title": "Coding Is Over",
+      "score": "1781",
+      "url": "https://medium.com/p/coding-is-over-6d653abe8da8"
+    },
+    {
+      "title": "Kevin Durant Could Be Pat Riley’s Final Conquest",
+      "score": "141",
+      "url": "https://medium.com/p/pat-riley-gets-what-he-wants-undeniables-bill-simmons-4064cf607e42"
+    },
+    {
+      "title": "The Harrison Barnes–Team USA–Sixers Theory That’s So Crazy It Makes Sense",
+      "score": "81",
+      "url": "https://medium.com/p/the-harrison-barnes-team-usa-sixers-theory-thats-so-crazy-it-makes-sense-7c14ee415a41"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/juliangarnier/anime",
+      "title": "juliangarnier/anime: Javascript Animation Engine",
+      "score": "413"
+    },
+    {
+      "url": "https://github.com/guarinogabriel/mac-cli",
+      "title": "guarinogabriel/mac-cli:  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.",
+      "score": "093"
+    },
+    {
+      "url": "https://github.com/open-source-society/data-science",
+      "title": "open-source-society/data-science:  Path to a free self-taught education in Data Science!",
+      "score": "066"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "679"
+    },
+    {
+      "url": "https://github.com/getify/You-Dont-Know-JS",
+      "title": "getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.",
+      "score": "410"
+    },
+    {
+      "url": "https://github.com/digitalocean/netbox",
+      "title": "digitalocean/netbox: IP address management (IPAM) and data center infrastructure management (DCIM) tool.",
+      "score": "387"
+    },
+    {
+      "url": "https://github.com/chmln/flatpickr",
+      "title": "chmln/flatpickr: lightweight, powerful datetimepicker. zero dependencies",
+      "score": "265"
+    },
+    {
+      "url": "https://github.com/emirpasic/gods",
+      "title": "emirpasic/gods: Go Data Structures. Containers, Sets, Lists, Stacks, Maps, Trees, HashSet, TreeSet, ArrayList, SinglyLinkedList, DoublyLinkedList, LinkedListStack, ArrayStack, HashMap, TreeMap, RedBlackTree, BinaryHeap, Comparator, Iterator, Enumerable, Sort",
+      "score": "250"
+    },
+    {
+      "url": "https://github.com/dotnet/core",
+      "title": "dotnet/core: Home repository for .NET Core",
+      "score": "181"
+    },
+    {
+      "url": "https://github.com/shadowsocks/Potatso-iOS",
+      "title": "shadowsocks/Potatso-iOS: Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework in iOS 9.",
+      "score": "168"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/288763#reply80",
+      "title": "Steam 夏季特惠你们都入了啥？",
+      "score": "80"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288802#reply72",
+      "title": "暑假想勾引儿子学点计算机开发的知识，有啥好的点子吗？",
+      "score": "72"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288923#reply66",
+      "title": "想用自己 10 年的股票经验，帮大家在虚拟现实，新能源车，智能家居，人工智能股票上赚点钱",
+      "score": "66"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288771#reply62",
+      "title": "C++/C# 程序员转 Python 的困惑",
+      "score": "62"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288818#reply59",
+      "title": "网商银行贷了 10000 元",
+      "score": "59"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288871#reply59",
+      "title": "你们用什么杀毒软件?",
+      "score": "59"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288776#reply51",
+      "title": "国家网信办发布《移动互联网应用程序信息服务管理规定》——移动 app 都要手机号实名？？",
+      "score": "51"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288810#reply50",
+      "title": "招聘一位年轻又牛逼的全栈工程师！",
+      "score": "50"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288772#reply41",
+      "title": "大家对于 PHP 框架中的 ORM 是什么态度",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/288774#reply38",
+      "title": ".Net Core 1.0 正式发布了",
+      "score": "38"
+    }
+  ]
+}
