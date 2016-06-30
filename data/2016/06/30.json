@@ -1,0 +1,262 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12004866",
+      "title": "The Daredevil Camera",
+      "score": "1102"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12001320",
+      "title": "Investing Returns on the S&P500",
+      "score": "573"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12005058",
+      "title": "Ten Year Old Girl Gets Accepted as Paris Innovation Fellow",
+      "score": "239"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12004442",
+      "title": "Making open source data more available",
+      "score": "238"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12007940",
+      "title": "Spanish authorities raid Google offices over tax",
+      "score": "192"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12000858",
+      "title": "How Amazon Triggered a Robot Arms Race",
+      "score": "146"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12008024",
+      "title": "Ways to maximize your cognitive potential",
+      "score": "142"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12006392",
+      "title": "Facebook to Change News Feed to Focus on Friends and Family",
+      "score": "139"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12007923",
+      "title": "Extracting Qualcomm's KeyMaster Keys – Breaking Android Full Disk Encryption",
+      "score": "138"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12008365",
+      "title": "Google Calendar is down",
+      "score": "128"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qkhwf/google_finds_10_buffer_overflows_in_windows/",
+      "title": "Google finds 10 buffer overflows in Windows kernel font handling",
+      "score": "999"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qgiup/we_built_voice_modulation_to_mask_gender_in/",
+      "title": "We built voice modulation to mask gender in technical interviews. Here’s what happened.",
+      "score": "375"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qi2d8/52_things_people_should_know_to_do_cryptography/",
+      "title": "52 Things People Should Know To Do Cryptography",
+      "score": "43"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qg9nq/lossless_compression_with_brotli/",
+      "title": "Lossless compression with Brotli",
+      "score": "47"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qjke9/teach_yourself_programming_in_ten_years_an_oldie/",
+      "title": "Teach Yourself Programming in Ten Years (An Oldie, but a Goodie)",
+      "score": "32"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qjccq/aspnet_core_kestrel_adventures_in_building_a_fast/",
+      "title": "ASP.NET Core Kestrel: Adventures in building a fast web server - Damian Edwards, David Fowler",
+      "score": "36"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qkkkp/here_is_why_emacs_uses_meta_key/",
+      "title": "Here is why Emacs uses Meta key",
+      "score": "31"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qh8q7/c17_all_final_features_from_oulu_in_a_few_slides/",
+      "title": "C++17, All Final Features from Oulu in a Few Slides",
+      "score": "23"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qi158/memcpy_and_friends_with_null_pointers/",
+      "title": "memcpy (and friends) with NULL pointers",
+      "score": "19"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ql66j/the_software_heritage_project_trying_to_collect/",
+      "title": "The Software Heritage project, trying to collect and preserve all publicly available software in source code form",
+      "score": "20"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Kevin Durant Could Be Pat Riley’s Final Conquest",
+      "score": "554",
+      "url": "https://medium.com/p/pat-riley-gets-what-he-wants-undeniables-bill-simmons-4064cf607e42"
+    },
+    {
+      "title": "A New Queen and King Bring ‘Game of Thrones’ Toward Its Endgame",
+      "score": "342",
+      "url": "https://medium.com/p/ask-the-maester-winds-of-winter-game-of-thrones-5917f09c8150"
+    },
+    {
+      "title": "Season 6 ‘Game of Thrones’ Book Club",
+      "score": "320",
+      "url": "https://medium.com/p/season-6-game-of-thrones-book-club-af5d0ba87fb4"
+    },
+    {
+      "title": "My thoughts on the plight of Labour",
+      "score": "492",
+      "url": "https://medium.com/p/my-thoughts-on-the-plight-of-labour-38413229f88"
+    },
+    {
+      "title": "Finding Time to Become a Better Developer",
+      "score": "905",
+      "url": "https://medium.com/p/finding-time-to-become-a-better-developer-eebc154881b2"
+    },
+    {
+      "title": "Love Will Be the Death of Us",
+      "score": "2130",
+      "url": "https://medium.com/p/love-will-be-the-death-of-us-7baa690dcd0"
+    },
+    {
+      "title": "Stop Using Google Trends",
+      "score": "757",
+      "url": "https://medium.com/p/stop-using-google-trends-a5014dd32588"
+    },
+    {
+      "title": "Why Disconnecting From The Internet Improves Your Focus",
+      "score": "1186",
+      "url": "https://medium.com/p/why-disconnecting-from-the-internet-improves-your-focus-167a824c3bb5"
+    },
+    {
+      "title": "How I Sold My Company to Twitter, Went to Facebook, and Screwed My Co-Founders",
+      "score": "206",
+      "url": "https://medium.com/p/tuesday-april-5-2011-6c783a5dce42"
+    },
+    {
+      "title": "Coding Is Over",
+      "score": "1976",
+      "url": "https://medium.com/p/coding-is-over-6d653abe8da8"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/zonination/investing",
+      "title": "zonination/investing: Investing Returns on the Market as a Whole",
+      "score": "878"
+    },
+    {
+      "url": "https://github.com/juliangarnier/anime",
+      "title": "juliangarnier/anime: Javascript Animation Engine",
+      "score": "791"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "685"
+    },
+    {
+      "url": "https://github.com/guarinogabriel/mac-cli",
+      "title": "guarinogabriel/mac-cli:  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.",
+      "score": "451"
+    },
+    {
+      "url": "https://github.com/leonar15/startup-checklist",
+      "title": "leonar15/startup-checklist: A checklist for incorporation so you can get back to building your product, fundraising, etc.",
+      "score": "325"
+    },
+    {
+      "url": "https://github.com/open-source-society/data-science",
+      "title": "open-source-society/data-science:  Path to a free self-taught education in Data Science!",
+      "score": "273"
+    },
+    {
+      "url": "https://github.com/kanaka/mal",
+      "title": "kanaka/mal: mal - Make a Lisp",
+      "score": "205"
+    },
+    {
+      "url": "https://github.com/NoDivide/astrum",
+      "title": "NoDivide/astrum: A lightweight pattern library designed to be included with any web project.",
+      "score": "209"
+    },
+    {
+      "url": "https://github.com/asciidwango/js-primer",
+      "title": "asciidwango/js-primer: JavaScriptの入門書 ",
+      "score": "206"
+    },
+    {
+      "url": "https://github.com/romainguy/elegant-underline",
+      "title": "romainguy/elegant-underline: Exploring possible implementations for better underline text decoration on Android",
+      "score": "182"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/289282#reply70",
+      "title": "如何完美的消除 if...else..或者 switch 这种代码，求大神给个思路。",
+      "score": "70"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289264#reply64",
+      "title": "换工作时挖下的坑",
+      "score": "64"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289280#reply57",
+      "title": "程序员的发型",
+      "score": "57"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289260#reply46",
+      "title": "女朋友公司的 php 小组每天 10 点-11 点下班",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289333#reply41",
+      "title": "隔壁公司天天早上开会喊：我好，很好，非常好！",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289276#reply41",
+      "title": "偶然看到一个高中生利用树莓派建立智能家居的作品，你们怎么看？",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289255#reply39",
+      "title": "如何伪造 cnzz 和百度统计等各种统计的点击量",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289348#reply36",
+      "title": "V 站騒友们，晒一下你们的跑步装备唄",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289369#reply33",
+      "title": "一小段 js 代码翻译成 Python 或者 C#，谢谢了",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289273#reply33",
+      "title": "iOS 面试中，问哪些问题可以判断出开发人员的水平？",
+      "score": "33"
+    }
+  ]
+}
