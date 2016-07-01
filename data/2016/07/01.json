@@ -1,0 +1,262 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12012048",
+      "title": "Rails 5.0: Action Cable, API mode, and more",
+      "score": "611"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12014075",
+      "title": "Servo Nightly Builds Available",
+      "score": "374"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12013264",
+      "title": "DuckDuckGo announces partnership with Yahoo",
+      "score": "363"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12015388",
+      "title": "Home Computers Connected to the Internet Aren't Private, Court Rules",
+      "score": "319"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12011703",
+      "title": "Adnan Syed, of ‘Serial’ Podcast, Gets a Retrial in Murder Case",
+      "score": "241"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12008790",
+      "title": "Why Continuing to Work Is Good for a Man’s Health",
+      "score": "194"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12012924",
+      "title": "Zenefits Loses Over Half of Its Value",
+      "score": "179"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12014860",
+      "title": "Lists of JavaScript methods which you can use natively",
+      "score": "176"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12016011",
+      "title": "Google collects metadata (phone calls, SMS) from Android phones",
+      "score": "161"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12014663",
+      "title": "Show HN: Randomly generated metal riffs using Web Audio API and React",
+      "score": "104"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qo3pi/musical_chord_progression_arpeggiator_be_sure_to/",
+      "title": "Musical Chord Progression Arpeggiator (be sure to hit the play button at the bottom)",
+      "score": "320"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qq708/servo_nightly_builds_available/",
+      "title": "Servo Nightly Builds Available",
+      "score": "167"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qmr3t/state_of_rust_survey_2016/",
+      "title": "State of Rust Survey 2016",
+      "score": "104"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qq5dw/rusty_russels_api_design_manifesto_a_good_api/",
+      "title": "Rusty Russel's API Design Manifesto: a good API must be hard to misuse",
+      "score": "87"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qqvev/final_features_of_c17/",
+      "title": "Final features of C++17",
+      "score": "89"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qpzpw/american_fuzzy_lop_an_opensource_security/",
+      "title": "&quot;american fuzzy lop&quot;: an open-source security fuzz-testing tool, used to find bugs in many different programs",
+      "score": "63"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qqubj/startencrypt_api_critical_security_bug_allowed/",
+      "title": "StartEncrypt API critical security bug allowed issuing SSL certificates for google.com and other domains",
+      "score": "62"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qmry7/jvm_languages_news_kotlin_103_released/",
+      "title": "JVM Languages News: Kotlin 1.0.3 released",
+      "score": "49"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qrd7p/how_oracles_business_as_usual_is_threatening_to/",
+      "title": "How Oracle’s business as usual is threatening to kill Java",
+      "score": "70"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qpwck/don_knuth_the_analysis_of_algorithms_dek_reenacts/",
+      "title": "Don Knuth: The Analysis of Algorithms (DEK reenacts his first Stanford lecture)",
+      "score": "43"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Westeros is Poorly Designed",
+      "score": "261",
+      "url": "https://medium.com/p/westeros-is-poorly-designed-3b01cf5cdcaf"
+    },
+    {
+      "title": "NBA Free-Agency Rumor and Analysis Roundup",
+      "score": "85",
+      "url": "https://medium.com/p/live-blog-nba-free-agency-2016-rumors-analysis-bd0221b65c5e"
+    },
+    {
+      "title": "You in 6 seconds: how to write a résumé that employers will actually read",
+      "score": "540",
+      "url": "https://medium.com/p/you-in-6-seconds-how-to-write-a-résumé-that-employers-will-actually-read-fd7757740802"
+    },
+    {
+      "title": "What k-pop can teach us about design",
+      "score": "863",
+      "url": "https://medium.com/p/what-k-pop-can-teach-us-about-design-6253a85f469c"
+    },
+    {
+      "title": "How I Sold My Company to Twitter, Went to Facebook, and Screwed My Co-Founders",
+      "score": "268",
+      "url": "https://medium.com/p/tuesday-april-5-2011-6c783a5dce42"
+    },
+    {
+      "title": "Negative Proof",
+      "score": "302",
+      "url": "https://medium.com/p/negative-proof-e10f21375cdc"
+    },
+    {
+      "title": "Dear advertisers: It’s time to stop supporting BuzzFeed Video",
+      "score": "252",
+      "url": "https://medium.com/p/dear-advertisers-its-time-to-stop-supporting-buzzfeed-video-10f1f423a645"
+    },
+    {
+      "title": "Don’t Say You Are An Entrepreneur",
+      "score": "406",
+      "url": "https://medium.com/p/dont-say-you-are-an-entrepreneur-3332573ac15a"
+    },
+    {
+      "title": "Finding Time to Become a Better Developer",
+      "score": "1133",
+      "url": "https://medium.com/p/finding-time-to-become-a-better-developer-eebc154881b2"
+    },
+    {
+      "title": "Love Will Be the Death of Us",
+      "score": "2170",
+      "url": "https://medium.com/p/love-will-be-the-death-of-us-7baa690dcd0"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/alibaba/weex",
+      "title": "alibaba/weex: A framework for building Mobile cross-platform UI",
+      "score": "329"
+    },
+    {
+      "url": "https://github.com/olistic/warriorjs",
+      "title": "olistic/warriorjs: Game written in JavaScript for learning JavaScript and artificial intelligence.",
+      "score": "189"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "593"
+    },
+    {
+      "url": "https://github.com/juliangarnier/anime",
+      "title": "juliangarnier/anime: Javascript Animation Engine",
+      "score": "500"
+    },
+    {
+      "url": "https://github.com/toddmotto/public-apis",
+      "title": "toddmotto/public-apis: A collective list of public JSON APIs for use in web development.",
+      "score": "341"
+    },
+    {
+      "url": "https://github.com/emirpasic/gods",
+      "title": "emirpasic/gods: Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet, TreeSet, ArrayList, SinglyLinkedList, DoublyLinkedList, LinkedListStack, ArrayStack, HashMap, TreeMap, HashBidiMap, RedBlackTree, BinaryHeap, Comparator, Iterator, Enumerable, Sort",
+      "score": "279"
+    },
+    {
+      "url": "https://github.com/guarinogabriel/mac-cli",
+      "title": "guarinogabriel/mac-cli:  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.",
+      "score": "266"
+    },
+    {
+      "url": "https://github.com/monkberry/monkberry",
+      "title": "monkberry/monkberry: Monkberry is a JavaScript library for building web user interfaces",
+      "score": "261"
+    },
+    {
+      "url": "https://github.com/zonination/investing",
+      "title": "zonination/investing: Investing Returns on the Market as a Whole",
+      "score": "240"
+    },
+    {
+      "url": "https://github.com/open-source-society/data-science",
+      "title": "open-source-society/data-science:  Path to a free self-taught education in Data Science!",
+      "score": "193"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/289596#reply224",
+      "title": "番茄土豆小卖部上线了！回贴赢取免费 T 恤和笔记本！",
+      "score": "224"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289522#reply65",
+      "title": "游戏个人开发走向末路，光淀肿菊还是赢了",
+      "score": "65"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289582#reply60",
+      "title": "黑苹果是去电脑城配还是某宝上买",
+      "score": "60"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289603#reply57",
+      "title": "Android 开发应届生入职，感觉上班像上坟",
+      "score": "57"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289583#reply45",
+      "title": "Rails 出 5.0 了",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289580#reply43",
+      "title": "上週出了一套很基礎的 Objective-C 面試題，被吐槽說有點為難面試者了，有興趣的來做做吧～",
+      "score": "43"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289521#reply34",
+      "title": "我来吐个槽吧",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289551#reply29",
+      "title": "HTTP API 测试工具求推荐",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289574#reply27",
+      "title": "有两台闲置的 macbook, 能一起做哪些好玩的事情呢? 有什么建议",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289512#reply26",
+      "title": "google 输入法是不是停止更新了，这个项目放弃了么？现在还能用 google 输入法吗？",
+      "score": "26"
+    }
+  ]
+}
