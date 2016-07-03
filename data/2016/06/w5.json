@@ -1,0 +1,210 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12004866",
+      "title": "The Daredevil Camera",
+      "score": 1287
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11979492",
+      "title": "The “Cobra Effect” that is disabling paste on password fields",
+      "score": 911
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11987032",
+      "title": "New Cities",
+      "score": 885
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11986705",
+      "title": "Announcing .NET Core 1.0",
+      "score": 715
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12012048",
+      "title": "Rails 5.0: Action Cable, API mode, and more",
+      "score": 654
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12015388",
+      "title": "Home Computers Connected to the Internet Aren't Private, Court Rules",
+      "score": 621
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12001320",
+      "title": "Investing Returns on the S&P500",
+      "score": 612
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11994405",
+      "title": "Languages Which Almost Became CSS",
+      "score": 582
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=11998774",
+      "title": "How to Compromise the Enterprise Endpoint",
+      "score": 549
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12016568",
+      "title": "Ask HN: Who is hiring? (July 2016)",
+      "score": 533
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qkhwf/google_finds_10_buffer_overflows_in_windows/",
+      "title": "Google finds 10 buffer overflows in Windows kernel font handling",
+      "score": 2685
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qf539/dmca_notices_nuke_8268_projects_on_github/",
+      "title": "DMCA Notices Nuke 8,268 Projects on Github",
+      "score": 2064
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4q3xoq/net_core_10_has_been_released/",
+      "title": ".NET Core 1.0 Has Been Released",
+      "score": 1758
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qrd7p/how_oracles_business_as_usual_is_threatening_to/",
+      "title": "How Oracle’s business as usual is threatening to kill Java",
+      "score": 1290
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pwh2l/calcasm_is_minimal_arithmetic_calculator_in_x86/",
+      "title": "Calc.asm is minimal arithmetic calculator in x86 assembly with properly commented code for beginners.",
+      "score": 1225
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4pziho/a_zfs_developers_analysis_of_apples_new_apfs_file/",
+      "title": "A ZFS developer’s analysis of Apple’s new APFS file system",
+      "score": 954
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4q1fho/this_guy_does_case_studies_of_specific_shaders/",
+      "title": "This guy does case studies of specific shaders from well known games and they're awesome.",
+      "score": 897
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4q9w22/ms16039_windows_10_64_bits_integer_overflow/",
+      "title": "MS16-039 – “Windows 10” 64 bits Integer Overflow exploitation by using GDI objects",
+      "score": 795
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qwupq/learn_postgresql_by_doing/",
+      "title": "Learn PostgreSQL by doing",
+      "score": 711
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ptdt6/build_your_first_thing_with_webassembly/",
+      "title": "Build Your First Thing With WebAssembly",
+      "score": 483
+    }
+  ],
+  "medium": [
+    {
+      "title": "The Sad State of Web Development",
+      "score": 4088,
+      "url": "https://medium.com/p/the-sad-state-of-web-development-1603a861d29f"
+    },
+    {
+      "title": "I am sorry",
+      "score": 3743,
+      "url": "https://medium.com/p/i-am-sorry-c2751286635c"
+    },
+    {
+      "title": "Why Most People Will Never Be Successful",
+      "score": 2527,
+      "url": "https://medium.com/p/why-most-people-will-never-be-successful-aa52e333a59c"
+    },
+    {
+      "title": "Love Will Be the Death of Us",
+      "score": 2201,
+      "url": "https://medium.com/p/love-will-be-the-death-of-us-7baa690dcd0"
+    },
+    {
+      "title": "Coding Is Over",
+      "score": 2052,
+      "url": "https://medium.com/p/coding-is-over-6d653abe8da8"
+    },
+    {
+      "title": "8 Programs to Help You Learn—No School Required",
+      "score": 1916,
+      "url": "https://medium.com/p/8-programs-to-help-you-learn-no-school-required-d6658612bf2e"
+    },
+    {
+      "title": "How Google is Remaking Itself as a “Machine Learning First” Company",
+      "score": 1576,
+      "url": "https://medium.com/p/how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70"
+    },
+    {
+      "title": "Finding Time to Become a Better Developer",
+      "score": 1550,
+      "url": "https://medium.com/p/finding-time-to-become-a-better-developer-eebc154881b2"
+    },
+    {
+      "title": "Why Disconnecting From The Internet Improves Your Focus",
+      "score": 1516,
+      "url": "https://medium.com/p/why-disconnecting-from-the-internet-improves-your-focus-167a824c3bb5"
+    },
+    {
+      "title": "How to Use the “5 Hour Rule” to Radically Improve Your Intelligence and Success",
+      "score": 1307,
+      "url": "https://medium.com/p/how-to-use-the-5-hour-rule-to-radically-improve-your-intelligence-and-success-c3343b0ef232"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/289596#reply224",
+      "title": "番茄土豆小卖部上线了！回贴赢取免费 T 恤和笔记本！",
+      "score": 309
+    },
+    {
+      "url": "https://www.v2ex.com/t/289012#reply260",
+      "title": "各位擅长写代码的童鞋，如果你现在突然拥有了够一辈子用的金钱，你接下来会选择什么行业/职业",
+      "score": 287
+    },
+    {
+      "url": "https://www.v2ex.com/t/289022#reply201",
+      "title": "我可能要加入一个曾经被我骂成狗屎的单位了......",
+      "score": 239
+    },
+    {
+      "url": "https://www.v2ex.com/t/288452#reply34",
+      "title": "打算干掉 W10, 彻底使用 linux, 请问安装之前我要备份好什么东西",
+      "score": 204
+    },
+    {
+      "url": "https://www.v2ex.com/t/288418#reply72",
+      "title": "大家有没有系统洁癖",
+      "score": 153
+    },
+    {
+      "url": "https://www.v2ex.com/t/288552#reply97",
+      "title": "win10 大家用着的感觉怎么样？",
+      "score": 140
+    },
+    {
+      "url": "https://www.v2ex.com/t/289006#reply117",
+      "title": "印象笔记真的越来越抠了",
+      "score": 121
+    },
+    {
+      "url": "https://www.v2ex.com/t/288763#reply80",
+      "title": "Steam 夏季特惠你们都入了啥？",
+      "score": 113
+    },
+    {
+      "url": "https://www.v2ex.com/t/288802#reply72",
+      "title": "暑假想勾引儿子学点计算机开发的知识，有啥好的点子吗？",
+      "score": 105
+    },
+    {
+      "url": "https://www.v2ex.com/t/288580#reply55",
+      "title": "iPhone 5S 的屏幕比 6/6S 高到不知道哪里去了",
+      "score": 100
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12022953",
+      "title": "PostgreSQL Exercises",
+      "score": "478"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12023397",
+      "title": "How I Cracked a Keylogger and Ended Up in Someone's Inbox",
+      "score": "382"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12024920",
+      "title": "Heavy Metal and Natural Language Processing",
+      "score": "143"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12025309",
+      "title": "Why is Python slow",
+      "score": "120"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12025674",
+      "title": "Rats free each other from cages (2011)",
+      "score": "102"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12024678",
+      "title": "Why Mozilla shouldn't copy Chrome's permission prompt for extensions",
+      "score": "87"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12024440",
+      "title": "Modern China Is So Crazy It Needs a New Literary Genre",
+      "score": "79"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12024984",
+      "title": "GUN Unifont Glyphs",
+      "score": "56"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12024734",
+      "title": "The Illicit Perks of the M.D. Club",
+      "score": "56"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12024794",
+      "title": "Why You Should Try tmux Instead of screen",
+      "score": "51"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4r0shl/how_i_cracked_a_keylogger_and_ended_up_in/",
+      "title": "How I Cracked a Keylogger and Ended Up in Someone's Inbox",
+      "score": "1915"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qxthq/how_aws_came_to_be/",
+      "title": "How AWS came to be",
+      "score": "206"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qxzo5/an_introduction_to_digital_signal_filtering_for/",
+      "title": "An Introduction to Digital Signal Filtering for Programmers (or, DSP with minimal math)",
+      "score": "78"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4r04d8/unambiguous_javascript_grammar_the_script_and/",
+      "title": "Unambiguous JavaScript Grammar - &quot;The Script and Module goal of ECMA262 have a grammatical ambiguity where some code can run in both goals, having the exact same source text, but produce different results&quot;.",
+      "score": "49"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qyzjg/exploring_elm_lang/",
+      "title": "Exploring Elm Lang",
+      "score": "45"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4r0li7/red_programming_language/",
+      "title": "Red Programming Language",
+      "score": "37"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qymr6/setup_net_core_on_ubuntu_1404_lts/",
+      "title": "Setup .NET Core on Ubuntu 14.04 LTS",
+      "score": "32"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qy0c7/oracle_must_pay_hp_3_billion/",
+      "title": "Oracle must pay HP $3 billion",
+      "score": "32"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4r064s/designing_a_platform_for_extensible_language/",
+      "title": "Designing a Platform for Extensible Language Development (x-post /r/openlang)",
+      "score": "27"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qxpyh/kubernetes_13_released/",
+      "title": "Kubernetes 1.3 released",
+      "score": "22"
+    }
+  ],
+  "medium": [
+    {
+      "title": "My Kid Learned More from Mario Maker than I Did from a Marketing Major",
+      "score": "926",
+      "url": "https://medium.com/p/my-kid-learned-more-from-mario-maker-than-i-did-from-a-marketing-major-4fb57d8a898a"
+    },
+    {
+      "title": "Three little dots.",
+      "score": "861",
+      "url": "https://medium.com/p/three-little-dots-f619d4893aff"
+    },
+    {
+      "title": "You in 6 seconds: how to write a résumé that employers will actually read",
+      "score": "1582",
+      "url": "https://medium.com/p/you-in-6-seconds-how-to-write-a-résumé-that-employers-will-actually-read-fd7757740802"
+    },
+    {
+      "title": "Tesla’s Autopilot Crash",
+      "score": "182",
+      "url": "https://medium.com/p/teslas-autopilot-crash-a6b921d40b2a"
+    },
+    {
+      "title": "How I Learned to Give Dieting the Middle Finger",
+      "score": "107",
+      "url": "https://medium.com/p/how-i-learned-to-give-dieting-the-middle-finger-f10741b1116d"
+    },
+    {
+      "title": "The Lakers’ Offseason Plan Actually Makes Sense",
+      "score": "104",
+      "url": "https://medium.com/p/lakers-sign-timofey-mozgov-luol-deng-2016-nba-free-agency-59da626f5a4e"
+    },
+    {
+      "title": "Building My $1,200 Hackintosh",
+      "score": "164",
+      "url": "https://medium.com/p/building-my-1-200-hackintosh-49a1a186241e"
+    },
+    {
+      "title": "On Telling Strange Men that I am Married",
+      "score": "202",
+      "url": "https://medium.com/p/on-telling-strange-men-that-i-am-married-3f2d2f72f220"
+    },
+    {
+      "title": "Thinking About Hillary — A Follow-up",
+      "score": "280",
+      "url": "https://medium.com/p/thinking-about-hillary-a-follow-up-2e01a963a632"
+    },
+    {
+      "title": "From Summly to Silicon Valley: The teen who sold his app for $30 million",
+      "score": "101",
+      "url": "https://medium.com/p/from-summly-to-silicon-valley-interview-with-nick-daloisio-who-sold-his-app-business-for-30-686a32ac1af8"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "447"
+    },
+    {
+      "url": "https://github.com/cht8687/You-Dont-Need-Lodash-Underscore",
+      "title": "cht8687/You-Dont-Need-Lodash-Underscore: Lists of Javascript methods which you can use natively",
+      "score": "218"
+    },
+    {
+      "url": "https://github.com/juliangarnier/anime",
+      "title": "juliangarnier/anime: Javascript Animation Engine",
+      "score": "178"
+    },
+    {
+      "url": "https://github.com/terwanerik/ScrollTrigger",
+      "title": "terwanerik/ScrollTrigger: Triggers classes on html elements based on the scroll position. Uses requestAnimationFrame so it doesn't jack the users scroll.",
+      "score": "172"
+    },
+    {
+      "url": "https://github.com/guarinogabriel/Mac-CLI",
+      "title": "guarinogabriel/Mac-CLI:  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.",
+      "score": "135"
+    },
+    {
+      "url": "https://github.com/alibaba/weex",
+      "title": "alibaba/weex: A framework for building Mobile cross-platform UI",
+      "score": "135"
+    },
+    {
+      "url": "https://github.com/olistic/warriorjs",
+      "title": "olistic/warriorjs: Game written in JavaScript for learning JavaScript and artificial intelligence.",
+      "score": "134"
+    },
+    {
+      "url": "https://github.com/usgov/forget-the-king",
+      "title": "usgov/forget-the-king: Tired of the king; time to let him know",
+      "score": "106"
+    },
+    {
+      "url": "https://github.com/getify/You-Dont-Know-JS",
+      "title": "getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.",
+      "score": "97"
+    },
+    {
+      "url": "https://github.com/MenaraSolutions/geographer",
+      "title": "MenaraSolutions/geographer: PHP library that knows how countries and cities are called in any language",
+      "score": "102"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/289944#reply89",
+      "title": "刚看到一条关于感冒的贴，推荐两个居家良药，顺便感慨一下国内的医疗知识匮乏",
+      "score": "89"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289920#reply48",
+      "title": "6s 氧化门，有中招的么",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289908#reply42",
+      "title": "CM 的系统，你们试过“加密手机”这个功能吗？",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289947#reply31",
+      "title": "有些网站的 [服务状态] 是怎么做的呢？",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289965#reply31",
+      "title": "「苹果中国区所有游戏需要广电总局审批才可上架」感觉前途一片灰暗",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289914#reply29",
+      "title": "这是一种黑 MAC 的新方式么？",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289970#reply27",
+      "title": "现在 3 年半的 PHP，中等薪资是多少啊？最近被前端工资打击了",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289938#reply25",
+      "title": "来讨论一下支付宝最近的那个 20 万的限制",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/289976#reply23",
+      "title": "长城宽带如何提高国际网速？",
+      "score": "23"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290006#reply22",
+      "title": "请问一下哪个 Python UI 好入门？",
+      "score": "22"
+    }
+  ]
+}
