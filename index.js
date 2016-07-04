@@ -29,11 +29,12 @@ import getMonthlyHeadline from './src/getMonthlyHeadline';
     console.log('weeklyHeadline wrote succeed')
   }
 
-  // generate monthly headline json file
+  generate monthly headline json file
   if (moment().date() === 7) {
-    // const month = moment().subtract(1, 'months').format('YYYY/MM')
-    // const monthlyHeadline = getMonthlyHeadline(month)
-    // fs.writeFileSync()
+    const month = moment().subtract(1, 'months').format('YYYY/MM')
+    console.log(month);
+    const monthlyHeadline = getMonthlyHeadline(month)
+    fs.writeFileSync(`./data/${month}/mm.json`, JSON.stringify(monthlyHeadline, null, 2))
   }
 
 })()
