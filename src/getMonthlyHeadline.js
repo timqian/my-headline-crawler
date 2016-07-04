@@ -6,11 +6,11 @@
  */
 
 import fs from 'fs'
-
+import getGithubMonthly from './getGithubMonthly'
 /**
  * @param {String} yearMonth (eg: '2016/05')
  */
-function getMonthlyHeadline(yearMonth) {
+async function getMonthlyHeadline(yearMonth) {
 
   // 所有 headline 聚集到同一个 object
   const weekHeadlines = fs.readdirSync(`./data/${yearMonth}`)
@@ -44,7 +44,10 @@ function getMonthlyHeadline(yearMonth) {
       // 拿 10 个
       weekHeadlines[site].splice(10)
     })
-
+    console.log('going to fetch github monthly headline')
+    // github
+    weekHeadlines.github = await getGithubMonthly()
+    console.log(weekHeadlines)
     return weekHeadlines
 }
 

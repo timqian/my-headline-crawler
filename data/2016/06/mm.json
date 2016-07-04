@@ -206,5 +206,57 @@
       "title": "恍惚又是一年高考，如果再选择一次专业和工作方向，不考虑太多现实因素，大家会怎么选？",
       "score": 199
     }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "18941"
+    },
+    {
+      "url": "https://github.com/git-tips/tips",
+      "title": "git-tips/tips: Most commonly used git tips and tricks.",
+      "score": "7131"
+    },
+    {
+      "url": "https://github.com/juliangarnier/anime",
+      "title": "juliangarnier/anime: Javascript Animation Engine",
+      "score": "5870"
+    },
+    {
+      "url": "https://github.com/guarinogabriel/Mac-CLI",
+      "title": "guarinogabriel/Mac-CLI:  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.",
+      "score": "4701"
+    },
+    {
+      "url": "https://github.com/getify/You-Dont-Know-JS",
+      "title": "getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.",
+      "score": "4472"
+    },
+    {
+      "url": "https://github.com/chmln/flatpickr",
+      "title": "chmln/flatpickr: lightweight, powerful datetimepicker. zero dependencies",
+      "score": "3302"
+    },
+    {
+      "url": "https://github.com/kataras/iris",
+      "title": "kataras/iris: The fastest web framework for Go on (THIS) earth",
+      "score": "2991"
+    },
+    {
+      "url": "https://github.com/algolia/places",
+      "title": "algolia/places:  Turn any &lt;input&gt; into an address autocomplete",
+      "score": "2818"
+    },
+    {
+      "url": "https://github.com/sahat/megaboilerplate",
+      "title": "sahat/megaboilerplate: Handcrafted starter projects, optimized for simplicity and ease of use.",
+      "score": "2742"
+    },
+    {
+      "url": "https://github.com/joshbuchea/HEAD",
+      "title": "joshbuchea/HEAD: A list of everything that could go in the &lt;head&gt; of your document",
+      "score": "2689"
+    }
   ]
 }

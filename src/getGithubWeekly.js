@@ -1,13 +1,13 @@
-import axios from '../utils/aaxios.js';
+import axios from './utils/aaxios.js';
 
 /**
 * sample return: [{title:.., url:..},..]
 */
 async function getHN() {
   const linkArray = [];
-  const res = await axios.get("https://github.com/trending").catch( res => {throw res;} );
+  const res = await axios.get("https://github.com/trending?since=weekly").catch( res => {throw res;} );
   const html = res.data;
-  const regExp = /repo-list-name[\w\W]*?href="\/(.*?)"([\w\W]*?)repo-list-meta[\w\W]*?([,\d]{1,6})\sstars/ig;
+  const regExp = /repo-list-name[\w\W]*?href="\/(.*?)"([\w\W]*?)repo-list-meta[\w\W]*?(\d{1,6})\sstars/ig;
 
   // Finding successive matches. ref: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/exec#Finding_successive_matches
   let regRes;

@@ -3,7 +3,7 @@
     {
       "url": "https://news.ycombinator.com/item?id=12004866",
       "title": "The Daredevil Camera",
-      "score": 1287
+      "score": 1292
     },
     {
       "url": "https://news.ycombinator.com/item?id=11979492",
@@ -13,7 +13,7 @@
     {
       "url": "https://news.ycombinator.com/item?id=11987032",
       "title": "New Cities",
-      "score": 885
+      "score": 887
     },
     {
       "url": "https://news.ycombinator.com/item?id=11986705",
@@ -23,135 +23,135 @@
     {
       "url": "https://news.ycombinator.com/item?id=12012048",
       "title": "Rails 5.0: Action Cable, API mode, and more",
-      "score": 654
+      "score": 656
     },
     {
       "url": "https://news.ycombinator.com/item?id=12015388",
       "title": "Home Computers Connected to the Internet Aren't Private, Court Rules",
-      "score": 621
+      "score": 626
     },
     {
       "url": "https://news.ycombinator.com/item?id=12001320",
       "title": "Investing Returns on the S&P500",
-      "score": 612
+      "score": 615
     },
     {
       "url": "https://news.ycombinator.com/item?id=11994405",
       "title": "Languages Which Almost Became CSS",
-      "score": 582
+      "score": 583
     },
     {
       "url": "https://news.ycombinator.com/item?id=11998774",
       "title": "How to Compromise the Enterprise Endpoint",
-      "score": 549
+      "score": 551
     },
     {
       "url": "https://news.ycombinator.com/item?id=12016568",
       "title": "Ask HN: Who is hiring? (July 2016)",
-      "score": 533
+      "score": 541
     }
   ],
   "reddit": [
     {
       "url": "https://www.reddit.com/r/programming/comments/4qkhwf/google_finds_10_buffer_overflows_in_windows/",
       "title": "Google finds 10 buffer overflows in Windows kernel font handling",
-      "score": 2685
+      "score": 2689
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4qf539/dmca_notices_nuke_8268_projects_on_github/",
       "title": "DMCA Notices Nuke 8,268 Projects on Github",
-      "score": 2064
+      "score": 2073
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4q3xoq/net_core_10_has_been_released/",
       "title": ".NET Core 1.0 Has Been Released",
-      "score": 1758
+      "score": 1757
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4qrd7p/how_oracles_business_as_usual_is_threatening_to/",
       "title": "How Oracle’s business as usual is threatening to kill Java",
-      "score": 1290
+      "score": 1288
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4pwh2l/calcasm_is_minimal_arithmetic_calculator_in_x86/",
       "title": "Calc.asm is minimal arithmetic calculator in x86 assembly with properly commented code for beginners.",
-      "score": 1225
+      "score": 1223
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4pziho/a_zfs_developers_analysis_of_apples_new_apfs_file/",
       "title": "A ZFS developer’s analysis of Apple’s new APFS file system",
-      "score": 954
+      "score": 953
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4q1fho/this_guy_does_case_studies_of_specific_shaders/",
       "title": "This guy does case studies of specific shaders from well known games and they're awesome.",
-      "score": 897
+      "score": 889
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4q9w22/ms16039_windows_10_64_bits_integer_overflow/",
       "title": "MS16-039 – “Windows 10” 64 bits Integer Overflow exploitation by using GDI objects",
-      "score": 795
+      "score": 793
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4qwupq/learn_postgresql_by_doing/",
       "title": "Learn PostgreSQL by doing",
-      "score": 711
+      "score": 727
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4ptdt6/build_your_first_thing_with_webassembly/",
       "title": "Build Your First Thing With WebAssembly",
-      "score": 483
+      "score": 493
     }
   ],
   "medium": [
     {
       "title": "The Sad State of Web Development",
-      "score": 4088,
+      "score": 4093,
       "url": "https://medium.com/p/the-sad-state-of-web-development-1603a861d29f"
     },
     {
       "title": "I am sorry",
-      "score": 3743,
+      "score": 3767,
       "url": "https://medium.com/p/i-am-sorry-c2751286635c"
     },
     {
       "title": "Why Most People Will Never Be Successful",
-      "score": 2527,
+      "score": 2631,
       "url": "https://medium.com/p/why-most-people-will-never-be-successful-aa52e333a59c"
     },
     {
       "title": "Love Will Be the Death of Us",
-      "score": 2201,
+      "score": 2210,
       "url": "https://medium.com/p/love-will-be-the-death-of-us-7baa690dcd0"
     },
     {
       "title": "Coding Is Over",
-      "score": 2052,
+      "score": 2060,
       "url": "https://medium.com/p/coding-is-over-6d653abe8da8"
     },
     {
       "title": "8 Programs to Help You Learn—No School Required",
-      "score": 1916,
+      "score": 1930,
       "url": "https://medium.com/p/8-programs-to-help-you-learn-no-school-required-d6658612bf2e"
     },
     {
-      "title": "How Google is Remaking Itself as a “Machine Learning First” Company",
-      "score": 1576,
-      "url": "https://medium.com/p/how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70"
-    },
-    {
       "title": "Finding Time to Become a Better Developer",
-      "score": 1550,
+      "score": 1628,
       "url": "https://medium.com/p/finding-time-to-become-a-better-developer-eebc154881b2"
     },
     {
+      "title": "How Google is Remaking Itself as a “Machine Learning First” Company",
+      "score": 1589,
+      "url": "https://medium.com/p/how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70"
+    },
+    {
       "title": "Why Disconnecting From The Internet Improves Your Focus",
-      "score": 1516,
+      "score": 1552,
       "url": "https://medium.com/p/why-disconnecting-from-the-internet-improves-your-focus-167a824c3bb5"
     },
     {
       "title": "How to Use the “5 Hour Rule” to Radically Improve Your Intelligence and Success",
-      "score": 1307,
+      "score": 1316,
       "url": "https://medium.com/p/how-to-use-the-5-hour-rule-to-radically-improve-your-intelligence-and-success-c3343b0ef232"
     }
   ],
@@ -159,7 +159,7 @@
     {
       "url": "https://www.v2ex.com/t/289596#reply224",
       "title": "番茄土豆小卖部上线了！回贴赢取免费 T 恤和笔记本！",
-      "score": 309
+      "score": 313
     },
     {
       "url": "https://www.v2ex.com/t/289012#reply260",
@@ -169,12 +169,12 @@
     {
       "url": "https://www.v2ex.com/t/289022#reply201",
       "title": "我可能要加入一个曾经被我骂成狗屎的单位了......",
-      "score": 239
+      "score": 242
     },
     {
       "url": "https://www.v2ex.com/t/288452#reply34",
       "title": "打算干掉 W10, 彻底使用 linux, 请问安装之前我要备份好什么东西",
-      "score": 204
+      "score": 205
     },
     {
       "url": "https://www.v2ex.com/t/288418#reply72",
@@ -197,14 +197,66 @@
       "score": 113
     },
     {
+      "url": "https://www.v2ex.com/t/289812#reply38",
+      "title": "不吹不黑，网易云音乐、QQ 音乐、虾米音乐，到底哪家会员更值得买？",
+      "score": 110
+    },
+    {
       "url": "https://www.v2ex.com/t/288802#reply72",
       "title": "暑假想勾引儿子学点计算机开发的知识，有啥好的点子吗？",
       "score": 105
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/juliangarnier/anime",
+      "title": "juliangarnier/anime: Javascript Animation Engine",
+      "score": "870"
     },
     {
-      "url": "https://www.v2ex.com/t/288580#reply55",
-      "title": "iPhone 5S 的屏幕比 6/6S 高到不知道哪里去了",
-      "score": 100
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "216"
+    },
+    {
+      "url": "https://github.com/guarinogabriel/Mac-CLI",
+      "title": "guarinogabriel/Mac-CLI:  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.",
+      "score": "239"
+    },
+    {
+      "url": "https://github.com/open-source-society/data-science",
+      "title": "open-source-society/data-science:  Path to a free self-taught education in Data Science!",
+      "score": "512"
+    },
+    {
+      "url": "https://github.com/alibaba/weex",
+      "title": "alibaba/weex: A framework for building Mobile cross-platform UI",
+      "score": "920"
+    },
+    {
+      "url": "https://github.com/olistic/warriorjs",
+      "title": "olistic/warriorjs: Game written in JavaScript for learning JavaScript and artificial intelligence.",
+      "score": "811"
+    },
+    {
+      "url": "https://github.com/leonar15/startup-checklist",
+      "title": "leonar15/startup-checklist: A checklist for incorporation so you can get back to building your product, fundraising, etc.",
+      "score": "551"
+    },
+    {
+      "url": "https://github.com/getify/You-Dont-Know-JS",
+      "title": "getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.",
+      "score": "452"
+    },
+    {
+      "url": "https://github.com/cht8687/You-Dont-Need-Lodash-Underscore",
+      "title": "cht8687/You-Dont-Need-Lodash-Underscore: Lists of Javascript methods which you can use natively",
+      "score": "313"
+    },
+    {
+      "url": "https://github.com/zonination/investing",
+      "title": "zonination/investing: Investing Returns on the Market as a Whole",
+      "score": "267"
     }
   ]
 }

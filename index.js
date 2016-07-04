@@ -5,13 +5,13 @@ import moment from 'moment'
 import getDailyHeadline from './src/getDailyHeadline'
 import getAllHeadlineOfRange from './src/getAllHeadlineOfRange'
 import getMonthlyHeadline from './src/getMonthlyHeadline';
-
+import getGithubWeekly from './src/getGithubWeekly';
 (async () => {
 
   // generate daily headline json file
   const dailyHeadline = await getDailyHeadline()
   fs.writeFileSync(`./data/${moment().format('YYYY/MM/DD')}.json`, JSON.stringify(dailyHeadline, null, 2), 'utf8')
-  console.log('write dailyHeadline succeed')
+  console.log('write dailyHeadline succeed!')
 
   // generate weekly headline json file
   // 周日在哪个月，这周就算哪个月的
@@ -24,9 +24,10 @@ import getMonthlyHeadline from './src/getMonthlyHeadline';
     const toDate = moment().day(-1).format('YYYY/MM/DD')
     console.log(`from ${fromDate} to ${toDate}`)
     const weeklyHeadline = await getAllHeadlineOfRange(fromDate, toDate, 10)
-    console.log('weeklyHeadline: ', weeklyHeadline)
+    console.log('going to get github weekly headline');
+    weeklyHeadline.github = await getGithubWeekly()
     fs.writeFileSync(fileName, JSON.stringify(weeklyHeadline, null, 2), 'utf8')
-    console.log('weeklyHeadline wrote succeed')
+    console.log('weeklyHeadline wrote succeed!')
   }
 
   // generate monthly headline json file
@@ -35,6 +36,7 @@ import getMonthlyHeadline from './src/getMonthlyHeadline';
     console.log(month);
     const monthlyHeadline = getMonthlyHeadline(month)
     fs.writeFileSync(`./data/${month}/mm.json`, JSON.stringify(monthlyHeadline, null, 2))
+    console.log('monthly wrote succeed!')
   }
 
 })()
