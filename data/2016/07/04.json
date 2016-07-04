@@ -3,260 +3,260 @@
     {
       "url": "https://news.ycombinator.com/item?id=12027055",
       "title": "Brian Eno: We've been living happily with AI for thousands of years",
-      "score": "225"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12026614",
-      "title": "Researchers use light to coax stem cells to repair teeth (2014)",
-      "score": "205"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12025674",
-      "title": "Rats free each other from cages (2011)",
-      "score": "196"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12027731",
-      "title": "Integer percentages as fingerprints of electoral falsification",
-      "score": "181"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12026830",
-      "title": "He Was a Hacker for the NSA and He Was Willing to Talk. I Was Willing to Listen",
-      "score": "151"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12028263",
-      "title": "Fatigue Is a Brain-Derived Emotion that Regulates to Ensure Protection (2012)",
-      "score": "118"
+      "score": "325"
     },
     {
       "url": "https://news.ycombinator.com/item?id=12028475",
       "title": "Ruma, a Matrix homeserver written in Rust",
-      "score": "114"
+      "score": "250"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=12026879",
-      "title": "Bit Twiddling Hacks (2005)",
-      "score": "108"
+      "url": "https://news.ycombinator.com/item?id=12030296",
+      "title": "Felony – An open-source PGP keychain",
+      "score": "239"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=12026864",
-      "title": "Homeless in Seattle: The roots of a crisis",
-      "score": "105"
+      "url": "https://news.ycombinator.com/item?id=12026614",
+      "title": "Researchers use light to coax stem cells to repair teeth (2014)",
+      "score": "227"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12025674",
+      "title": "Rats free each other from cages (2011)",
+      "score": "216"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12028263",
+      "title": "Fatigue Is a Brain-Derived Emotion that Regulates to Ensure Protection (2012)",
+      "score": "212"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12029321",
+      "title": "ABI vs. API (2004)",
+      "score": "210"
     },
     {
       "url": "https://news.ycombinator.com/item?id=12026391",
       "title": "E-mail from Bill (1994)",
-      "score": "103"
+      "score": "159"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12029527",
+      "title": "Trust in Government Is Collapsing Around the World",
+      "score": "144"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12029480",
+      "title": "Death of M. Rocard, former French PM, hero in the fight against software patents",
+      "score": "140"
     }
   ],
   "reddit": [
     {
       "url": "https://www.reddit.com/r/programming/comments/4r34j6/ms_dos_1x_assembly_source_the_modest_beginnings/",
       "title": "MS DOS 1.x assembly source: the modest beginnings of an empire.",
-      "score": "198"
+      "score": "403"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4r5o6g/interesting_game_on_kickstarter_where_you_can/",
+      "title": "Interesting game on kickstarter where you can code your own ship's systems",
+      "score": "377"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4r3mvb/vs_code_insiders_edition_got_tabs_and_across/",
       "title": "VS Code (insiders edition) got tabs and across files find&amp;replace capabilities",
-      "score": "61"
+      "score": "111"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4r6r8e/abi_vs_api/",
+      "title": "ABI vs. API",
+      "score": "97"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4r5crj/libphone_my_open_source_library_supports_write/",
+      "title": "libphone - My open source library supports write app in C language, write once target both iOS and Android.",
+      "score": "86"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4r2dbo/why_you_should_try_tmux_instead_of_screen/",
       "title": "Why You Should Try tmux Instead of screen",
-      "score": "58"
+      "score": "88"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4r6nus/if_you_can_write_for_loops_you_can_do_statistics/",
+      "title": "&quot;If you can write for loops, you can do statistics.&quot; (Jake Vanderplas: Statistics for Hackers @ PyCon 2016)",
+      "score": "72"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4r2gtn/in_praise_of_function_pre_and_postconditions/",
       "title": "In Praise of Function Pre and Postconditions",
-      "score": "46"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4r1d5j/why_is_python_slow/",
-      "title": "Why is Python slow",
-      "score": "43"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4r1ukk/x8664_machinelevel_programming_pdf/",
-      "title": "x86-64 Machine-Level Programming [pdf]",
-      "score": "31"
+      "score": "54"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4r4cwj/vulcanus_my_first_big_project_compiling_web_stuff/",
       "title": "Vulcanus - my first big project - compiling Web stuff into (semi-)native, cross-platform apps",
-      "score": "24"
+      "score": "44"
     },
     {
-      "url": "https://www.reddit.com/r/programming/comments/4r3nzm/quick_modern_object_pascal_for_programmers/",
-      "title": "Quick Modern Object Pascal for Programmers",
-      "score": "24"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4r37oq/a_critique_of_the_programming_language_j/",
-      "title": "A Critique of The Programming Language J",
-      "score": "18"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4r17nk/heavy_metal_and_natural_language_processing/",
-      "title": "Heavy Metal and Natural Language Processing",
-      "score": "18"
+      "url": "https://www.reddit.com/r/programming/comments/4r4e4w/coreclr_working_through_things_on_other_oss/",
+      "title": "CoreCLR - Working through things on other OSs",
+      "score": "42"
     }
   ],
   "medium": [
     {
-      "title": "How I Learned to Give Dieting the Middle Finger",
-      "score": "216",
-      "url": "https://medium.com/p/how-i-learned-to-give-dieting-the-middle-finger-f10741b1116d"
-    },
-    {
       "title": "Building My $1,200 Hackintosh",
-      "score": "499",
+      "score": "717",
       "url": "https://medium.com/p/building-my-1-200-hackintosh-49a1a186241e"
     },
     {
+      "title": "How I Learned to Give Dieting the Middle Finger",
+      "score": "244",
+      "url": "https://medium.com/p/how-i-learned-to-give-dieting-the-middle-finger-f10741b1116d"
+    },
+    {
       "title": "On Telling Strange Men that I am Married",
-      "score": "381",
+      "score": "433",
       "url": "https://medium.com/p/on-telling-strange-men-that-i-am-married-3f2d2f72f220"
     },
     {
-      "title": "My Kid Learned More from Mario Maker than I Did from a Marketing Major",
-      "score": "1122",
-      "url": "https://medium.com/p/my-kid-learned-more-from-mario-maker-than-i-did-from-a-marketing-major-4fb57d8a898a"
-    },
-    {
-      "title": "You in 6 seconds: how to write a résumé that employers will actually read",
-      "score": "1778",
-      "url": "https://medium.com/p/you-in-6-seconds-how-to-write-a-résumé-that-employers-will-actually-read-fd7757740802"
-    },
-    {
-      "title": "Three little dots.",
-      "score": "1059",
-      "url": "https://medium.com/p/three-little-dots-f619d4893aff"
-    },
-    {
-      "title": "The Lakers’ Offseason Plan Actually Makes Sense",
-      "score": "131",
-      "url": "https://medium.com/p/lakers-sign-timofey-mozgov-luol-deng-2016-nba-free-agency-59da626f5a4e"
-    },
-    {
-      "title": "Thinking About Hillary — A Follow-up",
-      "score": "358",
-      "url": "https://medium.com/p/thinking-about-hillary-a-follow-up-2e01a963a632"
-    },
-    {
       "title": "From Summly to Silicon Valley: The teen who sold his app for $30 million",
-      "score": "150",
+      "score": "202",
       "url": "https://medium.com/p/from-summly-to-silicon-valley-interview-with-nick-daloisio-who-sold-his-app-business-for-30-686a32ac1af8"
     },
     {
       "title": "Al Horford Is Shipping Up to Boston — Will KD Join Him?",
-      "score": "94",
+      "score": "117",
       "url": "https://medium.com/p/al-horford-is-shipping-up-to-boston-will-kd-join-him-e978d907e66"
+    },
+    {
+      "title": "My Kid Learned More from Mario Maker than I Did from a Marketing Major",
+      "score": "1231",
+      "url": "https://medium.com/p/my-kid-learned-more-from-mario-maker-than-i-did-from-a-marketing-major-4fb57d8a898a"
+    },
+    {
+      "title": "Work/Life balance is bullshit.",
+      "score": "703",
+      "url": "https://medium.com/p/work-life-balance-is-bullshit-f51bf8b3767"
+    },
+    {
+      "title": "You in 6 seconds: how to write a résumé that employers will actually read",
+      "score": "1881",
+      "url": "https://medium.com/p/you-in-6-seconds-how-to-write-a-résumé-that-employers-will-actually-read-fd7757740802"
+    },
+    {
+      "title": "Thinking About Hillary — A Follow-up",
+      "score": "389",
+      "url": "https://medium.com/p/thinking-about-hillary-a-follow-up-2e01a963a632"
+    },
+    {
+      "title": "Three little dots.",
+      "score": "1176",
+      "url": "https://medium.com/p/three-little-dots-f619d4893aff"
     }
   ],
   "github": [
     {
-      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
-      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
-      "score": "494"
-    },
-    {
       "url": "https://github.com/impress/impress.js",
       "title": "impress/impress.js: It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.",
-      "score": "347"
+      "score": "548"
     },
     {
-      "url": "https://github.com/juliangarnier/anime",
-      "title": "juliangarnier/anime: Javascript Animation Engine",
-      "score": "204"
-    },
-    {
-      "url": "https://github.com/cht8687/You-Dont-Need-Lodash-Underscore",
-      "title": "cht8687/You-Dont-Need-Lodash-Underscore: Lists of Javascript methods which you can use natively",
-      "score": "190"
-    },
-    {
-      "url": "https://github.com/terwanerik/ScrollTrigger",
-      "title": "terwanerik/ScrollTrigger: Triggers classes on html elements based on the scroll position. Uses requestAnimationFrame so it doesn't jack the users scroll.",
-      "score": "167"
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "538"
     },
     {
       "url": "https://github.com/alibaba/weex",
       "title": "alibaba/weex: A framework for building Mobile cross-platform UI",
-      "score": "147"
+      "score": "286"
     },
     {
-      "url": "https://github.com/guarinogabriel/Mac-CLI",
-      "title": "guarinogabriel/Mac-CLI:  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.",
-      "score": "146"
+      "url": "https://github.com/juliangarnier/anime",
+      "title": "juliangarnier/anime: Javascript Animation Engine",
+      "score": "257"
+    },
+    {
+      "url": "https://github.com/cht8687/You-Dont-Need-Lodash-Underscore",
+      "title": "cht8687/You-Dont-Need-Lodash-Underscore: Lists of Javascript methods which you can use natively",
+      "score": "259"
+    },
+    {
+      "url": "https://github.com/terwanerik/ScrollTrigger",
+      "title": "terwanerik/ScrollTrigger: Triggers classes on html elements based on the scroll position. Uses requestAnimationFrame so it doesn't jack the users scroll.",
+      "score": "212"
     },
     {
       "url": "https://github.com/olistic/warriorjs",
       "title": "olistic/warriorjs: Game written in JavaScript for learning JavaScript and artificial intelligence.",
-      "score": "132"
+      "score": "192"
+    },
+    {
+      "url": "https://github.com/guarinogabriel/Mac-CLI",
+      "title": "guarinogabriel/Mac-CLI:  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.",
+      "score": "154"
+    },
+    {
+      "url": "https://github.com/adam-s/js-interview-review",
+      "title": "adam-s/js-interview-review: The JS interview review. As I'm reviewing several resources I've bookmarked on JavaScript development, I'll share them here.",
+      "score": "152"
     },
     {
       "url": "https://github.com/dzenbot/Iconic",
       "title": "dzenbot/Iconic: Auto-generated icon font library for iOS [beta]",
-      "score": "107"
-    },
-    {
-      "url": "https://github.com/getify/You-Dont-Know-JS",
-      "title": "getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.",
-      "score": "94"
+      "score": "153"
     }
   ],
   "v2ex": [
     {
-      "url": "https://www.v2ex.com/t/290096#reply82",
+      "url": "https://www.v2ex.com/t/290096#reply145",
       "title": "给大家看看我们学校 Java 课程第一课的作业",
-      "score": "82"
+      "score": "145"
     },
     {
-      "url": "https://www.v2ex.com/t/290105#reply50",
+      "url": "https://www.v2ex.com/t/290159#reply111",
+      "title": "什么样的网络公司名称才够高大上？",
+      "score": "111"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290149#reply89",
+      "title": "蜗牛游戏苏州裁员逼迫员工自己辞职",
+      "score": "89"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290105#reply83",
       "title": "腾讯云说我一小时用了 2.5TB 的流量",
-      "score": "50"
+      "score": "83"
     },
     {
-      "url": "https://www.v2ex.com/t/290060#reply33",
+      "url": "https://www.v2ex.com/t/290148#reply53",
+      "title": "Mac 下强大好用的 Markdown 编辑器 MWeb 2.0 版公开测试，感兴趣的朋友可以进来看看。",
+      "score": "53"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290060#reply51",
       "title": "程序员写技术博客的思路",
-      "score": "33"
+      "score": "51"
     },
     {
-      "url": "https://www.v2ex.com/t/290066#reply30",
-      "title": "在招聘中，招聘单位对某项技能要求精通。请问怎么理解精通？！",
-      "score": "30"
+      "url": "https://www.v2ex.com/t/290181#reply49",
+      "title": "PHP 是前端的范畴了？在大公司里面",
+      "score": "49"
     },
     {
-      "url": "https://www.v2ex.com/t/290065#reply27",
+      "url": "https://www.v2ex.com/t/290147#reply45",
+      "title": "今天接到网警打电话，说网警那边也需要备案个人网站站长信息 (除了工信部备案、公安备案又多一个了？)",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290065#reply37",
       "title": "关于 甲骨文要放弃不赚钱的 Java 各位客官如何看待",
-      "score": "27"
+      "score": "37"
     },
     {
-      "url": "https://www.v2ex.com/t/290071#reply18",
-      "title": "今天是不是 chrome 上的 lastpass 挂了呀",
-      "score": "18"
-    },
-    {
-      "url": "https://www.v2ex.com/t/290089#reply17",
-      "title": "基于 WiFi 探针的客流统计与考勤",
-      "score": "17"
-    },
-    {
-      "url": "https://www.v2ex.com/t/290115#reply17",
-      "title": "组队学习 VR AR 技术",
-      "score": "17"
-    },
-    {
-      "url": "https://www.v2ex.com/t/290074#reply15",
-      "title": "请问大神们， 360 和 qq 这里 ie 浏览器也是要用系统 ie 组件才能运行的吗？",
-      "score": "15"
-    },
-    {
-      "url": "https://www.v2ex.com/t/290092#reply14",
-      "title": "求教系统上线代码，回滚操作，除了 rsync 还有什么技术可以实现",
-      "score": "14"
+      "url": "https://www.v2ex.com/t/290066#reply36",
+      "title": "在招聘中，招聘单位对某项技能要求精通。请问怎么理解精通？！",
+      "score": "36"
     }
   ]
 }
