@@ -7,12 +7,12 @@
     },
     {
       "url": "https://news.ycombinator.com/item?id=11893153",
-      "title": "Microsoft to acquire LinkedIn for $26.2bn",
+      "title": "Microsoft to acquire LinkedIn for $26B",
       "score": 2047
     },
     {
       "url": "https://news.ycombinator.com/item?id=11893153",
-      "title": "Microsoft to acquire LinkedIn for $26B",
+      "title": "Microsoft to acquire LinkedIn for $26.2bn",
       "score": 2047
     },
     {
@@ -46,17 +46,12 @@
       "score": 1175
     },
     {
-      "url": "https://news.ycombinator.com/item?id=11787271",
-      "title": "All European scientific publicly funded articles to be freely accessible by 2020",
-      "score": 1167
+      "url": "https://news.ycombinator.com/item?id=11896785",
+      "title": "Apple File System",
+      "score": 1094
     }
   ],
   "reddit": [
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4lx3sh/stop_designing_languages_write_libraries_instead/",
-      "title": "&quot;Stop Designing Languages. Write Libraries Instead.&quot;",
-      "score": 2799
-    },
     {
       "url": "https://www.reddit.com/r/programming/comments/4oq3yd/a_blender_script_that_procedurally_generates_3d/",
       "title": "A blender script that procedurally generates 3D starships",
@@ -71,16 +66,6 @@
       "url": "https://www.reddit.com/r/programming/comments/4qf539/dmca_notices_nuke_8268_projects_on_github/",
       "title": "DMCA Notices Nuke 8,268 Projects on Github",
       "score": 2064
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4lr1tx/i_made_a_program_that_recognizes_rubiks_cube_and/",
-      "title": "I made a program that recognizes Rubik's cube and shows how to solve it using augmented reality",
-      "score": 1985
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4lo8k8/i_programmed_a_computer_vision_application_to/",
-      "title": "I programmed a computer vision application to solve algebra",
-      "score": 1905
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4q3xoq/net_core_10_has_been_released/",
@@ -98,9 +83,76 @@
       "score": 1486
     },
     {
-      "url": "https://www.reddit.com/r/programming/comments/4ljpd9/github_removes_streaks_for_good/",
-      "title": "Github removes Streaks for good",
-      "score": 1473
+      "url": "https://www.reddit.com/r/programming/comments/4n60mp/taking_over_17000_hosts_by_typosquatting_package/",
+      "title": "Taking over 17000 hosts by typosquatting package managers like PyPi or npmjs.com",
+      "score": 1454
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4mm8fj/aalto_university_and_the_university_of_helsinki/",
+      "title": "Aalto University and the University of Helsinki just released a C programming course for free!",
+      "score": 1396
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4nexot/how_nasa_writes_c_for_spacecraft_jpl/",
+      "title": "How NASA writes C for spacecraft: &quot;JPL Institutional Coding Standard for the C Programming Language&quot;",
+      "score": 1312
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4qrd7p/how_oracles_business_as_usual_is_threatening_to/",
+      "title": "How Oracle’s business as usual is threatening to kill Java",
+      "score": 1290
+    }
+  ],
+  "medium": [
+    {
+      "title": "Being A Developer After 40",
+      "url": "https://medium.com/p/being-a-developer-after-40-3c5dd112210c",
+      "score": 5240
+    },
+    {
+      "title": "The Sad State of Web Development",
+      "score": 4088,
+      "url": "https://medium.com/p/the-sad-state-of-web-development-1603a861d29f"
+    },
+    {
+      "title": "Do You Take Yourself Seriously?",
+      "url": "https://medium.com/p/do-you-take-yourself-seriously-704418a5f614",
+      "score": 4043
+    },
+    {
+      "title": "One does not simply learn to code",
+      "score": 3782,
+      "url": "https://medium.com/p/one-does-not-simply-learn-to-code-f25bacdc5b62"
+    },
+    {
+      "title": "The Ideal Design Workflow",
+      "url": "https://medium.com/p/the-ideal-design-workflow-2c200b8e337d",
+      "score": 3757
+    },
+    {
+      "title": "I am sorry",
+      "score": 3743,
+      "url": "https://medium.com/p/i-am-sorry-c2751286635c"
+    },
+    {
+      "title": "I was never raped, but when I was 11, the son of a family friend copped a feel whenever we were…",
+      "url": "https://medium.com/p/i-was-never-raped-but-when-i-was-11-the-son-of-a-family-friend-copped-a-feel-whenever-we-were-b2c95ea1fdeb",
+      "score": 3720
+    },
+    {
+      "title": "The 49 best free websites and apps to learn something new",
+      "score": 3608,
+      "url": "https://medium.com/p/the-49-best-free-websites-and-apps-to-learn-something-new-abfe69142d4b"
+    },
+    {
+      "title": "Do You Take Yourself Seriously?",
+      "url": "https://medium.com/p/do-you-take-yourself-seriously-704418a5f614",
+      "score": 3526
+    },
+    {
+      "title": "Stop Making Everything Perfect For Your Kid",
+      "url": "https://medium.com/p/stop-making-everything-perfect-for-your-kid-bfba8ccc70a7",
+      "score": 3301
     }
   ],
   "v2ex": [
