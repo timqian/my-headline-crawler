@@ -1,0 +1,262 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12040707",
+      "title": "Mental Models I Find Repeatedly Useful",
+      "score": "684"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12041210",
+      "title": "Excel: Error when CSV file starts with “I” and “D”",
+      "score": "224"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12041296",
+      "title": "Sharpest ever view of the Andromeda Galaxy",
+      "score": "209"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12040403",
+      "title": "Helpless to Prevent Cancer? Actually, Quite a Bit Is in Your Control",
+      "score": "204"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12041639",
+      "title": "Unpleasant Design",
+      "score": "199"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12042613",
+      "title": "See the things you’ve searched for, visited, and watched on Google services",
+      "score": "191"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12042687",
+      "title": "Inventor of the Kalman Filter, Rudolf Kálmán Dies Aged 86",
+      "score": "176"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12042078",
+      "title": "Let’s make peer review scientific",
+      "score": "166"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12042198",
+      "title": "Go’s march to low-latency GC",
+      "score": "157"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12039268",
+      "title": "Carp: a statically typed lisp, without a GC, for high performance applications",
+      "score": "148"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rgw0v/math_recursion_art/",
+      "title": "Math + Recursion = Art",
+      "score": "530"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rh4ou/gos_march_to_lowlatency_gc_twitch_blog/",
+      "title": "Go’s march to low-latency GC — Twitch Blog",
+      "score": "201"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rd85c/carp_a_statically_typed_lisp_without_a_gc_for/",
+      "title": "Carp - a statically typed Lisp, without a GC, for high performance applications",
+      "score": "103"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rfz30/rant_java_8_streams_are_too_little_too_late/",
+      "title": "Rant: Java 8 streams are too little too late",
+      "score": "37"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rfn07/avoidable_collection_mistakes_in_c/",
+      "title": "Avoidable Collection Mistakes in C#",
+      "score": "28"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4re0xs/wavelet_image_hash_in_python/",
+      "title": "Wavelet image hash in Python",
+      "score": "23"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rd9hi/structure_in_computergenerated_novels/",
+      "title": "&quot;Structure&quot; in Computer-Generated Novels",
+      "score": "18"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rhm76/an_introduction_to_volumetric_rendering_part_1/",
+      "title": "An Introduction to Volumetric Rendering (Part 1)",
+      "score": "21"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4re5v3/growing_objectoriented_software_guided_by_tests/",
+      "title": "Growing Object-Oriented Software, Guided by Tests Without Mocks",
+      "score": "17"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rdqzd/es5_objects_vs_es6_maps_the_differences_and/",
+      "title": "ES5 Objects vs. ES6 Maps – The differences and similarities",
+      "score": "17"
+    }
+  ],
+  "medium": [
+    {
+      "title": "The Kevin Durant Ripple Effect",
+      "score": "179",
+      "url": "https://medium.com/p/kevin-durant-warriors-superteam-league-changes-8ddef3b61f6"
+    },
+    {
+      "title": "Mental Models I Find Repeatedly Useful",
+      "score": "645",
+      "url": "https://medium.com/p/mental-models-i-find-repeatedly-useful-936f1cc405d"
+    },
+    {
+      "title": "Can You Build a Superteam to Beat the Warriors?",
+      "score": "123",
+      "url": "https://medium.com/p/building-a-super-team-to-beat-the-warriors-ad63f1f728eb"
+    },
+    {
+      "title": "Building My $1,200 Hackintosh",
+      "score": "1307",
+      "url": "https://medium.com/p/building-my-1-200-hackintosh-49a1a186241e"
+    },
+    {
+      "title": "Kevin Durant Was the Thunder, and Maybe That Was the Problem",
+      "score": "329",
+      "url": "https://medium.com/p/kevin-durant-was-the-thunder-and-maybe-that-was-the-problem-a47ae1e195d3"
+    },
+    {
+      "title": "Power to the People: How One Unknown Group of Researchers Holds the Key to Using AI to Solve Real…",
+      "score": "505",
+      "url": "https://medium.com/p/power-to-the-people-how-one-unknown-group-of-researchers-holds-the-key-to-using-ai-to-solve-real-cc9e75b1f334"
+    },
+    {
+      "title": "The Winners and Losers of Kevin Durant–to–Golden State",
+      "score": "255",
+      "url": "https://medium.com/p/kevin-durant-golden-state-warriors-winners-losers-4939246d508f"
+    },
+    {
+      "title": "Work/Life balance is bullshit.",
+      "score": "2042",
+      "url": "https://medium.com/p/work-life-balance-is-bullshit-f51bf8b3767"
+    },
+    {
+      "title": "Complexion Reduction: A New Trend in Mobile Design",
+      "score": "652",
+      "url": "https://medium.com/p/complexion-reduction-a-new-trend-in-mobile-design-cef033a0b978"
+    },
+    {
+      "title": "From Summly to Silicon Valley: The teen who sold his app for $30 million",
+      "score": "373",
+      "url": "https://medium.com/p/from-summly-to-silicon-valley-interview-with-nick-daloisio-who-sold-his-app-business-for-30-686a32ac1af8"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/vhf/free-programming-books",
+      "title": "vhf/free-programming-books:  Freely available programming books",
+      "score": "1324"
+    },
+    {
+      "url": "https://github.com/NamPNQ/You-Dont-Need-Javascript",
+      "title": "NamPNQ/You-Dont-Need-Javascript: Css is powerful, you can do a lot of things without js.",
+      "score": "1158"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "646"
+    },
+    {
+      "url": "https://github.com/henryboldi/felony",
+      "title": "henryboldi/felony:  Next Level PGP",
+      "score": "601"
+    },
+    {
+      "url": "https://github.com/lgtmco/lgtm",
+      "title": "lgtmco/lgtm: LGTM is a simple pull request approval system",
+      "score": "321"
+    },
+    {
+      "url": "https://github.com/Moeditor/Moeditor",
+      "title": "Moeditor/Moeditor: Your all-purpose markdown editor.",
+      "score": "311"
+    },
+    {
+      "url": "https://github.com/eriksvedang/Carp",
+      "title": "eriksvedang/Carp: a statically typed lisp, without a GC, for high performance applications",
+      "score": "271"
+    },
+    {
+      "url": "https://github.com/juliangarnier/anime",
+      "title": "juliangarnier/anime: Javascript Animation Engine",
+      "score": "255"
+    },
+    {
+      "url": "https://github.com/impress/impress.js",
+      "title": "impress/impress.js: It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.",
+      "score": "254"
+    },
+    {
+      "url": "https://github.com/techfort/LokiJS",
+      "title": "techfort/LokiJS: javascript embeddable / in-memory database",
+      "score": "235"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/290657#reply115",
+      "title": "高尔夫、骐达、帝豪 GS，请帮选",
+      "score": "115"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290611#reply111",
+      "title": "mac 自带的屏幕截图工具真是傻",
+      "score": "111"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290589#reply110",
+      "title": "口袋妖怪 GO 在 app store 澳区上线了！",
+      "score": "110"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290590#reply71",
+      "title": "9 月份要结婚了，求 V 友推荐个蜜月的好地方吧，暂时不考虑国内，谢谢啦",
+      "score": "71"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290552#reply62",
+      "title": "海外主机求推荐",
+      "score": "62"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290548#reply59",
+      "title": "图床神器 iPic，一边倒的好评，大家随意感受下~",
+      "score": "59"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290593#reply51",
+      "title": "发现 coding 不是一般好用",
+      "score": "51"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290606#reply41",
+      "title": "最新最全的城市三级联动插件",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290664#reply40",
+      "title": "求助，疑似成都电信劫持公共 DNS，并且无法解析大量国外.org /.net /.co /.com.xx 等域名",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290693#reply38",
+      "title": "工作两年了，不想上班了怎么办？",
+      "score": "38"
+    }
+  ]
+}
