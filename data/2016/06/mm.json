@@ -33,7 +33,7 @@
     {
       "url": "https://news.ycombinator.com/item?id=12004866",
       "title": "The Daredevil Camera",
-      "score": 1287
+      "score": 1292
     },
     {
       "url": "https://news.ycombinator.com/item?id=11909543",
@@ -60,17 +60,17 @@
     {
       "url": "https://www.reddit.com/r/programming/comments/4qkhwf/google_finds_10_buffer_overflows_in_windows/",
       "title": "Google finds 10 buffer overflows in Windows kernel font handling",
-      "score": 2685
+      "score": 2689
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4qf539/dmca_notices_nuke_8268_projects_on_github/",
       "title": "DMCA Notices Nuke 8,268 Projects on Github",
-      "score": 2064
+      "score": 2073
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4q3xoq/net_core_10_has_been_released/",
       "title": ".NET Core 1.0 Has Been Released",
-      "score": 1758
+      "score": 1757
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4oyd9w/what_all_can_you_do_with_a_single_div_element/",
@@ -100,7 +100,7 @@
     {
       "url": "https://www.reddit.com/r/programming/comments/4qrd7p/how_oracles_business_as_usual_is_threatening_to/",
       "title": "How Oracle’s business as usual is threatening to kill Java",
-      "score": 1290
+      "score": 1288
     }
   ],
   "medium": [
@@ -111,7 +111,7 @@
     },
     {
       "title": "The Sad State of Web Development",
-      "score": 4088,
+      "score": 4093,
       "url": "https://medium.com/p/the-sad-state-of-web-development-1603a861d29f"
     },
     {
@@ -125,14 +125,14 @@
       "url": "https://medium.com/p/one-does-not-simply-learn-to-code-f25bacdc5b62"
     },
     {
+      "title": "I am sorry",
+      "score": 3767,
+      "url": "https://medium.com/p/i-am-sorry-c2751286635c"
+    },
+    {
       "title": "The Ideal Design Workflow",
       "url": "https://medium.com/p/the-ideal-design-workflow-2c200b8e337d",
       "score": 3757
-    },
-    {
-      "title": "I am sorry",
-      "score": 3743,
-      "url": "https://medium.com/p/i-am-sorry-c2751286635c"
     },
     {
       "title": "I was never raped, but when I was 11, the son of a family friend copped a feel whenever we were…",
@@ -169,7 +169,7 @@
     {
       "url": "https://www.v2ex.com/t/289596#reply224",
       "title": "番茄土豆小卖部上线了！回贴赢取免费 T 恤和笔记本！",
-      "score": 309
+      "score": 313
     },
     {
       "url": "https://www.v2ex.com/t/289012#reply260",
@@ -179,7 +179,7 @@
     {
       "url": "https://www.v2ex.com/t/289022#reply201",
       "title": "我可能要加入一个曾经被我骂成狗屎的单位了......",
-      "score": 239
+      "score": 242
     },
     {
       "url": "https://www.v2ex.com/t/285736",
@@ -199,7 +199,7 @@
     {
       "url": "https://www.v2ex.com/t/288452#reply34",
       "title": "打算干掉 W10, 彻底使用 linux, 请问安装之前我要备份好什么东西",
-      "score": 204
+      "score": 205
     },
     {
       "url": "https://www.v2ex.com/t/283994",
@@ -209,54 +209,54 @@
   ],
   "github": [
     {
-      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
-      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
-      "score": "18941"
+      "url": "https://github.com/juliangarnier/anime",
+      "title": "juliangarnier/anime: Javascript Animation Engine",
+      "score": "6562"
     },
     {
       "url": "https://github.com/git-tips/tips",
       "title": "git-tips/tips: Most commonly used git tips and tricks.",
-      "score": "7131"
-    },
-    {
-      "url": "https://github.com/juliangarnier/anime",
-      "title": "juliangarnier/anime: Javascript Animation Engine",
-      "score": "5870"
+      "score": "5785"
     },
     {
       "url": "https://github.com/guarinogabriel/Mac-CLI",
       "title": "guarinogabriel/Mac-CLI:  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.",
-      "score": "4701"
+      "score": "5150"
     },
     {
       "url": "https://github.com/getify/You-Dont-Know-JS",
       "title": "getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.",
-      "score": "4472"
+      "score": "4633"
     },
     {
       "url": "https://github.com/chmln/flatpickr",
       "title": "chmln/flatpickr: lightweight, powerful datetimepicker. zero dependencies",
-      "score": "3302"
+      "score": "3401"
     },
     {
       "url": "https://github.com/kataras/iris",
-      "title": "kataras/iris: The fastest web framework for Go on (THIS) earth",
-      "score": "2991"
+      "title": "kataras/iris: The fastest web framework for Go in (THIS) earth",
+      "score": "3032"
+    },
+    {
+      "url": "https://github.com/vhf/free-programming-books",
+      "title": "vhf/free-programming-books:  Freely available programming books",
+      "score": "2771"
+    },
+    {
+      "url": "https://github.com/alibaba/weex",
+      "title": "alibaba/weex: A framework for building Mobile cross-platform UI",
+      "score": "2796"
     },
     {
       "url": "https://github.com/algolia/places",
       "title": "algolia/places:  Turn any &lt;input&gt; into an address autocomplete",
-      "score": "2818"
+      "score": "2875"
     },
     {
       "url": "https://github.com/sahat/megaboilerplate",
       "title": "sahat/megaboilerplate: Handcrafted starter projects, optimized for simplicity and ease of use.",
-      "score": "2742"
-    },
-    {
-      "url": "https://github.com/joshbuchea/HEAD",
-      "title": "joshbuchea/HEAD: A list of everything that could go in the &lt;head&gt; of your document",
-      "score": "2689"
+      "score": "2761"
     }
   ]
 }

@@ -34,7 +34,7 @@ import getGithubWeekly from './src/getGithubWeekly';
   if (moment().date() === 7) {
     const month = moment().subtract(1, 'months').format('YYYY/MM')
     console.log(month);
-    const monthlyHeadline = getMonthlyHeadline(month)
+    const monthlyHeadline = await getMonthlyHeadline(month)
     fs.writeFileSync(`./data/${month}/mm.json`, JSON.stringify(monthlyHeadline, null, 2))
     console.log('monthly wrote succeed!')
   }

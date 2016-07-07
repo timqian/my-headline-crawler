@@ -1,0 +1,262 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12042687",
+      "title": "Rudolf Kálmán Has Died",
+      "score": "488"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12042613",
+      "title": "See the things you’ve searched for, visited, and watched on Google services",
+      "score": "485"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12042548",
+      "title": "Xplain – Explaining X11 for the rest of us",
+      "score": "305"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12046280",
+      "title": "HTC Vive Headset Nearing 100,000 Sales",
+      "score": "231"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12044797",
+      "title": "Introducing OpenCellular: An open source wireless access platform",
+      "score": "180"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12044127",
+      "title": "Later Stage Advice for Startups",
+      "score": "148"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12044682",
+      "title": "FreePascal and Lazarus Foundation",
+      "score": "134"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12044872",
+      "title": "End of Cycle?",
+      "score": "121"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12046062",
+      "title": "LambCI – A continuous integration system built on AWS Lambda",
+      "score": "105"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12044225",
+      "title": "The Problem with Reality",
+      "score": "102"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rh4ou/gos_march_to_lowlatency_gc_twitch_blog/",
+      "title": "Go’s march to low-latency GC — Twitch Blog",
+      "score": "347"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rkoz7/most_programmers_are_underpaid_heres_what_you_can/",
+      "title": "Most programmers are underpaid. Here's what you can do about it.",
+      "score": "219"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rljty/got_fed_up_with_skype_wrote_my_own_toy_video_chat/",
+      "title": "Got fed up with Skype, wrote my own toy video chat codec/app, wrote articles about it.",
+      "score": "171"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ria8g/actually_using_ed_the_standard_unix_text_editor/",
+      "title": "Actually using ed (the standard Unix text editor)",
+      "score": "120"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rik6p/replace_booleans_with_twocased_enumerations/",
+      "title": "Replace booleans with two-cased enumerations",
+      "score": "76"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rhm76/an_introduction_to_volumetric_rendering_part_1/",
+      "title": "An Introduction to Volumetric Rendering (Part 1)",
+      "score": "39"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rhdm6/don_eyles_walks_us_through_the_lunar_module/",
+      "title": "Don Eyles Walks Us Through the Lunar Module Source Code",
+      "score": "35"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rkxma/comparing_imdb_ratings_and_rottentomatoes/",
+      "title": "Comparing IMDB ratings and RottenTomatoes TomatoMeter in SQL",
+      "score": "33"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4riqz5/javaslang_functional_library_for_java_8/",
+      "title": "Javaslang - functional library for Java 8+",
+      "score": "13"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rirba/make_the_web_work_for_everyone/",
+      "title": "Make the Web Work For Everyone",
+      "score": "15"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Mental Models I Find Repeatedly Useful",
+      "score": "1137",
+      "url": "https://medium.com/p/mental-models-i-find-repeatedly-useful-936f1cc405d"
+    },
+    {
+      "title": "Can You Build a Superteam to Beat the Warriors?",
+      "score": "166",
+      "url": "https://medium.com/p/building-a-super-team-to-beat-the-warriors-ad63f1f728eb"
+    },
+    {
+      "title": "From design to development, 10 tools I can’t live without",
+      "score": "944",
+      "url": "https://medium.com/p/from-design-to-development-10-tools-i-cant-live-without-96006445e636"
+    },
+    {
+      "title": "Not Just Another Deceased Pet Story",
+      "score": "481",
+      "url": "https://medium.com/p/not-just-another-deceased-pet-story-aed607ab8777"
+    },
+    {
+      "title": "Donald Trump’s Millennial Problem",
+      "score": "204",
+      "url": "https://medium.com/p/donald-trumps-millennial-problem-648ab62a51e7"
+    },
+    {
+      "title": "No, you are not part Cherokee. And neither is Elizabeth Warren.",
+      "score": "233",
+      "url": "https://medium.com/p/part-cherokee-elizabeth-warren-cf6be035967e"
+    },
+    {
+      "title": "Complexion Reduction: A New Trend in Mobile Design",
+      "score": "882",
+      "url": "https://medium.com/p/complexion-reduction-a-new-trend-in-mobile-design-cef033a0b978"
+    },
+    {
+      "title": "Building My $1,200 Hackintosh",
+      "score": "1396",
+      "url": "https://medium.com/p/building-my-1-200-hackintosh-49a1a186241e"
+    },
+    {
+      "title": "The Kevin Durant Ripple Effect",
+      "score": "195",
+      "url": "https://medium.com/p/kevin-durant-warriors-superteam-league-changes-8ddef3b61f6"
+    },
+    {
+      "title": "Design Better Forms",
+      "score": "915",
+      "url": "https://medium.com/p/design-better-forms-96fadca0f49c"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/NamPNQ/You-Dont-Need-Javascript",
+      "title": "NamPNQ/You-Dont-Need-Javascript: Css is powerful, you can do a lot of things without js.",
+      "score": "677"
+    },
+    {
+      "url": "https://github.com/vhf/free-programming-books",
+      "title": "vhf/free-programming-books:  Freely available programming books",
+      "score": "500"
+    },
+    {
+      "url": "https://github.com/eriksvedang/Carp",
+      "title": "eriksvedang/Carp: a statically typed lisp, without a GC, for high performance applications",
+      "score": "371"
+    },
+    {
+      "url": "https://github.com/ChadCSong/ShineButton",
+      "title": "ChadCSong/ShineButton: This is a UI lib for Android. Effects like shining.",
+      "score": "299"
+    },
+    {
+      "url": "https://github.com/Moeditor/Moeditor",
+      "title": "Moeditor/Moeditor: Your all-purpose markdown editor.",
+      "score": "295"
+    },
+    {
+      "url": "https://github.com/ro31337/bigoposter",
+      "title": "ro31337/bigoposter: Big-O Complexities / Poster of common algorithms used in Computer Science",
+      "score": "273"
+    },
+    {
+      "url": "https://github.com/henryboldi/felony",
+      "title": "henryboldi/felony:  Next Level PGP",
+      "score": "270"
+    },
+    {
+      "url": "https://github.com/SunLiner/MiaowShow",
+      "title": "SunLiner/MiaowShow: iOS视频直播项目",
+      "score": "236"
+    },
+    {
+      "url": "https://github.com/coderyi/Eleven",
+      "title": "coderyi/Eleven: Eleven Player is a simple powerful video player.use ffmpeg.",
+      "score": "214"
+    },
+    {
+      "url": "https://github.com/lambci/lambci",
+      "title": "lambci/lambci: A continuous integration system built on AWS Lambda",
+      "score": "239"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/290793#reply77",
+      "title": "没人吐槽这个？「广电手游新规：游戏界面禁止出现英文字母」",
+      "score": "77"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290782#reply31",
+      "title": "一起来讨论下这次洪水？",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290784#reply31",
+      "title": "新手上路半個月，開車還是很怕怎麼辦",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290791#reply28",
+      "title": "请问各位婚后家里的财政大权都交给谁？",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290798#reply25",
+      "title": "最近想买台 xbox 和乐视 tv 在家娱乐,求打醒",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290781#reply20",
+      "title": "大家来讨论：语音助手给你的工作和生活带来了便捷吗？以及究竟在什么场景语音助手比较有用啊？",
+      "score": "20"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290776#reply17",
+      "title": "有用过创见那个可以给 rmbp 扩容的 SD 卡吗？实际体验如何？",
+      "score": "17"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290811#reply15",
+      "title": "四五百块左右的耳机求推荐",
+      "score": "15"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290779#reply12",
+      "title": "搬瓦工付款失败，求解",
+      "score": "12"
+    },
+    {
+      "url": "https://www.v2ex.com/t/290819#reply9",
+      "title": "国内有支持 30MB 以上的图床吗？",
+      "score": "9"
+    }
+  ]
+}
