@@ -1,0 +1,262 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12055375",
+      "title": "Facebook Messenger begins testing end-to-end encryption using Signal Protocol",
+      "score": "582"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12058864",
+      "title": "Chasing Cats",
+      "score": "268"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12058929",
+      "title": "Our nightmare on Amazon ECS",
+      "score": "229"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12059156",
+      "title": "Linux debugging tools I love",
+      "score": "220"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12057936",
+      "title": "Year-long road trip where it's 70°F every day in North America",
+      "score": "218"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12060154",
+      "title": "Post Ghost Shutdown: An Open Letter to Twitter",
+      "score": "211"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12059965",
+      "title": "Pinboard Turns Seven",
+      "score": "196"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12058191",
+      "title": "Browsers' bid for relevance is turning them into time-bombs",
+      "score": "160"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12060787",
+      "title": "Mozilla Fathom: Find meaning in the web",
+      "score": "109"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12060183",
+      "title": "Quantity discounts on a virtual good: results of a massive pricing experiment",
+      "score": "95"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rwhfe/amazon_software_engineer_interview/",
+      "title": "Amazon software engineer interview",
+      "score": "1652"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rw20p/corrode_c_to_rust_translator_written_in_haskell/",
+      "title": "Corrode: C to Rust translator written in Haskell",
+      "score": "159"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ryqla/the_6_month_bug_and_why_i_will_never_abbreviate/",
+      "title": "The 6 Month Bug (and why I will never abbreviate variable names)",
+      "score": "166"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rvsyw/tech_hiring_is_down_40_and_nobodys_talking_about/",
+      "title": "Tech hiring is down 40% and nobody’s talking about it. Let’s talk about it (via authentic jobs)",
+      "score": "87"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rx3zf/the_history_of_the_url_domain_protocol_and_port/",
+      "title": "The History of the URL: Domain, Protocol, and Port",
+      "score": "38"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rzs3p/browsers_bid_for_relevance_is_turning_them_into/",
+      "title": "Browsers’ bid for relevance is turning them into time-bombs by Cory Doctorow",
+      "score": "41"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rw5qm/project_malmo_is_microsofts_opensource_platform/",
+      "title": "Project Malmo is Microsoft’s open-source platform for artificial intelligence research built on top of Minecraft",
+      "score": "27"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rxad1/typescript_2_milestone_is_at_99_only_1_issue/",
+      "title": "Typescript 2 milestone is at 99% - Only 1 issue remaining - should be out any moment now!",
+      "score": "23"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rzvgp/sql_cheat_sheet/",
+      "title": "SQL cheat sheet",
+      "score": "26"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rytev/linux_debugging_tools_i_love/",
+      "title": "Linux debugging tools I love",
+      "score": "21"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Ad Girl, Interrupted",
+      "score": "961",
+      "url": "https://medium.com/p/ad-girl-interrupted-5c3dcc16c94f"
+    },
+    {
+      "title": "5 Practical Books I Reread Every Year To Live A Better Life",
+      "score": "1039",
+      "url": "https://medium.com/p/5-practical-books-i-reread-every-year-to-live-a-better-life-e5f45e6b0c37"
+    },
+    {
+      "title": "Tech hiring is down 40% and nobody’s talking about it",
+      "score": "173",
+      "url": "https://medium.com/p/tech-hiring-is-down-40-and-nobodys-talking-about-it-3d6f658d9faf"
+    },
+    {
+      "title": "Why Do Women Wear Sexy Clothes If They Don’t Want Attention?",
+      "score": "943",
+      "url": "https://medium.com/p/why-do-women-wear-sexy-clothes-if-they-dont-want-attention-16e078026010"
+    },
+    {
+      "title": "Mental Models I Find Repeatedly Useful",
+      "score": "2101",
+      "url": "https://medium.com/p/mental-models-i-find-repeatedly-useful-936f1cc405d"
+    },
+    {
+      "title": "Getting a raise comes down to one thing: Leverage.",
+      "score": "678",
+      "url": "https://medium.com/p/youre-underpaid-here-s-how-you-can-get-the-pay-raise-you-deserve-fafcf52956d6"
+    },
+    {
+      "title": "Black Lives Matter: A Fairy Tale",
+      "score": "441",
+      "url": "https://medium.com/p/black-lives-matter-a-fairy-tale-272356f947c2"
+    },
+    {
+      "title": "Warning: Pokemon GO is a Death Sentence if you are a Black Man.",
+      "score": "380",
+      "url": "https://medium.com/p/warning-pokemon-go-is-a-death-sentence-if-you-are-a-black-man-acacb4bdae7f"
+    },
+    {
+      "title": "Three Teams That Will Make Football Fun Again",
+      "score": "44",
+      "url": "https://medium.com/p/three-teams-that-will-make-football-fun-again-89597b7f2375"
+    },
+    {
+      "title": "He can expect to live for 37 years",
+      "score": "326",
+      "url": "https://medium.com/p/he-can-expect-to-live-for-37-years-7c0aaf3351d6"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "title": "chrislgarry/Apollo-11: Original Apollo 11 guidance computer (AGC) source code digitized by folks at Virtual AGC () and MIT Museum.",
+      "score": "1267"
+    },
+    {
+      "url": "https://github.com/Microsoft/malmo",
+      "title": "Microsoft/malmo: Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment.",
+      "score": "474"
+    },
+    {
+      "url": "https://github.com/jameysharp/corrode",
+      "title": "jameysharp/corrode: C to Rust translator",
+      "score": "477"
+    },
+    {
+      "url": "https://github.com/NamPNQ/You-Dont-Need-Javascript",
+      "title": "NamPNQ/You-Dont-Need-Javascript: Css is powerful, you can do a lot of things without js.",
+      "score": "347"
+    },
+    {
+      "url": "https://github.com/vhf/free-programming-books",
+      "title": "vhf/free-programming-books:  Freely available programming books",
+      "score": "237"
+    },
+    {
+      "url": "https://github.com/andrew-worsfold/tailor",
+      "title": "andrew-worsfold/tailor: Build beautiful page layouts quickly and easily using your favourite WordPress theme.",
+      "score": "219"
+    },
+    {
+      "url": "https://github.com/vroyer/elassandra",
+      "title": "vroyer/elassandra: Elassandra = cassandra + elasticsearch",
+      "score": "220"
+    },
+    {
+      "url": "https://github.com/metagrover/ES6-for-humans",
+      "title": "metagrover/ES6-for-humans: A kickstarter guide to writing ES6.",
+      "score": "197"
+    },
+    {
+      "url": "https://github.com/vvo/gifify",
+      "title": "vvo/gifify:  Convert any video file to an optimized animated GIF.",
+      "score": "191"
+    },
+    {
+      "url": "https://github.com/lambci/lambci",
+      "title": "lambci/lambci: A continuous integration system built on AWS Lambda",
+      "score": "180"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/291306#reply86",
+      "title": "给妹子搭个博客，用什么好",
+      "score": "86"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291319#reply65",
+      "title": "想勾搭一个愿意一起创业的程序员",
+      "score": "65"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291386#reply63",
+      "title": "女朋友希望婚后知道我所有账号的密码，而我不愿意",
+      "score": "63"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291286#reply50",
+      "title": "在职找工作被领导发现了",
+      "score": "50"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291341#reply36",
+      "title": "租房期间房东说要打隔断，能有啥办法不？",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291394#reply28",
+      "title": "关于声形码的思考",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291393#reply27",
+      "title": "如何查看你的宽带是不是分配的内网 IP 地址？",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291335#reply25",
+      "title": "江湖救急！我把自己移动硬盘锁上了，密码忘记了，咋整？",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291355#reply25",
+      "title": "维林丧心病狂的涨价后，咋办呢？",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291311#reply21",
+      "title": "我们要警惕的不是夹中夹英，而是不会好好说话",
+      "score": "21"
+    }
+  ]
+}
