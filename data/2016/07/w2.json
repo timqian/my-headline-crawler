@@ -1,0 +1,262 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12040707",
+      "title": "Mental Models I Find Repeatedly Useful",
+      "score": 915
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12048945",
+      "title": "Apollo 11 Guidance Computer source code",
+      "score": 628
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12055375",
+      "title": "Facebook Messenger deploys Signal Protocol for end to end encryption",
+      "score": 614
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12055375",
+      "title": "Facebook Messenger begins testing end-to-end encryption using Signal Protocol",
+      "score": 614
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12049385",
+      "title": "Writing a video chat application from the ground up, part 1",
+      "score": 574
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12022953",
+      "title": "PostgreSQL Exercises",
+      "score": 573
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12042613",
+      "title": "See the things you’ve searched for, visited, and watched on Google services",
+      "score": 558
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12042687",
+      "title": "Inventor of the Kalman Filter, Rudolf Kálmán Dies Aged 86",
+      "score": 546
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12042687",
+      "title": "Rudolf Kálmán Has Died",
+      "score": 546
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12035568",
+      "title": "Building a BitTorrent client from scratch in C#",
+      "score": 506
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4r0shl/how_i_cracked_a_keylogger_and_ended_up_in/",
+      "title": "How I Cracked a Keylogger and Ended Up in Someone's Inbox",
+      "score": 3179
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rwhfe/amazon_software_engineer_interview/",
+      "title": "Amazon software engineer interview",
+      "score": 1898
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rljty/got_fed_up_with_skype_wrote_my_own_toy_video_chat/",
+      "title": "Got fed up with Skype, wrote my own toy video chat codec/app, wrote articles about it.",
+      "score": 1763
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rc9uu/say_no_to_venn_diagrams_when_explaining_joins/",
+      "title": "Say NO to Venn Diagrams When Explaining JOINs",
+      "score": 1322
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rgw0v/math_recursion_art/",
+      "title": "Math + Recursion = Art",
+      "score": 987
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rt266/hiding_a_payload_in_png_files_with_python/",
+      "title": "Hiding a payload in PNG files with Python",
+      "score": 788
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rzvgp/sql_cheat_sheet/",
+      "title": "SQL cheat sheet",
+      "score": 755
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4r5o6g/interesting_game_on_kickstarter_where_you_can/",
+      "title": "Interesting game on kickstarter where you can code your own ship's systems",
+      "score": 503
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4r34j6/ms_dos_1x_assembly_source_the_modest_beginnings/",
+      "title": "MS DOS 1.x assembly source: the modest beginnings of an empire.",
+      "score": 443
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4rkoz7/most_programmers_are_underpaid_heres_what_you_can/",
+      "title": "Most programmers are underpaid. Here's what you can do about it.",
+      "score": 422
+    }
+  ],
+  "medium": [
+    {
+      "title": "Work/Life balance is bullshit.",
+      "score": 3195,
+      "url": "https://medium.com/p/work-life-balance-is-bullshit-f51bf8b3767"
+    },
+    {
+      "title": "Design Better Forms",
+      "score": 2722,
+      "url": "https://medium.com/p/design-better-forms-96fadca0f49c"
+    },
+    {
+      "title": "Mental Models I Find Repeatedly Useful",
+      "score": 2315,
+      "url": "https://medium.com/p/mental-models-i-find-repeatedly-useful-936f1cc405d"
+    },
+    {
+      "title": "Three little dots.",
+      "score": 2254,
+      "url": "https://medium.com/p/three-little-dots-f619d4893aff"
+    },
+    {
+      "title": "From design to development, 10 tools I can’t live without",
+      "score": 1984,
+      "url": "https://medium.com/p/from-design-to-development-10-tools-i-cant-live-without-96006445e636"
+    },
+    {
+      "title": "Building My $1,200 Hackintosh",
+      "score": 1736,
+      "url": "https://medium.com/p/building-my-1-200-hackintosh-49a1a186241e"
+    },
+    {
+      "title": "My Kid Learned More from Mario Maker than I Did from a Marketing Major",
+      "score": 1707,
+      "url": "https://medium.com/p/my-kid-learned-more-from-mario-maker-than-i-did-from-a-marketing-major-4fb57d8a898a"
+    },
+    {
+      "title": "There are no fucking Keys to Success",
+      "score": 1423,
+      "url": "https://medium.com/p/there-are-no-fucking-keys-to-success-b92abaccdd05"
+    },
+    {
+      "title": "Complexion Reduction: A New Trend in Mobile Design",
+      "score": 1404,
+      "url": "https://medium.com/p/complexion-reduction-a-new-trend-in-mobile-design-cef033a0b978"
+    },
+    {
+      "title": "5 Practical Books I Reread Every Year To Live A Better Life",
+      "score": 1356,
+      "url": "https://medium.com/p/5-practical-books-i-reread-every-year-to-live-a-better-life-e5f45e6b0c37"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/290793#reply77",
+      "title": "没人吐槽这个？「广电手游新规：游戏界面禁止出现英文字母」",
+      "score": 230
+    },
+    {
+      "url": "https://www.v2ex.com/t/290096#reply145",
+      "title": "给大家看看我们学校 Java 课程第一课的作业",
+      "score": 192
+    },
+    {
+      "url": "https://www.v2ex.com/t/290611#reply111",
+      "title": "mac 自带的屏幕截图工具真是傻",
+      "score": 174
+    },
+    {
+      "url": "https://www.v2ex.com/t/290351#reply134",
+      "title": "求推荐给父母买什么手机好，一定要质量好 bug 少",
+      "score": 157
+    },
+    {
+      "url": "https://www.v2ex.com/t/290159#reply111",
+      "title": "什么样的网络公司名称才够高大上？",
+      "score": 145
+    },
+    {
+      "url": "https://www.v2ex.com/t/291386#reply63",
+      "title": "女朋友希望婚后知道我所有账号的密码，而我不愿意",
+      "score": 142
+    },
+    {
+      "url": "https://www.v2ex.com/t/289944#reply89",
+      "title": "刚看到一条关于感冒的贴，推荐两个居家良药，顺便感慨一下国内的医疗知识匮乏",
+      "score": 140
+    },
+    {
+      "url": "https://www.v2ex.com/t/290148#reply53",
+      "title": "Mac 下强大好用的 Markdown 编辑器 MWeb 2.0 版公开测试，感兴趣的朋友可以进来看看。",
+      "score": 132
+    },
+    {
+      "url": "https://www.v2ex.com/t/290589#reply110",
+      "title": "口袋妖怪 GO 在 app store 澳区上线了！",
+      "score": 128
+    },
+    {
+      "url": "https://www.v2ex.com/t/290693#reply38",
+      "title": "工作两年了，不想上班了怎么办？",
+      "score": 118
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "title": "chrislgarry/Apollo-11: Original Apollo 11 Guidance Computer (AGC) source code.",
+      "score": "131"
+    },
+    {
+      "url": "https://github.com/NamPNQ/You-Dont-Need-Javascript",
+      "title": "NamPNQ/You-Dont-Need-Javascript: Css is powerful, you can do a lot of things without js.",
+      "score": "784"
+    },
+    {
+      "url": "https://github.com/vhf/free-programming-books",
+      "title": "vhf/free-programming-books:  Freely available programming books",
+      "score": "658"
+    },
+    {
+      "url": "https://github.com/henryboldi/felony",
+      "title": "henryboldi/felony:  Next Level PGP",
+      "score": "747"
+    },
+    {
+      "url": "https://github.com/impress/impress.js",
+      "title": "impress/impress.js: It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.",
+      "score": "414"
+    },
+    {
+      "url": "https://github.com/Moeditor/Moeditor",
+      "title": "Moeditor/Moeditor: Your all-purpose markdown editor.",
+      "score": "389"
+    },
+    {
+      "url": "https://github.com/lambci/lambci",
+      "title": "lambci/lambci: A continuous integration system built on AWS Lambda",
+      "score": "329"
+    },
+    {
+      "url": "https://github.com/juliangarnier/anime",
+      "title": "juliangarnier/anime: Javascript Animation Engine",
+      "score": "288"
+    },
+    {
+      "url": "https://github.com/alibaba/weex",
+      "title": "alibaba/weex: A framework for building Mobile cross-platform UI",
+      "score": "101"
+    },
+    {
+      "url": "https://github.com/ChadCSong/ShineButton",
+      "title": "ChadCSong/ShineButton: This is a UI lib for Android. Effects like shining.",
+      "score": "977"
+    }
+  ]
+}

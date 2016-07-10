@@ -1,0 +1,262 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12062116",
+      "title": "Coursera courses preserved by Archive Team",
+      "score": "470"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12062988",
+      "title": "Has Physics Gotten Something Really Important Really Wrong?",
+      "score": "284"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12064022",
+      "title": "Rustls: new, modern TLS library written in Rust",
+      "score": "221"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12062986",
+      "title": "Avalonia – A multi-platform .NET UI framework",
+      "score": "191"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12062562",
+      "title": "The DOOM 3 Network Architecture (2006) [pdf]",
+      "score": "183"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12062294",
+      "title": "Simple questions to help reduce AI hype",
+      "score": "172"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12062315",
+      "title": "Clean Links – Converts obfuscated or nested links to genuine clean links",
+      "score": "169"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12061115",
+      "title": "Bag of Tricks for Efficient Text Classification",
+      "score": "141"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12063808",
+      "title": "Let's Write an LLVM Specializer for Python",
+      "score": "112"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12062631",
+      "title": "The syndrome impairing astronauts’ eyesight",
+      "score": "100"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4s37pk/the_code_that_took_america_to_the_moon_was_just/",
+      "title": "The code that took America to the moon was just published to GitHub, and it’s like a 1960s time capsule",
+      "score": "3453"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4s0xl8/the_playstation2_vs_the_pc_a_systemlevel/",
+      "title": "The PlayStation2 vs. the PC: a system-level comparison of two 3D platforms (old Ars Technica article from 2000)",
+      "score": "177"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4s2ci3/the_ten_rules_of_a_zen_programmer/",
+      "title": "The Ten Rules of a Zen Programmer",
+      "score": "169"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4s14bo/lets_write_an_llvm_specializer_for_python/",
+      "title": "Let's Write an LLVM Specializer for Python!",
+      "score": "36"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4s58ia/linus_torvalds_on_comment_styles/",
+      "title": "Linus Torvalds on comment styles",
+      "score": "24"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4s4gmy/the_codeless_code_case_233_the_falling_and_the/",
+      "title": "The Codeless Code: Case 233 The Falling and the Rising Rain",
+      "score": "8"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4s3dza/how_to_crawl_a_quarter_billion_webpages_in_40/",
+      "title": "How to crawl a quarter billion webpages in 40 hours (2012)",
+      "score": "11"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4s509h/fine_grained_language_composition_a_case_study/",
+      "title": "Fine Grained Language Composition: A Case Study",
+      "score": "8"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4s4n7b/embryonic_rust_tls_library/",
+      "title": "Embryonic Rust TLS library",
+      "score": "8"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4s50aw/kde_frameworks_5240_released/",
+      "title": "KDE Frameworks 5.24.0 Released",
+      "score": "8"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Warning: Pokemon GO is a Death Sentence if you are a Black Man.",
+      "score": "904",
+      "url": "https://medium.com/p/warning-pokemon-go-is-a-death-sentence-if-you-are-a-black-man-acacb4bdae7f"
+    },
+    {
+      "title": "I tried to avoid watching the video.",
+      "score": "715",
+      "url": "https://medium.com/p/i-tried-to-avoid-watching-the-video-c1690519636d"
+    },
+    {
+      "title": "I Am A Transwoman. I Am In The Closet. I Am Not Coming Out.",
+      "score": "257",
+      "url": "https://medium.com/p/i-am-a-transwoman-i-am-in-the-closet-i-am-not-coming-out-4c2dd1907e42"
+    },
+    {
+      "title": "My White Boss Talked About Race in America and This is What Happened",
+      "score": "514",
+      "url": "https://medium.com/p/my-white-boss-talked-about-race-in-america-and-this-is-what-happened-fe10f1a00726"
+    },
+    {
+      "title": "Ad Girl, Interrupted",
+      "score": "1152",
+      "url": "https://medium.com/p/ad-girl-interrupted-5c3dcc16c94f"
+    },
+    {
+      "title": "5 Practical Books I Reread Every Year To Live A Better Life",
+      "score": "1356",
+      "url": "https://medium.com/p/5-practical-books-i-reread-every-year-to-live-a-better-life-e5f45e6b0c37"
+    },
+    {
+      "title": "Mental Models I Find Repeatedly Useful",
+      "score": "2315",
+      "url": "https://medium.com/p/mental-models-i-find-repeatedly-useful-936f1cc405d"
+    },
+    {
+      "title": "I, Racist",
+      "score": "5272",
+      "url": "https://medium.com/p/i-racist-538512462265"
+    },
+    {
+      "title": "Tech hiring is down 40% and nobody’s talking about it",
+      "score": "243",
+      "url": "https://medium.com/p/tech-hiring-is-down-40-and-nobodys-talking-about-it-3d6f658d9faf"
+    },
+    {
+      "title": "This Generation Will Be Fine: Why Social Media Won’t Ruin Us",
+      "score": "823",
+      "url": "https://medium.com/p/this-generation-will-be-fine-why-social-media-wont-ruin-us-de93d4afe5f8"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "title": "chrislgarry/Apollo-11: Original Apollo 11 Guidance Computer (AGC) source code.",
+      "score": "2558"
+    },
+    {
+      "url": "https://github.com/zakattax/bitscript-temperate",
+      "title": "zakattax/bitscript-temperate: Temperate is a healthcare application that aims to make healthcare more accessible to everyone, everywhere. This application was submitted as an entry to HealthHacksPH 2016.",
+      "score": "778"
+    },
+    {
+      "url": "https://github.com/mozilla/fathom",
+      "title": "mozilla/fathom: o",
+      "score": "400"
+    },
+    {
+      "url": "https://github.com/Microsoft/malmo",
+      "title": "Microsoft/malmo: Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment.",
+      "score": "367"
+    },
+    {
+      "url": "https://github.com/NamPNQ/You-Dont-Need-Javascript",
+      "title": "NamPNQ/You-Dont-Need-Javascript: Css is powerful, you can do a lot of things without js.",
+      "score": "300"
+    },
+    {
+      "url": "https://github.com/metagrover/ES6-for-humans",
+      "title": "metagrover/ES6-for-humans: A kickstarter guide to writing ES6.",
+      "score": "270"
+    },
+    {
+      "url": "https://github.com/TalAter/awesome-service-workers",
+      "title": "TalAter/awesome-service-workers:  A collection of awesome resources for learning Service Workers",
+      "score": "217"
+    },
+    {
+      "url": "https://github.com/AvaloniaUI/Avalonia",
+      "title": "AvaloniaUI/Avalonia: A multi-platform .NET UI framework (formerly known as Perspex)",
+      "score": "191"
+    },
+    {
+      "url": "https://github.com/soapyigu/LeetCode_Swift",
+      "title": "soapyigu/LeetCode_Swift: Solutions coded by Swift to LeetCode",
+      "score": "168"
+    },
+    {
+      "url": "https://github.com/vhf/free-programming-books",
+      "title": "vhf/free-programming-books:  Freely available programming books",
+      "score": "152"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/291493#reply90",
+      "title": "在新疆（克拉玛依）出差了一段时间，深感内地人对新疆的陌生，各位有什么要问的没？",
+      "score": "90"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291474#reply55",
+      "title": "现在哪家的借记卡，异地(网点少的还要跨行)取款免费，短信费等等乱七八糟的费用都免费，支付宝提现速度快",
+      "score": "55"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291485#reply53",
+      "title": "血的教训！",
+      "score": "53"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291497#reply49",
+      "title": "[MSDN 我告诉你] 域名过期了.....",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291524#reply47",
+      "title": "突然想换一个发行版，不知道有什么建议",
+      "score": "47"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291453#reply36",
+      "title": "大家都用那个价位的煮蛋器?",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291470#reply30",
+      "title": "6 月份把 win7 升级成了 win10 后经常开机黑屏",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291499#reply29",
+      "title": "第一次遇到这样厚颜无耻之人",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291450#reply27",
+      "title": "第三方知乎日报 Android 客户端--知乎小报开发实战",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291561#reply27",
+      "title": "已决心抛去 Chrome ，全部拥抱 Safari",
+      "score": "27"
+    }
+  ]
+}
