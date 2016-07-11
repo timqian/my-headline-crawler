@@ -1,0 +1,262 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12065217",
+      "title": "Writing an editor in less than 1000 lines of code, just for fun",
+      "score": "478"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12068983",
+      "title": "How we're scammed into eating phony food",
+      "score": "349"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12068295",
+      "title": "Pokémon GO: The Data Behind America’s Latest Obsession",
+      "score": "313"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12066405",
+      "title": "A Medical Mystery of the Best Kind: Major Diseases Are in Decline",
+      "score": "265"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12067921",
+      "title": "Hedge Fund Wants to Use Atomic Clocks to Beat High-Speed Traders",
+      "score": "251"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12068601",
+      "title": "3D Printer Comparison: $200,000 vs. $2500",
+      "score": "203"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12065912",
+      "title": "The Rustonomicon: The Dark Arts of Advanced and Unsafe Rust Programming",
+      "score": "175"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12070553",
+      "title": "Elixir 1.3.1 released",
+      "score": "148"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12068238",
+      "title": "Blockchain Graveyard",
+      "score": "142"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12070509",
+      "title": "Why we use the Linux kernel's TCP stack",
+      "score": "136"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4s6i2c/learn_x_in_y_minutes_website_with_dense_intros_to/",
+      "title": "Learn X in Y Minutes - website with dense intros to many programming languages",
+      "score": "1422"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4s7oss/templeos_flight_simulator_and_fps/",
+      "title": "TempleOS Flight Simulator and FPS",
+      "score": "375"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4s7bad/writing_an_editor_in_less_than_1000_lines_of_code/",
+      "title": "Writing an editor in less than 1000 lines of code, just for fun",
+      "score": "148"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4s70z4/flix_functionallogic_programming_language/",
+      "title": "Flix: functional/logic programming language",
+      "score": "52"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4s6c7n/php_55_is_officially_eol_today_with_one_more_push/",
+      "title": "PHP 5.5 is &quot;officially&quot; EOL today, with one more push to clean up the master branch coming in two weeks.",
+      "score": "38"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4sam3e/postgresql_96_parallel_sequential_scan/",
+      "title": "PostgreSQL 9.6: Parallel Sequential Scan",
+      "score": "41"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4s6qth/the_rustonomicon_the_dark_arts_of_advanced_and/",
+      "title": "The Rustonomicon: The Dark Arts of Advanced and Unsafe Rust Programming",
+      "score": "25"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4sa1cc/chaoskey_this_is_a_hardware_true_random_number/",
+      "title": "ChaosKey. This is a hardware True Random Number Generator that attaches via USB",
+      "score": "25"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4s61cd/fortran_the_first_widely_used_high_language/",
+      "title": "Fortran, the first widely used high language language ever created? Too fast to be forgotten.",
+      "score": "25"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4s5v9k/version_017_of_lily_the_project_turns_5_today_too/",
+      "title": "Version 0.17 of Lily. The project turns 5 today, too.",
+      "score": "19"
+    }
+  ],
+  "medium": [
+    {
+      "title": "My White Boss Talked About Race in America and This is What Happened",
+      "score": "1755",
+      "url": "https://medium.com/p/my-white-boss-talked-about-race-in-america-and-this-is-what-happened-fe10f1a00726"
+    },
+    {
+      "title": "I Am A Transwoman. I Am In The Closet. I Am Not Coming Out.",
+      "score": "530",
+      "url": "https://medium.com/p/i-am-a-transwoman-i-am-in-the-closet-i-am-not-coming-out-4c2dd1907e42"
+    },
+    {
+      "title": "Warning: Pokemon GO is a Death Sentence if you are a Black Man.",
+      "score": "1292",
+      "url": "https://medium.com/p/warning-pokemon-go-is-a-death-sentence-if-you-are-a-black-man-acacb4bdae7f"
+    },
+    {
+      "title": "Machine Money and People Money",
+      "score": "198",
+      "url": "https://medium.com/p/machine-money-and-people-money-29b497eeb9d0"
+    },
+    {
+      "title": "The Jehovah’s Witness Who Knew Too Much",
+      "score": "101",
+      "url": "https://medium.com/p/the-jehovahs-witness-who-knew-too-much-a93898efd64"
+    },
+    {
+      "title": "Mental Models I Find Repeatedly Useful",
+      "score": "2570",
+      "url": "https://medium.com/p/mental-models-i-find-repeatedly-useful-936f1cc405d"
+    },
+    {
+      "title": "5 Practical Books I Reread Every Year To Live A Better Life",
+      "score": "1605",
+      "url": "https://medium.com/p/5-practical-books-i-reread-every-year-to-live-a-better-life-e5f45e6b0c37"
+    },
+    {
+      "title": "I, Racist",
+      "score": "5374",
+      "url": "https://medium.com/p/i-racist-538512462265"
+    },
+    {
+      "title": "Harry Potter: Written by Artificial Intelligence",
+      "score": "261",
+      "url": "https://medium.com/p/harry-potter-written-by-artificial-intelligence-8a9431803da6"
+    },
+    {
+      "title": "Emails From A CEO Who Just Has A Few Changes To The Website",
+      "score": "460",
+      "url": "https://medium.com/p/emails-from-a-ceo-who-just-has-a-few-changes-to-the-website-43ccb7b31709"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "title": "chrislgarry/Apollo-11: Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "score": "4867"
+    },
+    {
+      "url": "https://github.com/antirez/kilo",
+      "title": "antirez/kilo: A text editor in less than 1000 LOC with syntax highlight and search.",
+      "score": "793"
+    },
+    {
+      "url": "https://github.com/metagrover/ES6-for-humans",
+      "title": "metagrover/ES6-for-humans: A kickstarter guide to writing ES6.",
+      "score": "492"
+    },
+    {
+      "url": "https://github.com/NamPNQ/You-Dont-Need-Javascript",
+      "title": "NamPNQ/You-Dont-Need-Javascript: Css is powerful, you can do a lot of things without js.",
+      "score": "454"
+    },
+    {
+      "url": "https://github.com/andremion/Music-Player",
+      "title": "andremion/Music-Player: From UI Proposal to Code",
+      "score": "390"
+    },
+    {
+      "url": "https://github.com/Microsoft/malmo",
+      "title": "Microsoft/malmo: Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment.",
+      "score": "307"
+    },
+    {
+      "url": "https://github.com/ianmiell/shutit",
+      "title": "ianmiell/shutit: Automation framework for programmers",
+      "score": "323"
+    },
+    {
+      "url": "https://github.com/zingchart/zingtouch",
+      "title": "zingchart/zingtouch: A JavaScript gesture detection library for the modern web",
+      "score": "252"
+    },
+    {
+      "url": "https://github.com/borjabravo10/FocusResize",
+      "title": "borjabravo10/FocusResize: A custom animation with scroll listener to recycler views",
+      "score": "206"
+    },
+    {
+      "url": "https://github.com/vhf/free-programming-books",
+      "title": "vhf/free-programming-books:  Freely available programming books",
+      "score": "189"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/291623#reply83",
+      "title": "发起个讨论，你们公司有 code review 吗？",
+      "score": "83"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291649#reply71",
+      "title": "如果一辈子无法进入大公司，当上 CTO,迎娶白富美，那活着还有什么意义？",
+      "score": "71"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291673#reply66",
+      "title": "为什么这么多人想着要去抓皮卡丘",
+      "score": "66"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291653#reply57",
+      "title": "Pokemon Go 国内解封了？",
+      "score": "57"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291677#reply56",
+      "title": "大家手机上有什么新闻类 App 啊? 什么原因你没有卸载? :D",
+      "score": "56"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291684#reply56",
+      "title": "看到你们这么热爱新疆,作为土生土长的新疆人, 看能不能回答点什么稀奇古怪的问题?",
+      "score": "56"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291694#reply55",
+      "title": "工作 10 年，技能树点乱了，创过业，现在想回头到大公司做开发发现困难，大家给点建议该往哪个方向发展？",
+      "score": "55"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291669#reply43",
+      "title": "QQ 会员功能再次缩水，聊天记录漫游永久名额取消",
+      "score": "43"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291634#reply38",
+      "title": "求推荐一个运行在安卓手机上，能限制小孩玩手机时间的 APP",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291778#reply38",
+      "title": "想带我司的程序员妹纸去成都玩，求各位成都妹儿帅锅些推荐些好吃的，好耍的",
+      "score": "38"
+    }
+  ]
+}
