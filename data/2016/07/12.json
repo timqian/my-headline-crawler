@@ -1,0 +1,262 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12074096",
+      "title": "Sega Saturn CD Cracked after 20 Years",
+      "score": "981"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12076331",
+      "title": "Friends are as genetically similar as fourth cousins",
+      "score": "228"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12076856",
+      "title": "Your Phone Has an FM Chip. So Why Can’t You Listen to the Radio?",
+      "score": "222"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12078702",
+      "title": "Shipping Rust code in Firefox",
+      "score": "198"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12076161",
+      "title": "NASA Camera Shows Moon Crossing Face of Earth for 2nd Time in a Year",
+      "score": "180"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12076900",
+      "title": "How I'm fixing the 401(k)",
+      "score": "172"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12077645",
+      "title": "Show HN: Dependency CI – Continuous testing for your dependencies",
+      "score": "147"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12078792",
+      "title": "UK scientists dropped from EU projects because of post-Brexit funding fears",
+      "score": "143"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12076833",
+      "title": "New Electric Motor That’s Super Light and Powerful for Electric Airplanes",
+      "score": "108"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12076746",
+      "title": "The Conjoined Triangles of Senior-Level Development",
+      "score": "106"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4sbp8b/sega_saturn_cd_cracked_after_20_years/",
+      "title": "Sega Saturn CD - Cracked after 20 years",
+      "score": "2749"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4sco75/the_axle_count_of_trains_in_switzerland_must_not/",
+      "title": "The axle count of trains in Switzerland must not be a multiple of 2^8 (due to assumptions about the zero-state of the 8 bits)",
+      "score": "153"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4sdatj/ide_for_composing_english/",
+      "title": "IDE for composing English.",
+      "score": "103"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4sbsvd/announcing_typescript_20_beta/",
+      "title": "Announcing TypeScript 2.0 Beta",
+      "score": "93"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4sg7hw/a_website_for_testing_over_50_free_programming/",
+      "title": "A website for testing over 50 free programming fonts",
+      "score": "101"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4sc5wz/i_finished_my_gravity_simulator_it_is_now_open/",
+      "title": "I finished my Gravity Simulator! It is now open source. Check it out! (Download in comments) [OC]",
+      "score": "62"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4sfoc8/smaller_faster_than_raspberry_pi_zero_meet_nanopi/",
+      "title": "Smaller &amp; Faster than Raspberry Pi Zero: Meet NanoPi NEO ARM Linux Development Board",
+      "score": "44"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4sdj4u/the_megaprocessor_huge_homemade_microprocessor/",
+      "title": "The MegaProcessor (HUGE homemade microprocessor from discrete transistors) is complete!",
+      "score": "34"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4sbqpc/how_to_use_elm_at_work/",
+      "title": "How to use Elm at work",
+      "score": "23"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4sgtba/been_working_on_a_programming_language_for/",
+      "title": "Been working on a programming language for application embedding for a few years. Its called gluon and I think it has almost become useful and would love to get some feedback!",
+      "score": "29"
+    }
+  ],
+  "medium": [
+    {
+      "title": "My White Boss Talked About Race in America and This is What Happened",
+      "score": "2746",
+      "url": "https://medium.com/p/my-white-boss-talked-about-race-in-america-and-this-is-what-happened-fe10f1a00726"
+    },
+    {
+      "title": "Tim Duncan vs. Everything",
+      "score": "148",
+      "url": "https://medium.com/p/tim-duncan-retirement-greatest-duels-cdd6b75d73e4"
+    },
+    {
+      "title": "I Am A Transwoman. I Am In The Closet. I Am Not Coming Out.",
+      "score": "736",
+      "url": "https://medium.com/p/i-am-a-transwoman-i-am-in-the-closet-i-am-not-coming-out-4c2dd1907e42"
+    },
+    {
+      "title": "Tim Duncan and Me",
+      "score": "485",
+      "url": "https://medium.com/p/tim-duncan-retirement-63c201d26f48"
+    },
+    {
+      "title": "The Jehovah’s Witness Who Knew Too Much",
+      "score": "180",
+      "url": "https://medium.com/p/the-jehovahs-witness-who-knew-too-much-a93898efd64"
+    },
+    {
+      "title": "61 Glimpses of the Future",
+      "score": "613",
+      "url": "https://medium.com/p/6-1-glimpses-of-the-future-e3fdb510dcc1"
+    },
+    {
+      "title": "The Utah Jazz Are Finally Ready to Make the Leap",
+      "score": "116",
+      "url": "https://medium.com/p/utah-jazz-next-thunder-gordon-hayward-52b0879ed3b2"
+    },
+    {
+      "title": "Emails From A CEO Who Just Has A Few Changes To The Website",
+      "score": "1017",
+      "url": "https://medium.com/p/emails-from-a-ceo-who-just-has-a-few-changes-to-the-website-43ccb7b31709"
+    },
+    {
+      "title": "Warning: Pokemon GO is a Death Sentence if you are a Black Man.",
+      "score": "1553",
+      "url": "https://medium.com/p/warning-pokemon-go-is-a-death-sentence-if-you-are-a-black-man-acacb4bdae7f"
+    },
+    {
+      "title": "Better Dating Through PowerPoint",
+      "score": "488",
+      "url": "https://medium.com/p/better-dating-through-powerpoint-41a9121dd47a"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "title": "chrislgarry/Apollo-11: Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "score": "3090"
+    },
+    {
+      "url": "https://github.com/dkhamsing/open-source-ios-apps",
+      "title": "dkhamsing/open-source-ios-apps:  Collaborative List of Open-Source iOS Apps",
+      "score": "864"
+    },
+    {
+      "url": "https://github.com/NamPNQ/You-Dont-Need-Javascript",
+      "title": "NamPNQ/You-Dont-Need-Javascript: Css is powerful, you can do a lot of things without js.",
+      "score": "825"
+    },
+    {
+      "url": "https://github.com/antirez/kilo",
+      "title": "antirez/kilo: A text editor in less than 1000 LOC with syntax highlight and search.",
+      "score": "718"
+    },
+    {
+      "url": "https://github.com/metagrover/ES6-for-humans",
+      "title": "metagrover/ES6-for-humans: A kickstarter guide to writing ES6.",
+      "score": "681"
+    },
+    {
+      "url": "https://github.com/kahopoon/Pokemon-Go-Controller",
+      "title": "kahopoon/Pokemon-Go-Controller: play pokemon go safely or at unavailable area",
+      "score": "496"
+    },
+    {
+      "url": "https://github.com/awslabs/chalice",
+      "title": "awslabs/chalice: Python Serverless Microframework for AWS",
+      "score": "464"
+    },
+    {
+      "url": "https://github.com/andremion/Music-Player",
+      "title": "andremion/Music-Player: From UI Proposal to Code",
+      "score": "412"
+    },
+    {
+      "url": "https://github.com/JackyAndroid/AndroidChromium",
+      "title": "JackyAndroid/AndroidChromium: chrome browser android version of the source program,build with gradle",
+      "score": "347"
+    },
+    {
+      "url": "https://github.com/soapyigu/LeetCode_Swift",
+      "title": "soapyigu/LeetCode_Swift: Solutions coded by Swift to LeetCode",
+      "score": "316"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/291978#reply82",
+      "title": "时速云盖楼送 Tee、到场有礼活动开启，欢迎围观",
+      "score": "82"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291947#reply51",
+      "title": "［北京］［下厨房］招聘 python／ web／ UI／ DBA／算法／测试——这是一个很硬很硬的广",
+      "score": "51"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291890#reply44",
+      "title": "Pokémon GO FB:Pokémon GO 暂时无计划在中国推出",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291857#reply40",
+      "title": "其实大家都会养一些怎么样的宠物？",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292002#reply39",
+      "title": "有去过金边（柬埔寨 三角洲一带）码代码的吗。。。？",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291942#reply36",
+      "title": "阿里云计划将于 2016 年 7 月 15 日起，全面推行“域名实名认证”",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291868#reply35",
+      "title": "宿主机 Win10，硬盘 SSD，日常学习使用虚拟机应该选择 Virtualbox 5.x、Vmware 12.x 还是系统自带的 Hyper-V？",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292041#reply32",
+      "title": "一直觉得酷安网用户质量比较高，为什么有一群人作弊还有理了？",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291977#reply31",
+      "title": "如果用 winrar 分卷压缩一个视频,那么是否获得部分分卷就能获得部分的视频内容？",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/291870#reply30",
+      "title": "蒲公英正在进行数据库维护，大家稍安勿躁哦~",
+      "score": "30"
+    }
+  ]
+}
