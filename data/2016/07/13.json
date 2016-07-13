@@ -1,0 +1,262 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12083124",
+      "title": "A Course in Machine Learning",
+      "score": "352"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12083707",
+      "title": "Nintendo Developer Portal",
+      "score": "349"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12083561",
+      "title": "Vine isn’t growing and most of its top executives have left",
+      "score": "169"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12085868",
+      "title": "Highly Available Block Storage",
+      "score": "141"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12084122",
+      "title": "Porting Python to GRUB: “Networking without an operating system”",
+      "score": "138"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12083829",
+      "title": "U.S. judge throws out cell phone 'stingray' evidence",
+      "score": "129"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12084395",
+      "title": "Let's Play a Game – find bugs in popular open-source projects",
+      "score": "127"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12085044",
+      "title": "Critical Behavior from Deep Dynamics: A Hidden Dimension in Natural Language",
+      "score": "107"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12084065",
+      "title": "Juno Spacecraft Sends First Image Back While Orbiting Jupiter",
+      "score": "104"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12083550",
+      "title": "Virtual Box 5.1",
+      "score": "104"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4shyjf/intellij_idea_20162_is_here/",
+      "title": "IntelliJ IDEA 2016.2 is Here!",
+      "score": "242"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4sm79a/fast_transaction_log_windows/",
+      "title": "Fast transaction log: Windows",
+      "score": "125"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4skk9o/modelling_gravitational_waves_from_binary_black/",
+      "title": "Modelling Gravitational Waves from Binary Black Holes Using GPUs",
+      "score": "110"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4sivcv/500_lines_or_less_is_available_now_the/",
+      "title": "500 Lines or Less is Available Now - The Architecture of Open Source Applications: The Blog",
+      "score": "61"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4sj3g3/c14_on_a_c64_via_hackery/",
+      "title": "C++14 on a C64 via hackery",
+      "score": "46"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4sjalt/an_overview_about_the_technical_ideas_behind/",
+      "title": "An overview about the technical ideas behind LuaJIT for fast just in time compilation and execution of Lua code",
+      "score": "39"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4smjxm/nintendo_developer_program_now_with_simpler/",
+      "title": "Nintendo Developer Program now with simpler acceptance rules",
+      "score": "51"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4skh85/jrubytruffle_optimise_the_tricky_parts/",
+      "title": "JRuby+Truffle: Optimise the Tricky Parts",
+      "score": "35"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4sjr35/jepsen_aka_call_me_maybe_voltdb_63/",
+      "title": "Jepsen (aka &quot;Call Me Maybe&quot;): VoltDB 6.3",
+      "score": "31"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4smqd2/from_the_d_blog_the_dlang_vision_and_improvement/",
+      "title": "From the D Blog: The DLang Vision and Improvement Process",
+      "score": "35"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Forever forward",
+      "score": "1089",
+      "url": "https://medium.com/p/forever-forward-ee015b23547a"
+    },
+    {
+      "title": "61 Glimpses of the Future",
+      "score": "948",
+      "url": "https://medium.com/p/6-1-glimpses-of-the-future-e3fdb510dcc1"
+    },
+    {
+      "title": "What Would Be Different if OKC Had Won Game 6?",
+      "score": "309",
+      "url": "https://medium.com/p/what-would-be-different-if-okc-won-game-6-7b07c91410b6"
+    },
+    {
+      "title": "My White Boss Talked About Race in America and This is What Happened",
+      "score": "3104",
+      "url": "https://medium.com/p/my-white-boss-talked-about-race-in-america-and-this-is-what-happened-fe10f1a00726"
+    },
+    {
+      "title": "Ben Simmons Is the Result of the Process",
+      "score": "87",
+      "url": "https://medium.com/p/ben-simmons-is-the-result-of-the-process-438d6d502405"
+    },
+    {
+      "title": "I Am A Transwoman. I Am In The Closet. I Am Not Coming Out.",
+      "score": "859",
+      "url": "https://medium.com/p/i-am-a-transwoman-i-am-in-the-closet-i-am-not-coming-out-4c2dd1907e42"
+    },
+    {
+      "title": "Better Dating Through PowerPoint",
+      "score": "839",
+      "url": "https://medium.com/p/better-dating-through-powerpoint-41a9121dd47a"
+    },
+    {
+      "title": "Emails From A CEO Who Just Has A Few Changes To The Website",
+      "score": "1411",
+      "url": "https://medium.com/p/emails-from-a-ceo-who-just-has-a-few-changes-to-the-website-43ccb7b31709"
+    },
+    {
+      "title": "When Did You First Realize Taylor Swift Was Lying to You?",
+      "score": "80",
+      "url": "https://medium.com/p/when-did-you-first-realize-taylor-swift-was-lying-to-you-bb5a00a32b65"
+    },
+    {
+      "title": "Baton Rouge Cries Out",
+      "score": "262",
+      "url": "https://medium.com/p/on-alton-sterling-and-the-state-of-things-in-louisiana-and-beyond-1f215e0562e"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "title": "chrislgarry/Apollo-11: Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "score": "1721"
+    },
+    {
+      "url": "https://github.com/yhatt/marp",
+      "title": "yhatt/marp: Markdown presentation writer, powered by Electron.",
+      "score": "1138"
+    },
+    {
+      "url": "https://github.com/metagrover/ES6-for-humans",
+      "title": "metagrover/ES6-for-humans: A kickstarter guide to writing ES6.",
+      "score": "635"
+    },
+    {
+      "url": "https://github.com/NamPNQ/You-Dont-Need-Javascript",
+      "title": "NamPNQ/You-Dont-Need-Javascript: Css is powerful, you can do a lot of things without js.",
+      "score": "491"
+    },
+    {
+      "url": "https://github.com/nosir/cleave.js",
+      "title": "nosir/cleave.js: Format input text content when you are typing",
+      "score": "494"
+    },
+    {
+      "url": "https://github.com/kahopoon/Pokemon-Go-Controller",
+      "title": "kahopoon/Pokemon-Go-Controller: play pokemon go safely or at unavailable area",
+      "score": "419"
+    },
+    {
+      "url": "https://github.com/antirez/kilo",
+      "title": "antirez/kilo: A text editor in less than 1000 LOC with syntax highlight and search.",
+      "score": "383"
+    },
+    {
+      "url": "https://github.com/dkhamsing/open-source-ios-apps",
+      "title": "dkhamsing/open-source-ios-apps:  Collaborative List of Open-Source iOS Apps",
+      "score": "312"
+    },
+    {
+      "url": "https://github.com/andremion/Music-Player",
+      "title": "andremion/Music-Player: From UI Proposal to Code",
+      "score": "294"
+    },
+    {
+      "url": "https://github.com/awslabs/chalice",
+      "title": "awslabs/chalice: Python Serverless Microframework for AWS",
+      "score": "285"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/292145#reply96",
+      "title": "程序员们，无刻键盘你们怎么看",
+      "score": "96"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292213#reply85",
+      "title": "遇到奇葩的领导怎么办？我选择了辞职。。。。。。心情很糟糕",
+      "score": "85"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292126#reply57",
+      "title": "除了 play store，你还选择那个？",
+      "score": "57"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292322#reply49",
+      "title": "求助 V 友 | 程序员男朋友生日，买什么礼物比较合适？",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292218#reply47",
+      "title": "阿里云的服务器，就放了个 WP 博客，内存 84%以上？",
+      "score": "47"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292296#reply46",
+      "title": "[KVM 架构] NyaVM 洛杉矶 VPS - 电信/联通直连，双向 CN2，移动 Any2IX - V2EX 专享终身 7 折优惠",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292117#reply45",
+      "title": "转为备用机的 Nexus 5 删了一大票 app，待机时间长达 7 天！",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292123#reply44",
+      "title": "[深圳，广州]求职 Java 工程师",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292305#reply42",
+      "title": "早上还在上班，临下班就被辞退了",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292151#reply39",
+      "title": "关于锤子，你们怎么看",
+      "score": "39"
+    }
+  ]
+}
