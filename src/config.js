@@ -10,5 +10,8 @@ export default {
   },
   reddit: {
     scoreReg: /<span class="number">([\d,]{1,8})<\/span>.*?points/
+  },
+  productHunt: {
+    scoreReg: /post-vote-button--count.*?>(\d{1,4})<\/span/
   }
 }

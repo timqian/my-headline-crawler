@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12088631",
+      "title": "The Fight for the “Right to Repair”",
+      "score": "552"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12091173",
+      "title": "A Single Div",
+      "score": "307"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12087336",
+      "title": "Unity raises $181M round at a reported $1.5B valuation",
+      "score": "293"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12087796",
+      "title": "React: Mixins Considered Harmful",
+      "score": "254"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12091692",
+      "title": "Gimp 2.9.4 Released",
+      "score": "216"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12088419",
+      "title": "The Tor Project Elects New Board of Directors",
+      "score": "166"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12088368",
+      "title": "WebAssembly Specification Prototype",
+      "score": "160"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12089740",
+      "title": "Hyperuniformity Found In Birds, Math And Physics",
+      "score": "136"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12091638",
+      "title": "Our Handbook is open source: here's why",
+      "score": "120"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12091900",
+      "title": "An Indian ISP sniffing and censoring CloudFlare’s upstream traffic",
+      "score": "107"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4smjxm/nintendo_developer_program_now_with_simpler/",
+      "title": "Nintendo Developer Program now with simpler acceptance rules",
+      "score": "634"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4sn54s/xss_cheat_sheet/",
+      "title": "XSS Cheat Sheet",
+      "score": "247"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4smqd2/from_the_d_blog_the_dlang_vision_and_improvement/",
+      "title": "From the D Blog: The DLang Vision and Improvement Process",
+      "score": "96"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4srret/asciinema_13_transitions_from_go_back_to_python/",
+      "title": "asciinema 1.3 transitions from Go back to Python",
+      "score": "101"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4snfz7/the_first_release_of_fast_multithreaded_html/",
+      "title": "The First Release of fast multithreaded HTML parser — MyHTML",
+      "score": "64"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4spd8z/literate_programming_by_donald_knuth_at_user_2016/",
+      "title": "Literate Programming, by Donald Knuth at useR! 2016",
+      "score": "63"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4sn7rh/visualizing_garbage_collection_in_ruby_and_python/",
+      "title": "Visualizing Garbage Collection in Ruby and Python",
+      "score": "45"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4smv5w/announcing_typescript_20_beta/",
+      "title": "Announcing TypeScript 2.0 Beta",
+      "score": "41"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4soyrc/an_example_for_literate_scientific_programming/",
+      "title": "An example for Literate Scientific Programming",
+      "score": "29"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4smie5/i_just_created_simple_tutorial_for_creating/",
+      "title": "I just created simple tutorial for creating webapp - purely functional style!",
+      "score": "26"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Forever forward",
+      "score": "1697",
+      "url": "https://medium.com/p/forever-forward-ee015b23547a"
+    },
+    {
+      "title": "Five Observations From Las Vegas NBA Summer League",
+      "score": "72",
+      "url": "https://medium.com/p/five-observations-from-nba-las-vegas-summer-league-60dec5b4db43"
+    },
+    {
+      "title": "An Open Letter on Identity Politics, to and from the Left",
+      "score": "332",
+      "url": "https://medium.com/p/an-open-letter-on-identity-politics-to-and-from-the-left-b927fe66d3a4"
+    },
+    {
+      "title": "“Airbnb’s Sheryl Sandberg” is the Valley’s Quiet Superpower",
+      "score": "333",
+      "url": "https://medium.com/p/airbnbs-sheryl-sandberg-is-the-valley-s-quiet-superpower-ed02fc5fc4ea"
+    },
+    {
+      "title": "How to Find the Perfect Apartment, Partner, and Parking Spot",
+      "score": "265",
+      "url": "https://medium.com/p/optimal-stopping-45c54da6d8d0"
+    },
+    {
+      "title": "When Did You First Realize Taylor Swift Was Lying to You?",
+      "score": "123",
+      "url": "https://medium.com/p/when-did-you-first-realize-taylor-swift-was-lying-to-you-bb5a00a32b65"
+    },
+    {
+      "title": "I Am A Transwoman. I Am In The Closet. I Am Not Coming Out.",
+      "score": "939",
+      "url": "https://medium.com/p/i-am-a-transwoman-i-am-in-the-closet-i-am-not-coming-out-4c2dd1907e42"
+    },
+    {
+      "title": "Before the Gold Rush",
+      "score": "52",
+      "url": "https://medium.com/p/before-the-gold-rush-denver-nuggets-emmanuel-mudiay-4dc6208ef8d8"
+    },
+    {
+      "title": "My White Boss Talked About Race in America and This is What Happened",
+      "score": "3270",
+      "url": "https://medium.com/p/my-white-boss-talked-about-race-in-america-and-this-is-what-happened-fe10f1a00726"
+    },
+    {
+      "title": "61 Glimpses of the Future",
+      "score": "1064",
+      "url": "https://medium.com/p/6-1-glimpses-of-the-future-e3fdb510dcc1"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "title": "chrislgarry/Apollo-11: Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "score": "984"
+    },
+    {
+      "url": "https://github.com/nosir/cleave.js",
+      "title": "nosir/cleave.js: Format input text content when you are typing",
+      "score": "807"
+    },
+    {
+      "url": "https://github.com/yhatt/marp",
+      "title": "yhatt/marp: Markdown presentation writer, powered by Electron.",
+      "score": "758"
+    },
+    {
+      "url": "https://github.com/dkhamsing/open-source-ios-apps",
+      "title": "dkhamsing/open-source-ios-apps:  Collaborative List of Open-Source iOS Apps",
+      "score": "547"
+    },
+    {
+      "url": "https://github.com/kahopoon/Pokemon-Go-Controller",
+      "title": "kahopoon/Pokemon-Go-Controller: play pokemon go safely or at unavailable area",
+      "score": "396"
+    },
+    {
+      "url": "https://github.com/metagrover/ES6-for-humans",
+      "title": "metagrover/ES6-for-humans: A kickstarter guide to writing ES6.",
+      "score": "375"
+    },
+    {
+      "url": "https://github.com/NamPNQ/You-Dont-Need-Javascript",
+      "title": "NamPNQ/You-Dont-Need-Javascript: Css is powerful, you can do a lot of things without js.",
+      "score": "279"
+    },
+    {
+      "url": "https://github.com/Laverna/laverna",
+      "title": "Laverna/laverna: Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.",
+      "score": "269"
+    },
+    {
+      "url": "https://github.com/ianstormtaylor/slate",
+      "title": "ianstormtaylor/slate: A completely customizable framework for building rich text editors in the browser.",
+      "score": "237"
+    },
+    {
+      "url": "https://github.com/RocketChat/Rocket.Chat",
+      "title": "RocketChat/Rocket.Chat: Have your own Slack like online chat, built with Meteor.",
+      "score": "207"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/bookcelerator",
+      "title": "Bookcelerator: A curated directory of books that will make you smarter ",
+      "score": "51"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/proto-io-6",
+      "title": "Proto.io 6: Design, prototype, collaborate, test. Prototyping for all.",
+      "score": "53"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/pokecrew",
+      "title": "Pokecrew: Crowdsourced Pokemon Go map",
+      "score": "37"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/overnight-2-0",
+      "title": "Overnight 2.0: Book a last minute room with locals, in seconds.",
+      "score": "39"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/pokemapper",
+      "title": "PokeMapper: Share and find #PokemonGO creatures",
+      "score": "30"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/colony-fm-2",
+      "title": "Colony FM: Read with your ears. Anytime. Anywhere.",
+      "score": "24"
+    },
+    {
+      "url": "https://www.producthunt.com/books/gitlab-employee-handbook",
+      "title": "GitLab Employee Handbook: Gitlab has open sourced their employee handbook",
+      "score": "13"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/whodidthis-io",
+      "title": "Whodidthis.io: Publish your projects, get meaningful endorsements and more.",
+      "score": "21"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/rocket",
+      "title": "Rocket: Slack-style emoji everywhere on your mac.",
+      "score": "23"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/mentat",
+      "title": "Mentat: Maximize your chances of landing a job",
+      "score": "17"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/292418#reply61",
+      "title": "回馈贴 | 整理了一下大家推荐送程序员男友的礼物，希望对 V 友也有帮助！",
+      "score": "61"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292440#reply43",
+      "title": "腾讯 QQ 邮箱项目是不是没人了，怎么万年不更新，没动作捏！",
+      "score": "43"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292359#reply42",
+      "title": "［姊妹帖］程序员女朋友生日，买什么礼物比较合适？",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292394#reply42",
+      "title": "觉得 Ingress 比 Pokemon Go 好玩，附 Ingress 邀请，有新人礼包",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292396#reply41",
+      "title": "Mac 下有什么好的类似 Xshell 的工具？以及类似 Winscp 的工具",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292415#reply35",
+      "title": "不如来聊聊 Pekemon Go 呗？",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292399#reply33",
+      "title": "农村如何经济上网？",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292400#reply31",
+      "title": "你们 to-do-list 用什么软件？",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292385#reply28",
+      "title": "996 的公司工资一般都不高",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292419#reply27",
+      "title": "你们的苹果手机系统版本是多少的了？",
+      "score": "27"
+    }
+  ]
+}

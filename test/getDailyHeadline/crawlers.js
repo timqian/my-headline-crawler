@@ -4,6 +4,7 @@ import getReddit from '../../src/getDailyHeadline/getReddit'
 import getMedium from '../../src/getDailyHeadline/getMedium'
 import getV2 from '../../src/getDailyHeadline/getV2'
 import getGithub from '../../src/getDailyHeadline/getGithub'
+import getProductHunt from '../../src/getDailyHeadline/getProductHunt';
 
 describe('getDailyHeadline Daily crawlers', async () => {
   it('github', async () => {
@@ -44,5 +45,15 @@ describe('getDailyHeadline Daily crawlers', async () => {
     assert.equal(typeof linkArray[1].title, 'string');
     assert.equal(typeof linkArray[0].url, 'string');
   })
+
+  
+  it('ProductHunt', async () => {
+    const linkArray = await getProductHunt();
+    console.log(linkArray);
+    assert.equal(linkArray.length, 10);
+    assert.equal(typeof linkArray[1].title, 'string');
+    assert.equal(typeof linkArray[0].url, 'string');  
+  });
+  
 
 })

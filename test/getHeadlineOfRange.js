@@ -20,4 +20,10 @@ describe('getHeadlineOfRange: headlines from date range', () => {
     const headlines = await getHeadlineOfRange('reddit', '2016/05/31', '2016/06/01', 10)
     console.log(headlines)
   })
+
+  it('productHunt', async () => {
+    const headlines = await getHeadlineOfRange('productHunt', '2016/07/14', '2016/07/14', 10)
+    console.log(headlines)
+  });
+  
 })
