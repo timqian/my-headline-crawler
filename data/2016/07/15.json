@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12092983",
+      "title": "Cloud9 Acquired by Amazon",
+      "score": "590"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12094002",
+      "title": "Lepton image compression: saving 22% losslessly from images at 15MB/s",
+      "score": "527"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12096250",
+      "title": "Interviewing my mother, a mainframe COBOL programmer",
+      "score": "456"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12098180",
+      "title": "JupyterLab: the next generation of the Jupyter Notebook",
+      "score": "365"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12096978",
+      "title": "Atlassian Acquires StatusPage",
+      "score": "361"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12097856",
+      "title": "Show HN: Swiss Army Knife for Mac OS X",
+      "score": "333"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12092571",
+      "title": "Blind-tested soloists unable to tell Stradivarius from modern violins",
+      "score": "297"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12098352",
+      "title": "Real-world HTTP/2: 400GB of images per day",
+      "score": "243"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12097303",
+      "title": "Hammerspoon – Powerful automation of OS X with Lua",
+      "score": "234"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12099757",
+      "title": "Google deletes artist’s blog, a decade of his work",
+      "score": "196"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4suhn8/lepton_image_compression_saving_22_losslessly/",
+      "title": "Lepton image compression: saving 22% losslessly from images at 15MB/s",
+      "score": "890"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4svbrm/interviewing_my_mother_a_mainframe_cobol/",
+      "title": "Interviewing my mother, a mainframe COBOL programmer",
+      "score": "508"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4sue6u/the_tiniest_gif_ever/",
+      "title": "The Tiniest GIF Ever",
+      "score": "234"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4sxhhu/pyston_051_released_high_performance_python_jit/",
+      "title": "Pyston 0.5.1 released high performance Python JIT. Passes all SciPy tests and is on average about 15% faster than 0.5.0.",
+      "score": "95"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4surqf/i_programmed_a_robot_arm_to_solve_the_tower_oh/",
+      "title": "I programmed a robot arm to solve the Tower oh Hanoi recursively, plus some other neat tricks",
+      "score": "94"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4svq5i/cloudflare_we_have_a_problem/",
+      "title": "CloudFlare, We Have A Problem",
+      "score": "80"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4su997/kotlin_11_eap_begins/",
+      "title": "Kotlin 1.1 EAP begins",
+      "score": "77"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4stsjp/square_genes_game_of_life_using_genes_with_source/",
+      "title": "Square Genes. Game of Life using genes. With source code.",
+      "score": "69"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4sxhyt/multiple_bugs_in_openbsd_kernel/",
+      "title": "Multiple Bugs in OpenBSD Kernel",
+      "score": "45"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4svrjg/webassembly_specification_prototype/",
+      "title": "WebAssembly Specification Prototype",
+      "score": "47"
+    }
+  ],
+  "medium": [
+    {
+      "title": "“Airbnb’s Sheryl Sandberg” is the Valley’s Quiet Superpower",
+      "score": "721",
+      "url": "https://medium.com/p/airbnbs-sheryl-sandberg-is-the-valley-s-quiet-superpower-ed02fc5fc4ea"
+    },
+    {
+      "title": "An Open Letter on Identity Politics, to and from the Left",
+      "score": "524",
+      "url": "https://medium.com/p/an-open-letter-on-identity-politics-to-and-from-the-left-b927fe66d3a4"
+    },
+    {
+      "title": "Can I interrogate this photograph? Can I hold it here in front of me, arrested?",
+      "score": "320",
+      "url": "https://medium.com/p/can-i-interrogate-this-photograph-can-i-hold-it-here-in-front-of-me-arrested-62f81d0235fb"
+    },
+    {
+      "title": "Brotherhood of the Wolf",
+      "score": "124",
+      "url": "https://medium.com/p/brotherhood-of-the-wolf-e70e68b3889e"
+    },
+    {
+      "title": "An open letter from technology sector leaders on Donald Trump’s candidacy for President",
+      "score": "1310",
+      "url": "https://medium.com/p/an-open-letter-from-technology-sector-leaders-on-donald-trumps-candidacy-for-president-5bf734c159e4"
+    },
+    {
+      "title": "Two Types of Travelers",
+      "score": "787",
+      "url": "https://medium.com/p/two-types-of-travelers-86c42dd3a132"
+    },
+    {
+      "title": "Forever forward",
+      "score": "2013",
+      "url": "https://medium.com/p/forever-forward-ee015b23547a"
+    },
+    {
+      "title": "Dear Dad, Please Don’t Vote For Donald Trump",
+      "score": "386",
+      "url": "https://medium.com/p/dear-dad-please-dont-vote-for-donald-trump-907dfdc74229"
+    },
+    {
+      "title": "What Happens When Stars Leave the Teams That Made Them Famous?",
+      "score": "44",
+      "url": "https://medium.com/p/late-career-nfl-team-changes-matt-forte-eric-weddle-e8d320ddeaef"
+    },
+    {
+      "title": "Five Observations From Las Vegas NBA Summer League",
+      "score": "97",
+      "url": "https://medium.com/p/five-observations-from-nba-las-vegas-summer-league-60dec5b4db43"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/data-gallery-by-think-with-google",
+      "title": "Data Gallery by Think with Google: Put Google research and insight behind your thinking",
+      "score": "263"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/inky-3",
+      "title": "Inky 3: Send encrypted emails using your current email provider",
+      "score": "68"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/ctrl-f",
+      "title": "CTRL-F: Search printed documents, with your camera!",
+      "score": "60"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/web-push-by-moengage",
+      "title": "Web Push by MoEngage: Triggered, real-time &amp; personalized web push notifications",
+      "score": "151"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/logo-shuffle",
+      "title": "Logo Shuffle: Your logo in 3 minutes",
+      "score": "92"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/ux-tools-2",
+      "title": "UX Tools: Filter and compare multiple design tools",
+      "score": "64"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/repokemon",
+      "title": "Repokémon: Showcase of GitHub repos with Pokémon names",
+      "score": "64"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/108-handsome-headers",
+      "title": "108 Handsome Headers: Creative website headers quickly and easily",
+      "score": "81"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/alex-wikimessenger-bot",
+      "title": "Alex WikiMessenger Bot: A Wikipedia bot for messenger",
+      "score": "63"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/gender-equality-emoji",
+      "title": "Gender Equality Emoji: Google makes a change with gender equality emoji",
+      "score": "51"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/dropbox/lepton",
+      "title": "dropbox/lepton: Lepton is a tool and file format for losslessly compressing JPEGs by an average of 22%.",
+      "score": "1455"
+    },
+    {
+      "url": "https://github.com/rgcr/m-cli",
+      "title": "rgcr/m-cli:  Swiss Army Knife for Mac OS X",
+      "score": "1448"
+    },
+    {
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "title": "chrislgarry/Apollo-11: Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "score": "1073"
+    },
+    {
+      "url": "https://github.com/nosir/cleave.js",
+      "title": "nosir/cleave.js: Format input text content when you are typing",
+      "score": "627"
+    },
+    {
+      "url": "https://github.com/dkhamsing/open-source-ios-apps",
+      "title": "dkhamsing/open-source-ios-apps:  Collaborative List of Open-Source iOS Apps",
+      "score": "404"
+    },
+    {
+      "url": "https://github.com/yhatt/marp",
+      "title": "yhatt/marp: Markdown presentation writer, powered by Electron.",
+      "score": "382"
+    },
+    {
+      "url": "https://github.com/ianstormtaylor/slate",
+      "title": "ianstormtaylor/slate: A completely customizable framework for building rich text editors in the browser.",
+      "score": "334"
+    },
+    {
+      "url": "https://github.com/kahopoon/Pokemon-Go-Controller",
+      "title": "kahopoon/Pokemon-Go-Controller: play pokemon go safely or at unavailable area",
+      "score": "298"
+    },
+    {
+      "url": "https://github.com/gloomyson/SC_Js",
+      "title": "gloomyson/SC_Js: Classic RTS game using html5 canvas and javascript, only js codes, all copyrighted materials removed",
+      "score": "291"
+    },
+    {
+      "url": "https://github.com/eleme/HermesEventBus",
+      "title": "eleme/HermesEventBus: A library for using EventBus between processes, useful in IPC or plugin-in development.",
+      "score": "255"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/292629#reply115",
+      "title": "有好的路由器推荐吗？",
+      "score": "115"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292680#reply78",
+      "title": "Linux 新人说说 Ubuntu 的桌面体验",
+      "score": "78"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292777#reply58",
+      "title": "被 Vultr 恶心到了",
+      "score": "58"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292668#reply53",
+      "title": "开通京东白条要交出手机号的服务密码？",
+      "score": "53"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292659#reply49",
+      "title": "程序媛创业一年，自学的 iOS 开发，发现今年 iOS 初级工程师巨饱和，不知是转前端还是后端好",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292689#reply40",
+      "title": "闲聊：你喜欢用多大的显示器？",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292662#reply37",
+      "title": "跑步设备求推荐",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292709#reply37",
+      "title": "目前国内外有哪些比较好的模拟中学实验的软件？如果找不到好用的，有没有人有兴趣来造个轮子？",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292639#reply36",
+      "title": "眼球输入 - 眼球鼠标",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292664#reply35",
+      "title": "你们的五险一金怎么交的",
+      "score": "35"
+    }
+  ]
+}
