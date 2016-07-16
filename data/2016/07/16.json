@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12101036",
+      "title": "Mr Robot S02E01 easter egg",
+      "score": "543"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12102100",
+      "title": "HyperTerm – JS/HTML/CSS Terminal",
+      "score": "538"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12099757",
+      "title": "Google deletes artist’s blog, a decade of his work",
+      "score": "486"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12101347",
+      "title": "“Give me 15 minutes and I'll change your view of GDB” [video]",
+      "score": "374"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12104361",
+      "title": "Sandstorm – An open source operating system for personal and private clouds",
+      "score": "338"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12105188",
+      "title": "CloudFlare, We Have a Problem",
+      "score": "240"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12105286",
+      "title": "Cron checker",
+      "score": "207"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12102623",
+      "title": "Robert Fano has died",
+      "score": "191"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12105734",
+      "title": "How to set up an OpenStreetMap server",
+      "score": "92"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12105913",
+      "title": "J-core Open Processor",
+      "score": "89"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4t02o0/the_lifechanging_benefits_of_side_projects/",
+      "title": "The life-changing benefits of side projects",
+      "score": "326"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4t20c6/why_you_shouldnt_roll_your_own_authentication/",
+      "title": "Why You Shouldn't Roll Your Own Authentication (Ruby on Rails)",
+      "score": "246"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4szxcb/worst_api_ever_api_review_jiraxpost_from_rwebdev/",
+      "title": "Worst API Ever? API Review – JIRA(x-post from /r/webdev)",
+      "score": "153"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4t2tnz/hyperterm_jshtmlcss_terminal/",
+      "title": "HyperTerm – JS/HTML/CSS Terminal",
+      "score": "109"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4t10ka/net_core_roadmap_net_blog/",
+      "title": ".NET Core Roadmap | .NET Blog",
+      "score": "74"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4t02eo/an_archaeological_approach_to_predicting_bugs_at/",
+      "title": "An archaeological approach to predicting bugs at Google",
+      "score": "57"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4t0nkw/building_a_cpu_from_scratch_jcore_open_processor/",
+      "title": "Building a CPU from Scratch: J-Core Open Processor Design Walk-Through",
+      "score": "56"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4t36pz/fabrik_a_visual_programming_environment_1988/",
+      "title": "Fabrik – A Visual Programming Environment (1988)",
+      "score": "48"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4t13af/atom_treasures_a_list_of_atom_plugins_i_cant_live/",
+      "title": "Atom treasures - a list of Atom plugins I can’t live without",
+      "score": "37"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4t4cax/crontabguru_the_cron_schedule_expression_editor/",
+      "title": "crontab.guru - the cron schedule expression editor",
+      "score": "35"
+    }
+  ],
+  "medium": [
+    {
+      "title": "When Trump Happens To Good People",
+      "score": "457",
+      "url": "https://medium.com/p/when-trump-happens-to-good-people-808efc130260"
+    },
+    {
+      "title": "We regret to inform you that the remainder of 2016 has been cancelled",
+      "score": "1086",
+      "url": "https://medium.com/p/we-regret-to-inform-you-that-the-remainder-of-2016-has-been-cancelled-ce7944c2e6c2"
+    },
+    {
+      "title": "An open letter from technology sector leaders on Donald Trump’s candidacy for President",
+      "score": "1710",
+      "url": "https://medium.com/p/an-open-letter-from-technology-sector-leaders-on-donald-trumps-candidacy-for-president-5bf734c159e4"
+    },
+    {
+      "title": "If It Doesn’t Suck, It’s Not Worth Doing",
+      "score": "822",
+      "url": "https://medium.com/p/if-it-doesnt-suck-it-s-not-worth-doing-1efdc6eb695c"
+    },
+    {
+      "title": "Every Mark Wahlberg Movie Is Perfect or Perfectly Terrible",
+      "score": "117",
+      "url": "https://medium.com/p/mark-wahlberg-movies-3711b8167144"
+    },
+    {
+      "title": "“Airbnb’s Sheryl Sandberg” is the Valley’s Quiet Superpower",
+      "score": "891",
+      "url": "https://medium.com/p/airbnbs-sheryl-sandberg-is-the-valley-s-quiet-superpower-ed02fc5fc4ea"
+    },
+    {
+      "title": "Who Wants Jahlil Okafor?",
+      "score": "50",
+      "url": "https://medium.com/p/who-wants-jahlil-okafor-303e9d13169"
+    },
+    {
+      "title": "My White Boss Talked About Race in America and This is What Happened",
+      "score": "3680",
+      "url": "https://medium.com/p/my-white-boss-talked-about-race-in-america-and-this-is-what-happened-fe10f1a00726"
+    },
+    {
+      "title": "Interviewing my mother, a mainframe COBOL programmer",
+      "score": "318",
+      "url": "https://medium.com/p/interviewing-my-mother-a-mainframe-cobol-programmer-c693d40d88f7"
+    },
+    {
+      "title": "Stop using that one study to pretend racism doesn’t exist in police shootings",
+      "score": "416",
+      "url": "https://medium.com/p/stop-using-that-one-study-to-pretend-racism-doesnt-exist-in-police-shootings-17a9e47a7117"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/hyperterm",
+      "title": "HyperTerm: Terminal emulator based on JS, HTML and CSS",
+      "score": "135"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/spam-tester",
+      "title": "Spam Tester: Test the spammyness of your email",
+      "score": "94"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/mural",
+      "title": "Mural: Online whiteboard for visual collaboration",
+      "score": "69"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/bad-numbers",
+      "title": "Bad Numbers: A reverse telephone lookup of unwanted calls",
+      "score": "44"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/aestheticam",
+      "title": "Aestheticam: The world&#x27;s worst camera app™",
+      "score": "30"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/gruik",
+      "title": "Gruik: Free and open-source note-taking service",
+      "score": "27"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/chipotlebot",
+      "title": "ChipotleBot: Order Chipotle via SMS ",
+      "score": "32"
+    },
+    {
+      "url": "https://www.producthunt.com/books/play-bigger",
+      "title": "Play Bigger: Design the category. Dominate the market.",
+      "score": "1"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/cart-craze",
+      "title": "Cart Craze: An eCommerce website design gallery ",
+      "score": "24"
+    },
+    {
+      "url": "https://www.producthunt.com/games/which-pokemon-is-it",
+      "title": "Which Pokemon is it?: Trivia game where you try to choose the right Pokemon",
+      "score": "13"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/zeit/hyperterm",
+      "title": "zeit/hyperterm: o",
+      "score": "1819"
+    },
+    {
+      "url": "https://github.com/rgcr/m-cli",
+      "title": "rgcr/m-cli:  Swiss Army Knife for Mac OS X",
+      "score": "1152"
+    },
+    {
+      "url": "https://github.com/dropbox/lepton",
+      "title": "dropbox/lepton: Lepton is a tool and file format for losslessly compressing JPEGs by an average of 22%.",
+      "score": "895"
+    },
+    {
+      "url": "https://github.com/ianstormtaylor/slate",
+      "title": "ianstormtaylor/slate: A completely customizable framework for building rich text editors.",
+      "score": "562"
+    },
+    {
+      "url": "https://github.com/nosir/cleave.js",
+      "title": "nosir/cleave.js: Format input text content when you are typing",
+      "score": "536"
+    },
+    {
+      "url": "https://github.com/nteract/hydrogen",
+      "title": "nteract/hydrogen:  Run code inline in Atom using Jupyter kernels",
+      "score": "457"
+    },
+    {
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "title": "chrislgarry/Apollo-11: Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "score": "379"
+    },
+    {
+      "url": "https://github.com/HubPress/hubpress.io",
+      "title": "HubPress/hubpress.io: A web application to build your blog on GitHub",
+      "score": "162"
+    },
+    {
+      "url": "https://github.com/vipul-sharma20/document-scanner",
+      "title": "vipul-sharma20/document-scanner: An OpenCV based document scanner",
+      "score": "264"
+    },
+    {
+      "url": "https://github.com/timcreative/material-kit",
+      "title": "timcreative/material-kit: A Badass Bootstrap UI Kit based on Material Design",
+      "score": "235"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/292864#reply58",
+      "title": "你手上的这台笔记本用了多久？",
+      "score": "58"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292838#reply55",
+      "title": "电信光纤宽带超低价，考虑把移动光纤换了",
+      "score": "55"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292871#reply44",
+      "title": "各位有在学习五笔的吗",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292821#reply43",
+      "title": "公司路由器不能看视频的问题",
+      "score": "43"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292832#reply41",
+      "title": "PokemonGo 解锁了？",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292848#reply39",
+      "title": "让互联网更安全 —— 配置好自己的 HTTPS",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292858#reply30",
+      "title": "请问哪里能买到便宜的 nexus 机？",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292908#reply27",
+      "title": "想问问各位，我如果出去找工作，薪资会有多少？ [前端]",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292835#reply26",
+      "title": "在广州的 V 友来面基吧～～～",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292840#reply26",
+      "title": "用 linux 系统的如何协同办公？",
+      "score": "26"
+    }
+  ]
+}
