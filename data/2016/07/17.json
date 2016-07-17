@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12107495",
+      "title": "Destroy All Ifs – A Perspective from Functional Programming",
+      "score": "266"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12108370",
+      "title": "How I Could Steal Money from Instagram, Google and Microsoft",
+      "score": "201"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12107041",
+      "title": "Dissonant tones sound fine to people not raised on Western music",
+      "score": "196"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12109206",
+      "title": "A Wait-Free Stack",
+      "score": "178"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12106842",
+      "title": "Is duckduckgo.com partially enforcing the “celebrity threesome injunction”?",
+      "score": "150"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12106259",
+      "title": "Full Metal Jacket: A Visual Programming Language Based on Lisp",
+      "score": "148"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12107407",
+      "title": "U.S. Proposes Allowing Foreign Officials to Serve Warrants on Internet Firms",
+      "score": "138"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12107682",
+      "title": "Copy and paste-friendly Go crypto",
+      "score": "130"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12109219",
+      "title": "A Wait-Free Queue as Fast as Fetch-And-Add [pdf]",
+      "score": "118"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12107932",
+      "title": "The Great Lightbulb Conspiracy (2014)",
+      "score": "111"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4t6qpu/contributors_do_not_save_time/",
+      "title": "Contributors do not save time",
+      "score": "211"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4t8vh6/why_we_use_the_linux_kernels_tcp_stack/",
+      "title": "Why we use the Linux kernel's TCP stack",
+      "score": "236"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4t7rgh/alexandru_dima_shipping_one_of_the_largest/",
+      "title": "Alexandru Dima - Shipping one of the largest Microsoft JavaScript applications (Visual Studio Code’s story) - jsDay 2016",
+      "score": "78"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4t6a6q/functional_patterns_semigroup/",
+      "title": "Functional Patterns - Semigroup",
+      "score": "79"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4t5gmp/i_implemented_deferred_shading_in_javascript/",
+      "title": "I implemented Deferred Shading in Javascript",
+      "score": "61"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4t89ei/the_signature_of_reduce_in_ceylon/",
+      "title": "The signature of reduce() in Ceylon",
+      "score": "58"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4t54cr/i_implemented_radix_sort_in_sqlite_and_here_is/",
+      "title": "I implemented radix sort in SQLite and here is the result",
+      "score": "48"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4t6hqj/vscode_extension_for_linting_lua_scripts/",
+      "title": "VSCode extension for linting Lua scripts",
+      "score": "24"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4t8qkb/a_site_listing_the_features_of_each_version_of/",
+      "title": "A site listing the features of each version of JavaScript",
+      "score": "10"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4t6ldw/change_detection_in_angular_2/",
+      "title": "Change Detection in Angular 2",
+      "score": "11"
+    }
+  ],
+  "medium": [
+    {
+      "title": "We regret to inform you that the remainder of 2016 has been cancelled",
+      "score": "1612",
+      "url": "https://medium.com/p/we-regret-to-inform-you-that-the-remainder-of-2016-has-been-cancelled-ce7944c2e6c2"
+    },
+    {
+      "title": "“Airbnb’s Sheryl Sandberg” is the Valley’s Quiet Superpower",
+      "score": "1108",
+      "url": "https://medium.com/p/airbnbs-sheryl-sandberg-is-the-valley-s-quiet-superpower-ed02fc5fc4ea"
+    },
+    {
+      "title": "If It Doesn’t Suck, It’s Not Worth Doing",
+      "score": "1147",
+      "url": "https://medium.com/p/if-it-doesnt-suck-it-s-not-worth-doing-1efdc6eb695c"
+    },
+    {
+      "title": "20 little habits that will help you live a better life",
+      "score": "782",
+      "url": "https://medium.com/p/20-little-habits-that-will-help-you-live-a-better-life-bbc1e13c3556"
+    },
+    {
+      "title": "Please Remember My Black Son",
+      "score": "422",
+      "url": "https://medium.com/p/please-remember-my-black-son-1e26b90f3dfe"
+    },
+    {
+      "title": "Invisible Talent",
+      "score": "926",
+      "url": "https://medium.com/p/invisible-talent-409a085bee9c"
+    },
+    {
+      "title": "Cyberpower Crushes Coup",
+      "score": "139",
+      "url": "https://medium.com/p/cyberpower-crushes-coup-b247f3cca780"
+    },
+    {
+      "title": "How Not To Mourn A Deadly Terrorist Attack On Social Media",
+      "score": "329",
+      "url": "https://medium.com/p/how-not-to-mourn-a-deadly-terrorist-attack-on-social-media-a056e3050947"
+    },
+    {
+      "title": "A Gap Year Around the World Taught Me to Appreciate Clichés",
+      "score": "203",
+      "url": "https://medium.com/p/a-gap-year-around-the-world-taught-me-to-appreciate-clichés-9fe540de06d9"
+    },
+    {
+      "title": "Diversity is a broken product in tech. FIX IT.",
+      "score": "445",
+      "url": "https://medium.com/p/diversity-is-a-broken-product-in-tech-fix-it-808598d4b2a8"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/pitchcard-explore",
+      "title": "Pitchcard Explore: Pitch and explore ideas, find collaborators to build things",
+      "score": "117"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/ori",
+      "title": "Ori: Effortless transformation of interior spaces",
+      "score": "50"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/shyft",
+      "title": "Shyft: Swap shifts, share schedules, and message coworkers",
+      "score": "66"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/hack-css",
+      "title": "hack.css: The CSS framework for hackers",
+      "score": "27"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/mightysignal-top-sdks",
+      "title": "MightySignal Top SDKs: Most used SDKs in top 200 free iOS apps. Learn what to use.",
+      "score": "50"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/lawd",
+      "title": "Lawd: Watch movies and TV series instantly.",
+      "score": "55"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/cardinal-2",
+      "title": "Cardinal: The world&#x27;s first autonomous surveillance drone for home",
+      "score": "34"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/code-an-emoji",
+      "title": "Code an Emoji: Code emoji representing women, by Google",
+      "score": "15"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/hello-tech-pros-startup-story-behind-o-daddy",
+      "title": "Hello Tech Pros: Startup Story Behind O&#x27;Daddy: Unplugged and work / life balance",
+      "score": "1"
+    },
+    {
+      "url": "https://www.producthunt.com/books/the-power-of-ideals",
+      "title": "The Power of Ideals: The Real Story of Moral Choice",
+      "score": "4"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/zeit/hyperterm",
+      "title": "zeit/hyperterm: o",
+      "score": "998"
+    },
+    {
+      "url": "https://github.com/rgcr/m-cli",
+      "title": "rgcr/m-cli:  Swiss Army Knife for Mac OS X",
+      "score": "355"
+    },
+    {
+      "url": "https://github.com/gtank/cryptopasta",
+      "title": "gtank/cryptopasta: copy &amp; paste-friendly golang crypto",
+      "score": "335"
+    },
+    {
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "title": "chrislgarry/Apollo-11: Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "score": "284"
+    },
+    {
+      "url": "https://github.com/dropbox/lepton",
+      "title": "dropbox/lepton: Lepton is a tool and file format for losslessly compressing JPEGs by an average of 22%.",
+      "score": "280"
+    },
+    {
+      "url": "https://github.com/nosir/cleave.js",
+      "title": "nosir/cleave.js: Format input text content when you are typing",
+      "score": "266"
+    },
+    {
+      "url": "https://github.com/angus-c/just",
+      "title": "angus-c/just: A library of dependency-free utilities that do just do one thing",
+      "score": "254"
+    },
+    {
+      "url": "https://github.com/ianstormtaylor/slate",
+      "title": "ianstormtaylor/slate: A completely customizable framework for building rich text editors.",
+      "score": "182"
+    },
+    {
+      "url": "https://github.com/dkhamsing/open-source-ios-apps",
+      "title": "dkhamsing/open-source-ios-apps:  Collaborative List of Open-Source iOS Apps",
+      "score": "128"
+    },
+    {
+      "url": "https://github.com/paldepind/snabbdom",
+      "title": "paldepind/snabbdom: A virtual DOM library with focus on simplicity, modularity, powerful features and performance.",
+      "score": "140"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/292971#reply75",
+      "title": "上高三和做码农哪个累？",
+      "score": "75"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293050#reply45",
+      "title": "不依赖 Gulp、Babel、WebPack，还能优雅地写代码吗？",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292991#reply44",
+      "title": "微云为什么干不过百度云，甚至是 360 云？",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293013#reply41",
+      "title": "用 Vue 写了个斗鱼的 Web App",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292983#reply40",
+      "title": "关于 iphone6s［爬虫门］我想说一件大家都觉得我在吹牛的事情",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293033#reply38",
+      "title": "本人在上海想在杭州买房",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292985#reply30",
+      "title": "坐标山东，大家给参考下",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292986#reply29",
+      "title": "买域名有必要买隐私保护么？",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292992#reply28",
+      "title": "什么时候我才能看懂这里的问题和解释啊",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/292997#reply27",
+      "title": "linux 下有什么好用的 MYsql 图形化管理工具呢？",
+      "score": "27"
+    }
+  ]
+}
