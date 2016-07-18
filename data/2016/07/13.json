@@ -155,6 +155,12 @@
       "url": "https://medium.com/p/on-alton-sterling-and-the-state-of-things-in-louisiana-and-beyond-1f215e0562e"
     }
   ],
+    "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/hyperterm",
+      "title": "HyperTerm: Terminal emulator based on JS, HTML and CSS",
+      "score": "135"
+  }],
   "github": [
     {
       "url": "https://github.com/chrislgarry/Apollo-11",

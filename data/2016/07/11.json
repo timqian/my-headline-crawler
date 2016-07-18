@@ -207,6 +207,12 @@
       "score": "189"
     }
   ],
+    "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/hyperterm",
+      "title": "HyperTerm: Terminal emulator based on JS, HTML and CSS",
+      "score": "135"
+  }],
   "v2ex": [
     {
       "url": "https://www.v2ex.com/t/291623#reply83",

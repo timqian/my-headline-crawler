@@ -155,6 +155,12 @@
       "url": "https://medium.com/p/this-generation-will-be-fine-why-social-media-wont-ruin-us-de93d4afe5f8"
     }
   ],
+    "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/hyperterm",
+      "title": "HyperTerm: Terminal emulator based on JS, HTML and CSS",
+      "score": "135"
+  }],
   "github": [
     {
       "url": "https://github.com/chrislgarry/Apollo-11",

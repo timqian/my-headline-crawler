@@ -206,7 +206,13 @@
       "title": "Whodidthis.io: Publish your projects, get meaningful endorsements and more.",
       "score": "74"
     }
-  ],
+  ],  
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/hyperterm",
+      "title": "HyperTerm: Terminal emulator based on JS, HTML and CSS",
+      "score": "135"
+  }],
   "github": [
     {
       "url": "https://github.com/chrislgarry/Apollo-11",

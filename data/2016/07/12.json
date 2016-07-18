@@ -155,6 +155,12 @@
       "url": "https://medium.com/p/better-dating-through-powerpoint-41a9121dd47a"
     }
   ],
+    "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/hyperterm",
+      "title": "HyperTerm: Terminal emulator based on JS, HTML and CSS",
+      "score": "135"
+  }],
   "github": [
     {
       "url": "https://github.com/chrislgarry/Apollo-11",

@@ -7,7 +7,7 @@ import fs from 'fs'
 import getAllHeadlineOfRange from '../src/getAllHeadlineOfRange'
 
 const dayArray = []
-let startDay = moment('2016/05/01')
+let startDay = moment('2016/07/10')
 
 for (let i = 0; i < 7; i++) {
   dayArray.push(startDay.format('YYYY/MM/DD'))
