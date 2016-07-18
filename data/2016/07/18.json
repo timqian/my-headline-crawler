@@ -1,274 +1,314 @@
 {
   "HN": [
     {
-      "url": "https://news.ycombinator.com/item?id=12110617",
-      "title": "Passport Index 2016",
-      "score": "314"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12109206",
-      "title": "A Wait-Free Stack",
-      "score": "255"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12111597",
-      "title": "Ask HN: Insider history of the demise of Kodak?",
-      "score": "241"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12112352",
-      "title": "Google will use Chrome browsing data for ad tailoring",
-      "score": "189"
+      "url": "https://news.ycombinator.com/item?id=12113346",
+      "title": "Donkey – A computer game included with early versions of PC DOS",
+      "score": "431"
     },
     {
       "url": "https://news.ycombinator.com/item?id=12112850",
       "title": "SoftBank Group Nears Deal to Buy ARM Holdings",
-      "score": "179"
+      "score": "313"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=12110386",
-      "title": "The Fake Factory That Pumped Out Real Money",
-      "score": "167"
+      "url": "https://news.ycombinator.com/item?id=12111597",
+      "title": "Ask HN: Insider history of the demise of Kodak?",
+      "score": "309"
     },
     {
       "url": "https://news.ycombinator.com/item?id=12112363",
       "title": "SpaceX Picks Rocket for First Relaunch",
-      "score": "158"
+      "score": "226"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=12111413",
-      "title": "Justice department 'uses aged computer system to frustrate Foia requests'",
-      "score": "144"
+      "url": "https://news.ycombinator.com/item?id=12111747",
+      "title": "The new TrueType interpreter in FreeType 2.7.0",
+      "score": "164"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=12109640",
-      "title": "Innovative container ship features hemispherical bow",
-      "score": "142"
+      "url": "https://news.ycombinator.com/item?id=12111811",
+      "title": "Lisp: it's not about macros, it's about READ (2012)",
+      "score": "146"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=12113346",
-      "title": "36 years ago, Bill Gates and his buddy wrote this beauty at four in the morning",
-      "score": "127"
+      "url": "https://news.ycombinator.com/item?id=12113278",
+      "title": "SpaceX: “First stage landing confirmed at LZ-1”",
+      "score": "143"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12112764",
+      "title": "Using Simulated Annealing to Solve Logic Puzzles",
+      "score": "141"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12114440",
+      "title": "Vulkan Tutorial",
+      "score": "132"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12113113",
+      "title": "Homo sapiens",
+      "score": "104"
     }
   ],
   "reddit": [
     {
       "url": "https://www.reddit.com/r/programming/comments/4tcbt9/36_years_ago_bill_gates_and_his_buddy_wrote_this/",
       "title": "36 years ago, Bill Gates and his buddy wrote this beauty at four in the morning in a small hot closet, which IBM insisted had a lock on it.",
-      "score": "789"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4t8vh6/why_we_use_the_linux_kernels_tcp_stack/",
-      "title": "Why we use the Linux kernel's TCP stack",
-      "score": "662"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4t9xqd/exponential_time_complexity_in_the_swift_type/",
-      "title": "Exponential time complexity in the Swift type checker",
-      "score": "218"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4tah6d/using_simulated_annealing_to_solve_logic_puzzles/",
-      "title": "Using Simulated Annealing To Solve Logic Puzzles",
-      "score": "60"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4tcoer/decruft_visual_studio/",
-      "title": "De-Cruft Visual Studio",
-      "score": "49"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4t99bi/a_waitfree_stack/",
-      "title": "A Wait-Free Stack",
-      "score": "38"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4t8qkb/a_site_listing_the_features_of_each_version_of/",
-      "title": "A site listing the features of each version of JavaScript",
-      "score": "25"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4tdkf6/zeroing_memory_is_hard_vc_2015_arrays/",
-      "title": "Zeroing Memory is Hard (VC++ 2015 arrays)",
-      "score": "12"
+      "score": "1815"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4tdixg/reverseengineering_of_the_pokemon_go_android_app/",
       "title": "Reverse-engineering of the Pokemon Go Android app",
-      "score": "9"
+      "score": "82"
     },
     {
-      "url": "https://www.reddit.com/r/programming/comments/4t8vrd/your_license_to_use_reactjs_can_be_revoked_if_you/",
-      "title": "Your license to use React.js can be revoked if you compete with Facebook",
-      "score": "6"
+      "url": "https://www.reddit.com/r/programming/comments/4tah6d/using_simulated_annealing_to_solve_logic_puzzles/",
+      "title": "Using Simulated Annealing To Solve Logic Puzzles",
+      "score": "69"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tcoer/decruft_visual_studio/",
+      "title": "De-Cruft Visual Studio",
+      "score": "58"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tdkf6/zeroing_memory_is_hard_vc_2015_arrays/",
+      "title": "Zeroing Memory is Hard (VC++ 2015 arrays)",
+      "score": "54"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4te5ae/arm_chipmaker_to_be_bought_for_24bn_by_japans/",
+      "title": "ARM chipmaker to be bought for £24bn by Japan's Softbank - BBC News",
+      "score": "42"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4telge/freetypes_new_v40_truetype_interpreter/",
+      "title": "FreeType's new v40 TrueType interpreter",
+      "score": "25"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tetpo/vulkan_graphics_and_compute_api_tutorial/",
+      "title": "Vulkan graphics and compute API tutorial",
+      "score": "19"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4td0j2/lisp_its_not_about_macros_its_about_read/",
+      "title": "Lisp: It's Not About Macros, It's About Read",
+      "score": "15"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tf2vu/whatever_happened_to_wordstar/",
+      "title": "Whatever Happened to Wordstar?",
+      "score": "7"
     }
   ],
   "medium": [
     {
       "title": "“Airbnb’s Sheryl Sandberg” is the Valley’s Quiet Superpower",
-      "score": "1320",
+      "score": "1399",
       "url": "https://medium.com/p/airbnbs-sheryl-sandberg-is-the-valley-s-quiet-superpower-ed02fc5fc4ea"
     },
     {
       "title": "How Not To Mourn A Deadly Terrorist Attack On Social Media",
-      "score": "655",
+      "score": "751",
       "url": "https://medium.com/p/how-not-to-mourn-a-deadly-terrorist-attack-on-social-media-a056e3050947"
     },
     {
-      "title": "A Gap Year Around the World Taught Me to Appreciate Clichés",
-      "score": "288",
-      "url": "https://medium.com/p/a-gap-year-around-the-world-taught-me-to-appreciate-clichés-9fe540de06d9"
+      "title": "Location-based Pokémon — An “Insider’s” View",
+      "score": "162",
+      "url": "https://medium.com/p/location-based-pokémon-an-insiders-view-d64385e80a6d"
     },
     {
       "title": "If It Doesn’t Suck, It’s Not Worth Doing",
-      "score": "1360",
+      "score": "1451",
       "url": "https://medium.com/p/if-it-doesnt-suck-it-s-not-worth-doing-1efdc6eb695c"
     },
     {
       "title": "20 little habits that will help you live a better life",
-      "score": "1069",
+      "score": "1220",
       "url": "https://medium.com/p/20-little-habits-that-will-help-you-live-a-better-life-bbc1e13c3556"
     },
     {
-      "title": "We regret to inform you that the remainder of 2016 has been cancelled",
-      "score": "1762",
-      "url": "https://medium.com/p/we-regret-to-inform-you-that-the-remainder-of-2016-has-been-cancelled-ce7944c2e6c2"
+      "title": "A Gap Year Around the World Taught Me to Appreciate Clichés",
+      "score": "328",
+      "url": "https://medium.com/p/a-gap-year-around-the-world-taught-me-to-appreciate-clichés-9fe540de06d9"
     },
     {
       "title": "Diversity is a broken product in tech. FIX IT.",
-      "score": "616",
+      "score": "670",
       "url": "https://medium.com/p/diversity-is-a-broken-product-in-tech-fix-it-808598d4b2a8"
     },
     {
-      "title": "Some Numbers on Terror",
-      "score": "418",
-      "url": "https://medium.com/p/some-numbers-on-terror-6d15b8769db9"
-    },
-    {
-      "title": "OiThe Cyberpower Crushes Coup",
-      "score": "192",
-      "url": "https://medium.com/p/cyberpower-crushes-coup-b247f3cca780"
-    },
-    {
       "title": "How What You’ve Got Can Become What You Want",
-      "score": "433",
+      "score": "540",
       "url": "https://medium.com/p/when-what-youve-got-becomes-what-you-want-a16f669e1b4e"
+    },
+    {
+      "title": "Don’t Replace People. Augment Them.",
+      "score": "253",
+      "url": "https://medium.com/p/dont-replace-people-augment-them-8bea60cb80ac"
+    },
+    {
+      "title": "Disagree or Be Fired?",
+      "score": "363",
+      "url": "https://medium.com/p/disagree-or-be-fired-a0ae2deca9b6"
     }
   ],
   "productHunt": [
     {
       "url": "https://www.producthunt.com/tech/quoteplay",
       "title": "Quoteplay: A tiny app that sends you one startup quote a day.",
-      "score": "6"
+      "score": "142"
     },
     {
-      "url": "https://www.producthunt.com/tech/kueri-me",
-      "title": "Kueri.me: A complete Platform for integrating Natural Language to SQL",
-      "score": "3"
+      "url": "https://www.producthunt.com/tech/compressify",
+      "title": "Compressify: Compress video files by 20-60%",
+      "score": "77"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/relate",
+      "title": "Relate: Free social UI kit for Sketch and Photoshop",
+      "score": "143"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/hitch-3",
+      "title": "Hitch: Where developers stay informed of API changes &amp; discussion",
+      "score": "35"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/poke-radar-3",
+      "title": "Poke Radar: Discover the location of any Pokemon",
+      "score": "73"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/kueri",
+      "title": "Kueri: A complete platform for integrating natural language to SQL",
+      "score": "120"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/lotus-2",
+      "title": "Lotus: Canvas for drawing in real-time with others around the world",
+      "score": "69"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/breakout-room-2-0",
+      "title": "Breakout Room 2.0: Replay user behavior and crashes for mobile apps",
+      "score": "46"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/enso-3",
+      "title": "Enso: Take control of notifications in MacOS, stop the distraction",
+      "score": "55"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/mweb",
+      "title": "MWeb: Pro Markdown writing, note taking and static blog generator ",
+      "score": "103"
     }
   ],
   "github": [
     {
       "url": "https://github.com/zeit/hyperterm",
       "title": "zeit/hyperterm: o",
-      "score": "705"
+      "score": "830"
     },
     {
       "url": "https://github.com/egoist/hack",
       "title": "egoist/hack: Dead simple CSS framework.",
-      "score": "488"
+      "score": "563"
     },
     {
       "url": "https://github.com/rgcr/m-cli",
       "title": "rgcr/m-cli:  Swiss Army Knife for Mac OS X",
-      "score": "337"
-    },
-    {
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "title": "chrislgarry/Apollo-11: Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "score": "236"
+      "score": "404"
     },
     {
       "url": "https://github.com/AHAAAAAAA/PokemonGo-Map",
-      "title": "AHAAAAAAA/PokemonGo-Map: Live visualization of all the pokemon in your area",
-      "score": "217"
-    },
-    {
-      "url": "https://github.com/gtank/cryptopasta",
-      "title": "gtank/cryptopasta: copy &amp; paste-friendly golang crypto",
-      "score": "242"
-    },
-    {
-      "url": "https://github.com/dropbox/lepton",
-      "title": "dropbox/lepton: Lepton is a tool and file format for losslessly compressing JPEGs by an average of 22%.",
-      "score": "232"
+      "title": "AHAAAAAAA/PokemonGo-Map: Live visualization of all the pokemon in your area... and more!",
+      "score": "332"
     },
     {
       "url": "https://github.com/nosir/cleave.js",
       "title": "nosir/cleave.js: Format input text content when you are typing",
-      "score": "213"
+      "score": "275"
+    },
+    {
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "title": "chrislgarry/Apollo-11: Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "score": "251"
+    },
+    {
+      "url": "https://github.com/dropbox/lepton",
+      "title": "dropbox/lepton: Lepton is a tool and file format for losslessly compressing JPEGs by an average of 22%.",
+      "score": "256"
+    },
+    {
+      "url": "https://github.com/rauchg/wifi-password",
+      "title": "rauchg/wifi-password: Get the password of the wifi you're on (bash)",
+      "score": "255"
+    },
+    {
+      "url": "https://github.com/transloadit/uppy",
+      "title": "transloadit/uppy:  The next open source file uploader for web browsers — a work in progress",
+      "score": "252"
     },
     {
       "url": "https://github.com/angus-c/just",
       "title": "angus-c/just: A library of dependency-free utilities that do just do one thing",
-      "score": "214"
-    },
-    {
-      "url": "https://github.com/transloadit/uppy",
-      "title": "transloadit/uppy:  The next open source file uploader for webbrowsers - a work in progress",
-      "score": "185"
+      "score": "206"
     }
   ],
   "v2ex": [
     {
-      "url": "https://www.v2ex.com/t/293109#reply90",
+      "url": "https://www.v2ex.com/t/293109#reply126",
       "title": "MWeb 2.0 版正式发布，￥ 50 促销一周，一周后将变为 ￥ 98，所以也算 50% OFF 了！",
-      "score": "90"
+      "score": "126"
     },
     {
-      "url": "https://www.v2ex.com/t/293162#reply54",
+      "url": "https://www.v2ex.com/t/293162#reply89",
       "title": "本人在上海想在上海买房，请教一些问题",
-      "score": "54"
+      "score": "89"
     },
     {
-      "url": "https://www.v2ex.com/t/293147#reply44",
-      "title": "程序员坚持运营了七年的站点却没有“火”的感慨",
-      "score": "44"
-    },
-    {
-      "url": "https://www.v2ex.com/t/293115#reply39",
-      "title": "医学毕业择业，应该去一流医院收入少以求名，还是去普通医院以求利？",
-      "score": "39"
-    },
-    {
-      "url": "https://www.v2ex.com/t/293150#reply38",
+      "url": "https://www.v2ex.com/t/293150#reply81",
       "title": "突然来的创业想法，关于中国文化对外输出。大家帮忙参详参详",
-      "score": "38"
+      "score": "81"
     },
     {
-      "url": "https://www.v2ex.com/t/293164#reply35",
+      "url": "https://www.v2ex.com/t/293147#reply76",
+      "title": "程序员坚持运营了七年的站点却没有“火”的感慨",
+      "score": "76"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293164#reply63",
       "title": "现在入 GTX960，能撑几年？",
-      "score": "35"
+      "score": "63"
     },
     {
-      "url": "https://www.v2ex.com/t/293113#reply31",
-      "title": "网易 2017 校招内推开始了， 7 月 30 日截止，内推码： BE71068",
-      "score": "31"
+      "url": "https://www.v2ex.com/t/293246#reply56",
+      "title": "想问下，脱离 IDE 的代码提示和补全，对程序员来说是基本素养么？",
+      "score": "56"
     },
     {
-      "url": "https://www.v2ex.com/t/293119#reply22",
-      "title": "辐射 4 及 DLC 通关随想",
-      "score": "22"
+      "url": "https://www.v2ex.com/t/293202#reply52",
+      "title": "闲时都有哪些兴趣爱好？最近好像有点想回归生活",
+      "score": "52"
     },
     {
-      "url": "https://www.v2ex.com/t/293155#reply21",
-      "title": "去坝上骑马的同学，一定要注意安全！我 tm 从马上摔下去了。",
-      "score": "21"
+      "url": "https://www.v2ex.com/t/293115#reply50",
+      "title": "医学毕业择业，应该去一流医院收入少以求名，还是去普通医院以求利？",
+      "score": "50"
     },
     {
-      "url": "https://www.v2ex.com/t/293110#reply21",
-      "title": "推荐大家无聊的时候，可以看一下《战斗民族养成记》，满满的都是毛妹，重点是比较搞笑！",
-      "score": "21"
+      "url": "https://www.v2ex.com/t/293206#reply48",
+      "title": "求问老司机，手头的服务器多了怎么管理呢？",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293251#reply41",
+      "title": "冯大辉竟然离职了，不敢信。",
+      "score": "41"
     }
   ]
 }
