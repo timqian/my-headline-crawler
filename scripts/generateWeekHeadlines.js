@@ -5,6 +5,7 @@
 import moment from 'moment'
 import fs from 'fs'
 import getAllHeadlineOfRange from '../src/getAllHeadlineOfRange'
+import getGithubWeekly from '../src/getGithubWeekly'
 
 const dayArray = []
 let startDay = moment('2016/07/17')
@@ -29,8 +30,8 @@ for (let i = 0; i < 7; i++) {
     console.log(`from ${fromDate} to ${toDate}`)
     const weeklyHeadline = await getAllHeadlineOfRange(fromDate, toDate, 10)
     console.log('weeklyHeadline: ', weeklyHeadline)
-
-    fs.writeFileSync(fileName, JSON.stringify(weeklyHeadline), 'utf8')
+    weeklyHeadline.github = await getGithubWeekly()
+    fs.writeFileSync(fileName, JSON.stringify(weeklyHeadline, null, 2), 'utf8')
     console.log('weeklyHeadline wrote succeed')
   }
 })()
