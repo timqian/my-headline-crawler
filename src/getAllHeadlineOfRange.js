@@ -9,5 +9,5 @@ export default async function (from, to, limit) {
     getHeadlineOfRange('v2ex', from, to, limit)
   ])
 
-  return {HN, reddit, medium, v2ex}
+  return {HN, reddit, medium, v2ex, productHunt}
 }
