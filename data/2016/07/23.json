@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12144371",
+      "title": "Create React Apps with No Configuration",
+      "score": "651"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12145751",
+      "title": "Apple says Pokémon Go is the most downloaded app in its first week ever",
+      "score": "397"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12146920",
+      "title": "Google tags Wikileaks as a dangerous site",
+      "score": "306"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12148596",
+      "title": "Wire open-sourced",
+      "score": "304"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12146479",
+      "title": "Approaching Almost Any Machine Learning Problem",
+      "score": "285"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12146464",
+      "title": "How Humble Bundle stops online fraud",
+      "score": "198"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12147843",
+      "title": "Rust: The New LLVM",
+      "score": "174"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12147831",
+      "title": "Twitter's Vine source code dump",
+      "score": "146"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12146049",
+      "title": "A Formal Verification of Rust's Binary Search Implementation",
+      "score": "139"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12145350",
+      "title": "GitLab 8.10 Released with Wildcard Branch Protection and Manual Actions for CI",
+      "score": "128"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4u4lei/https_massive_speed_advantage/",
+      "title": "HTTPS' massive speed advantage",
+      "score": "388"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4u3jnv/practical_guide_to_bare_metal_c/",
+      "title": "Practical Guide to Bare Metal C++",
+      "score": "259"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4u7qf5/notepad_692_released_tail_f_18_may_2016/",
+      "title": "Notepad++ 6.9.2 released (tail -f) - 18 May 2016",
+      "score": "224"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4u4n1w/sqlserverfirstresponderkit_sp_blitz_sp_blitzcache/",
+      "title": "SQL-Server-First-Responder-Kit: sp_Blitz, sp_BlitzCache, sp_BlitzFirst, sp_BlitzIndex, and other SQL Server scripts for health checks and performance tuning.",
+      "score": "129"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4u4ds8/richer_command_line_interfaces/",
+      "title": "Richer command line interfaces",
+      "score": "106"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4u62ft/massive_pull_request_brings_threejs_to_es6_modules/",
+      "title": "Massive pull request brings THREE.js to ES6 Modules",
+      "score": "50"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4u6bvu/the_racket_blog_racket_v66_released/",
+      "title": "The Racket Blog: Racket v6.6 Released",
+      "score": "43"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4u4hbr/ten_tired_trends_in_software_testing_discourse/",
+      "title": "Ten Tired Trends In Software Testing Discourse",
+      "score": "25"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4u47ak/15m_instances_of_a_dead_html5shim_googlecode_url/",
+      "title": "1.5M instances of a dead html5shim googlecode URL on GitHub",
+      "score": "23"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4u5cct/pedant_a_javascriptnode_library_that_lints/",
+      "title": "Pedant: a javascript/node library that lints English text",
+      "score": "9"
+    }
+  ],
+  "medium": [
+    {
+      "title": "I’m With The Banned",
+      "score": "2819",
+      "url": "https://medium.com/p/im-with-the-banned-8d1b6e0b2932"
+    },
+    {
+      "title": "Ten Rules for Negotiating a Job Offer",
+      "score": "846",
+      "url": "https://medium.com/p/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6"
+    },
+    {
+      "title": "How I built an app with 500,000 users in 5 days on a $100 server",
+      "score": "1567",
+      "url": "https://medium.com/p/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83"
+    },
+    {
+      "title": "I got arrested in Kazakhstan and represented myself in court",
+      "score": "840",
+      "url": "https://medium.com/p/i-got-arrested-in-kazakhstan-and-represented-myself-in-court-d3764fb738f1"
+    },
+    {
+      "title": "Donald Trump’s Big Talk",
+      "score": "64",
+      "url": "https://medium.com/p/donald-trump-republican-national-convention-speech-5d68ef80ae45"
+    },
+    {
+      "title": "35 Things You Should Know Before Becoming “SUCCESSFUL”",
+      "score": "395",
+      "url": "https://medium.com/p/35-things-you-should-know-before-becoming-successful-532075521e1f"
+    },
+    {
+      "title": "Make America Colbert Again",
+      "score": "68",
+      "url": "https://medium.com/p/stephen-colbert-late-show-rediscover-truthiness-c53aa863444b"
+    },
+    {
+      "title": "Major League Is the Most Accurate Baseball Movie",
+      "score": "75",
+      "url": "https://medium.com/p/major-league-is-the-most-accurate-baseball-movie-5472fd5c27a0"
+    },
+    {
+      "title": "Read This If You Feel Like You Can’t Stop Creating Problems In Your Mind",
+      "score": "1838",
+      "url": "https://medium.com/p/read-this-if-you-feel-like-you-cant-stop-creating-problems-in-your-mind-d137a36201a7"
+    },
+    {
+      "title": "Most Likely to Remain Single",
+      "score": "269",
+      "url": "https://medium.com/p/most-likely-to-remain-single-8e66766f89c"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/leaf-5",
+      "title": "Leaf:  Plug-n&#x27;-plant automatic cannabis home grow system",
+      "score": "136"
+    },
+    {
+      "url": "https://www.producthunt.com/games/dual-2",
+      "title": "Dual: Learning to think programmatically as an everyday skill",
+      "score": "45"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/redbeard-2",
+      "title": "Redbeard: Framework for fast &amp; simple native app development",
+      "score": "16"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/taste-2",
+      "title": "Taste: Get movie suggestions based on personal taste.",
+      "score": "37"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/simple-savr",
+      "title": "Simple.Savr: Share text and files with anyone on the same WiFi network",
+      "score": "14"
+    },
+    {
+      "url": "https://www.producthunt.com/books/startup-opportunities-2",
+      "title": "Startup Opportunities: Know When to Quit Your Day Job",
+      "score": "9"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/neuro-mind",
+      "title": "Neuro Mind: Nootropic made with earth grown botanicals and nutrients",
+      "score": "25"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/megamaker-32-last-chances-with-mikael-cho",
+      "title": "MegaMaker - 32 - Last chances with Mikael Cho: How do you get customers to know you exist? Be unexpected.",
+      "score": "15"
+    },
+    {
+      "url": "https://www.producthunt.com/books/cbc-graphic-standards-manual",
+      "title": "CBC Graphic \u0003Standards Manual: Limited edition reproduction",
+      "score": "5"
+    },
+    {
+      "url": "https://www.producthunt.com/games/jumper-car",
+      "title": "Jumper Car: Jump from lane to lane with your Jumper Car! Carefully jump ",
+      "score": "2"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/facebookincubator/create-react-app",
+      "title": "facebookincubator/create-react-app: Create React apps with no build configuration.",
+      "score": "2342"
+    },
+    {
+      "url": "https://github.com/FallibleInc/security-guide-for-developers",
+      "title": "FallibleInc/security-guide-for-developers: Security Guide for Developers",
+      "score": "2127"
+    },
+    {
+      "url": "https://github.com/AHAAAAAAA/PokemonGo-Map",
+      "title": "AHAAAAAAA/PokemonGo-Map: Live visualization of all the pokemon in your area... and more!",
+      "score": "541"
+    },
+    {
+      "url": "https://github.com/sahat/hackathon-starter",
+      "title": "sahat/hackathon-starter: A boilerplate for Node.js web applications",
+      "score": "375"
+    },
+    {
+      "url": "https://github.com/jaywcjlove/awesome-mac",
+      "title": "jaywcjlove/awesome-mac:  This repo is a collection of awesome Mac applications and tools for developers and designers.",
+      "score": "376"
+    },
+    {
+      "url": "https://github.com/wireapp/wire-ios",
+      "title": "wireapp/wire-ios: Wire iOS client (iPhone and iPad)",
+      "score": "298"
+    },
+    {
+      "url": "https://github.com/PokemonGoF/PokemonGo-Bot",
+      "title": "PokemonGoF/PokemonGo-Bot: The Pokemon Go Bot script, baking with community.",
+      "score": "169"
+    },
+    {
+      "url": "https://github.com/Microsoft/api-guidelines",
+      "title": "Microsoft/api-guidelines: Microsoft REST API Guidelines",
+      "score": "210"
+    },
+    {
+      "url": "https://github.com/defaultnamehere/tinder-detective",
+      "title": "defaultnamehere/tinder-detective: Find your Facebook friends' Tinder profiles. Don't actually use this by the way that's weird. Not even in a good way.",
+      "score": "194"
+    },
+    {
+      "url": "https://github.com/zeit/hyperterm",
+      "title": "zeit/hyperterm: o",
+      "score": "183"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/294346#reply58",
+      "title": "几天时间满嘴的口腔溃疡 果然计划没有变化快",
+      "score": "58"
+    },
+    {
+      "url": "https://www.v2ex.com/t/294364#reply40",
+      "title": "Uber 全程汽油味 去投诉得到反馈",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/294344#reply35",
+      "title": "小米 4 扩容 换内存芯片靠谱还是换主板靠谱",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/294414#reply30",
+      "title": "图书馆里写代码，拼命敲回车，真的很烦人",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/294395#reply30",
+      "title": "MacRumors Buyer's Guide 🙄",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/294417#reply26",
+      "title": "什么样的项目容易在 GitHub 上获得很多 Star ?",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/294387#reply26",
+      "title": "廣州電信國際出口限速？無論凌晨 3 點還是中午 3 點，結果都是如下",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/294347#reply24",
+      "title": "请教 S5 国内中转服务器的选择",
+      "score": "24"
+    },
+    {
+      "url": "https://www.v2ex.com/t/294349#reply23",
+      "title": "Windows 下有没有好用的终端模拟软件 类似 Linux 下的 terminaltor",
+      "score": "23"
+    },
+    {
+      "url": "https://www.v2ex.com/t/294357#reply21",
+      "title": "推荐一个域名服务商",
+      "score": "21"
+    }
+  ]
+}
