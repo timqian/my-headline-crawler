@@ -1,0 +1,309 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12136578",
+      "title": "Why I’m Suing the US Government",
+      "score": "1839"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12144371",
+      "title": "Create React Apps with No Configuration",
+      "score": "743"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12148596",
+      "title": "Wire open-sourced",
+      "score": "456"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12149357",
+      "title": "How we broke PHP, hacked Pornhub and earned $20k",
+      "score": "293"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12152346",
+      "title": "The Uber Engineering Tech Stack, Part I: The Foundation",
+      "score": "230"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12149424",
+      "title": "Category Theory for the Sciences",
+      "score": "189"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12150211",
+      "title": "Journalists confused an opinion piece for an alcohol-cancer study",
+      "score": "185"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12151747",
+      "title": "Hard Forks",
+      "score": "135"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12150247",
+      "title": "How to write a 48-hour game in just 2 years (2013)",
+      "score": "132"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12149993",
+      "title": "Introducing Vulkan-Hpp – Open-Source Vulkan C++ API",
+      "score": "125"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ub01v/how_we_broke_php_hacked_pornhub_and_earned_20000/",
+      "title": "How we broke PHP, hacked Pornhub and earned $20,000",
+      "score": "1716"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4u9c3a/functional_programming_jargon_defined_in_plain/",
+      "title": "Functional programming jargon defined in plain English (with examples)",
+      "score": "232"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ua41j/early_optimization_is_the_root_of_all_good/",
+      "title": "Early optimization is the root of all good",
+      "score": "86"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4uckah/built_an_abstraction_layer_over_okcupid_tinder/",
+      "title": "Built an abstraction layer over okcupid &amp; tinder, and used it to get dates, here are the results:",
+      "score": "60"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4u8x63/opensource_vulkan_c_api/",
+      "title": "Open-Source Vulkan C++ API",
+      "score": "52"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ubjx4/angular_2_why_typescript/",
+      "title": "Angular 2: Why TypeScript?",
+      "score": "26"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ubyiz/typedriven_development_in_idris_edwin_brady/",
+      "title": "Type-Driven Development in Idris — Edwin Brady",
+      "score": "18"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4u8n3v/agner_fog_takes_a_stab_at_writing_efficient_isas/",
+      "title": "Agner Fog takes a stab at writing efficient ISAs",
+      "score": "13"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ua1l8/pcbstackup_generate_beautiful_and_accurate_svg/",
+      "title": "pcb-stackup - Generate beautiful and accurate SVG renders of printed circuit boards",
+      "score": "10"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4uccna/its_back_python_for_net/",
+      "title": "It’s Back! Python for .NET",
+      "score": "12"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Ten Rules for Negotiating a Job Offer",
+      "score": "1497",
+      "url": "https://medium.com/p/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6"
+    },
+    {
+      "title": "I’m With The Banned",
+      "score": "3201",
+      "url": "https://medium.com/p/im-with-the-banned-8d1b6e0b2932"
+    },
+    {
+      "title": "How I built an app with 500,000 users in 5 days on a $100 server",
+      "score": "1822",
+      "url": "https://medium.com/p/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83"
+    },
+    {
+      "title": "History tells us what will happen next with Brexit & Trump",
+      "score": "500",
+      "url": "https://medium.com/p/history-tells-us-what-will-happen-next-with-brexit-trump-a3fefd154714"
+    },
+    {
+      "title": "You Don’t Need Straight Privilege to be Happy",
+      "score": "277",
+      "url": "https://medium.com/p/you-dont-need-straight-privilege-to-be-happy-a2327a2e5d80"
+    },
+    {
+      "title": "Goodbye, Object Oriented Programming",
+      "score": "259",
+      "url": "https://medium.com/p/goodbye-object-oriented-programming-a59cda4c0e53"
+    },
+    {
+      "title": "35 Things You Should Know Before Becoming “SUCCESSFUL”",
+      "score": "536",
+      "url": "https://medium.com/p/35-things-you-should-know-before-becoming-successful-532075521e1f"
+    },
+    {
+      "title": "I Failed at 1,001 Things. Here’s What Happened Next:",
+      "score": "317",
+      "url": "https://medium.com/p/i-failed-at-1-001-things-heres-what-happened-next-d30f3080027"
+    },
+    {
+      "title": "Why I chose Tim Kaine",
+      "score": "640",
+      "url": "https://medium.com/p/why-i-chose-tim-kaine-f7e2ce66735b"
+    },
+    {
+      "title": "I got arrested in Kazakhstan and represented myself in court",
+      "score": "948",
+      "url": "https://medium.com/p/i-got-arrested-in-kazakhstan-and-represented-myself-in-court-d3764fb738f1"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/whole-foods-market-bot",
+      "title": "Whole Foods Market Bot: A bot to browse and search for recipes — even using emoji",
+      "score": "62"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/headspin",
+      "title": "Headspin: Test your mobile app on different global cell networks",
+      "score": "44"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/spot-angels",
+      "title": "Spot Angels: Never get a parking ticket again 🙅",
+      "score": "38"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/soundcloud-cast",
+      "title": "Soundcloud Cast: Chrome extension that adds Chromecast support for Soundcloud",
+      "score": "32"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/ted-radio-hour-the-fountain-of-youth",
+      "title": "Ted Radio Hour - The Fountain of Youth: Exploring how we all might live longer and even better lives",
+      "score": "2"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/cow-chat",
+      "title": "Cow Chat: Anonymous location based chatrooms. With emoji. 🐮 💬",
+      "score": "15"
+    },
+    {
+      "url": "https://www.producthunt.com/games/kubic",
+      "title": "Kubic: A relaxing optical illusion puzzle game",
+      "score": "4"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/hello-tech-pros-accomplish-more-and-have-better-relationships",
+      "title": "Hello Tech Pros: Accomplish More and Have Better Relationships: Bruce Langford on Mindfulness",
+      "score": "1"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/foundersgyan-how-marcas-helps-with-intellectual-property-registration-for-startups",
+      "title": "FoundersGyan - &#x27;How Marcas helps with Intellectual Property registration for startups!&#x27;: A chat with Tushar Bhargava, founder of Marcas",
+      "score": "2"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/facebookincubator/create-react-app",
+      "title": "facebookincubator/create-react-app: Create React apps with no build configuration.",
+      "score": "1031"
+    },
+    {
+      "url": "https://github.com/FallibleInc/security-guide-for-developers",
+      "title": "FallibleInc/security-guide-for-developers: Security Guide for Developers",
+      "score": "679"
+    },
+    {
+      "url": "https://github.com/AHAAAAAAA/PokemonGo-Map",
+      "title": "AHAAAAAAA/PokemonGo-Map: Live visualization of all the pokemon in your area... and more!",
+      "score": "411"
+    },
+    {
+      "url": "https://github.com/hemanth/functional-programming-jargon",
+      "title": "hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!",
+      "score": "303"
+    },
+    {
+      "url": "https://github.com/wireapp/wire-ios",
+      "title": "wireapp/wire-ios: Wire iOS client (iPhone and iPad)",
+      "score": "268"
+    },
+    {
+      "url": "https://github.com/KhronosGroup/Vulkan-Hpp",
+      "title": "KhronosGroup/Vulkan-Hpp: Open-Source Vulkan C++ API",
+      "score": "263"
+    },
+    {
+      "url": "https://github.com/jhalterman/failsafe",
+      "title": "jhalterman/failsafe: Simple, sophisticated failure handling",
+      "score": "247"
+    },
+    {
+      "url": "https://github.com/jaywcjlove/awesome-mac",
+      "title": "jaywcjlove/awesome-mac:  This repo is a collection of awesome Mac applications and tools for developers and designers.",
+      "score": "190"
+    },
+    {
+      "url": "https://github.com/wireapp/wire-android",
+      "title": "wireapp/wire-android: Wire Android UI",
+      "score": "183"
+    },
+    {
+      "url": "https://github.com/PokemonGoF/PokemonGo-Bot",
+      "title": "PokemonGoF/PokemonGo-Bot: The Pokemon Go Bot script, baking with community.",
+      "score": "130"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/294540#reply52",
+      "title": "16G SSD 怎么使用？大家给个点子。",
+      "score": "52"
+    },
+    {
+      "url": "https://www.v2ex.com/t/294590#reply40",
+      "title": "iOS9.3.3 越狱出来了",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/294515#reply39",
+      "title": "[北京·望京北] 孔夫子旧书网 [招聘] 技术总监/经理、高级产品经理、资深设计师、新媒体运营经理、新书市场拓展、业务管理经理",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/294513#reply26",
+      "title": "安卓或 ios 怎么登陆 工行的支付界面？求助一下",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/294562#reply25",
+      "title": "居然没有人讨论这几天刚泄露出来的希拉里邮件",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/294576#reply25",
+      "title": "win 的各方面必装软件",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/294507#reply21",
+      "title": "求推荐一套好用的电脑维护用的工具包",
+      "score": "21"
+    },
+    {
+      "url": "https://www.v2ex.com/t/294510#reply19",
+      "title": "关于简单验证码的识别",
+      "score": "19"
+    },
+    {
+      "url": "https://www.v2ex.com/t/294514#reply18",
+      "title": "怒吼了电信工程师和客服",
+      "score": "18"
+    },
+    {
+      "url": "https://www.v2ex.com/t/294537#reply18",
+      "title": "断断续续写了 2 年的 UE4 局域网小游戏,今天发布出来(包括代码)",
+      "score": "18"
+    }
+  ]
+}
