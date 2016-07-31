@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12136578",
+      "title": "Why I’m Suing the US Government",
+      "score": 1855
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12171547",
+      "title": "LastPass autofill exploit",
+      "score": 1006
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12185845",
+      "title": "We Should Not Accept Scientific Results That Have Not Been Repeated",
+      "score": 869
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12144371",
+      "title": "Create React Apps with No Configuration",
+      "score": 776
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12156234",
+      "title": "Don't add your 2 cents",
+      "score": 716
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12184522",
+      "title": "Docker for Mac and Windows Is Now Generally Available and Ready for Production",
+      "score": 585
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12191089",
+      "title": "Israel Proves the Desalination Era Is Here",
+      "score": 570
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12164021",
+      "title": "The Apple Goes Mushy Part I: OS X's  Interface Decline",
+      "score": 511
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12161693",
+      "title": "Ask HN: Why don't companies hire programmers for fewer hours per day?",
+      "score": 498
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12148596",
+      "title": "Wire open-sourced",
+      "score": 487
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4v1y12/how_to_write_unmaintainable_code/",
+      "title": "How to write unmaintainable code",
+      "score": 2996
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4uoefa/a_devops_cautionary_tale_or_how_a_company_with/",
+      "title": "A DevOps Cautionary Tale or how a company with nearly $400 million in assets went bankrupt in 45-minutes because of a failed deployment.",
+      "score": 2441
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ub01v/how_we_broke_php_hacked_pornhub_and_earned_20000/",
+      "title": "How we broke PHP, hacked Pornhub and earned $20,000",
+      "score": 2254
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4udmj7/how_modern_face_recognition_works_on_sites_like/",
+      "title": "How Modern Face Recognition works on sites like Facebook",
+      "score": 1788
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4v6chu/why_json_doesnt_support_comments_douglas_crockford/",
+      "title": "Why JSON doesn't support comments (Douglas Crockford)",
+      "score": 1351
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vblhp/a_famed_hacker_is_grading_thousands_of_programs/",
+      "title": "A Famed Hacker Is Grading Thousands of Programs — and May Revolutionize Software in the Process",
+      "score": 790
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4upzif/web_design_in_4_minutes/",
+      "title": "Web Design in 4 minutes",
+      "score": 618
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4utw89/solving_the_dating_problem_with_the_senpai/",
+      "title": "Solving the Dating Problem with the SENPAI Protocol [PDF]",
+      "score": 433
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4uph84/why_uber_engineering_switched_from_postgres_to/",
+      "title": "Why Uber Engineering Switched from Postgres to MySQL",
+      "score": 425
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4u9c3a/functional_programming_jargon_defined_in_plain/",
+      "title": "Functional programming jargon defined in plain English (with examples)",
+      "score": 290
+    }
+  ],
+  "medium": [
+    {
+      "title": "Let Me Remind You Fuckers Who I Am",
+      "score": 8971,
+      "url": "https://medium.com/p/let-me-remind-you-fuckers-who-i-am-e6e8b297fe47"
+    },
+    {
+      "title": "This is fab. I also love how all the haters in the comments are dudes.",
+      "score": 8971,
+      "url": "https://medium.com/p/let-me-remind-you-fuckers-who-i-am-e6e8b297fe47"
+    },
+    {
+      "title": "History tells us what will happen next with Brexit & Trump",
+      "score": 8268,
+      "url": "https://medium.com/p/history-tells-us-what-will-happen-next-with-brexit-trump-a3fefd154714"
+    },
+    {
+      "title": "History tells us what may happen next with Brexit & Trump",
+      "score": 8268,
+      "url": "https://medium.com/p/history-tells-us-what-will-happen-next-with-brexit-trump-a3fefd154714"
+    },
+    {
+      "title": "The Two Minutes It Takes To Read This Will Improve Your Writing Forever",
+      "score": 7349,
+      "url": "https://medium.com/p/the-two-minutes-it-takes-to-read-this-will-improve-your-writing-forever-82a7d01441d1"
+    },
+    {
+      "title": "Why I’m voting for Trump and you should too",
+      "score": 4202,
+      "url": "https://medium.com/p/why-im-voting-for-trump-and-you-should-too-e74b23a97953"
+    },
+    {
+      "title": "I’m With The Banned",
+      "score": 4045,
+      "url": "https://medium.com/p/im-with-the-banned-8d1b6e0b2932"
+    },
+    {
+      "title": "Goodbye, Object Oriented Programming",
+      "score": 2837,
+      "url": "https://medium.com/p/goodbye-object-oriented-programming-a59cda4c0e53"
+    },
+    {
+      "title": "Ten Rules for Negotiating a Job Offer",
+      "score": 2624,
+      "url": "https://medium.com/p/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6"
+    },
+    {
+      "title": "How I built an app with 500,000 users in 5 days on a $100 server",
+      "score": 2568,
+      "url": "https://medium.com/p/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/295433#reply388",
+      "title": "Snipaste - 开发了三年的截图工具，但不只是截图",
+      "score": 556
+    },
+    {
+      "url": "https://www.v2ex.com/t/294664#reply160",
+      "title": "打 uber 的你们知道自己的评分么？",
+      "score": 177
+    },
+    {
+      "url": "https://www.v2ex.com/t/294806#reply118",
+      "title": "免费的才是最贵的，抛弃百度云， 99 刀入了 Dropbox。",
+      "score": 171
+    },
+    {
+      "url": "https://www.v2ex.com/t/295255#reply136",
+      "title": "小米还真发笔记本了",
+      "score": 164
+    },
+    {
+      "url": "https://www.v2ex.com/t/295992#reply106",
+      "title": "同学们都是怎么看 youtube 的视频的？",
+      "score": 163
+    },
+    {
+      "url": "https://www.v2ex.com/t/295037#reply94",
+      "title": "好奇心：大家搞出过最严重的 BUG 是什么?",
+      "score": 153
+    },
+    {
+      "url": "https://www.v2ex.com/t/295671#reply149",
+      "title": "准备给老婆在三线城市买房子了，定金付了！值得吗？",
+      "score": 150
+    },
+    {
+      "url": "https://www.v2ex.com/t/296023#reply61",
+      "title": "一个随意的闲聊群(´・ω・｀)",
+      "score": 146
+    },
+    {
+      "url": "https://www.v2ex.com/t/294576#reply25",
+      "title": "win 的各方面必装软件",
+      "score": 122
+    },
+    {
+      "url": "https://www.v2ex.com/t/295563#reply59",
+      "title": "同志们，现在国内哪里有性能相对比较好的免费的二级域名，主要用于挂载个人静态博客的？",
+      "score": 115
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/panda-5-beta",
+      "title": "Panda 5 Beta: A smart news reader, powered by integrations.",
+      "score": 1384
+    },
+    {
+      "url": "https://www.producthunt.com/tech/sans-francisco",
+      "title": "Sans Francisco: A collection of tools and resources for designers",
+      "score": 1073
+    },
+    {
+      "url": "https://www.producthunt.com/tech/drift-2-0",
+      "title": "Drift 2.0: A scalable way to talk to your customers",
+      "score": 982
+    },
+    {
+      "url": "https://www.producthunt.com/tech/prisma-for-android-2",
+      "title": "Prisma for Android: AI that turns your photos into artwork,  now on Android",
+      "score": 729
+    },
+    {
+      "url": "https://www.producthunt.com/tech/amazon-restaurants",
+      "title": "Amazon Restaurants: Free one-hour local food delivery for Prime customers",
+      "score": 686
+    },
+    {
+      "url": "https://www.producthunt.com/tech/grover",
+      "title": "Grover: Rent electronics for a month &amp; try it before you buy.",
+      "score": 662
+    },
+    {
+      "url": "https://www.producthunt.com/tech/density-b529759c-acf3-46c0-9939-380d686af260",
+      "title": "Density: A modern infrastructure for anonymously counting people",
+      "score": 630
+    },
+    {
+      "url": "https://www.producthunt.com/tech/cofounderslab-2",
+      "title": "CoFoundersLab: Meet 250,000+ entrepreneurs online",
+      "score": 533
+    },
+    {
+      "url": "https://www.producthunt.com/tech/bitblox",
+      "title": "BitBlox: Create beautiful websites in no time 💫",
+      "score": 506
+    },
+    {
+      "url": "https://www.producthunt.com/tech/web-design-in-4-minutes",
+      "title": "Web Design in 4 Minutes: Interactive site to show you how to design web pages",
+      "score": 496
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/hemanth/functional-programming-jargon",
+      "title": "hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!",
+      "score": "644"
+    },
+    {
+      "url": "https://github.com/FallibleInc/security-guide-for-developers",
+      "title": "FallibleInc/security-guide-for-developers: Security Guide for Developers",
+      "score": "154"
+    },
+    {
+      "url": "https://github.com/facebookincubator/create-react-app",
+      "title": "facebookincubator/create-react-app: Create React apps with no build configuration.",
+      "score": "046"
+    },
+    {
+      "url": "https://github.com/AHAAAAAAA/PokemonGo-Map",
+      "title": "AHAAAAAAA/PokemonGo-Map:  Live visualization of all the pokemon in your area... and more!",
+      "score": "058"
+    },
+    {
+      "url": "https://github.com/krasimir/react-in-patterns",
+      "title": "krasimir/react-in-patterns:  List of design patterns/techniques used while developing with React",
+      "score": "505"
+    },
+    {
+      "url": "https://github.com/jgthms/web-design-in-4-minutes",
+      "title": "jgthms/web-design-in-4-minutes: Learn basics of web design in 4 minutes",
+      "score": "139"
+    },
+    {
+      "url": "https://github.com/Droogans/unmaintainable-code",
+      "title": "Droogans/unmaintainable-code: An easier to share version of the infamous ",
+      "score": "160"
+    },
+    {
+      "url": "https://github.com/vhf/free-programming-books",
+      "title": "vhf/free-programming-books:  Freely available programming books",
+      "score": "521"
+    },
+    {
+      "url": "https://github.com/NecronomiconCoding/NecroBot",
+      "title": "NecronomiconCoding/NecroBot: a Pokemon Go Bot. -&gt; ",
+      "score": "346"
+    },
+    {
+      "url": "https://github.com/PokemonGoF/PokemonGo-Bot",
+      "title": "PokemonGoF/PokemonGo-Bot: The Pokemon Go Bot, baking with community.",
+      "score": "225"
+    }
+  ]
+}
