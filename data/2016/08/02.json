@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12201810",
+      "title": "Seymour Papert has died",
+      "score": "723"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12208486",
+      "title": "Microsoft Live Account Credentials Leaking from Windows 8 and Above",
+      "score": "197"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12207933",
+      "title": "Rust on BBC micro:bit",
+      "score": "184"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12207019",
+      "title": "Solar Shed Summary: My Off Grid Office",
+      "score": "158"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12209704",
+      "title": "Inside font-rs, a font renderer written in Rust",
+      "score": "128"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12208523",
+      "title": "Slow-motion replays can distort criminal responsibility",
+      "score": "127"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12209595",
+      "title": "Sharingbuttons.io – Fast and easy social media sharing buttons",
+      "score": "124"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12208880",
+      "title": "Your battery status may be used to track you online",
+      "score": "110"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12207333",
+      "title": "23andMe Pulls Off Massive Crowdsourced Depression Study",
+      "score": "84"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12208660",
+      "title": "Debian and Tor Services Available as Onion Services",
+      "score": "76"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vohe9/professor_emeritus_seymour_papert_inventor_of_the/",
+      "title": "Professor Emeritus Seymour Papert, inventor of the Logo programming language, dies at 88",
+      "score": "644"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vo8e6/django_110_released/",
+      "title": "Django 1.10 released",
+      "score": "94"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vo5a6/ulid_an_alternative_to_uuids/",
+      "title": "ULID - an alternative to UUIDs",
+      "score": "77"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vrlft/ilove_go_i_hate_go_adam_leventhals_blog/",
+      "title": "ILove Go; I Hate Go — Adam Leventhal's blog",
+      "score": "81"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vn0df/forget_continuous_delivery_just_focus_on_faster/",
+      "title": "Forget continuous delivery. Just focus on faster delivery. It'll encourage better habits and increase code quality.",
+      "score": "59"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vqy94/is_there_any_room_for_the_notpassionate_developer/",
+      "title": "Is There Any Room For The Not-Passionate Developer ?",
+      "score": "57"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vq042/is_parallel_programming_hard_and_if_so_what_can/",
+      "title": "&quot;Is Parallel Programming Hard, And, If So, What Can You Do About It?&quot;: July 2016 Update",
+      "score": "60"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vovfx/ghost_githubs_online_schema_migration_tool_for/",
+      "title": "gh-ost: GitHub’s online schema migration tool for MySQL",
+      "score": "54"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vpv7x/f_dependently_typed_ml/",
+      "title": "F*: Dependently typed ML",
+      "score": "47"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vol92/atom_19_released/",
+      "title": "Atom 1.9 released",
+      "score": "36"
+    }
+  ],
+  "medium": [
+    {
+      "title": "You’re Not Meant To Do What You Love. You’re Meant To Do What You’re Good At.",
+      "score": "2295",
+      "url": "https://medium.com/p/youre-not-meant-to-do-what-you-love-you-re-meant-to-do-what-you-re-good-at-4e8e6b8e929d"
+    },
+    {
+      "title": "The Principles Of Life That Everyone Knows, But Only A Few Follow",
+      "score": "628",
+      "url": "https://medium.com/p/the-principles-of-life-that-everyone-knows-but-only-a-few-follow-51588060903c"
+    },
+    {
+      "title": "Design Doesn’t Scale.",
+      "score": "1949",
+      "url": "https://medium.com/p/design-doesnt-scale-4d81e12cbc3e"
+    },
+    {
+      "title": "How Netflix does A/B Testing",
+      "score": "987",
+      "url": "https://medium.com/p/how-netflix-does-a-b-testing-87df9f9bf57c"
+    },
+    {
+      "title": "The Two Minutes It Takes To Read This Will Improve Your Writing Forever",
+      "score": "7996",
+      "url": "https://medium.com/p/the-two-minutes-it-takes-to-read-this-will-improve-your-writing-forever-82a7d01441d1"
+    },
+    {
+      "title": "What are questions?",
+      "score": "215",
+      "url": "https://medium.com/p/what-are-questions-51c20fde777d"
+    },
+    {
+      "title": "No.",
+      "score": "539",
+      "url": "https://medium.com/p/no-88d72cdbed7a"
+    },
+    {
+      "title": "An Ode to the iPod Classic",
+      "score": "567",
+      "url": "https://medium.com/p/an-ode-to-the-ipod-classic-629e89681c6e"
+    },
+    {
+      "title": "Making a case for letter case",
+      "score": "360",
+      "url": "https://medium.com/p/making-a-case-for-letter-case-19d09f653c98"
+    },
+    {
+      "title": "What Are You Actually Passionate About?",
+      "score": "157",
+      "url": "https://medium.com/p/what-are-you-actually-passionate-about-53a777e1b986"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/instagram-stories",
+      "title": "Instagram Stories: Share moments of your day 📸",
+      "score": "205"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/apple-tv-remote",
+      "title": "Apple TV Remote: An app to control your Apple TV with your iPhone and Siri",
+      "score": "256"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/wonder-8",
+      "title": "Wonder: Remember the things you easily forget",
+      "score": "222"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/iterate-2",
+      "title": "Iterate: Get the feedback you need to build better products",
+      "score": "166"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/top-publications",
+      "title": "Top Publications: A leaderboard for Medium publications",
+      "score": "148"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/bot-analytics",
+      "title": "Bot Analytics: Conversational analytics for bots",
+      "score": "116"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/hey-siri",
+      "title": "Hey Siri: Commands you can use on your iOS and macOS Devices",
+      "score": "90"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/inc-must-reads",
+      "title": "Inc. Must Reads: Daily news, features, &amp; Inc. Magazine for entrepreneurs",
+      "score": "70"
+    },
+    {
+      "url": "https://www.producthunt.com/books/the-project-guide-to-enterprise-product-design",
+      "title": "The Project Guide to Enterprise Product Design: Free e-book. UX best practices from real projects. ",
+      "score": "45"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/amium",
+      "title": "Amium: A collaboration app that brings conversation to your files",
+      "score": "51"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/github/gh-ost",
+      "title": "github/gh-ost: GitHub's Online Schema Change for MySQL",
+      "score": "656"
+    },
+    {
+      "url": "https://github.com/Curzibn/Luban",
+      "title": "Curzibn/Luban: Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法",
+      "score": "451"
+    },
+    {
+      "url": "https://github.com/shagabutdinov/sublime-enhanced",
+      "title": "shagabutdinov/sublime-enhanced: Set of plugins for beloved sublime text editor",
+      "score": "417"
+    },
+    {
+      "url": "https://github.com/anishathalye/lumen",
+      "title": "anishathalye/lumen: Magic auto brightness based on screen contents ",
+      "score": "355"
+    },
+    {
+      "url": "https://github.com/FallibleInc/security-guide-for-developers",
+      "title": "FallibleInc/security-guide-for-developers: Security Guide for Developers",
+      "score": "337"
+    },
+    {
+      "url": "https://github.com/AHAAAAAAA/PokemonGo-Map",
+      "title": "AHAAAAAAA/PokemonGo-Map:  Live visualization of all the pokemon in your area... and more!",
+      "score": "234"
+    },
+    {
+      "url": "https://github.com/facebookincubator/create-react-app",
+      "title": "facebookincubator/create-react-app: Create React apps with no build configuration.",
+      "score": "273"
+    },
+    {
+      "url": "https://github.com/vhf/free-programming-books",
+      "title": "vhf/free-programming-books:  Freely available programming books",
+      "score": "236"
+    },
+    {
+      "url": "https://github.com/matthiasplappert/keras-rl",
+      "title": "matthiasplappert/keras-rl: Deep Reinforcement Learning for Keras.",
+      "score": "243"
+    },
+    {
+      "url": "https://github.com/hanc00l/wooyun_public",
+      "title": "hanc00l/wooyun_public: 乌云公开漏洞、知识库爬虫和搜索 crawl and search for wooyun.org public bug(vulnerability) and drops",
+      "score": "202"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/296478#reply75",
+      "title": "深圳台风，你们公司放假了么",
+      "score": "75"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296536#reply75",
+      "title": "程序员卑微吗?",
+      "score": "75"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296493#reply55",
+      "title": "新房走网线应该怎么做才能够做到美观适用？",
+      "score": "55"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296516#reply49",
+      "title": "买了个 4k 显示器专门用来撸代码，但 win7 不支持 4k 显示器，有必要升 win10 么？",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296524#reply49",
+      "title": "奥德赛， GL8 怎么选？",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296671#reply48",
+      "title": "算是挂人吧... 能把 GitHub 用成这样，也是没谁了！",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296596#reply38",
+      "title": "公司考勤制度，来晒晒。。",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296488#reply33",
+      "title": "过时的电脑该如何处理？",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296522#reply30",
+      "title": "感觉好多大牛都在搞兼职或全职的培训，这个比在公司干更有前途？",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296508#reply29",
+      "title": "com.cn 是域名还是域名后缀？",
+      "score": "29"
+    }
+  ]
+}
