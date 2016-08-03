@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12211651",
+      "title": "Massachusetts Bans Employers from Asking Applicants About Previous Pay",
+      "score": "1149"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12201810",
+      "title": "Seymour Papert has died",
+      "score": "797"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12211754",
+      "title": "Show HN: Noms – A new decentralized database based on ideas from Git",
+      "score": "465"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12209704",
+      "title": "Inside font-rs, a font renderer written in Rust",
+      "score": "417"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12212136",
+      "title": "Judge wipes out patent troll’s $625M verdict against Apple",
+      "score": "358"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12211326",
+      "title": "What’s Next for Multi-Process Firefox",
+      "score": "324"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12216594",
+      "title": "React Native for Ubuntu",
+      "score": "251"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12213487",
+      "title": ".NET Framework 4.6.2",
+      "score": "208"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12214675",
+      "title": "China has built an elevated bus that travels above car traffic",
+      "score": "190"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12217329",
+      "title": "Vizceral Open Source",
+      "score": "167"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vto4r/inside_the_fastest_font_renderer_in_the_world/",
+      "title": "Inside the fastest font renderer in the world",
+      "score": "1028"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vy1jo/even_jetbrains_can_write_stupid_code_or_why_a/",
+      "title": "Even JetBrains can write stupid code - or - why a massive amount of code would break if Microsoft used the name &quot;Windows 9&quot;",
+      "score": "638"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vvng6/github_ayrazipbomb_about_an_old_technology_that/",
+      "title": "GitHub - AyrA/ZipBomb: About an old technology that still screws up some anti virus software",
+      "score": "73"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vxg6v/dolphin_progress_report_june_and_july_2016/",
+      "title": "Dolphin Progress Report: June and July 2016",
+      "score": "57"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vttye/a_little_simulation_i_wrote_that_simulates/",
+      "title": "A little simulation I wrote that simulates natural selection/evolution",
+      "score": "38"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vv9t5/python_36_proposal_pep_525_asynchronous_generators/",
+      "title": "Python 3.6 proposal (PEP 525) -- Asynchronous Generators",
+      "score": "30"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vu1b3/noms_a_new_database_that_makes_it_easy_to_store/",
+      "title": "Noms: a new database that makes it easy to store, move, and collaborate on large-scale structured data.",
+      "score": "28"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vttst/tim_sweeney_claims_that_microsoft_will_remove/",
+      "title": "Tim Sweeney claims that Microsoft will remove Win32, destroy Steam",
+      "score": "25"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vtsnv/remeber_css_physics_engine_startup_famous_ever/",
+      "title": "Remeber CSS physics engine startup Famo.us ? Ever wondered what happened to them ? Well I did and I found this great write up.",
+      "score": "23"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vw75i/programming_languages_in_coding_interviews_ranked/",
+      "title": "Programming languages in coding interviews ranked",
+      "score": "21"
+    }
+  ],
+  "medium": [
+    {
+      "title": "An Open Letter to John Hanke & Niantic",
+      "score": "1087",
+      "url": "https://medium.com/p/an-open-letter-to-john-hanke-niantic-6a32325b67a8"
+    },
+    {
+      "title": "The 40 Best Places to Learn Something New Every Day",
+      "score": "400",
+      "url": "https://medium.com/p/the-40-best-places-to-learn-something-new-every-day-8189e8d5e760"
+    },
+    {
+      "title": "The Principles Of Life That Everyone Knows, But Only A Few Follow",
+      "score": "1132",
+      "url": "https://medium.com/p/the-principles-of-life-that-everyone-knows-but-only-a-few-follow-51588060903c"
+    },
+    {
+      "title": "Front Series A Deck",
+      "score": "380",
+      "url": "https://medium.com/p/front-series-a-deck-f2e2775a419b"
+    },
+    {
+      "title": "The Two Minutes It Takes To Read This Will Improve Your Writing Forever",
+      "score": "8365",
+      "url": "https://medium.com/p/the-two-minutes-it-takes-to-read-this-will-improve-your-writing-forever-82a7d01441d1"
+    },
+    {
+      "title": "Making a case for letter case",
+      "score": "674",
+      "url": "https://medium.com/p/making-a-case-for-letter-case-19d09f653c98"
+    },
+    {
+      "title": "You’re Not Meant To Do What You Love. You’re Meant To Do What You’re Good At.",
+      "score": "2681",
+      "url": "https://medium.com/p/youre-not-meant-to-do-what-you-love-you-re-meant-to-do-what-you-re-good-at-4e8e6b8e929d"
+    },
+    {
+      "title": "9 Non-threatening Leadership Strategies for Women",
+      "score": "221",
+      "url": "https://medium.com/p/9-non-threatening-leadership-strategies-for-women-fe5fd48e658e"
+    },
+    {
+      "title": "How Netflix does A/B Testing",
+      "score": "1267",
+      "url": "https://medium.com/p/how-netflix-does-a-b-testing-87df9f9bf57c"
+    },
+    {
+      "title": "What are questions?",
+      "score": "460",
+      "url": "https://medium.com/p/what-are-questions-51c20fde777d"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/sharingbuttons-io-2-0",
+      "title": "Sharingbuttons.io 2.0: Super fast and easy social media sharing buttons.",
+      "score": "245"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/gogograndparent",
+      "title": "GoGoGrandparent: Call for an Uber without a smartphone",
+      "score": "163"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/cloudmounter",
+      "title": "CloudMounter: Mount cloud storage as local drive on Mac",
+      "score": "148"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/the-multiply-pill",
+      "title": "The Multiply Pill: Program a custom supplement pill for your health + energy.",
+      "score": "96"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/smartshot",
+      "title": "Smartshot: The easiest way to capture, annotate, and share your screen",
+      "score": "103"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/this-3",
+      "title": "This: Tell the story by adding pointers and commentary to photos",
+      "score": "70"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/busycal-3-0",
+      "title": "BusyCal 3.0: The most powerful calendar app for Mac and iOS",
+      "score": "62"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/pantone-studio",
+      "title": "PANTONE Studio: An elegant iOS app for discovering color palettes",
+      "score": "51"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/obliterate-me",
+      "title": "obliterate.me: Draw on Donald Trump",
+      "score": "54"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/heartbeat",
+      "title": "Heartbeat: Transform REST endpoints into streaming APIs",
+      "score": "47"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/attic-labs/noms",
+      "title": "attic-labs/noms: The versioned, forkable, syncable database",
+      "score": "1661"
+    },
+    {
+      "url": "https://github.com/mxstbr/sharingbuttons.io",
+      "title": "mxstbr/sharingbuttons.io: Quickly generate social sharing buttons with a tiny performance footprint",
+      "score": "569"
+    },
+    {
+      "url": "https://github.com/Blankj/AndroidUtilCode",
+      "title": "Blankj/AndroidUtilCode: o",
+      "score": "410"
+    },
+    {
+      "url": "https://github.com/Curzibn/Luban",
+      "title": "Curzibn/Luban: Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法",
+      "score": "412"
+    },
+    {
+      "url": "https://github.com/github/gh-ost",
+      "title": "github/gh-ost: GitHub's Online Schema Change for MySQL",
+      "score": "363"
+    },
+    {
+      "url": "https://github.com/FallibleInc/security-guide-for-developers",
+      "title": "FallibleInc/security-guide-for-developers: Security Guide for Developers",
+      "score": "304"
+    },
+    {
+      "url": "https://github.com/yadav-rahul/TastyToast",
+      "title": "yadav-rahul/TastyToast:  Make your native android Toasts Tasty",
+      "score": "280"
+    },
+    {
+      "url": "https://github.com/vhf/free-programming-books",
+      "title": "vhf/free-programming-books:  Freely available programming books",
+      "score": "252"
+    },
+    {
+      "url": "https://github.com/facebookincubator/create-react-app",
+      "title": "facebookincubator/create-react-app: Create React apps with no build configuration.",
+      "score": "247"
+    },
+    {
+      "url": "https://github.com/AHAAAAAAA/PokemonGo-Map",
+      "title": "AHAAAAAAA/PokemonGo-Map:  Live visualization of all the pokemon in your area... and more!",
+      "score": "171"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/296740#reply97",
+      "title": "小姐广告已经发到 GitHub 上了",
+      "score": "97"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296841#reply95",
+      "title": "有 8 个 Keybase.io 的邀请码，有要的木有",
+      "score": "95"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296727#reply89",
+      "title": "活着的意义是什么？只是一种本能吗？",
+      "score": "89"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296738#reply78",
+      "title": "“空中巴士”巴铁这种新闻难道只有我们互联网届的人才能一眼看出来是骗钱的项目？身边的隐性人造新闻真是越来越多。",
+      "score": "78"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296773#reply65",
+      "title": "rMBP 涂层脱落 已经更好屏幕",
+      "score": "65"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296718#reply47",
+      "title": "大家都是怎么同步 chrome 收藏夹的？",
+      "score": "47"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296749#reply41",
+      "title": "V2 的伙伴们有多少是远程办公的？分享下经验好么？",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296768#reply37",
+      "title": "作为人生第一辆车的第一年，商业保险应该买那些？",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296886#reply37",
+      "title": "微信提现收费也就算了，比起支付宝真是慢太多了",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296809#reply35",
+      "title": "大家对 Sumsung 的新 Note 7 都是什么看法呀",
+      "score": "35"
+    }
+  ]
+}
