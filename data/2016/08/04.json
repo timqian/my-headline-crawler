@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12222135",
+      "title": "What Apple should tell you when you lose your iPhone",
+      "score": "501"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12223395",
+      "title": "Crystal: Fast as C, Slick as Ruby",
+      "score": "414"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12224408",
+      "title": "Some news from LWN",
+      "score": "257"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12221559",
+      "title": "The first version of Voxel Quest (with source) has been released",
+      "score": "255"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12223275",
+      "title": "Humpback whales around the globe are mysteriously rescuing animals from orcas",
+      "score": "179"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12222379",
+      "title": "“Turkey coup plotters' use of 'amateur' app helped unveil their network”",
+      "score": "134"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12222879",
+      "title": "The beauty of bitwise AND",
+      "score": "124"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12222913",
+      "title": "Emulator Latency",
+      "score": "87"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12223511",
+      "title": "Royal palace discovered in area believed to be birthplace of King Arthur",
+      "score": "82"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12224337",
+      "title": "Firefox’s latest Test Pilot: No More 404s",
+      "score": "69"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4w3ydi/programming_with_japanese_candies/",
+      "title": "Programming with Japanese Candies",
+      "score": "226"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vyzb9/why_arent_we_using_ssh_for_everything/",
+      "title": "Why aren’t we using SSH for everything?",
+      "score": "181"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4w0ef1/announcing_net_framework_462/",
+      "title": "Announcing .NET Framework 4.6.2",
+      "score": "61"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4w0xao/voxelquest_first_release_open_source/",
+      "title": "VoxelQuest First release - Open Source",
+      "score": "63"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4w13f6/av1_royaltyfree_video_codec_from_aom_amazon_cisco/",
+      "title": "AV1 royalty-free video codec from AOM (Amazon, Cisco, Google, Intel, Microsoft, Mozilla, Netflix)",
+      "score": "58"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vzqlg/announcing_tokio_a_finagle_inspired_network/",
+      "title": "Announcing Tokio: A Finagle inspired network application framework for Rust.",
+      "score": "55"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4w0st9/making_the_obvious_code_fast/",
+      "title": "Making the obvious code fast",
+      "score": "44"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4w3svq/running_a_d_game_in_the_browser/",
+      "title": "Running a D game in the browser",
+      "score": "47"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4w21hi/c_couroutines_belong_in_a_ts_not_c17_a_call_to/",
+      "title": "C++ couroutines belong in a TS, not C++17. a call to take a step back and chill.",
+      "score": "20"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4w3qxw/lwn_subscriptions_are_declining_xpost_rlinux/",
+      "title": "LWN subscriptions are declining (x-post /r/linux)",
+      "score": "22"
+    }
+  ],
+  "medium": [
+    {
+      "title": "An Open Letter to John Hanke & Niantic",
+      "score": "1704",
+      "url": "https://medium.com/p/an-open-letter-to-john-hanke-niantic-6a32325b67a8"
+    },
+    {
+      "title": "AI Revolution 101",
+      "score": "527",
+      "url": "https://medium.com/p/ai-revolution-101-8dce1d9cb62d"
+    },
+    {
+      "title": "The Principles Of Life That Everyone Knows, But Only A Few Follow",
+      "score": "1449",
+      "url": "https://medium.com/p/the-principles-of-life-that-everyone-knows-but-only-a-few-follow-51588060903c"
+    },
+    {
+      "title": "Questions all Jeremy Corbyn supporters need to answer",
+      "score": "944",
+      "url": "https://medium.com/p/questions-all-jeremy-corbyn-supporters-need-to-answer-b3e82ace7ed3"
+    },
+    {
+      "title": "When Men Want to Talk Shop",
+      "score": "297",
+      "url": "https://medium.com/p/when-men-want-to-talk-shop-a1995b708eaa"
+    },
+    {
+      "title": "Enjoli",
+      "score": "541",
+      "url": "https://medium.com/p/https-medium-com-kristicoulter-the-24-hour-woman-3425ca5be19f"
+    },
+    {
+      "title": "The Uber Con",
+      "score": "160",
+      "url": "https://medium.com/p/the-uber-con-b6617d92a0b0"
+    },
+    {
+      "title": "Making a case for letter case",
+      "score": "932",
+      "url": "https://medium.com/p/making-a-case-for-letter-case-19d09f653c98"
+    },
+    {
+      "title": "How Netflix does A/B Testing",
+      "score": "1405",
+      "url": "https://medium.com/p/how-netflix-does-a-b-testing-87df9f9bf57c"
+    },
+    {
+      "title": "You’re Not Meant To Do What You Love. You’re Meant To Do What You’re Good At.",
+      "score": "2868",
+      "url": "https://medium.com/p/youre-not-meant-to-do-what-you-love-you-re-meant-to-do-what-you-re-good-at-4e8e6b8e929d"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/smartapp-for-mac",
+      "title": "SmartApp for Mac: World&#x27;s most advanced data tracking app",
+      "score": "233"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/waaffle",
+      "title": "Waaffle: Aggregate, analyse &amp; publish content from social media.",
+      "score": "151"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/lurchr",
+      "title": "Lurchr: Saves all your Slack links, so you can focus on work",
+      "score": "68"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/based-feed-ui-kit-for-sketch",
+      "title": "Based - Feed UI Kit for Sketch: Sketch UI kit for feeds on iOS, Android and web",
+      "score": "109"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/graphics-for-olympics",
+      "title": "Graphics for Olympics: A beautiful set of free icons around the Olympics",
+      "score": "112"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/chatbottle",
+      "title": "ChatBottle: Search engine for chatbots",
+      "score": "75"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/appinstitute",
+      "title": "AppInstitute: Create iOS &amp; Android apps quickly without coding.",
+      "score": "51"
+    },
+    {
+      "url": "https://www.producthunt.com/books/what-disruption-really-means",
+      "title": "What &quot;Disruption&quot; Really Means: An illustrated explanation, from Hardbound",
+      "score": "22"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/know-priorities",
+      "title": "Know Priorities: Product prioritization made better",
+      "score": "56"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/burrow-sofa",
+      "title": "Burrow Sofa: The spill-proof, pet-friendly, and Netflix binge ready sofa",
+      "score": "38"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/attic-labs/noms",
+      "title": "attic-labs/noms: The versioned, forkable, syncable database",
+      "score": "886"
+    },
+    {
+      "url": "https://github.com/Blankj/AndroidUtilCode",
+      "title": "Blankj/AndroidUtilCode: o",
+      "score": "383"
+    },
+    {
+      "url": "https://github.com/yadav-rahul/TastyToast",
+      "title": "yadav-rahul/TastyToast:  Make your native android Toasts Tasty",
+      "score": "313"
+    },
+    {
+      "url": "https://github.com/CanonicalLtd/react-native",
+      "title": "CanonicalLtd/react-native: A framework for building native apps with React.",
+      "score": "320"
+    },
+    {
+      "url": "https://github.com/vhf/free-programming-books",
+      "title": "vhf/free-programming-books:  Freely available programming books",
+      "score": "279"
+    },
+    {
+      "url": "https://github.com/shazow/ssh-chat",
+      "title": "shazow/ssh-chat: Chat over SSH.",
+      "score": "279"
+    },
+    {
+      "url": "https://github.com/sachinchoolur/lightgallery.js",
+      "title": "sachinchoolur/lightgallery.js: Full featured JavaScript gallery. No dependencies.",
+      "score": "279"
+    },
+    {
+      "url": "https://github.com/AHAAAAAAA/PokemonGo-Map",
+      "title": "AHAAAAAAA/PokemonGo-Map:  Live visualization of all the pokemon in your area... and more!",
+      "score": "226"
+    },
+    {
+      "url": "https://github.com/mxstbr/sharingbuttons.io",
+      "title": "mxstbr/sharingbuttons.io: Quickly generate social sharing buttons with a tiny performance footprint",
+      "score": "270"
+    },
+    {
+      "url": "https://github.com/NECROBOTIO/NecroBot",
+      "title": "NECROBOTIO/NecroBot: a Pokemon Go Bot. -&gt; ",
+      "score": "224"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/297032#reply114",
+      "title": "各位升级完 WIN10 周年更新的用起来怎么样？",
+      "score": "114"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296991#reply88",
+      "title": "曾经是小霸王的粉丝",
+      "score": "88"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297070#reply81",
+      "title": "对于守望先锋收费 198 有什么看法？",
+      "score": "81"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297125#reply65",
+      "title": "在西安月薪 2.5 万是啥体验？是不是工资一般？",
+      "score": "65"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296979#reply60",
+      "title": "你们看斗鱼直播的时候有什么好的解决方案嘛？",
+      "score": "60"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297094#reply57",
+      "title": "国产开源 NAS 系统内测招募",
+      "score": "57"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296985#reply52",
+      "title": "1password 收费模式改为订阅模式",
+      "score": "52"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296997#reply52",
+      "title": "当前前端圈是怎样的格局",
+      "score": "52"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297081#reply47",
+      "title": "同事非让我把代码写成这样，该怎么办？",
+      "score": "47"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296999#reply45",
+      "title": "完蛋了，刷 google voice 导致谷歌账号被停用！！虽然错在自己，但我不敢再把东西全放它家了。",
+      "score": "45"
+    }
+  ]
+}
