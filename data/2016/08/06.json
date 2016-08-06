@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12231101",
+      "title": "Hello from Orkut",
+      "score": "601"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12233288",
+      "title": "Let's Encrypt root certificate trusted by Mozilla",
+      "score": "399"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12233894",
+      "title": "Mozilla Awards $585k to Nine Open Source Projects",
+      "score": "374"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12233289",
+      "title": "Ask HN: How do you get notified about newest research papers in your field?",
+      "score": "318"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12235003",
+      "title": "Why We Moved from Amazon Web Services to Google Cloud Platform",
+      "score": "288"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12234735",
+      "title": "The Linux kernel hidden inside Windows 10",
+      "score": "247"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12231818",
+      "title": "Find a new city",
+      "score": "223"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12233571",
+      "title": "Praise for Intelligence Can Undermine Children's Motivation (1998) [pdf]",
+      "score": "205"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12231623",
+      "title": "What are Bloom filters? (2015)",
+      "score": "173"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12234937",
+      "title": "Minds Turned to Ash: Burnout is more than working too hard",
+      "score": "115"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4w9xgt/reading_the_tiny_amount_of_code_of_the_very_first/",
+      "title": "Reading the tiny amount of code of the very first publicly available Git version is a great way to understand how it works.",
+      "score": "1576"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wb7c2/lets_encrypt_root_certificate_trusted_by_mozilla/",
+      "title": "Let's Encrypt root certificate trusted by Mozilla",
+      "score": "385"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wc97x/silicon_valley_arrogance_i_can_tell_you_which/",
+      "title": "Silicon Valley arrogance: “I can tell you which startups will succeed, without even knowing what they do” - According to Marissa Mayer, long hours and weekend work (in person) will lead to success",
+      "score": "243"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wcnda/mozilla_awards_200000_to_the_pypy_projects/",
+      "title": "Mozilla Awards $200,000 to the PyPy projects",
+      "score": "140"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4w9fol/the_timeless_art_of_raycasting/",
+      "title": "The Timeless Art of Raycasting",
+      "score": "98"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wcnji/the_developer_died_14_years_ago_heres_a_print_out/",
+      "title": "The developer died 14 years ago, here's a print out of his source code",
+      "score": "96"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4w9z62/writing_a_jpeg_decoder_in_rust_part_1_background/",
+      "title": "Writing a JPEG decoder in Rust - Part 1: Background",
+      "score": "78"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wa3dl/moving_to_gitlab_yes_its_worth_it/",
+      "title": "Moving to GitLab! Yes, it's worth it!",
+      "score": "53"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4w9knd/solving_every_sudoku_puzzle_by_peter_norvig/",
+      "title": "Solving Every Sudoku Puzzle by Peter Norvig",
+      "score": "51"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4w9f52/cyclone_scheme_an_r7rs_scheme_to_c_compiler/",
+      "title": "Cyclone Scheme - An R7RS (Scheme to C) compiler",
+      "score": "33"
+    }
+  ],
+  "medium": [
+    {
+      "title": "How the Trump Presidential Campaign is Affecting Trump Businesses",
+      "score": "482",
+      "url": "https://medium.com/p/how-the-trump-presidential-campaign-is-affecting-trump-businesses-c343178e3c03"
+    },
+    {
+      "title": "I hack time.",
+      "score": "1256",
+      "url": "https://medium.com/p/i-hack-time-6d3a32193c9"
+    },
+    {
+      "title": "The Tragedy of Fritz Haber: The Monster Who Fed The World",
+      "score": "479",
+      "url": "https://medium.com/p/the-tragedy-of-fritz-haber-the-monster-who-fed-the-world-ec19a9834f74"
+    },
+    {
+      "title": "AI Revolution 101",
+      "score": "785",
+      "url": "https://medium.com/p/ai-revolution-101-8dce1d9cb62d"
+    },
+    {
+      "title": "The Kevin Durant–Russell Westbrook War Is Upon Us",
+      "score": "292",
+      "url": "https://medium.com/p/kevin-durant-russell-westbrook-showdown-warriors-thunder-61d12a5e3033"
+    },
+    {
+      "title": "Making a case for letter case",
+      "score": "1533",
+      "url": "https://medium.com/p/making-a-case-for-letter-case-19d09f653c98"
+    },
+    {
+      "title": "Stop shaming poor parents",
+      "score": "247",
+      "url": "https://medium.com/p/stop-shaming-poor-parents-d2338de940db"
+    },
+    {
+      "title": "Dan Shaughnessy Roots for Himself",
+      "score": "32",
+      "url": "https://medium.com/p/dan-shaughnessy-boston-globe-larry-bird-aa9cabc1d374"
+    },
+    {
+      "title": "Detransition, Desistance, and Disinformation: A Guide for Understanding Transgender Children…",
+      "score": "196",
+      "url": "https://medium.com/p/detransition-desistance-and-disinformation-a-guide-for-understanding-transgender-children-993b7342946e"
+    },
+    {
+      "title": "The Principles Of Life That Everyone Knows, But Only A Few Follow",
+      "score": "1873",
+      "url": "https://medium.com/p/the-principles-of-life-that-everyone-knows-but-only-a-few-follow-51588060903c"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/ux-power-tools",
+      "title": "UX Power Tools: The Infinite UI Kit: Sketch Components, Styles &amp; Symbols.",
+      "score": "17"
+    },
+    {
+      "url": "https://www.producthunt.com/books/foundation-1ba6c44d-b6ae-4d81-b405-0cc3fc28c9fc",
+      "title": "Foundation: Sheldon works to preserve knowledge... and save the world",
+      "score": "12"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/megamaker-e33-where-were-you",
+      "title": "MegaMaker - E33 - Where were you?: Real life keeps going, even when you launch something new",
+      "score": "8"
+    },
+    {
+      "url": "https://www.producthunt.com/games/ninja-dude-vs-zombies",
+      "title": "Ninja Dude vs Zombies: Tap&#x27;n&#x27;slash as many zombies as you can using ninja stars",
+      "score": "9"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/emoji-lookup-for-launchbar",
+      "title": "Emoji Lookup for Launchbar: Launchbar action to fnd the perfect emoji by name or keyword",
+      "score": "15"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/napkin-4",
+      "title": "Napkin: Voice controlled recipe app that makes cooking super easy",
+      "score": "15"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/nosy",
+      "title": "Nosy: Crowdsourced Tinder advice",
+      "score": "14"
+    },
+    {
+      "url": "https://www.producthunt.com/books/tesla-inventor-of-the-electric-age",
+      "title": "Tesla: Inventor of the Electric Age: Inventor and &quot;celebrity scientist&quot; that gave us electricity",
+      "score": "12"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/trump-generator",
+      "title": "Trump Generator: Have Donald Trump insult your friends",
+      "score": "11"
+    },
+    {
+      "url": "https://www.producthunt.com/games/panic-drop",
+      "title": "Panic Drop: Ferociously fast fingers? Able to react to the unexpected?",
+      "score": "2"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/facebookresearch/fastText",
+      "title": "facebookresearch/fastText: Library for fast text representation and classification.",
+      "score": "541"
+    },
+    {
+      "url": "https://github.com/sachinchoolur/lightgallery.js",
+      "title": "sachinchoolur/lightgallery.js: Full featured JavaScript gallery. No dependencies.",
+      "score": "375"
+    },
+    {
+      "url": "https://github.com/thewhitetulip/web-dev-golang-anti-textbook",
+      "title": "thewhitetulip/web-dev-golang-anti-textbook: Learn how to write webapps in Go.",
+      "score": "325"
+    },
+    {
+      "url": "https://github.com/jumpsuit/jumpsuit",
+      "title": "jumpsuit/jumpsuit: Jump in. Zip up. Build great apps.",
+      "score": "327"
+    },
+    {
+      "url": "https://github.com/pkmngodev/Unknown6",
+      "title": "pkmngodev/Unknown6: Repo dedicated to figuring out Unknown6 - for educational purposes only",
+      "score": "283"
+    },
+    {
+      "url": "https://github.com/attic-labs/noms",
+      "title": "attic-labs/noms: The versioned, forkable, syncable database",
+      "score": "274"
+    },
+    {
+      "url": "https://github.com/fanrunqi/MaterialLogin",
+      "title": "fanrunqi/MaterialLogin: Amazing Material Login effect",
+      "score": "251"
+    },
+    {
+      "url": "https://github.com/MagicStack/asyncpg",
+      "title": "MagicStack/asyncpg: A fast PostgreSQL Database Client Library for Python/asyncio",
+      "score": "211"
+    },
+    {
+      "url": "https://github.com/datacrypt-project/hitchhiker-tree",
+      "title": "datacrypt-project/hitchhiker-tree: Functional, persistent, off-heap, high performance data structure",
+      "score": "185"
+    },
+    {
+      "url": "https://github.com/vhf/free-programming-books",
+      "title": "vhf/free-programming-books:  Freely available programming books",
+      "score": "151"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/297531#reply36",
+      "title": "艺术二维码 QArt Codes",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297525#reply27",
+      "title": "又是一个 V2EX 的客户端，这次是 golang 写的",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297538#reply23",
+      "title": "求助 V 友，人在国外，如何补办联通手机卡？",
+      "score": "23"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297530#reply19",
+      "title": "今天发现我的微博被自动关注了 @微博运动",
+      "score": "19"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297512#reply16",
+      "title": "女朋友做营养师的，辞职进修，想看看有没有人有配餐需求",
+      "score": "16"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297543#reply16",
+      "title": "请问 80 被封的情况下,如何让 80 跳转到 443?",
+      "score": "16"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297550#reply15",
+      "title": "mba 经常电我……怎么破",
+      "score": "15"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297569#reply15",
+      "title": "侄子要去上大学了,送个什么游戏本比较好呢?",
+      "score": "15"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297533#reply14",
+      "title": "利用国外主机的流量便宜做数据分发",
+      "score": "14"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297536#reply12",
+      "title": "想保存网页成 mht 格式，有没有类似的库呀",
+      "score": "12"
+    }
+  ]
+}
