@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12247401",
+      "title": "Moving 12 years of email from GMail to FastMail",
+      "score": "601"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12251286",
+      "title": "\"I Want to Know What Code Is Running Inside My Body\"",
+      "score": "392"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12252587",
+      "title": "I Don’t Care How Well You Code, Understand Your Compensation",
+      "score": "383"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12251323",
+      "title": "A Generation Lost in the Bazaar (2012)",
+      "score": "378"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12249775",
+      "title": "Image Kernels explained visually",
+      "score": "345"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12251958",
+      "title": "How to Have Healthy Relationships as a Developer",
+      "score": "189"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12252112",
+      "title": "PostgreSQL Index Internals",
+      "score": "141"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12253002",
+      "title": "A Street Map of New York City in the 1800s",
+      "score": "131"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12253276",
+      "title": "The CIA’s 1944 Simple Sabotage Field Manual (2015)",
+      "score": "120"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12253632",
+      "title": "Researchers crack open unusually advanced malware that hid for 5 years",
+      "score": "116"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wu0nj/i_want_to_know_what_code_is_running_inside_my_body/",
+      "title": "“I Want to Know What Code Is Running Inside My Body”",
+      "score": "1355"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wsvzw/i_dont_care_how_well_you_code_understand_your/",
+      "title": "I Don’t Care How Well You Code, Understand Your Compensation",
+      "score": "101"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wsdn7/postgresql_performance_vs_linux_kernel_versions/",
+      "title": "PostgreSQL Performance vs. Linux kernel versions",
+      "score": "92"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wrocj/chrome_53_beta_shadow_dom_version_1/",
+      "title": "Chrome 53 Beta: Shadow DOM version 1!",
+      "score": "66"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wt337/schemapack_serialize_your_javascript_objects_with/",
+      "title": "SchemaPack - Serialize your JavaScript objects with schemas. Faster and smaller than the competition. Perfect for WebSockets.",
+      "score": "61"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wr59x/stephen_wolfram_announces_version_11_of/",
+      "title": "Stephen Wolfram announces Version 11 of Mathematica",
+      "score": "42"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wt7m1/cybersecurity_researchers_at_symantec_have/",
+      "title": "&quot;Cybersecurity researchers at Symantec have discovered a previously-unknown hacker group they have dubbed 'Strider', which has been infecting organisations and individuals that would be of potential interest to a nation state's intelligence services.&quot;",
+      "score": "41"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wt5t2/built_a_console_based_database_viewereditor_only/",
+      "title": "Built a console based database viewer/editor. Only works with SQLite3 atm, but will add MySQL and PostgreSQL as well if people want it.",
+      "score": "36"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wtzug/a_generation_lost_in_the_bazaar/",
+      "title": "A Generation Lost in the Bazaar",
+      "score": "35"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wsenw/writing_an_os_in_rust_better_exception_messages/",
+      "title": "Writing an OS in Rust: Better Exception Messages",
+      "score": "27"
+    }
+  ],
+  "medium": [
+    {
+      "title": "I Peeked Into My Node_Modules Directory And You Won’t Believe What Happened Next",
+      "score": "2360",
+      "url": "https://medium.com/p/i-peeked-into-my-node-modules-directory-and-you-wont-believe-what-happened-next-b89f63d21558"
+    },
+    {
+      "title": "The Winners and Losers of ‘Suicide Squad’",
+      "score": "81",
+      "url": "https://medium.com/p/the-winners-and-losers-of-suicide-squad-262893f04ee"
+    },
+    {
+      "title": "Lauren Singer runs a company with one business goal: Go out of business.",
+      "score": "527",
+      "url": "https://medium.com/p/lauren-singer-runs-a-company-with-one-business-goal-go-out-of-business-58039cc474b4"
+    },
+    {
+      "title": "A Letter to My Daughter About Young Men",
+      "score": "4286",
+      "url": "https://medium.com/p/a-letter-to-my-daughter-about-young-men-2bab2fca4971"
+    },
+    {
+      "title": "There’s No Such Thing As A Protest Vote",
+      "score": "1246",
+      "url": "https://medium.com/p/theres-no-such-thing-as-a-protest-vote-c2fdacabd704"
+    },
+    {
+      "title": "Jared Leto’s Very Big Joke",
+      "score": "146",
+      "url": "https://medium.com/p/jared-leto-joker-suicide-squad-4950c2f44485"
+    },
+    {
+      "title": "Saudi Millennials Don’t Use Their Phones Like We Do",
+      "score": "181",
+      "url": "https://medium.com/p/the-human-codebreakers-ddb4ca9b2dff"
+    },
+    {
+      "title": "A Letter From a War Zone",
+      "score": "739",
+      "url": "https://medium.com/p/a-letter-from-a-war-zone-b57bb52e4c9b"
+    },
+    {
+      "title": "Airbnb’s racism problem is much bigger than a few racist hosts.",
+      "score": "1012",
+      "url": "https://medium.com/p/airbnbs-racism-problem-is-much-bigger-than-a-few-racist-hosts-a1dea9c77586"
+    },
+    {
+      "title": "SEO is Not Hard — A step-by-step SEO Tutorial for beginners that will get you ranked every single…",
+      "score": "556",
+      "url": "https://medium.com/p/seo-is-not-hard-a-step-by-step-seo-tutorial-for-beginners-that-will-get-you-ranked-every-single-1b903b3ab6bb"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/notion-1-0-mac-app",
+      "title": "Notion 1.0 + Mac App: Docs, wikis, tasks – a minimal &amp; unified workspace for teams",
+      "score": "493"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/meta-search",
+      "title": "Meta Search: Search your Desktop, Google Drive, Dropbox, Gmail, Evernote.",
+      "score": "231"
+    },
+    {
+      "url": "https://www.producthunt.com/games/no-man-s-sky-2",
+      "title": "No Man&#x27;s Sky: Explore a nearly endless procedurally generated universe",
+      "score": "62"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/billdogg",
+      "title": "Billdogg: Beautifully simple invoicing for freelancers",
+      "score": "110"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/fomo-3",
+      "title": "Fomo: The online equivalent of a busy store.",
+      "score": "47"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/geofilter-place",
+      "title": "Geofilter Place: The marketplace for Snapchat geofilters",
+      "score": "69"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/tilt-3-0",
+      "title": "Tilt 3.0: Social payments, now with one-to-one payments and requests",
+      "score": "88"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/spontime",
+      "title": "Spontime: A social app to meet with friends and people nearby.",
+      "score": "61"
+    },
+    {
+      "url": "https://www.producthunt.com/books/andrew-carnegie-2",
+      "title": "Andrew Carnegie: One of America&#x27;s most successful businessmen",
+      "score": "36"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/populate",
+      "title": "Populate: Centralized people data for analysis, planning and new hires",
+      "score": "75"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/FallibleInc/security-guide-for-developers",
+      "title": "FallibleInc/security-guide-for-developers: Security Guide for Developers (实用性开发人员安全须知)",
+      "score": "499"
+    },
+    {
+      "url": "https://github.com/a0viedo/demystifying-js-engines",
+      "title": "a0viedo/demystifying-js-engines: o",
+      "score": "350"
+    },
+    {
+      "url": "https://github.com/PokemonGoMap/PokemonGo-Map",
+      "title": "PokemonGoMap/PokemonGo-Map:  Live visualization of all the pokemon in your area... and more!",
+      "score": "280"
+    },
+    {
+      "url": "https://github.com/noidontdig/gitdown",
+      "title": "noidontdig/gitdown: Don't commit when you're drunk",
+      "score": "311"
+    },
+    {
+      "url": "https://github.com/NECROBOTIO/NecroBot",
+      "title": "NECROBOTIO/NecroBot: a Pokemon Go Bot. -&gt; ",
+      "score": "208"
+    },
+    {
+      "url": "https://github.com/sachinchoolur/lightgallery.js",
+      "title": "sachinchoolur/lightgallery.js: Full featured JavaScript image &amp; video gallery. No dependencies",
+      "score": "226"
+    },
+    {
+      "url": "https://github.com/WeLikeVis/CameraFilter",
+      "title": "WeLikeVis/CameraFilter: Realtime camera filters for Android.",
+      "score": "219"
+    },
+    {
+      "url": "https://github.com/PokemonGoF/PokemonGo-Bot",
+      "title": "PokemonGoF/PokemonGo-Bot: The Pokemon Go Bot, baking with community.",
+      "score": "186"
+    },
+    {
+      "url": "https://github.com/favll/pogom",
+      "title": "favll/pogom: The fastest Pokémon Go Map available.",
+      "score": "178"
+    },
+    {
+      "url": "https://github.com/Blankj/AndroidUtilCode",
+      "title": "Blankj/AndroidUtilCode: Android开发人员不得不收集的代码(持续更新中)",
+      "score": "182"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/298022#reply110",
+      "title": "如何优雅的收拾强占车位的人",
+      "score": "110"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298079#reply100",
+      "title": "并发解决一秒钟五十万的并发网站",
+      "score": "100"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298048#reply91",
+      "title": "我都不好意思了，代码变量拼音命名，醉了。。。。",
+      "score": "91"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298096#reply74",
+      "title": "因为我司有很多萌妹子！萌妹子！萌妹子！ 就想到了一个 idea， 大家来看看你们觉得 OK 嘛？",
+      "score": "74"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298020#reply71",
+      "title": "除了这 5 个，大家还希望 iPic 支持哪些图床呢？",
+      "score": "71"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298070#reply60",
+      "title": "超信 · 和重要的人聊重要的事",
+      "score": "60"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298163#reply42",
+      "title": "关于旧的服务器如何处理",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298074#reply38",
+      "title": "开源一个全功能 BT 搜索引擎",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298068#reply35",
+      "title": "腾讯云新加坡数据中心开放",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298129#reply35",
+      "title": "不喜欢别人碰我鼠标怎么办？",
+      "score": "35"
+    }
+  ]
+}
