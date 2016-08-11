@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12262470",
+      "title": "This JPEG is also a webpage",
+      "score": "787"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12265762",
+      "title": "Unsafe levels of toxic chemicals found in drinking water for 6M Americans",
+      "score": "279"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12267124",
+      "title": "How the Arab World Came Apart",
+      "score": "233"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12268107",
+      "title": "Why we won't be selling Genuino or Arduino any more",
+      "score": "161"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12266623",
+      "title": "Top Deep Learning Projects",
+      "score": "146"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12267284",
+      "title": "GNU founder Stallman: ‘Open source is not free software’",
+      "score": "143"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12267254",
+      "title": "Why I Live in IRC (2015)",
+      "score": "101"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12267252",
+      "title": "Five languages that came from English",
+      "score": "86"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12267709",
+      "title": "The People’s Code",
+      "score": "84"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12266370",
+      "title": "UEFI on top of U-Boot on ARM",
+      "score": "81"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x2sjl/text_analysis_of_trumps_tweets_confirms_he_writes/",
+      "title": "Text analysis of Trump's tweets confirms he writes only the (angrier) Android half",
+      "score": "4712"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x2kvh/generating_fantasy_maps/",
+      "title": "Generating fantasy maps",
+      "score": "394"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x39et/shape_of_errors_to_come/",
+      "title": "Shape of errors to come",
+      "score": "88"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x2zie/microsoft_singlehandedly_proves_that_golden/",
+      "title": "Microsoft singlehandedly proves that golden backdoor keys are a terrible idea",
+      "score": "69"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x33u4/kdes_kirigami_ui_framework_gets_its_first_public/",
+      "title": "KDE's Kirigami UI Framework Gets its First Public Release",
+      "score": "51"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x77y2/attackers_can_check_whether_any_two_hosts_are/",
+      "title": "Attackers can check whether any two hosts are communicating over TCP, terminate connection or inject their own packets [PDF]",
+      "score": "59"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x7iw2/disassembly_of_pokémon_redblue/",
+      "title": "Disassembly of Pokémon Red/Blue",
+      "score": "35"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x5uam/templeos_making_a_triangle_fill_from_scratch/",
+      "title": "TempleOS: Making a triangle fill from scratch.",
+      "score": "32"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x4ly9/asynchronous_servers_in_rust/",
+      "title": "Asynchronous Servers In Rust",
+      "score": "26"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x3w30/proposal_variable_declaration_syntax_for_python/",
+      "title": "Proposal: variable declaration syntax for Python",
+      "score": "25"
+    }
+  ],
+  "medium": [
+    {
+      "title": "You Won’t Believe What Hillary Ordered the DNC to do to Bernie’s Brother!",
+      "score": "687",
+      "url": "https://medium.com/p/you-wont-believe-what-hillary-ordered-the-dnc-to-do-to-bernie-s-brother-a344eb5bad1b"
+    },
+    {
+      "title": "Is this my interface or yours?",
+      "score": "2040",
+      "url": "https://medium.com/p/is-this-my-interface-or-yours-b09a7a795256"
+    },
+    {
+      "title": "I Peeked Into My Node_Modules Directory And You Won’t Believe What Happened Next",
+      "score": "3169",
+      "url": "https://medium.com/p/i-peeked-into-my-node-modules-directory-and-you-wont-believe-what-happened-next-b89f63d21558"
+    },
+    {
+      "title": "The Strange Afterlife of Donald Trump’s Tweets",
+      "score": "128",
+      "url": "https://medium.com/p/donald-trump-twitter-afterlife-dc42b72901f2"
+    },
+    {
+      "title": "Saudi Millennials Don’t Use Their Phones Like We Do",
+      "score": "552",
+      "url": "https://medium.com/p/the-human-codebreakers-ddb4ca9b2dff"
+    },
+    {
+      "title": "The Decline of War",
+      "score": "385",
+      "url": "https://medium.com/p/the-decline-of-war-8760f9a5b5ce"
+    },
+    {
+      "title": "Letter of Resignation from the Palo Alto Planning and Transportation Commission",
+      "score": "612",
+      "url": "https://medium.com/p/letter-of-resignation-from-the-palo-alto-planning-and-transportation-commission-f7b6facd94f5"
+    },
+    {
+      "title": "What to Remember When the Trump Comeback Begins",
+      "score": "519",
+      "url": "https://medium.com/p/what-to-remember-when-the-trump-comeback-begins-1db1c4698eef"
+    },
+    {
+      "title": "19 Incredibly Useful Websites You Wish You Knew Earlier",
+      "score": "1871",
+      "url": "https://medium.com/p/19-incredibly-useful-websites-you-wish-you-knew-earlier-eda6f16752c8"
+    },
+    {
+      "title": "Using the 5/25 Rule to Learn to Say “No”",
+      "score": "396",
+      "url": "https://medium.com/p/using-the-5-25-rule-to-learn-to-say-no-c84164aa9dd6"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/html-email",
+      "title": "HTML Email: Responsive HTML email templates for startups &amp; developers",
+      "score": "255"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/fabric-4",
+      "title": "Fabric: The story of your life that writes itself.",
+      "score": "218"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/the-rise-awards",
+      "title": "The Rise Awards: Awards series celebrating top talent, at all positions",
+      "score": "188"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/elink-2-0",
+      "title": "Elink 2.0: Turn links into beautiful newsletters &amp; web pages in mins.",
+      "score": "150"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/how-much-to-make-a-logo-2",
+      "title": "How Much To Make a Logo: Easily calculate the cost of a logo or branding.",
+      "score": "121"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/fireup",
+      "title": "Fireup: Create a beautiful timeline of your startup&#x27;s journey",
+      "score": "125"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/purple-2-0",
+      "title": "Purple 2.0: Interactive election updates on Messenger",
+      "score": "135"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/airfordable",
+      "title": "Airfordable: Payment plans for flights before your departure.",
+      "score": "108"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/patientbank",
+      "title": "PatientBank: Get medical records online—from any doctor or hospital",
+      "score": "150"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/flutterwave",
+      "title": "Flutterwave: 1 API for ACH, card and mobile money payments across Africa",
+      "score": "75"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/roberdam/Xaddress",
+      "title": "roberdam/Xaddress: Xaddress - Give 7 billion people an instant physical address",
+      "score": "738"
+    },
+    {
+      "url": "https://github.com/mewo2/terrain",
+      "title": "mewo2/terrain: Fantasy map generator",
+      "score": "698"
+    },
+    {
+      "url": "https://github.com/aymericdamien/TopDeepLearning",
+      "title": "aymericdamien/TopDeepLearning: A list of popular github projects related to deep learning",
+      "score": "519"
+    },
+    {
+      "url": "https://github.com/eoinfogarty/Onboarding",
+      "title": "eoinfogarty/Onboarding: A beautiful way to introduce users to your app",
+      "score": "376"
+    },
+    {
+      "url": "https://github.com/FallibleInc/security-guide-for-developers",
+      "title": "FallibleInc/security-guide-for-developers: Security Guide for Developers (实用性开发人员安全须知)",
+      "score": "287"
+    },
+    {
+      "url": "https://github.com/NECROBOTIO/NecroBot",
+      "title": "NECROBOTIO/NecroBot: a Pokemon Go Bot. -&gt; ",
+      "score": "204"
+    },
+    {
+      "url": "https://github.com/Librevault/librevault",
+      "title": "Librevault/librevault: Librevault - Peer-to-peer, decentralized and open source file sync.",
+      "score": "259"
+    },
+    {
+      "url": "https://github.com/kovetskiy/go-fast",
+      "title": "kovetskiy/go-fast: Compile Go programs 7x faster",
+      "score": "217"
+    },
+    {
+      "url": "https://github.com/alexazhou/VeryNginx",
+      "title": "alexazhou/VeryNginx: A very powerful and friendly nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.",
+      "score": "179"
+    },
+    {
+      "url": "https://github.com/Curzibn/Luban",
+      "title": "Curzibn/Luban: Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法",
+      "score": "160"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/298584#reply114",
+      "title": "未来丈母娘周末突然来北京玩，第一次见面有啥要注意的?",
+      "score": "114"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298586#reply98",
+      "title": "10K 诚寻有担当的网络技术大牛，你在哪里？",
+      "score": "98"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298619#reply92",
+      "title": "借了钱，贷了款，买了房",
+      "score": "92"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298679#reply89",
+      "title": "皆买何电脑之，我是文家，愿与我一点荐",
+      "score": "89"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298548#reply61",
+      "title": "神舟的战神笔记本怎么样？",
+      "score": "61"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298673#reply57",
+      "title": "如何习惯 mac？",
+      "score": "57"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298618#reply48",
+      "title": "奥运会跟你有关系么",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298640#reply44",
+      "title": "各位平时上班喝的饮料是什么？白水？绿茶？红茶？咖啡？还是不喝水？",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298682#reply42",
+      "title": "房地产总共才发展 10 来年，为什么这么多人说不会跌？",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298665#reply37",
+      "title": "大家对极简生活有什么看法？",
+      "score": "37"
+    }
+  ]
+}
