@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12279415",
+      "title": "Machine Learning and Ketosis",
+      "score": "504"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12279494",
+      "title": "Machine Learning Exercises in Python, Part 1",
+      "score": "356"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12268010",
+      "title": "Why Buyers Shunned the World's Largest Diamond",
+      "score": "171"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12281025",
+      "title": "Stop Treating Marijuana Like Heroin",
+      "score": "168"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12269784",
+      "title": "The Rise and Fall of the Gopher Protocol",
+      "score": "157"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12279552",
+      "title": "Spaceplan",
+      "score": "149"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12277347",
+      "title": "Rock climber Alex Honnold doesn’t experience fear like the rest of us",
+      "score": "145"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12278722",
+      "title": "Instagram photos reveal predictive markers of depression",
+      "score": "133"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12278566",
+      "title": "Show HN: Hacker Hall - Virtual Coworking",
+      "score": "133"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12278276",
+      "title": "Too Poor to Afford the Internet",
+      "score": "131"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xfdj4/google_puts_up_fuchsia_repo_apparently_a_new_os/",
+      "title": "Google puts up Fuchsia repo - apparently a new OS.",
+      "score": "924"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xfrkd/a_map_that_shows_whats_on_the_other_side_of_the/",
+      "title": "A map that shows what's on the other side of the world.",
+      "score": "85"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xgcbd/announcing_way_cooler_a_tiling_window_manager_for/",
+      "title": "Announcing Way Cooler - a tiling window manager for Wayland written in Rust",
+      "score": "76"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xhq2f/machine_learning_and_weightloss/",
+      "title": "Machine Learning and Weightloss",
+      "score": "59"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ximxl/pacman_on_the_sequoia_avcedge_dre_voting_machine/",
+      "title": "Pac-Man on the Sequoia AVC-Edge DRE voting machine (with anti-tampering protections intact)",
+      "score": "37"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xg660/pizzicatojs_a_simple_web_audio_library/",
+      "title": "Pizzicato.js - A simple web audio library",
+      "score": "24"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xfag3/standup_antipatterns/",
+      "title": "Standup Antipatterns",
+      "score": "16"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xezpa/tech_debt_snowball_a_simple_strategy_to_manage/",
+      "title": "Tech Debt Snowball – A Simple Strategy to Manage Technical Debt",
+      "score": "17"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xg8dt/dynamic_code_loading_on_a_mcu/",
+      "title": "Dynamic Code Loading on a MCU",
+      "score": "15"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xhnh3/simit_a_language_for_physical_simulation_abstract/",
+      "title": "Simit: a Language for Physical Simulation [abstract + link to PDF]",
+      "score": "11"
+    }
+  ],
+  "medium": [
+    {
+      "title": "How to Become the Best in the World at What You Do",
+      "score": "762",
+      "url": "https://medium.com/p/how-to-become-the-best-in-the-world-at-what-you-do-328f7b358bdf"
+    },
+    {
+      "title": "I’m deleting Snapchat, and you should too",
+      "score": "1198",
+      "url": "https://medium.com/p/im-deleting-snapchat-and-you-should-too-98569b2609e4"
+    },
+    {
+      "title": "Alphabet Learns That Change Isn’t as Easy as ABC",
+      "score": "111",
+      "url": "https://medium.com/p/alphabet-learns-that-change-isnt-as-easy-as-abc-e24df2673639"
+    },
+    {
+      "title": "LeBron James Has a $100 Million Contract, and It Isn’t Enough",
+      "score": "119",
+      "url": "https://medium.com/p/lebron-james-has-a-100-million-contract-and-it-isnt-enough-22859597fe1"
+    },
+    {
+      "title": "If You’re Too Busy For These 5 Things: Your Life Is More Off-Course Than You Think",
+      "score": "350",
+      "url": "https://medium.com/p/if-youre-too-busy-for-these-5-things-your-life-is-more-off-course-than-you-think-2a180a509ff6"
+    },
+    {
+      "title": "I Peeked Into My Node_Modules Directory And You Won’t Believe What Happened Next",
+      "score": "3726",
+      "url": "https://medium.com/p/i-peeked-into-my-node-modules-directory-and-you-wont-believe-what-happened-next-b89f63d21558"
+    },
+    {
+      "title": "Music’s Big Fat Lie",
+      "score": "194",
+      "url": "https://medium.com/p/musics-big-fat-lie-6de71f0e09b9"
+    },
+    {
+      "title": "How I made my first million dollars (in pro bono code)",
+      "score": "557",
+      "url": "https://medium.com/p/how-i-made-my-first-million-dollars-in-pro-bono-code-86f911040484"
+    },
+    {
+      "title": "Transar: o pecado de Ingrid",
+      "score": "643",
+      "url": "https://medium.com/p/transar-o-pecado-de-ingrid-d8a5a4a0172"
+    },
+    {
+      "title": "The Most Incredible Things About the U.S. Women’s Gymnastics Team",
+      "score": "150",
+      "url": "https://medium.com/p/united-states-olympic-womens-gymnastics-2016-simone-biles-aly-raisman-3bd0624c0d42"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/windows-95-ui-kit",
+      "title": "Windows 95 UI kit: Vector UI kit with Windows styles, fonts, and icons",
+      "score": "80"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/blogowl",
+      "title": "BlogOwl: Delivers blog post Ideas and suggestions to your inbox",
+      "score": "65"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/office-snapshots",
+      "title": "Office Snapshots: Browse offices around the world, with photos.",
+      "score": "54"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/hydra-2",
+      "title": "Hydra: Beautiful HDR imaging on your Mac",
+      "score": "55"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/youtube-to-mp3-api",
+      "title": "YouTube to MP3 API: Get a link to a downloadable mp3 file of any YouTube video.",
+      "score": "47"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/in-or-out-3",
+      "title": "In or Out: A Slack app for keeping track of who is in or who is out.",
+      "score": "47"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/mobile-app-revenue-calculator",
+      "title": "Mobile App Revenue Calculator: Estimate your app revenue from ads and in-app purchases",
+      "score": "37"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/apple-watch-nylon-bands",
+      "title": "Apple Watch Nylon Bands: Daniel Wellington style bands for your Apple Watch",
+      "score": "34"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/ticwatch-2",
+      "title": "Ticwatch 2: The most interactive smartwatch",
+      "score": "18"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/show-list",
+      "title": "Show List: Share bands you&#x27;ve seen live, discover new bands",
+      "score": "24"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/arielf/weight-loss",
+      "title": "arielf/weight-loss: Machine Learning meets ketosis: how to effectively lose weight",
+      "score": "501"
+    },
+    {
+      "url": "https://github.com/redfin/react-server",
+      "title": "redfin/react-server: React framework with server render for blazing fast page load and seamless transitions between pages in the browser.",
+      "score": "372"
+    },
+    {
+      "url": "https://github.com/aymericdamien/TopDeepLearning",
+      "title": "aymericdamien/TopDeepLearning: A list of popular github projects related to deep learning",
+      "score": "352"
+    },
+    {
+      "url": "https://github.com/fatedier/frp",
+      "title": "fatedier/frp: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "score": "315"
+    },
+    {
+      "url": "https://github.com/recharts/recharts",
+      "title": "recharts/recharts: Redefined chart library built with React and D3",
+      "score": "305"
+    },
+    {
+      "url": "https://github.com/NECROBOTIO/NecroBot",
+      "title": "NECROBOTIO/NecroBot: The biggest Pokemon Go Bot in history. Good Bye!",
+      "score": "99"
+    },
+    {
+      "url": "https://github.com/Automattic/simplenote-ios",
+      "title": "Automattic/simplenote-ios: Simplenote for iOS",
+      "score": "199"
+    },
+    {
+      "url": "https://github.com/VoLuong/Awesome-Linux-Software",
+      "title": "VoLuong/Awesome-Linux-Software:  A curated list of awesome applications, softwares, tools and other materials for Linux distros.",
+      "score": "193"
+    },
+    {
+      "url": "https://github.com/Automattic/simplenote-android",
+      "title": "Automattic/simplenote-android: Simplenote for Android",
+      "score": "185"
+    },
+    {
+      "url": "https://github.com/mrjoelkemp/awesome-paid-open-source",
+      "title": "mrjoelkemp/awesome-paid-open-source: Collection of links around paid/sustainable open source development",
+      "score": "167"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/299071#reply116",
+      "title": "有感于最近一次支付宝 9.9 改版",
+      "score": "116"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299036#reply42",
+      "title": "留学还是继续工作",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299116#reply41",
+      "title": "Hyper_ 开放啦！最简单的 Docker 云，两秒部署你的应用，注册就送 20 美刀",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299038#reply36",
+      "title": "大家一般用什么软件拦截骚扰电话？",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299103#reply36",
+      "title": "感觉整个人跌倒了谷底",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299046#reply34",
+      "title": "前后端该不该分离 你是否已经迷糊了",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299073#reply34",
+      "title": "OSX 上哪些快捷键或者软件让你用的很爽？",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299031#reply31",
+      "title": "ssh 连一下新加坡主机直接被封 IP 怎么破",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299037#reply23",
+      "title": "github 私有库能够使用 pages 服务搭建博客吗？",
+      "score": "23"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299061#reply23",
+      "title": "QQ 音乐彻底封杀在国外的用户了，超级绿钻都不行了",
+      "score": "23"
+    }
+  ]
+}
