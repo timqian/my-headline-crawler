@@ -1,0 +1,263 @@
+{
+  "HN": [],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xl02l/climbing_the_infinite_ladder_of_abstraction/",
+      "title": "Climbing the infinite ladder of abstraction",
+      "score": "538"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xnsqp/dropout_rate_from_30_days_of_the_coding_challenge/",
+      "title": "Dropout rate from 30 days of the coding challenge. Only 8.2% of them made it to the very last day.",
+      "score": "393"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xjr02/after_yesterdays_gopher_article_i_thought_to/",
+      "title": "After yesterday's gopher article, i thought to write a client",
+      "score": "188"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xmtlr/lessons_from_converting_an_app_to_100_kotlin/",
+      "title": "Lessons from converting an app to 100% Kotlin — Keepsafe Engineering",
+      "score": "89"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xjjfy/write_your_own_chip8_emulator_tdd_tutorial/",
+      "title": "Write Your Own Chip-8 Emulator TDD Tutorial",
+      "score": "69"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xlpoy/a_fun_way_to_practice_and_familiarize_yourself/",
+      "title": "A fun way to practice and familiarize yourself with development tools, workflows, patterns and practices.",
+      "score": "39"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xl4wq/grokbit_now_supports_indexing_public_repos/",
+      "title": "Grokbit now Supports Indexing Public Repos",
+      "score": "14"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xnsac/generational_garbage_collection_write/",
+      "title": "Generational Garbage Collection, Write Barriers/Write Protection and userfaultfd(2)",
+      "score": "10"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xo0r3/aeron_efficient_reliable_udp_unicast_udp/",
+      "title": "Aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
+      "score": "4"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xljiy/give_me_some_input_on_open_source_nethacklike/",
+      "title": "Give me some input on open source NetHacklike Roguelike multiplayer game - Land Sky",
+      "score": "4"
+    }
+  ],
+  "medium": [
+    {
+      "title": "If You’re Too Busy For These 5 Things: Your Life Is More Off-Course Than You Think",
+      "score": "873",
+      "url": "https://medium.com/p/if-youre-too-busy-for-these-5-things-your-life-is-more-off-course-than-you-think-2a180a509ff6"
+    },
+    {
+      "title": "How to Become the Best in the World at What You Do",
+      "score": "1126",
+      "url": "https://medium.com/p/how-to-become-the-best-in-the-world-at-what-you-do-328f7b358bdf"
+    },
+    {
+      "title": "Design and the Self",
+      "score": "374",
+      "url": "https://medium.com/p/design-and-the-self-a5670a000fee"
+    },
+    {
+      "title": "Inside Australia’s prison colony, where even children view death as their only hope",
+      "score": "118",
+      "url": "https://medium.com/p/inside-australias-prison-colony-where-even-children-view-death-as-their-only-hope-2997aea79518"
+    },
+    {
+      "title": "What is an API? In English, please.",
+      "score": "343",
+      "url": "https://medium.com/p/what-is-an-api-in-english-please-b880a3214a82"
+    },
+    {
+      "title": "I’m deleting Snapchat, and you should too",
+      "score": "1395",
+      "url": "https://medium.com/p/im-deleting-snapchat-and-you-should-too-98569b2609e4"
+    },
+    {
+      "title": "John Doe 1991",
+      "score": "333",
+      "url": "https://medium.com/p/john-doe-1991-36ada62f17cf"
+    },
+    {
+      "title": "Alphabet Learns That Change Isn’t as Easy as ABC",
+      "score": "172",
+      "url": "https://medium.com/p/alphabet-learns-that-change-isnt-as-easy-as-abc-e24df2673639"
+    },
+    {
+      "title": "Blab is dead…long live Blab.",
+      "score": "305",
+      "url": "https://medium.com/p/blab-is-dead-long-live-blab-d2f72449ddb8"
+    },
+    {
+      "title": "How I made my first million dollars (in pro bono code)",
+      "score": "730",
+      "url": "https://medium.com/p/how-i-made-my-first-million-dollars-in-pro-bono-code-86f911040484"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/indie-hackers",
+      "title": "Indie Hackers: Learn how developers are writing their own paychecks.",
+      "score": "125"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/find-it-2",
+      "title": "Find It: Browse your Mac&#x27;s hard drive using your iPhone",
+      "score": "84"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/procreate-pocket",
+      "title": "Procreate Pocket: Create stunning illustrations and drawings on your iPhone",
+      "score": "42"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/recharts",
+      "title": "Recharts: A composable charting library built on React components",
+      "score": "50"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/stage-asia",
+      "title": "Stage Asia: Discover Asia&#x27;s early stage startup companies",
+      "score": "30"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/webdeck",
+      "title": "WebDeck: Your homepage on the web",
+      "score": "27"
+    },
+    {
+      "url": "https://www.producthunt.com/games/desert-zombies",
+      "title": "Desert Zombies: A zombie shooter that will simply grow on you!",
+      "score": "4"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/eme",
+      "title": "EME: Elegant Markdown editor",
+      "score": "13"
+    },
+    {
+      "url": "https://www.producthunt.com/books/digital-strategy",
+      "title": "Digital Strategy: A Guide to Digital Business Transformation",
+      "score": "3"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/vibe-3",
+      "title": "Vibe: Find and share music with friends through a keyboard",
+      "score": "25"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/arielf/weight-loss",
+      "title": "arielf/weight-loss: Machine Learning meets ketosis: how to effectively lose weight",
+      "score": "572"
+    },
+    {
+      "url": "https://github.com/recharts/recharts",
+      "title": "recharts/recharts: Redefined chart library built with React and D3",
+      "score": "277"
+    },
+    {
+      "url": "https://github.com/jkbrzt/httpie",
+      "title": "jkbrzt/httpie: CLI HTTP client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.",
+      "score": "213"
+    },
+    {
+      "url": "https://github.com/endrazine/wcc",
+      "title": "endrazine/wcc: The Witchcraft Compiler Collection",
+      "score": "186"
+    },
+    {
+      "url": "https://github.com/aymericdamien/TopDeepLearning",
+      "title": "aymericdamien/TopDeepLearning: A list of popular github projects related to deep learning",
+      "score": "180"
+    },
+    {
+      "url": "https://github.com/jdwittenauer/ipython-notebooks",
+      "title": "jdwittenauer/ipython-notebooks: A collection of IPython notebooks covering various topics.",
+      "score": "159"
+    },
+    {
+      "url": "https://github.com/redfin/react-server",
+      "title": "redfin/react-server: React framework with server render for blazing fast page load and seamless transitions between pages in the browser.",
+      "score": "153"
+    },
+    {
+      "url": "https://github.com/gmetais/sw-delta",
+      "title": "gmetais/sw-delta: An incremental cache for the web",
+      "score": "151"
+    },
+    {
+      "url": "https://github.com/Immington-Industries/way-cooler",
+      "title": "Immington-Industries/way-cooler: Customizable Wayland compositor (window manager) written in Rust",
+      "score": "142"
+    },
+    {
+      "url": "https://github.com/fuchsia-mirror/magenta",
+      "title": "fuchsia-mirror/magenta: Magenta Kernel, Core Drivers, and Services",
+      "score": "122"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/299176#reply74",
+      "title": "Mac 真不用重启吗， uptime 15 天卡的不要不要的",
+      "score": "74"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299197#reply54",
+      "title": "将图片自动上传到 GitHub, 返回图片 URL",
+      "score": "54"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299186#reply50",
+      "title": "求一个上班路上用来杀时间的手游",
+      "score": "50"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299246#reply26",
+      "title": "当我们 chmod 777 的时候，到底干了些什么？",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299179#reply24",
+      "title": "Hyper_ 已经玩坏",
+      "score": "24"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299174#reply23",
+      "title": "是继续留在南京还是去上海",
+      "score": "23"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299217#reply22",
+      "title": "是否有必要将自己的网站从 HSTS Preload List 中删除？",
+      "score": "22"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299250#reply22",
+      "title": "你们经常低眼药水么？ 谁知道哪里买日本的参天呀",
+      "score": "22"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299183#reply21",
+      "title": "分享一下之前做的 《手把手教你简单妹子图爬虫》系列",
+      "score": "21"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299262#reply21",
+      "title": "我从未见过如此优雅的 Markdown 编辑器 - EME",
+      "score": "21"
+    }
+  ]
+}
