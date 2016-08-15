@@ -1,0 +1,263 @@
+{
+  "HN": [],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xs87z/the_mess_were_in_by_joe_armstrong/",
+      "title": "&quot;The Mess We're In&quot; by Joe Armstrong",
+      "score": "205"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xp6p8/growing_a_language_by_guy_steele/",
+      "title": "Growing a Language, by Guy Steele",
+      "score": "100"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xowfg/the_witchcraft_compiler_collection/",
+      "title": "The Witchcraft Compiler Collection",
+      "score": "52"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xsjgj/the_four_flaws_of_haskell/",
+      "title": "The Four Flaws of Haskell",
+      "score": "52"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xoodb/call_c_functions_of_your_running_programs_from/",
+      "title": "Call C++ functions of your running programs from the shell!",
+      "score": "43"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xsb3h/raft_consensus_algorithm_in_simple_terms/",
+      "title": "RAFT Consensus Algorithm in simple terms",
+      "score": "30"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xqwe0/detect_and_block_blockadblock/",
+      "title": "Detect and block BlockAdBlock",
+      "score": "18"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xpts8/random_in_the_wild/",
+      "title": "random in the wild",
+      "score": "19"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xrrj4/ruby_together_community_funded_developer/",
+      "title": "Ruby Together - &quot;Community funded developer infrastructure&quot;",
+      "score": "7"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xtjbu/adventures_in_f_performance/",
+      "title": "Adventures in F# Performance",
+      "score": "11"
+    }
+  ],
+  "medium": [
+    {
+      "title": "The Most Intolerant Wins: The Dictatorship of the Small Minority",
+      "score": "499",
+      "url": "https://medium.com/p/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15"
+    },
+    {
+      "title": "Design and the Self",
+      "score": "865",
+      "url": "https://medium.com/p/design-and-the-self-a5670a000fee"
+    },
+    {
+      "title": "If You’re Too Busy For These 5 Things: Your Life Is More Off-Course Than You Think",
+      "score": "1334",
+      "url": "https://medium.com/p/if-youre-too-busy-for-these-5-things-your-life-is-more-off-course-than-you-think-2a180a509ff6"
+    },
+    {
+      "title": "What is an API? In English, please.",
+      "score": "766",
+      "url": "https://medium.com/p/what-is-an-api-in-english-please-b880a3214a82"
+    },
+    {
+      "title": "Inside Australia’s prison colony, where even children view death as their only hope",
+      "score": "201",
+      "url": "https://medium.com/p/inside-australias-prison-colony-where-even-children-view-death-as-their-only-hope-2997aea79518"
+    },
+    {
+      "title": "How to Become the Best in the World at What You Do",
+      "score": "1429",
+      "url": "https://medium.com/p/how-to-become-the-best-in-the-world-at-what-you-do-328f7b358bdf"
+    },
+    {
+      "title": "On ‘Going Away’",
+      "score": "217",
+      "url": "https://medium.com/p/on-going-away-50e083d4a2cc"
+    },
+    {
+      "title": "How I made my first million dollars (in pro bono code)",
+      "score": "909",
+      "url": "https://medium.com/p/how-i-made-my-first-million-dollars-in-pro-bono-code-86f911040484"
+    },
+    {
+      "title": "The Art of Departure",
+      "score": "164",
+      "url": "https://medium.com/p/the-art-of-departure-1afa120636c5"
+    },
+    {
+      "title": "Required reading if you’re trying to understand what it’s like to be Black in America",
+      "score": "202",
+      "url": "https://medium.com/p/required-reading-if-youre-trying-to-understand-what-it-s-like-to-be-black-in-america-2546058c57af"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/picniic-2",
+      "title": "Picniic: Slack for the Home. Family management platform.",
+      "score": "234"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/pexels-desktop-apps-photoshop-plugin",
+      "title": "Pexels Desktop Apps &amp; Photoshop Plugin: Quickly search and copy &amp; paste all free photos from Pexels",
+      "score": "101"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/toasty",
+      "title": "Toasty: Photo messages that can&#x27;t be missed",
+      "score": "17"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/garyquotes",
+      "title": "GaryQuotes: Super awesome Gary Vaynerchuk wallpaper quotes",
+      "score": "50"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/rough-draft-for-iphone-ipad",
+      "title": "Rough Draft for iPhone &amp; iPad: The worst text editor -- because it doesn&#x27;t let you edit",
+      "score": "69"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/business-systems-explored-009-dennis-r-mortensen-x-ai",
+      "title": "Business Systems Explored #009: Dennis R. Mortensen, X.ai: How x.ai coded an artificially intelligent assistant",
+      "score": "22"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/habitus",
+      "title": "Habitus: An open source build flow tool for Docker",
+      "score": "32"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/shuffle-5",
+      "title": "Shuffle: Serendipitious scheduling over Twitter.",
+      "score": "39"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/recapture",
+      "title": "Recapture: Send targeted  emails to shoppers who abandon your store",
+      "score": "33"
+    },
+    {
+      "url": "https://www.producthunt.com/books/the-art-of-selling-online",
+      "title": "The Art Of Selling Online: Persuade the toughest clients and win new prospects",
+      "score": "21"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/hedengcheng/tech",
+      "title": "hedengcheng/tech: programming, database, distributed system",
+      "score": "417"
+    },
+    {
+      "url": "https://github.com/arielf/weight-loss",
+      "title": "arielf/weight-loss: Machine Learning meets ketosis: how to effectively lose weight",
+      "score": "427"
+    },
+    {
+      "url": "https://github.com/gmetais/sw-delta",
+      "title": "gmetais/sw-delta: An incremental cache for the web",
+      "score": "397"
+    },
+    {
+      "url": "https://github.com/recharts/recharts",
+      "title": "recharts/recharts: Redefined chart library built with React and D3",
+      "score": "395"
+    },
+    {
+      "url": "https://github.com/mychoices/Jgraph",
+      "title": "mychoices/Jgraph: 图表控件",
+      "score": "324"
+    },
+    {
+      "url": "https://github.com/JamesTheHacker/Neuron",
+      "title": "JamesTheHacker/Neuron: Neuron - Electron, ES6, React, PouchDB, Sass, Webpack",
+      "score": "279"
+    },
+    {
+      "url": "https://github.com/fuchsia-mirror/magenta",
+      "title": "fuchsia-mirror/magenta: Magenta Kernel, Core Drivers, and Services",
+      "score": "206"
+    },
+    {
+      "url": "https://github.com/aymericdamien/TopDeepLearning",
+      "title": "aymericdamien/TopDeepLearning: A list of popular github projects related to deep learning",
+      "score": "189"
+    },
+    {
+      "url": "https://github.com/jkbrzt/httpie",
+      "title": "jkbrzt/httpie: CLI HTTP client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.",
+      "score": "191"
+    },
+    {
+      "url": "https://github.com/egoist/eme",
+      "title": "egoist/eme: Elegant Markdown Editor.",
+      "score": "185"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/299391#reply131",
+      "title": "创业两周年，我做了一次尝试。想听听你的建议，送一次说走就走的旅行",
+      "score": "131"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299342#reply95",
+      "title": "感谢 V2EX 对 Hyper_的热情支持以及新的验证机制",
+      "score": "95"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299350#reply74",
+      "title": "小米电视 3 55 寸，实际内存不足官方宣称的 2GB，检测后发现只有 1.5GB。",
+      "score": "74"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299356#reply61",
+      "title": "去哪个国家敲代码最幸福？",
+      "score": "61"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299337#reply48",
+      "title": "写了个百度商业推广 chrome 屏蔽插件",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299330#reply46",
+      "title": "大家对 Slack 被 YoMail 整合怎么看？",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299324#reply43",
+      "title": "这份实习我该不该去？",
+      "score": "43"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299331#reply39",
+      "title": "拿不到 A 轮融资,默默的裁员和降薪,CEO 没必要跟大家交代吗？",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299298#reply37",
+      "title": "中国联通清洗穿透流量反击移动~小伙伴们有中招的么。。",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299304#reply35",
+      "title": "PacketSender 1.2 更新了下 增加历史记录",
+      "score": "35"
+    }
+  ]
+}
