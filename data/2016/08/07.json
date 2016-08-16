@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12237966",
+      "title": "Superblocks: how Barcelona is taking city streets back from cars",
+      "score": "368"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12240722",
+      "title": "“Our primary goal is to un-fork the Tor Browser”",
+      "score": "363"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12238860",
+      "title": "Tabby's star is dimming at an incredible rate",
+      "score": "319"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12240253",
+      "title": "IBM Watson correctly diagnoses a form of leukemia",
+      "score": "237"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12238498",
+      "title": "A x64 OS #1: UEFI",
+      "score": "202"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12240093",
+      "title": "The 39th Root of 92",
+      "score": "173"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12240542",
+      "title": "Show HN: Gping.io – Like TinyURL for your car",
+      "score": "155"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12239263",
+      "title": "The brain's reward circuitry regulates immunity",
+      "score": "122"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12238411",
+      "title": "DLS, the digital logic simulator game",
+      "score": "109"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12239840",
+      "title": "Firejail – security sandbox",
+      "score": "109"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wgzem/an_apparent_performance_bug_with_some_stdmap_and/",
+      "title": "An apparent performance bug with some std::map and std::unordered_map implementations",
+      "score": "68"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4whxhj/comparing_scala_to_f/",
+      "title": "Comparing Scala to F#",
+      "score": "47"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wgz0t/deriving_forth/",
+      "title": "Deriving Forth",
+      "score": "42"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wgbr9/digital_logic_simulator_game/",
+      "title": "Digital logic simulator game",
+      "score": "31"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wjpny/javastringsimilarity_implementation_of_various/",
+      "title": "java-string-similarity: Implementation of various string similarity and distance algorithms",
+      "score": "23"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wkenl/github_idnanlikeongit_chrome_extension_link_a/",
+      "title": "GitHub - Idnan/like-on-git: Chrome extension - Link a repository with the extension and automatically save the links to content you like",
+      "score": "15"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4whh0c/i_made_a_simple_free_open_source_programming/",
+      "title": "I made a simple, free, open source programming statistics service – currently works with Atom and IntelliJ/JetBrains IDEs",
+      "score": "16"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wj3m2/implementing_secure_cors_apis/",
+      "title": "Implementing Secure CORS APIs",
+      "score": "9"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4whvg2/hask_is_not_a_category/",
+      "title": "Hask is not a category",
+      "score": "6"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wi22t/callback_blocking_for_backpressure_in_rxjava/",
+      "title": "Callback Blocking for Back-Pressure in RxJava",
+      "score": "4"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Airbnb’s racism problem is much bigger than a few racist hosts.",
+      "score": "743",
+      "url": "https://medium.com/p/airbnbs-racism-problem-is-much-bigger-than-a-few-racist-hosts-a1dea9c77586"
+    },
+    {
+      "title": "A Letter to My Daughter About Young Men",
+      "score": "1681",
+      "url": "https://medium.com/p/a-letter-to-my-daughter-about-young-men-2bab2fca4971"
+    },
+    {
+      "title": "I Peeked Into My Node_Modules Directory And You Won’t Believe What Happened Next",
+      "score": "817",
+      "url": "https://medium.com/p/i-peeked-into-my-node-modules-directory-and-you-wont-believe-what-happened-next-b89f63d21558"
+    },
+    {
+      "title": "I Replaced The Word ‘Millennials’ With ‘43-Year-Old White Men’ And Now These Headlines Are *Italian…",
+      "score": "1439",
+      "url": "https://medium.com/p/i-replaced-the-word-millennials-with-43-year-old-white-men-and-now-these-headlines-are-italian-597167feb574"
+    },
+    {
+      "title": "I hack time.",
+      "score": "1689",
+      "url": "https://medium.com/p/i-hack-time-6d3a32193c9"
+    },
+    {
+      "title": "Some readers unconvinced by our True rating for Michelle Obama’s claim that slaves built the White…",
+      "score": "201",
+      "url": "https://medium.com/p/some-readers-unconvinced-by-our-true-rating-for-michelle-obamas-claim-that-slaves-built-the-white-957c1d7ad46c"
+    },
+    {
+      "title": "This Is What Happens When Someone Is Dying",
+      "score": "186",
+      "url": "https://medium.com/p/this-is-what-happens-when-someone-is-dying-eaf33d995837"
+    },
+    {
+      "title": "Silicon Valley arrogance: “I can tell you which startups will succeed, without even knowing what…",
+      "score": "617",
+      "url": "https://medium.com/p/silicon-valley-arrogance-i-can-tell-you-which-startups-will-succeed-without-even-knowing-what-89aa8ea35d23"
+    },
+    {
+      "title": "My Medium Post Went Viral. Here’s What Happened Next.",
+      "score": "383",
+      "url": "https://medium.com/p/my-medium-post-went-viral-heres-what-happened-next-91ab6504eeb7"
+    },
+    {
+      "title": "How the Trump Presidential Campaign is Affecting Trump Businesses",
+      "score": "605",
+      "url": "https://medium.com/p/how-the-trump-presidential-campaign-is-affecting-trump-businesses-c343178e3c03"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/onesheet-crm",
+      "title": "Onesheet CRM: The Simple CRM for Google Sheets",
+      "score": "53"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/github-repository-size",
+      "title": "GitHub Repository Size: Open source chrome extension to add repo size to the summary",
+      "score": "48"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/whoson",
+      "title": "WhosOn: Chat to your website visitors, while they browse",
+      "score": "44"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/scrivito",
+      "title": "Scrivito: The professional cloud-based Rails CMS",
+      "score": "20"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/pokemon-go-tools",
+      "title": "Pokemon Go Tools: Pokemon Go tools &amp; reference charts",
+      "score": "28"
+    },
+    {
+      "url": "https://www.producthunt.com/books/emojis",
+      "title": "Emojis: The secret behind the smile",
+      "score": "2"
+    },
+    {
+      "url": "https://www.producthunt.com/games/threes-c",
+      "title": "Threes.c: Play threes in your terminal",
+      "score": "10"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/arbitrary-awards",
+      "title": "Arbitrary Awards: Prank your friends with arbitrary award certificates ",
+      "score": "5"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/product-people-ep10-rob-walling",
+      "title": "Product People - EP10 - Rob Walling: Find your idea, market your idea",
+      "score": "13"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/pokemon-showdown",
+      "title": "Pokémon Showdown: Pokémon battle simulator. Battle online.",
+      "score": "15"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/tdebatty/java-string-similarity",
+      "title": "tdebatty/java-string-similarity: Implementation of various string similarity and distance algorithms: Levenshtein, Jaro-winkler, n-Gram, Q-Gram, Jaccard index, Longest Common Subsequence edit distance, cosine similarity ...",
+      "score": "313"
+    },
+    {
+      "url": "https://github.com/PokemonGoMap/PokemonGo-Map",
+      "title": "PokemonGoMap/PokemonGo-Map:  Live visualization of all the pokemon in your area... and more!",
+      "score": "246"
+    },
+    {
+      "url": "https://github.com/commaai/research",
+      "title": "commaai/research: comma.ai for the people to experiment with",
+      "score": "252"
+    },
+    {
+      "url": "https://github.com/fchollet/deep-learning-models",
+      "title": "fchollet/deep-learning-models: Keras code and weights files for popular deep learning models.",
+      "score": "242"
+    },
+    {
+      "url": "https://github.com/facebookresearch/fastText",
+      "title": "facebookresearch/fastText: Library for fast text representation and classification.",
+      "score": "176"
+    },
+    {
+      "url": "https://github.com/jgthms/bulma",
+      "title": "jgthms/bulma: Modern CSS framework based on Flexbox",
+      "score": "168"
+    },
+    {
+      "url": "https://github.com/sachinchoolur/lightgallery.js",
+      "title": "sachinchoolur/lightgallery.js: Full featured JavaScript image &amp; video gallery. No dependencies",
+      "score": "163"
+    },
+    {
+      "url": "https://github.com/ramswaroop/botkit",
+      "title": "ramswaroop/botkit: Make Slack, Facebook and Twitter Bots in Java in minutes.",
+      "score": "156"
+    },
+    {
+      "url": "https://github.com/thewhitetulip/web-dev-golang-anti-textbook",
+      "title": "thewhitetulip/web-dev-golang-anti-textbook: Learn how to write webapps in Go.",
+      "score": "144"
+    },
+    {
+      "url": "https://github.com/sourcegraph/checkup",
+      "title": "sourcegraph/checkup: Distributed, lock-free, self-hosted health checks and status pages",
+      "score": "133"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/297655#reply114",
+      "title": "京东校招去死",
+      "score": "114"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297661#reply79",
+      "title": "大家刷牙或者洗碗的时候，水龙头关起来么？",
+      "score": "79"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297647#reply69",
+      "title": "求职 PHP，专科，今年年后入行",
+      "score": "69"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297666#reply46",
+      "title": "就生活质量而言，从二线城市开始到帝都这个级别有什么本质区别吗？",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297730#reply39",
+      "title": "种种迹象显示 MySQL 已经启动，但是各种需要数据库的程序都无法连接？",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297671#reply37",
+      "title": "[杭州] [前端] 目前有在杭州想换工作的前端同学吗？（余杭良渚首展科技）",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297728#reply35",
+      "title": "我的行为是否违法？",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297658#reply33",
+      "title": "求文案。。求集思广益",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297709#reply26",
+      "title": "在没有迅雷, 百度云,115,360 云盘等各类国内工具的前提下, 如何将一个 ed2k 或 magnet 下载链接提到满速",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297676#reply25",
+      "title": "求 chrome 浏览器下面，让 px 支持小数的办法！",
+      "score": "25"
+    }
+  ]
+}

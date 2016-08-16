@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12201353",
+      "title": "Why we lost Uber as a user",
+      "score": "678"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12200777",
+      "title": "Germany offers up to €30k for 6 months of working on OSS",
+      "score": "364"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12200153",
+      "title": "Uber to Sell China Business to Rival Didi After Losing Billions",
+      "score": "318"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12200197",
+      "title": "Raw footage of the Japanese games industry",
+      "score": "187"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12201716",
+      "title": "Tesla and Solar City Combine",
+      "score": "154"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12201810",
+      "title": "Seymour Papert has died",
+      "score": "146"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12200945",
+      "title": "Google’s QUIC protocol: moving the web from TCP to UDP",
+      "score": "126"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12200266",
+      "title": "DistroWatch Ubuntu Phone review",
+      "score": "117"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12199836",
+      "title": "A Regular Expression Matcher (2007)",
+      "score": "117"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12200928",
+      "title": "Sublime Enhanced",
+      "score": "116"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vljfy/googles_quic_protocol_moving_the_web_from_tcp_to/",
+      "title": "Google's QUIC protocol: moving the web from TCP to UDP",
+      "score": "673"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vimsp/when_overflow_and_race_conditions_kills_people/",
+      "title": "When overflow and race conditions kills people",
+      "score": "429"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vk8hz/ipython_from_peter_norvig/",
+      "title": "IPython from Peter Norvig",
+      "score": "69"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vloan/an_interesting_look_into_the_shortcomings_of/",
+      "title": "An interesting look into the shortcomings of Uber's approach to geofencing",
+      "score": "68"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vjexg/docker_printable_quick_reference/",
+      "title": "Docker: Printable Quick Reference",
+      "score": "36"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vhte9/testing_why_when_how/",
+      "title": "Testing - Why, When, How",
+      "score": "31"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vl12r/guilelips_scheme_as_a_generic_macro_language/",
+      "title": "guile-lips: Scheme as a generic macro language",
+      "score": "19"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vhm76/red_by_example_a_website_providing_example_code/",
+      "title": "Red by Example: A website providing example code of Red Programming Language",
+      "score": "10"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vluom/the_domain_localcomputer_is_set_to_localhost/",
+      "title": "The domain local.computer is set to localhost.",
+      "score": "10"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vm6gz/a_gentle_overview_of_distributed_sequential_ids/",
+      "title": "A gentle overview of distributed sequential IDs, gRPC &amp; Contexts",
+      "score": "3"
+    }
+  ],
+  "medium": [
+    {
+      "title": "You’re Not Meant To Do What You Love. You’re Meant To Do What You’re Good At.",
+      "score": "1353",
+      "url": "https://medium.com/p/youre-not-meant-to-do-what-you-love-you-re-meant-to-do-what-you-re-good-at-4e8e6b8e929d"
+    },
+    {
+      "title": "The Two Minutes It Takes To Read This Will Improve Your Writing Forever",
+      "score": "7613",
+      "url": "https://medium.com/p/the-two-minutes-it-takes-to-read-this-will-improve-your-writing-forever-82a7d01441d1"
+    },
+    {
+      "title": "For This Republican, Never Trump Means “I’m With Her”",
+      "score": "1695",
+      "url": "https://medium.com/p/for-this-republican-never-trump-means-im-with-her-10321e751c6d"
+    },
+    {
+      "title": "Questions all Jeremy Corbyn supporters need to answer",
+      "score": "653",
+      "url": "https://medium.com/p/questions-all-jeremy-corbyn-supporters-need-to-answer-b3e82ace7ed3"
+    },
+    {
+      "title": "How Netflix does A/B Testing",
+      "score": "619",
+      "url": "https://medium.com/p/how-netflix-does-a-b-testing-87df9f9bf57c"
+    },
+    {
+      "title": "Design Doesn’t Scale.",
+      "score": "1540",
+      "url": "https://medium.com/p/design-doesnt-scale-4d81e12cbc3e"
+    },
+    {
+      "title": "What Makes America Great.",
+      "score": "325",
+      "url": "https://medium.com/p/what-makes-america-great-d73983650940"
+    },
+    {
+      "title": "To Be a Better Leader, Learn This FBI Hostage Negotiation Tactic",
+      "score": "1972",
+      "url": "https://medium.com/p/this-fbi-hostage-negotiation-tactic-makes-you-a-better-leader-a4afe919c18d"
+    },
+    {
+      "title": "No.",
+      "score": "166",
+      "url": "https://medium.com/p/no-88d72cdbed7a"
+    },
+    {
+      "title": "Let Me Remind You Fuckers Who I Am",
+      "score": "9084",
+      "url": "https://medium.com/p/let-me-remind-you-fuckers-who-i-am-e6e8b297fe47"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/facebook-chat-for-websites",
+      "title": "Facebook Chat for Websites: Talk to your customers using Facebook Messenger",
+      "score": "221"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/typewriter-2",
+      "title": "Typewriter: Your on-demand editor",
+      "score": "102"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/stitch-6",
+      "title": "Stitch: Consolidate your customer and product data in minutes",
+      "score": "90"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/hiver-shared-mailboxes",
+      "title": "Hiver Shared Mailboxes: Turn Gmail into a helpdesk.",
+      "score": "106"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/brightwork",
+      "title": "Brightwork: Develop serverless apps using Javascript",
+      "score": "67"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/memomi-2",
+      "title": "memomi: Mark any text on any website that&#x27;s worth keeping",
+      "score": "83"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/design-assets-cloud-for-sketch",
+      "title": "Design Assets Cloud for Sketch: The easiest way to share and use a Sketch design library",
+      "score": "67"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/fluenty-2",
+      "title": "Fluenty: Reply to any message with one touch, using AI.",
+      "score": "124"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/sway-finance",
+      "title": "Sway Finance: Automated accounting for SaaS companies",
+      "score": "56"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/peak-8",
+      "title": "Peak: A smart light for better habits",
+      "score": "36"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/anishathalye/lumen",
+      "title": "anishathalye/lumen: Magic auto brightness based on screen contents ",
+      "score": "512"
+    },
+    {
+      "url": "https://github.com/karandesai-96/digit-classifier",
+      "title": "karandesai-96/digit-classifier: A single handwritten digit classifier, using the MNIST dataset. Implemented through Artificial Neural Networks in python. A convolutional neural network implmentation in tensorflow is kept in separate branch (this one is under construction).",
+      "score": "394"
+    },
+    {
+      "url": "https://github.com/AHAAAAAAA/PokemonGo-Map",
+      "title": "AHAAAAAAA/PokemonGo-Map:  Live visualization of all the pokemon in your area... and more!",
+      "score": "279"
+    },
+    {
+      "url": "https://github.com/vhf/free-programming-books",
+      "title": "vhf/free-programming-books:  Freely available programming books",
+      "score": "334"
+    },
+    {
+      "url": "https://github.com/hanc00l/wooyun_public",
+      "title": "hanc00l/wooyun_public: 乌云公开漏洞、知识库爬虫和搜索 crawl and search for wooyun.org public bug(vulnerability) and drops",
+      "score": "299"
+    },
+    {
+      "url": "https://github.com/Curzibn/Luban",
+      "title": "Curzibn/Luban: Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法",
+      "score": "319"
+    },
+    {
+      "url": "https://github.com/FallibleInc/security-guide-for-developers",
+      "title": "FallibleInc/security-guide-for-developers: Security Guide for Developers",
+      "score": "290"
+    },
+    {
+      "url": "https://github.com/facebookincubator/create-react-app",
+      "title": "facebookincubator/create-react-app: Create React apps with no build configuration.",
+      "score": "269"
+    },
+    {
+      "url": "https://github.com/ST-Apps/PoGo-UWP",
+      "title": "ST-Apps/PoGo-UWP: UWP Client for Pokemon Go",
+      "score": "221"
+    },
+    {
+      "url": "https://github.com/uber/image-diff",
+      "title": "uber/image-diff: Create image differential between two images",
+      "score": "239"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/296273#reply83",
+      "title": "UBER 和滴滴合并了！？？",
+      "score": "83"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296316#reply61",
+      "title": "微信 for mac 终于要来了",
+      "score": "61"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296363#reply45",
+      "title": "iPhone 6 的续航真是让人蛋疼。。。",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296315#reply41",
+      "title": "领导说加工资结果没加",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296233#reply40",
+      "title": "最近研究 python 的一个小失落",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296278#reply39",
+      "title": "询问一下大家的鼠标手是怎么解决的？",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296286#reply37",
+      "title": "git 如何用 revert 回滚代码到某个 commit?",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296409#reply37",
+      "title": "为毛 JS 的浮点这么鬼畜的啊",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296301#reply36",
+      "title": "百度云账号被封了怎么办？",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/296292#reply34",
+      "title": "公司负能量太多，蛋疼",
+      "score": "34"
+    }
+  ]
+}

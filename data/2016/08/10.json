@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12260794",
+      "title": "Show HN: Generating fantasy maps – an interactive exploration",
+      "score": "362"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12259176",
+      "title": "On Cybersecurity and Being Targeted",
+      "score": "232"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12259715",
+      "title": "How does gdb work?",
+      "score": "228"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12259435",
+      "title": "Flash and Chrome",
+      "score": "213"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12258353",
+      "title": "90-year-old Cryptanalytic Efforts Must Stay Secret, says NSA",
+      "score": "181"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12259772",
+      "title": "Ask HN: 8 years working, now 3-4 months off to learn. Looking for advice",
+      "score": "154"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12259911",
+      "title": "Secure Golden Key Boot",
+      "score": "150"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12260958",
+      "title": "Show HN: Give 7B people an instant physical address",
+      "score": "147"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12260167",
+      "title": "Playability Test of 100 Humble Bundle Games on Linux",
+      "score": "143"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12260654",
+      "title": "Compile Go programs 7x faster",
+      "score": "115"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wx5c3/pypy_gets_funding_from_mozilla_for_python_35/",
+      "title": "PyPy gets funding from Mozilla for Python 3.5 support",
+      "score": "674"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x02fm/attempted_github_breach_on_kenneth_reitz_of/",
+      "title": "Attempted GitHub breach on Kenneth Reitz of Python-Requests",
+      "score": "255"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wx2ld/editor_wars_the_revenge_of_vim/",
+      "title": "Editor Wars: The Revenge of Vim",
+      "score": "104"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wxl94/netflix_building_fastcom/",
+      "title": "Netflix - Building fast.com",
+      "score": "62"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x0th5/recreating_the_doctor_who_time_tunnel_in_glsl/",
+      "title": "Recreating the Doctor Who Time Tunnel in GLSL",
+      "score": "70"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x1qbu/librevault_open_source_zeroknowledge_peer2peer/",
+      "title": "Librevault - Open source, zero-knowledge, peer-2-peer file sync",
+      "score": "40"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wx3g0/gdb_debugging_full_example_tutorial_ncurses/",
+      "title": "gdb Debugging Full Example (Tutorial): ncurses",
+      "score": "26"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wxpfk/image_completion_with_deep_learning_in_tensorflow/",
+      "title": "Image Completion with Deep Learning in TensorFlow and Python [OC]",
+      "score": "21"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x0xk4/how_does_gdb_work/",
+      "title": "How does gdb work?",
+      "score": "23"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wy6g5/your_app_has_one_feature/",
+      "title": "Your App Has One Feature",
+      "score": "15"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Saudi Millennials Don’t Use Their Phones Like We Do",
+      "score": "430",
+      "url": "https://medium.com/p/the-human-codebreakers-ddb4ca9b2dff"
+    },
+    {
+      "title": "What to Remember When the Trump Comeback Begins",
+      "score": "386",
+      "url": "https://medium.com/p/what-to-remember-when-the-trump-comeback-begins-1db1c4698eef"
+    },
+    {
+      "title": "You Won’t Believe What Hillary Ordered the DNC to do to Bernie’s Brother!",
+      "score": "458",
+      "url": "https://medium.com/p/you-wont-believe-what-hillary-ordered-the-dnc-to-do-to-bernie-s-brother-a344eb5bad1b"
+    },
+    {
+      "title": "Lauren Singer runs a company with one business goal: Go out of business.",
+      "score": "734",
+      "url": "https://medium.com/p/lauren-singer-runs-a-company-with-one-business-goal-go-out-of-business-58039cc474b4"
+    },
+    {
+      "title": "I Peeked Into My Node_Modules Directory And You Won’t Believe What Happened Next",
+      "score": "2779",
+      "url": "https://medium.com/p/i-peeked-into-my-node-modules-directory-and-you-wont-believe-what-happened-next-b89f63d21558"
+    },
+    {
+      "title": "19 Incredibly Useful Websites You Wish You Knew Earlier",
+      "score": "1403",
+      "url": "https://medium.com/p/19-incredibly-useful-websites-you-wish-you-knew-earlier-eda6f16752c8"
+    },
+    {
+      "title": "Is this my interface or yours?",
+      "score": "1188",
+      "url": "https://medium.com/p/is-this-my-interface-or-yours-b09a7a795256"
+    },
+    {
+      "title": "Meet Michael Phelps’s Entourage",
+      "score": "51",
+      "url": "https://medium.com/p/meet-michael-phelpss-entourage-2cb50c3214cd"
+    },
+    {
+      "title": "A Letter to My Daughter About Young Men",
+      "score": "4719",
+      "url": "https://medium.com/p/a-letter-to-my-daughter-about-young-men-2bab2fca4971"
+    },
+    {
+      "title": "Trump, Dilbert, Wizards, Fear, and Testosterone",
+      "score": "45",
+      "url": "https://medium.com/p/scott-adams-interview-dilbert-donald-trump-3064e6996421"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/pusher-mobile-push-notifications-api",
+      "title": "Pusher Mobile Push Notifications API: Free API to send Push Notifications to iOS &amp; Android",
+      "score": "256"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/pluck-2",
+      "title": "Pluck: Smarter cold emails for the savvy social marketer",
+      "score": "180"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/fast-com-by-netflix",
+      "title": "FAST.com by Netflix: See how fast your internet connection is, now on mobile",
+      "score": "120"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/tooltip-io-2",
+      "title": "Tooltip.io: In-app messaging suite for user support on the web",
+      "score": "141"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/omni-lending",
+      "title": "Omni Lending: Instantly lend anything you own to your friends.",
+      "score": "51"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/coworkies",
+      "title": "Coworkies: Connecting people between coworking spaces",
+      "score": "69"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/mapswipe",
+      "title": "MapSwipe: Map the world&#x27;s most vulnerable people in your spare time",
+      "score": "61"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/late-night-snap-hacks",
+      "title": "Late Night Snap Hacks: Trick your friends into thinking you&#x27;re out getting turnt.",
+      "score": "25"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/donotpay-housing",
+      "title": "DoNotPay Housing: A bot to help the homeless and evicted fight for housing",
+      "score": "50"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/dscout-sprint-2",
+      "title": "dscout Sprint: Video user feedback that helps teams push forward - in 5 min",
+      "score": "50"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/FallibleInc/security-guide-for-developers",
+      "title": "FallibleInc/security-guide-for-developers: Security Guide for Developers (实用性开发人员安全须知)",
+      "score": "380"
+    },
+    {
+      "url": "https://github.com/NECROBOTIO/NecroBot",
+      "title": "NECROBOTIO/NecroBot: a Pokemon Go Bot. -&gt; ",
+      "score": "273"
+    },
+    {
+      "url": "https://github.com/PokemonGoMap/PokemonGo-Map",
+      "title": "PokemonGoMap/PokemonGo-Map:  Live visualization of all the pokemon in your area... and more!",
+      "score": "219"
+    },
+    {
+      "url": "https://github.com/yipianfengye/android-adDialog",
+      "title": "yipianfengye/android-adDialog: 一个简单，强大的广告活动弹窗控件",
+      "score": "221"
+    },
+    {
+      "url": "https://github.com/a0viedo/demystifying-js-engines",
+      "title": "a0viedo/demystifying-js-engines: o",
+      "score": "226"
+    },
+    {
+      "url": "https://github.com/alexazhou/VeryNginx",
+      "title": "alexazhou/VeryNginx: A very powerful and friendly nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.",
+      "score": "207"
+    },
+    {
+      "url": "https://github.com/Blankj/AndroidUtilCode",
+      "title": "Blankj/AndroidUtilCode: Android开发人员不得不收集的代码(持续更新中)",
+      "score": "195"
+    },
+    {
+      "url": "https://github.com/PokemonGoF/PokemonGo-Bot",
+      "title": "PokemonGoF/PokemonGo-Bot: The Pokemon Go Bot, baking with community.",
+      "score": "172"
+    },
+    {
+      "url": "https://github.com/sachinchoolur/lightgallery.js",
+      "title": "sachinchoolur/lightgallery.js: Full featured JavaScript image &amp; video gallery. No dependencies",
+      "score": "178"
+    },
+    {
+      "url": "https://github.com/eoinfogarty/Onboarding",
+      "title": "eoinfogarty/Onboarding: A beautiful way to introduce users to your app",
+      "score": "167"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/298280#reply179",
+      "title": "公司新规定，上班时间不许穿短裤、无袖、拖鞋，现在浑身不舒服可咋办？",
+      "score": "179"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298303#reply115",
+      "title": "YoMail 又放大招，新版支持微信聊天",
+      "score": "115"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298382#reply96",
+      "title": "大家写代码累的时候，或者郁闷的时候都是如何发泄出来的？",
+      "score": "96"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298390#reply86",
+      "title": "chrome 的产品经理太粗暴了 --- Google Chrome 将禁止“退格键”作为后退按钮使用",
+      "score": "86"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298336#reply54",
+      "title": "我辞职了",
+      "score": "54"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298359#reply47",
+      "title": "公司的产品简直了...",
+      "score": "47"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298454#reply33",
+      "title": "某宝买了个 USB hub，有问题找售后态度真是差。爆聊天记录，顺便求好用的 usb hub",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298409#reply32",
+      "title": "[上海] 美国驻沪总领事馆 寻求稳定的 VPN 专线网络供应商",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298283#reply28",
+      "title": "最新版的 Chrome 变成了灰不溜秋的样子？",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298441#reply28",
+      "title": "关于税有点疑问，超市买东西含税都知道。严格来说这税等于是消费者交的还是超市交的？",
+      "score": "28"
+    }
+  ]
+}

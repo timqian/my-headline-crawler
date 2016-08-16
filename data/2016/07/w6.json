@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12201353",
+      "title": "Why we lost Uber as a user",
+      "score": 1231
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12211651",
+      "title": "Massachusetts Bans Employers from Asking Applicants About Previous Pay",
+      "score": 1192
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12201810",
+      "title": "Seymour Papert has died",
+      "score": 819
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12231101",
+      "title": "Hello from Orkut",
+      "score": 626
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12222135",
+      "title": "What Apple should tell you when you lose your iPhone",
+      "score": 609
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12223395",
+      "title": "Crystal: Fast as C, Slick as Ruby",
+      "score": 543
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12200777",
+      "title": "Germany offers up to €30k for 6 months of working on OSS",
+      "score": 511
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12211754",
+      "title": "Show HN: Noms – A new decentralized database based on ideas from Git",
+      "score": 505
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12233288",
+      "title": "Let's Encrypt root certificate trusted by Mozilla",
+      "score": 446
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12209704",
+      "title": "Inside font-rs, a font renderer written in Rust",
+      "score": 430
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wfasw/ibms_watson_makes_a_correct_diagnosis_after/",
+      "title": "IBM's Watson makes a correct diagnosis after woman's condition stumps experts.",
+      "score": 4308
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vy1jo/even_jetbrains_can_write_stupid_code_or_why_a/",
+      "title": "Even JetBrains can write stupid code - or - why a massive amount of code would break if Microsoft used the name &quot;Windows 9&quot;",
+      "score": 2670
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vljfy/googles_quic_protocol_moving_the_web_from_tcp_to/",
+      "title": "Google's QUIC protocol: moving the web from TCP to UDP",
+      "score": 1858
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4w9xgt/reading_the_tiny_amount_of_code_of_the_very_first/",
+      "title": "Reading the tiny amount of code of the very first publicly available Git version is a great way to understand how it works.",
+      "score": 1740
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vto4r/inside_the_fastest_font_renderer_in_the_world/",
+      "title": "Inside the fastest font renderer in the world",
+      "score": 1095
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4w3ydi/programming_with_japanese_candies/",
+      "title": "Programming with Japanese Candies",
+      "score": 967
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vgcy3/love_for_typescript_the_tides_have_turned/",
+      "title": "Love for TypeScript? The tides have turned, Microsoft is being praised by the dev community instead of being condemned (A.K.A. IE6)",
+      "score": 874
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4vohe9/professor_emeritus_seymour_papert_inventor_of_the/",
+      "title": "Professor Emeritus Seymour Papert, inventor of the Logo programming language, dies at 88",
+      "score": 748
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wb7c2/lets_encrypt_root_certificate_trusted_by_mozilla/",
+      "title": "Let's Encrypt root certificate trusted by Mozilla",
+      "score": 507
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wc97x/silicon_valley_arrogance_i_can_tell_you_which/",
+      "title": "Silicon Valley arrogance: “I can tell you which startups will succeed, without even knowing what they do” - According to Marissa Mayer, long hours and weekend work (in person) will lead to success",
+      "score": 497
+    }
+  ],
+  "medium": [
+    {
+      "title": "Let Me Remind You Fuckers Who I Am",
+      "score": 9567,
+      "url": "https://medium.com/p/let-me-remind-you-fuckers-who-i-am-e6e8b297fe47"
+    },
+    {
+      "title": "The Two Minutes It Takes To Read This Will Improve Your Writing Forever",
+      "score": 9087,
+      "url": "https://medium.com/p/the-two-minutes-it-takes-to-read-this-will-improve-your-writing-forever-82a7d01441d1"
+    },
+    {
+      "title": "Why I’m voting for Trump and you should too",
+      "score": 4765,
+      "url": "https://medium.com/p/why-im-voting-for-trump-and-you-should-too-e74b23a97953"
+    },
+    {
+      "title": "You’re Not Meant To Do What You Love. You’re Meant To Do What You’re Good At.",
+      "score": 3131,
+      "url": "https://medium.com/p/youre-not-meant-to-do-what-you-love-you-re-meant-to-do-what-you-re-good-at-4e8e6b8e929d"
+    },
+    {
+      "title": "Design Doesn’t Scale.",
+      "score": 2545,
+      "url": "https://medium.com/p/design-doesnt-scale-4d81e12cbc3e"
+    },
+    {
+      "title": "To Be a Better Leader, Learn This FBI Hostage Negotiation Tactic",
+      "score": 2542,
+      "url": "https://medium.com/p/this-fbi-hostage-negotiation-tactic-makes-you-a-better-leader-a4afe919c18d"
+    },
+    {
+      "title": "For This Republican, Never Trump Means “I’m With Her”",
+      "score": 2319,
+      "url": "https://medium.com/p/for-this-republican-never-trump-means-im-with-her-10321e751c6d"
+    },
+    {
+      "title": "An Open Letter to John Hanke & Niantic",
+      "score": 2158,
+      "url": "https://medium.com/p/an-open-letter-to-john-hanke-niantic-6a32325b67a8"
+    },
+    {
+      "title": "The Principles Of Life That Everyone Knows, But Only A Few Follow",
+      "score": 2103,
+      "url": "https://medium.com/p/the-principles-of-life-that-everyone-knows-but-only-a-few-follow-51588060903c"
+    },
+    {
+      "title": "Making a case for letter case",
+      "score": 1781,
+      "url": "https://medium.com/p/making-a-case-for-letter-case-19d09f653c98"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/296841#reply95",
+      "title": "有 8 个 Keybase.io 的邀请码，有要的木有",
+      "score": 168
+    },
+    {
+      "url": "https://www.v2ex.com/t/297032#reply114",
+      "title": "各位升级完 WIN10 周年更新的用起来怎么样？",
+      "score": 145
+    },
+    {
+      "url": "https://www.v2ex.com/t/296233#reply28",
+      "title": "最近研究 python 的一个小失落",
+      "score": 130
+    },
+    {
+      "url": "https://www.v2ex.com/t/297094#reply57",
+      "title": "国产开源 NAS 系统内测招募",
+      "score": 120
+    },
+    {
+      "url": "https://www.v2ex.com/t/296738#reply78",
+      "title": "“空中巴士”巴铁这种新闻难道只有我们互联网届的人才能一眼看出来是骗钱的项目？身边的隐性人造新闻真是越来越多。",
+      "score": 118
+    },
+    {
+      "url": "https://www.v2ex.com/t/297125#reply65",
+      "title": "在西安月薪 2.5 万是啥体验？是不是工资一般？",
+      "score": 114
+    },
+    {
+      "url": "https://www.v2ex.com/t/296991#reply88",
+      "title": "曾经是小霸王的粉丝",
+      "score": 105
+    },
+    {
+      "url": "https://www.v2ex.com/t/296773#reply65",
+      "title": "rMBP 涂层脱落 已经更好屏幕",
+      "score": 99
+    },
+    {
+      "url": "https://www.v2ex.com/t/296596#reply38",
+      "title": "公司考勤制度，来晒晒。。",
+      "score": 97
+    },
+    {
+      "url": "https://www.v2ex.com/t/297070#reply81",
+      "title": "对于守望先锋收费 198 有什么看法？",
+      "score": 93
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/instagram-stories",
+      "title": "Instagram Stories: Share moments of your day 📸",
+      "score": 1272
+    },
+    {
+      "url": "https://www.producthunt.com/tech/facebook-chat-for-websites",
+      "title": "Facebook Chat for Websites: Talk to your customers using Facebook Messenger",
+      "score": 855
+    },
+    {
+      "url": "https://www.producthunt.com/tech/iterate-2",
+      "title": "Iterate: Get the feedback you need to build better products",
+      "score": 841
+    },
+    {
+      "url": "https://www.producthunt.com/tech/wonder-8",
+      "title": "Wonder: Remember the things you easily forget",
+      "score": 778
+    },
+    {
+      "url": "https://www.producthunt.com/tech/sharingbuttons-io-2-0",
+      "title": "Sharingbuttons.io 2.0: Super fast and easy social media sharing buttons.",
+      "score": 646
+    },
+    {
+      "url": "https://www.producthunt.com/tech/apple-tv-remote",
+      "title": "Apple TV Remote: An app to control your Apple TV with your iPhone and Siri",
+      "score": 607
+    },
+    {
+      "url": "https://www.producthunt.com/tech/gogograndparent",
+      "title": "GoGoGrandparent: Call for an Uber without a smartphone",
+      "score": 579
+    },
+    {
+      "url": "https://www.producthunt.com/tech/timezone-io",
+      "title": "Timezone.io: Keep track where and when your team is.",
+      "score": 578
+    },
+    {
+      "url": "https://www.producthunt.com/tech/smartapp-for-mac",
+      "title": "SmartApp for Mac: World&#x27;s most advanced data tracking app",
+      "score": 547
+    },
+    {
+      "url": "https://www.producthunt.com/tech/pricing-pages",
+      "title": "Pricing Pages: Curated directory of the best pricing pages",
+      "score": 507
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/attic-labs/noms",
+      "title": "attic-labs/noms: The versioned, forkable, syncable database",
+      "score": "296"
+    },
+    {
+      "url": "https://github.com/facebookresearch/fastText",
+      "title": "facebookresearch/fastText: Library for fast text representation and classification.",
+      "score": "715"
+    },
+    {
+      "url": "https://github.com/Curzibn/Luban",
+      "title": "Curzibn/Luban: Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法",
+      "score": "633"
+    },
+    {
+      "url": "https://github.com/vhf/free-programming-books",
+      "title": "vhf/free-programming-books:  Freely available programming books",
+      "score": "494"
+    },
+    {
+      "url": "https://github.com/sachinchoolur/lightgallery.js",
+      "title": "sachinchoolur/lightgallery.js: Full featured JavaScript image &amp; video gallery. No dependencies",
+      "score": "592"
+    },
+    {
+      "url": "https://github.com/Blankj/AndroidUtilCode",
+      "title": "Blankj/AndroidUtilCode: Android开发人员不得不收集的代码(持续更新中)",
+      "score": "408"
+    },
+    {
+      "url": "https://github.com/AHAAAAAAA/PokemonGo-Map",
+      "title": "AHAAAAAAA/PokemonGo-Map:  Live visualization of all the pokemon in your area... and more! (shutdown)",
+      "score": "152"
+    },
+    {
+      "url": "https://github.com/FallibleInc/security-guide-for-developers",
+      "title": "FallibleInc/security-guide-for-developers: Security Guide for Developers (实用性开发人员安全须知)",
+      "score": "410"
+    },
+    {
+      "url": "https://github.com/facebookincubator/create-react-app",
+      "title": "facebookincubator/create-react-app: Create React apps with no build configuration.",
+      "score": "346"
+    },
+    {
+      "url": "https://github.com/github/gh-ost",
+      "title": "github/gh-ost: GitHub's Online Schema Change for MySQL",
+      "score": "329"
+    }
+  ]
+}

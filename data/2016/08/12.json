@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12268988",
+      "title": "Zero-cost futures in Rust",
+      "score": "808"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12269425",
+      "title": "Indie Hackers: Learn how developers are making money",
+      "score": "800"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12268362",
+      "title": "What I learned as a hired consultant to autodidact physicists",
+      "score": "482"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12269856",
+      "title": "React Server",
+      "score": "362"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12271341",
+      "title": "New “Leaf” Is More Efficient Than Natural Photosynthesis",
+      "score": "300"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12271354",
+      "title": "Fuchsia, a new operating system",
+      "score": "274"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12271030",
+      "title": "George Orwell, “Politics and the English Language” (1946)",
+      "score": "242"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12274564",
+      "title": "What Danes consider healthy childrens’ television",
+      "score": "155"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12272642",
+      "title": "Distributed Logging Architecture in the Container Era",
+      "score": "146"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12275157",
+      "title": "Postgres BDR 1.0 Released (Multi Master Solution)",
+      "score": "130"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x9dje/microsoft_accidentally_leaks_secure_boot_golden/",
+      "title": "Microsoft accidentally leaks Secure Boot &quot;golden key&quot;",
+      "score": "1458"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x8jp4/zerocost_futures_in_rust/",
+      "title": "Zero-cost futures in Rust",
+      "score": "814"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xaxi8/the_other_kind_of_javascript_fatigue_it_is_simply/",
+      "title": "The other kind of JavaScript fatigue: &quot;It is simply far too easy to create a new library or package, and since anyone can do it in a few seconds now, this generates a lot of noise.&quot;",
+      "score": "166"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x9903/unofficial_pokemon_go_map_uses_13_of_osm/",
+      "title": "Unofficial Pokemon Go map uses 13% of OSM tileserver capacity",
+      "score": "151"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x8lpq/the_peoples_code/",
+      "title": "The People's Code",
+      "score": "74"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xd2c7/the_rise_and_fall_of_the_gopher_protocol/",
+      "title": "The rise and fall of the Gopher protocol",
+      "score": "100"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xcynl/a_video_that_covers_the_xamarin_platform_and_how/",
+      "title": "A video that covers the Xamarin platform and how to create native iOS, Android, and Windows apps in C#",
+      "score": "61"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x9a1b/godot_engine_more_programming_languages_in_godot/",
+      "title": "Godot Engine - More programming languages in Godot, want to help?",
+      "score": "35"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x9evk/dont_laugh_at_others_downtime/",
+      "title": "Don't laugh at other's downtime",
+      "score": "27"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xacul/a_presentation_from_dan_liebgold_on_using_racket/",
+      "title": "a presentation from Dan Liebgold on using Racket for making The Last of Us for PS3 (2013)",
+      "score": "23"
+    }
+  ],
+  "medium": [
+    {
+      "title": "I’m deleting Snapchat, and you should too",
+      "score": "880",
+      "url": "https://medium.com/p/im-deleting-snapchat-and-you-should-too-98569b2609e4"
+    },
+    {
+      "title": "Monstrous Births",
+      "score": "344",
+      "url": "https://medium.com/p/monstrous-births-3d666cda5030"
+    },
+    {
+      "title": "There’s Something Different About DeAndre Hopkins",
+      "score": "88",
+      "url": "https://medium.com/p/deandre-hopkins-houston-texans-profile-77f746856bc"
+    },
+    {
+      "title": "Using the 5/25 Rule to Learn to Say “No”",
+      "score": "705",
+      "url": "https://medium.com/p/using-the-5-25-rule-to-learn-to-say-no-c84164aa9dd6"
+    },
+    {
+      "title": "I Peeked Into My Node_Modules Directory And You Won’t Believe What Happened Next",
+      "score": "3489",
+      "url": "https://medium.com/p/i-peeked-into-my-node-modules-directory-and-you-wont-believe-what-happened-next-b89f63d21558"
+    },
+    {
+      "title": "Is this my interface or yours?",
+      "score": "2511",
+      "url": "https://medium.com/p/is-this-my-interface-or-yours-b09a7a795256"
+    },
+    {
+      "title": "The Decline of War",
+      "score": "551",
+      "url": "https://medium.com/p/the-decline-of-war-8760f9a5b5ce"
+    },
+    {
+      "title": "The Rise of the Reasonable Conservative",
+      "score": "91",
+      "url": "https://medium.com/p/the-rise-of-the-reasonable-conservative-2433d8a1b18d"
+    },
+    {
+      "title": "Letter of Resignation from the Palo Alto Planning and Transportation Commission",
+      "score": "923",
+      "url": "https://medium.com/p/letter-of-resignation-from-the-palo-alto-planning-and-transportation-commission-f7b6facd94f5"
+    },
+    {
+      "title": "How I made my first million dollars (in pro bono code)",
+      "score": "333",
+      "url": "https://medium.com/p/how-i-made-my-first-million-dollars-in-pro-bono-code-86f911040484"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/super-team-deluxe",
+      "title": "Super Team Deluxe: Rad patches and pins from amazing illustrators",
+      "score": "141"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/growmodo",
+      "title": "Growmodo: Hire world-class digital marketers In minutes",
+      "score": "97"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/soapberry-soap",
+      "title": "Soapberry Soap: Toss your chemicals. Use nature&#x27;s purest soap.",
+      "score": "96"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/laterbot",
+      "title": "@LaterBot: A &quot;save for later&quot;-service baked directly into twitter",
+      "score": "75"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/image-cyborg",
+      "title": "Image Cyborg: Download all images on a web page",
+      "score": "85"
+    },
+    {
+      "url": "https://www.producthunt.com/games/america-votes-with-cards-against-humanity",
+      "title": "America Votes with Cards Against Humanity: Political expansion packs, Hillary vs. Trump 🇺🇸",
+      "score": "44"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/appsignal",
+      "title": "AppSignal: Error tracking &amp; performance insights for Ruby apps",
+      "score": "97"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/github-plus",
+      "title": "github-plus: Chrome Extension to display file size, download &amp; copy link",
+      "score": "59"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/rebrandly-api",
+      "title": "Rebrandly API: Empower your app with custom short links",
+      "score": "66"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/freeter-2",
+      "title": "Freeter: The smartest way to work on multiple projects simultaneously",
+      "score": "51"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/aymericdamien/TopDeepLearning",
+      "title": "aymericdamien/TopDeepLearning: A list of popular github projects related to deep learning",
+      "score": "981"
+    },
+    {
+      "url": "https://github.com/redfin/react-server",
+      "title": "redfin/react-server: React framework with server render for blazing fast page load and seamless transitions between pages in the browser.",
+      "score": "789"
+    },
+    {
+      "url": "https://github.com/alexcrichton/futures-rs",
+      "title": "alexcrichton/futures-rs: Zero-cost futures and streams in Rust",
+      "score": "374"
+    },
+    {
+      "url": "https://github.com/mewo2/terrain",
+      "title": "mewo2/terrain: Fantasy map generator",
+      "score": "353"
+    },
+    {
+      "url": "https://github.com/fatedier/frp",
+      "title": "fatedier/frp: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "score": "342"
+    },
+    {
+      "url": "https://github.com/Automattic/simplenote-android",
+      "title": "Automattic/simplenote-android: Simplenote for Android",
+      "score": "248"
+    },
+    {
+      "url": "https://github.com/Automattic/simplenote-macos",
+      "title": "Automattic/simplenote-macos: Simplenote for macOS",
+      "score": "226"
+    },
+    {
+      "url": "https://github.com/roberdam/Xaddress",
+      "title": "roberdam/Xaddress: Xaddress - Give 7 billion people an instant physical address",
+      "score": "214"
+    },
+    {
+      "url": "https://github.com/yipianfengye/android-adDialog",
+      "title": "yipianfengye/android-adDialog: 一个简单，强大的广告活动弹窗控件",
+      "score": "195"
+    },
+    {
+      "url": "https://github.com/eoinfogarty/Onboarding",
+      "title": "eoinfogarty/Onboarding: A beautiful way to introduce users to your app",
+      "score": "199"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/298788#reply83",
+      "title": "关于 Moke 3 的众筹和订阅制度",
+      "score": "83"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298860#reply81",
+      "title": "朋友借钱不还怎么办？",
+      "score": "81"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298805#reply67",
+      "title": "国内主流视频网站迟迟不肯放弃 flash 的原因何在？",
+      "score": "67"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298854#reply53",
+      "title": "讨论下 function 这个单词的翻译",
+      "score": "53"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298905#reply45",
+      "title": "［北京］我司想要招一个 Gay 设计师，一个人在公司里弯着好累",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298821#reply42",
+      "title": "flask 开发的正确姿势是什么？",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298778#reply40",
+      "title": "Apple 不同设备之间互传文件/图片大家采用的是什么方案？",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298782#reply40",
+      "title": "使用 Laravel ORM 时的一个问题?",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298942#reply33",
+      "title": "人生第一辆车，求指教",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/298975#reply33",
+      "title": "鼓吹房价永远涨的人，有没有考虑过这样一个问题",
+      "score": "33"
+    }
+  ]
+}

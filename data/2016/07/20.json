@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12126284",
+      "title": "When a crow dies, the other crows investigate the cause of death",
+      "score": "480"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12127158",
+      "title": "Kivy: Develop multi-touch enabled Python apps",
+      "score": "150"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12127946",
+      "title": "Ask HN: Describing skills and competencies in a resume",
+      "score": "138"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12127766",
+      "title": "Dollar Shave Club and the Disruption of Everything",
+      "score": "135"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12128546",
+      "title": "Building an Open Source Company: Interview with GitLab's CEO",
+      "score": "126"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12128410",
+      "title": "Five million Danish ID numbers sent to Chinese firm",
+      "score": "105"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12127318",
+      "title": "Microsoft reports $22.6B in Q4 revenue",
+      "score": "97"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12126112",
+      "title": "Court bars U.S. Navy from using whale-killing sonar",
+      "score": "90"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12126973",
+      "title": "OpSec: Survival in an Extremely Adversarial Environment",
+      "score": "87"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12126874",
+      "title": "The Product Development Triathlon",
+      "score": "85"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tlr2u/john_carmack_on_inlined_code/",
+      "title": "John Carmack on Inlined Code",
+      "score": "1045"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tqtva/1_pixel_in_various_image_formats_png_gif_webp_bpg/",
+      "title": "1 pixel in various image formats: PNG, GIF, WebP, BPG, FLIF,...",
+      "score": "257"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tozab/vim_gifs/",
+      "title": "Vim GIFs",
+      "score": "178"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tm4mj/graal_and_truffle_could_radically_accelerate/",
+      "title": "Graal and Truffle could radically accelerate programming language design",
+      "score": "152"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tmd08/microsoft_rest_api_guidelines/",
+      "title": "Microsoft REST API Guidelines",
+      "score": "125"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tp8pl/step_1_developers_agree_to_deadlines/",
+      "title": "Step 1: Developers Agree to Deadlines",
+      "score": "76"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tq3jj/async_messaging_for_when_the_network_is_just/",
+      "title": "Async messaging: for when the network is just slightly more reliable than a tin can phone",
+      "score": "58"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tq7km/friendlyarms_nanopi_m3_sbc_runs_linux_or_android/",
+      "title": "FriendlyARM’s NanoPi M3 SBC runs Linux or Android on a 64-bit, octa-core Samsung S5P6818, and offers WiFi, BT, GbE, and a 40-pin RPi connector.",
+      "score": "45"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tnaoo/winfsp_fuse_for_windows/",
+      "title": "WinFsp - FUSE for Windows",
+      "score": "42"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tlt90/what_template_haskell_gets_wrong_and_racket_gets/",
+      "title": "What Template Haskell gets wrong and Racket gets right",
+      "score": "41"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Which Athlete’s Eight-Hour Highlight Reel Would You Watch?",
+      "score": "69",
+      "url": "https://medium.com/p/athlete-eight-hour-highlight-reels-youtube-ce38596c82ef"
+    },
+    {
+      "title": "Moving On",
+      "score": "720",
+      "url": "https://medium.com/p/moving-on-c78c37079aa6"
+    },
+    {
+      "title": "7 Chrome Extensions That Will Change Your (Internet) Life",
+      "score": "431",
+      "url": "https://medium.com/p/7-chrome-extensions-that-will-change-your-internet-life-19ad3ad7a56b"
+    },
+    {
+      "title": "This Is How You Train Your Brain To Get What You Really Want",
+      "score": "595",
+      "url": "https://medium.com/p/this-is-how-you-train-your-brain-to-get-what-you-really-want-45e1942dcde7"
+    },
+    {
+      "title": "J.R. Smith Is the Perfect Cleveland Athlete",
+      "score": "176",
+      "url": "https://medium.com/p/j-r-smith-is-the-perfect-cleveland-athlete-5ff75faddffb"
+    },
+    {
+      "title": "Inside the Obama Tech Surge as it Hacks the Pentagon and VA",
+      "score": "208",
+      "url": "https://medium.com/p/inside-the-obama-tech-surge-as-it-hacks-the-pentagon-and-va-8b439bc33ed1"
+    },
+    {
+      "title": "Analyzing Kim’s Masterpiece: The Kanye and Taylor Call",
+      "score": "326",
+      "url": "https://medium.com/p/kanye-west-taylor-swift-kim-kardashian-snapchat-e4c3339d9d73"
+    },
+    {
+      "title": "“Airbnb’s Sheryl Sandberg” is the Valley’s Quiet Superpower",
+      "score": "1700",
+      "url": "https://medium.com/p/airbnbs-sheryl-sandberg-is-the-valley-s-quiet-superpower-ed02fc5fc4ea"
+    },
+    {
+      "title": "Ask A Swole Woman: Getting Started",
+      "score": "207",
+      "url": "https://medium.com/p/ask-a-swole-woman-getting-started-36849181c388"
+    },
+    {
+      "title": "Graal & Truffle",
+      "score": "111",
+      "url": "https://medium.com/p/graal-truffle-134d8f28fb69"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/passport-index-2016",
+      "title": "Passport Index 2016: View the world&#x27;s passports and see how they rank",
+      "score": "270"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/meetingbird",
+      "title": "Meetingbird: Supercharge your team&#x27;s meetings",
+      "score": "137"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/petcube-bites-petcube-play",
+      "title": "Petcube Bites + Petcube Play: Take a bite out of pet boredom - treats and laser tag!",
+      "score": "124"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/pillo",
+      "title": "Pillo: Your personal home health robot",
+      "score": "103"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/melania-trump-motivational-quotes",
+      "title": "Melania Trump Motivational Quotes: Inspirational Melania Trump quotes in every new tab ",
+      "score": "103"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/pokedates",
+      "title": "PokéDates: The first-ever Pokémon GO dating service",
+      "score": "48"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/profitwell-retain-from-price-intelligently",
+      "title": "ProfitWell Retain from Price Intelligently: Delinquent churn reduction for Zuora, Braintree, and Stripe",
+      "score": "89"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/the-bleuberry-project",
+      "title": "The Bleuberry Project: The largest interactive database for the on-demand economy",
+      "score": "43"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/claquette",
+      "title": "Claquette: Seamlessly record your Mac&#x27;s screen, microphone and camera",
+      "score": "52"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/swell-bot",
+      "title": "Swell Bot: Make better decisions with friends",
+      "score": "53"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/AHAAAAAAA/PokemonGo-Map",
+      "title": "AHAAAAAAA/PokemonGo-Map: Live visualization of all the pokemon in your area... and more!",
+      "score": "1723"
+    },
+    {
+      "url": "https://github.com/Microsoft/api-guidelines",
+      "title": "Microsoft/api-guidelines: Microsoft REST API Guidelines",
+      "score": "1823"
+    },
+    {
+      "url": "https://github.com/zeit/hyperterm",
+      "title": "zeit/hyperterm: o",
+      "score": "483"
+    },
+    {
+      "url": "https://github.com/Mila432/Pokemon_Go_API",
+      "title": "Mila432/Pokemon_Go_API: Pokémon GO API in Python",
+      "score": "401"
+    },
+    {
+      "url": "https://github.com/nosir/cleave.js",
+      "title": "nosir/cleave.js: Format input text content when you are typing",
+      "score": "359"
+    },
+    {
+      "url": "https://github.com/yhatt/marp",
+      "title": "yhatt/marp: Markdown presentation writer, powered by Electron.",
+      "score": "352"
+    },
+    {
+      "url": "https://github.com/rgcr/m-cli",
+      "title": "rgcr/m-cli:  Swiss Army Knife for Mac OS X",
+      "score": "264"
+    },
+    {
+      "url": "https://github.com/iam4x/pokemongo-webspoof",
+      "title": "iam4x/pokemongo-webspoof:  Play Pokémon Go from your Mac",
+      "score": "236"
+    },
+    {
+      "url": "https://github.com/robinhood/ticker",
+      "title": "robinhood/ticker: An Android text view with scrolling text change animation",
+      "score": "227"
+    },
+    {
+      "url": "https://github.com/acdlite/react-fiber-architecture",
+      "title": "acdlite/react-fiber-architecture: A description of React's new core algorithm, React Fiber",
+      "score": "199"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/293663#reply137",
+      "title": "饮料含糖真的太多，大家一般怎么选择饮料的？喝纯净水又不是那么解瘾。",
+      "score": "137"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293648#reply66",
+      "title": "请教问题：如果下雨 40 天，我们该是反思什么尼？",
+      "score": "66"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293672#reply61",
+      "title": "今天 CEO 同意我远程办公了",
+      "score": "61"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293673#reply60",
+      "title": "为什么跑鞋的设计都那么艳俗！（内含可能会让你不适的图片[<img src=\"/static/img/doge.gif\" style=\"vertical-align: middle; margin: 0px 0px 2px 0px\" alt=\"doge\" />]）",
+      "score": "60"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293720#reply42",
+      "title": "开源简单的听歌软件 Listen1，整合网易， QQ，虾米曲库",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293654#reply38",
+      "title": "山海经地图",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293635#reply34",
+      "title": "一米二的的桌面放两个显示器是不是有点窄？",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293627#reply32",
+      "title": "学籍信息也会被泄露吗？",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293618#reply29",
+      "title": "你们在逛 reddit 时，是用浏览器还是用客户端？",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293670#reply27",
+      "title": "[项目命名]求帮助！❤️",
+      "score": "27"
+    }
+  ]
+}

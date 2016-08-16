@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12237966",
+      "title": "Superblocks: how Barcelona is taking city streets back from cars",
+      "score": 0
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12240722",
+      "title": "“Our primary goal is to un-fork the Tor Browser”",
+      "score": 0
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12238860",
+      "title": "Tabby's star is dimming at an incredible rate",
+      "score": 0
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12240253",
+      "title": "IBM Watson correctly diagnoses a form of leukemia",
+      "score": 0
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12238498",
+      "title": "A x64 OS #1: UEFI",
+      "score": 0
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12240093",
+      "title": "The 39th Root of 92",
+      "score": 0
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12240542",
+      "title": "Show HN: Gping.io – Like TinyURL for your car",
+      "score": 0
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12239263",
+      "title": "The brain's reward circuitry regulates immunity",
+      "score": 0
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12238411",
+      "title": "DLS, the digital logic simulator game",
+      "score": 0
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12239840",
+      "title": "Firejail – security sandbox",
+      "score": 0
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x2sjl/text_analysis_of_trumps_tweets_confirms_he_writes/",
+      "title": "Text analysis of Trump's tweets confirms he writes only the (angrier) Android half",
+      "score": 4837
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wu0nj/i_want_to_know_what_code_is_running_inside_my_body/",
+      "title": "“I Want to Know What Code Is Running Inside My Body”",
+      "score": 2287
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4woznl/git_down_uses_arduino_as_a_breath_analyzer_to/",
+      "title": "git down uses Arduino as a breath analyzer to moderate commits based on alcohol level",
+      "score": 1760
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x9dje/microsoft_accidentally_leaks_secure_boot_golden/",
+      "title": "Microsoft accidentally leaks Secure Boot &quot;golden key&quot;",
+      "score": 1554
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xfdj4/google_puts_up_fuchsia_repo_apparently_a_new_os/",
+      "title": "Google puts up Fuchsia repo - apparently a new OS.",
+      "score": 1053
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x8jp4/zerocost_futures_in_rust/",
+      "title": "Zero-cost futures in Rust",
+      "score": 868
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xd2c7/the_rise_and_fall_of_the_gopher_protocol/",
+      "title": "The rise and fall of the Gopher protocol",
+      "score": 713
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wx5c3/pypy_gets_funding_from_mozilla_for_python_35/",
+      "title": "PyPy gets funding from Mozilla for Python 3.5 support",
+      "score": 703
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wlew8/gary_bernhardt_is_coming_back_to_destroy_all/",
+      "title": "Gary Bernhardt is coming back to Destroy All Software after 3 years with an all-new series on computation!",
+      "score": 546
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x2kvh/generating_fantasy_maps/",
+      "title": "Generating fantasy maps",
+      "score": 445
+    }
+  ],
+  "medium": [
+    {
+      "title": "A Letter to My Daughter About Young Men",
+      "score": 5606,
+      "url": "https://medium.com/p/a-letter-to-my-daughter-about-young-men-2bab2fca4971"
+    },
+    {
+      "title": "I Peeked Into My Node_Modules Directory And You Won’t Believe What Happened Next",
+      "score": 3837,
+      "url": "https://medium.com/p/i-peeked-into-my-node-modules-directory-and-you-wont-believe-what-happened-next-b89f63d21558"
+    },
+    {
+      "title": "Is this my interface or yours?",
+      "score": 2930,
+      "url": "https://medium.com/p/is-this-my-interface-or-yours-b09a7a795256"
+    },
+    {
+      "title": "19 Incredibly Useful Websites You Wish You Knew Earlier",
+      "score": 2876,
+      "url": "https://medium.com/p/19-incredibly-useful-websites-you-wish-you-knew-earlier-eda6f16752c8"
+    },
+    {
+      "title": "I hack time.",
+      "score": 2446,
+      "url": "https://medium.com/p/i-hack-time-6d3a32193c9"
+    },
+    {
+      "title": "I Replaced The Word ‘Millennials’ With ‘43-Year-Old White Men’ And Now These Headlines Are *Italian…",
+      "score": 2207,
+      "url": "https://medium.com/p/i-replaced-the-word-millennials-with-43-year-old-white-men-and-now-these-headlines-are-italian-597167feb574"
+    },
+    {
+      "title": "Silicon Valley arrogance: “I can tell you which startups will succeed, without even knowing what…",
+      "score": 1859,
+      "url": "https://medium.com/p/silicon-valley-arrogance-i-can-tell-you-which-startups-will-succeed-without-even-knowing-what-89aa8ea35d23"
+    },
+    {
+      "title": "There’s No Such Thing As A Protest Vote",
+      "score": 1711,
+      "url": "https://medium.com/p/theres-no-such-thing-as-a-protest-vote-c2fdacabd704"
+    },
+    {
+      "title": "I’m deleting Snapchat, and you should too",
+      "score": 1396,
+      "url": "https://medium.com/p/im-deleting-snapchat-and-you-should-too-98569b2609e4"
+    },
+    {
+      "title": "How to Destroy Your Comfort Zone and Improve Your Life: A Science-Backed Guide",
+      "score": 1132,
+      "url": "https://medium.com/p/the-science-backed-guide-for-destroying-your-comfort-zone-and-optimizing-your-success-7ce0b12a1275"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/299116#reply41",
+      "title": "Hyper_ 开放啦！最简单的 Docker 云，两秒部署你的应用，注册就送 20 美刀",
+      "score": 316
+    },
+    {
+      "url": "https://www.v2ex.com/t/298280#reply179",
+      "title": "公司新规定，上班时间不许穿短裤、无袖、拖鞋，现在浑身不舒服可咋办？",
+      "score": 203
+    },
+    {
+      "url": "https://www.v2ex.com/t/299071#reply116",
+      "title": "有感于最近一次支付宝 9.9 改版",
+      "score": 163
+    },
+    {
+      "url": "https://www.v2ex.com/t/298382#reply96",
+      "title": "大家写代码累的时候，或者郁闷的时候都是如何发泄出来的？",
+      "score": 147
+    },
+    {
+      "url": "https://www.v2ex.com/t/297912#reply69",
+      "title": "面试了两个创业公司拿到了两个 offer，在纠结去哪个？",
+      "score": 143
+    },
+    {
+      "url": "https://www.v2ex.com/t/298679#reply89",
+      "title": "皆买何电脑之，我是文家，愿与我一点荐",
+      "score": 138
+    },
+    {
+      "url": "https://www.v2ex.com/t/298584#reply114",
+      "title": "未来丈母娘周末突然来北京玩，第一次见面有啥要注意的?",
+      "score": 137
+    },
+    {
+      "url": "https://www.v2ex.com/t/298303#reply115",
+      "title": "YoMail 又放大招，新版支持微信聊天",
+      "score": 136
+    },
+    {
+      "url": "https://www.v2ex.com/t/298619#reply92",
+      "title": "借了钱，贷了款，买了房",
+      "score": 133
+    },
+    {
+      "url": "https://www.v2ex.com/t/297647#reply69",
+      "title": "求职 PHP，专科，今年年后入行",
+      "score": 128
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/notion-1-0-mac-app",
+      "title": "Notion 1.0 + Mac App: Docs, wikis, tasks – a minimal &amp; unified workspace for teams",
+      "score": 2025
+    },
+    {
+      "url": "https://www.producthunt.com/tech/product-pages",
+      "title": "Product Pages: Curated directory of the best product pages",
+      "score": 1187
+    },
+    {
+      "url": "https://www.producthunt.com/tech/website-downloader",
+      "title": "Website Downloader: Download source code from any website",
+      "score": 994
+    },
+    {
+      "url": "https://www.producthunt.com/tech/html-email",
+      "title": "HTML Email: Responsive HTML email templates for startups &amp; developers",
+      "score": 988
+    },
+    {
+      "url": "https://www.producthunt.com/tech/pusher-mobile-push-notifications-api",
+      "title": "Pusher Mobile Push Notifications API: Free API to send Push Notifications to iOS &amp; Android",
+      "score": 834
+    },
+    {
+      "url": "https://www.producthunt.com/tech/meta-search",
+      "title": "Meta Search: Search your Desktop, Google Drive, Dropbox, Gmail, Evernote.",
+      "score": 735
+    },
+    {
+      "url": "https://www.producthunt.com/tech/fabric-4",
+      "title": "Fabric: The story of your life that writes itself.",
+      "score": 708
+    },
+    {
+      "url": "https://www.producthunt.com/tech/rebrandly-api",
+      "title": "Rebrandly API: Empower your app with custom short links",
+      "score": 679
+    },
+    {
+      "url": "https://www.producthunt.com/tech/patientbank",
+      "title": "PatientBank: Get medical records online—from any doctor or hospital",
+      "score": 641
+    },
+    {
+      "url": "https://www.producthunt.com/tech/pluck-2",
+      "title": "Pluck: Smarter cold emails for the savvy social marketer",
+      "score": 632
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/aymericdamien/TopDeepLearning",
+      "title": "aymericdamien/TopDeepLearning: A list of popular github projects related to deep learning",
+      "score": "039"
+    },
+    {
+      "url": "https://github.com/FallibleInc/security-guide-for-developers",
+      "title": "FallibleInc/security-guide-for-developers: Security Guide for Developers (实用性开发人员安全须知)",
+      "score": "673"
+    },
+    {
+      "url": "https://github.com/PokemonGoMap/PokemonGo-Map",
+      "title": "PokemonGoMap/PokemonGo-Map:  Live visualization of all the pokemon in your area... and more!",
+      "score": "310"
+    },
+    {
+      "url": "https://github.com/NECROBOTIO/NecroBot",
+      "title": "NECROBOTIO/NecroBot: The biggest Pokemon Go Bot in history. Good Bye!",
+      "score": "154"
+    },
+    {
+      "url": "https://github.com/redfin/react-server",
+      "title": "redfin/react-server: React framework with server render for blazing fast page load and seamless transitions between pages in the browser.",
+      "score": "332"
+    },
+    {
+      "url": "https://github.com/mewo2/terrain",
+      "title": "mewo2/terrain: Fantasy map generator",
+      "score": "286"
+    },
+    {
+      "url": "https://github.com/PokemonGoF/PokemonGo-Bot",
+      "title": "PokemonGoF/PokemonGo-Bot: The Pokemon Go Bot, baking with community.",
+      "score": "914"
+    },
+    {
+      "url": "https://github.com/arielf/weight-loss",
+      "title": "arielf/weight-loss: Machine Learning meets ketosis: how to effectively lose weight",
+      "score": "094"
+    },
+    {
+      "url": "https://github.com/VoLuong/Awesome-Linux-Software",
+      "title": "VoLuong/Awesome-Linux-Software:  A curated list of awesome applications, softwares, tools and other materials for Linux distros.",
+      "score": "054"
+    },
+    {
+      "url": "https://github.com/a0viedo/demystifying-js-engines",
+      "title": "a0viedo/demystifying-js-engines: o",
+      "score": "068"
+    }
+  ]
+}

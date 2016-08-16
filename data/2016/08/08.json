@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12246556",
+      "title": "Why I'm not a big fan of Scrum",
+      "score": "328"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12242923",
+      "title": "Street food chef's stall becomes world's first to earn Michelin star",
+      "score": "318"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12242311",
+      "title": "Google Outpaces Facebook on Getting India Connected to Internet",
+      "score": "253"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12243366",
+      "title": "How my open source hobby project became my job: 10 years of OptaPlanner",
+      "score": "221"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12245909",
+      "title": "Notes on Distributed Systems for Young Bloods",
+      "score": "216"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12245458",
+      "title": "Why do CPUs have multiple cache levels?",
+      "score": "209"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12245044",
+      "title": "TLS Everywhere, not https: URIs (2015)",
+      "score": "179"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12247401",
+      "title": "Moving 12 years of email from GMail to FastMail",
+      "score": "173"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12245778",
+      "title": "Emperor Akihito of Japan Raises Possibility of Leaving Throne",
+      "score": "127"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12247306",
+      "title": "Confirmed: Walmart buys Jet.com for $3B in cash",
+      "score": "114"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4woznl/git_down_uses_arduino_as_a_breath_analyzer_to/",
+      "title": "git down uses Arduino as a breath analyzer to moderate commits based on alcohol level",
+      "score": "746"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wlew8/gary_bernhardt_is_coming_back_to_destroy_all/",
+      "title": "Gary Bernhardt is coming back to Destroy All Software after 3 years with an all-new series on computation!",
+      "score": "526"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wp277/why_im_not_a_big_fan_of_scrum/",
+      "title": "Why I'm not a big fan of Scrum",
+      "score": "116"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wp4gr/why_do_cpus_have_multiple_cache_levels/",
+      "title": "Why do CPUs have multiple cache levels?",
+      "score": "73"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wo7w8/rads_ground_breaking_lossless_compression_product/",
+      "title": "RAD's ground breaking lossless compression product benchmarked",
+      "score": "55"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wlmhu/programming_your_own_language_in_c/",
+      "title": "Programming Your Own Language in C++",
+      "score": "55"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wlszu/automatic_annotations_in_typed_clojure/",
+      "title": "Automatic Annotations in Typed Clojure",
+      "score": "18"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wls44/pycnn_image_processing_with_cellular_neural/",
+      "title": "PyCNN: Image Processing with Cellular Neural Networks in Python",
+      "score": "17"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4woemr/generating_z80_machine_code_for_zx_spectrum_with/",
+      "title": "Generating (Z80) machine code for ZX Spectrum with JavaScript",
+      "score": "12"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wpcua/how_my_open_source_hobby_project_became_my_job_10/",
+      "title": "How my open source hobby project became my job: 10 years of OptaPlanner",
+      "score": "11"
+    }
+  ],
+  "medium": [
+    {
+      "title": "A Letter to My Daughter About Young Men",
+      "score": "3470",
+      "url": "https://medium.com/p/a-letter-to-my-daughter-about-young-men-2bab2fca4971"
+    },
+    {
+      "title": "I Peeked Into My Node_Modules Directory And You Won’t Believe What Happened Next",
+      "score": "1723",
+      "url": "https://medium.com/p/i-peeked-into-my-node-modules-directory-and-you-wont-believe-what-happened-next-b89f63d21558"
+    },
+    {
+      "title": "Some readers unconvinced by our True rating for Michelle Obama’s claim that slaves built the White…",
+      "score": "391",
+      "url": "https://medium.com/p/some-readers-unconvinced-by-our-true-rating-for-michelle-obamas-claim-that-slaves-built-the-white-957c1d7ad46c"
+    },
+    {
+      "title": "There’s No Such Thing As A Protest Vote",
+      "score": "821",
+      "url": "https://medium.com/p/theres-no-such-thing-as-a-protest-vote-c2fdacabd704"
+    },
+    {
+      "title": "Airbnb’s racism problem is much bigger than a few racist hosts.",
+      "score": "901",
+      "url": "https://medium.com/p/airbnbs-racism-problem-is-much-bigger-than-a-few-racist-hosts-a1dea9c77586"
+    },
+    {
+      "title": "Harvard Republican Club Refuses to Endorse Donald Trump",
+      "score": "758",
+      "url": "https://medium.com/p/harvard-republican-club-refuses-to-endorse-donald-trump-9f08e8bb5b21"
+    },
+    {
+      "title": "Silicon Valley arrogance: “I can tell you which startups will succeed, without even knowing what…",
+      "score": "985",
+      "url": "https://medium.com/p/silicon-valley-arrogance-i-can-tell-you-which-startups-will-succeed-without-even-knowing-what-89aa8ea35d23"
+    },
+    {
+      "title": "Password Stories",
+      "score": "141",
+      "url": "https://medium.com/p/password-stories-41a83e86b3e7"
+    },
+    {
+      "title": "I hack time.",
+      "score": "1944",
+      "url": "https://medium.com/p/i-hack-time-6d3a32193c9"
+    },
+    {
+      "title": "How to Destroy Your Comfort Zone and Improve Your Life: A Science-Backed Guide",
+      "score": "590",
+      "url": "https://medium.com/p/the-science-backed-guide-for-destroying-your-comfort-zone-and-optimizing-your-success-7ce0b12a1275"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/product-pages",
+      "title": "Product Pages: Curated directory of the best product pages",
+      "score": "357"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/website-downloader",
+      "title": "Website Downloader: Download source code from any website",
+      "score": "99"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/suiteness",
+      "title": "Suiteness: Find and book hotel suites online",
+      "score": "138"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/instream-2",
+      "title": "InStream: Business relationship management platform - CRM alternative",
+      "score": "215"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/yahoo-view",
+      "title": "Yahoo View: Free streaming TV and movies, in partnership with Hulu",
+      "score": "29"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/openwhyd",
+      "title": "Openwhyd: Collect &amp; share musical gems from YouTube, SoundCloud &amp; more",
+      "score": "71"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/better-tweetdeck-3",
+      "title": "Better TweetDeck 3: Make TweetDeck even better with emojis, thumbnails and more",
+      "score": "65"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/marketing-school-why-is-personal-branding-important",
+      "title": "Marketing School - Why Is Personal Branding Important?: It&#x27;s about playing the long game and building relationships ",
+      "score": "18"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/booknshelf",
+      "title": "Booknshelf: Discover great books and bookshelves. ",
+      "score": "48"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/project-murphy",
+      "title": "Project Murphy: The chat bot with imagination by Microsoft",
+      "score": "44"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/PokemonGoMap/PokemonGo-Map",
+      "title": "PokemonGoMap/PokemonGo-Map:  Live visualization of all the pokemon in your area... and more!",
+      "score": "432"
+    },
+    {
+      "url": "https://github.com/a0viedo/demystifying-js-engines",
+      "title": "a0viedo/demystifying-js-engines: o",
+      "score": "365"
+    },
+    {
+      "url": "https://github.com/NECROBOTIO/NecroBot",
+      "title": "NECROBOTIO/NecroBot: a Pokemon Go Bot. -&gt; ",
+      "score": "266"
+    },
+    {
+      "url": "https://github.com/irfansharif/cfilter",
+      "title": "irfansharif/cfilter: Cuckoo Filter implementation in Go, better than Bloom Filters",
+      "score": "297"
+    },
+    {
+      "url": "https://github.com/acdlite/react-fiber-architecture",
+      "title": "acdlite/react-fiber-architecture: A description of React's new core algorithm, React Fiber",
+      "score": "292"
+    },
+    {
+      "url": "https://github.com/FallibleInc/security-guide-for-developers",
+      "title": "FallibleInc/security-guide-for-developers: Security Guide for Developers (实用性开发人员安全须知)",
+      "score": "236"
+    },
+    {
+      "url": "https://github.com/keyphact/pgoapi",
+      "title": "keyphact/pgoapi: Updated PokemonGO API, with lots of love from the Team Unknown6 &lt;3",
+      "score": "192"
+    },
+    {
+      "url": "https://github.com/sachinchoolur/lightgallery.js",
+      "title": "sachinchoolur/lightgallery.js: Full featured JavaScript image &amp; video gallery. No dependencies",
+      "score": "215"
+    },
+    {
+      "url": "https://github.com/PokemonGoF/PokemonGo-Bot",
+      "title": "PokemonGoF/PokemonGo-Bot: The Pokemon Go Bot, baking with community.",
+      "score": "179"
+    },
+    {
+      "url": "https://github.com/tdebatty/java-string-similarity",
+      "title": "tdebatty/java-string-similarity: Implementation of various string similarity and distance algorithms: Levenshtein, Jaro-winkler, n-Gram, Q-Gram, Jaccard index, Longest Common Subsequence edit distance, cosine similarity ...",
+      "score": "211"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/297856#reply92",
+      "title": "让农村的孩子快速体验城市生活，你们有什么好建议？",
+      "score": "92"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297834#reply88",
+      "title": "交警平台已举报,不知道会不会处理",
+      "score": "88"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297922#reply82",
+      "title": "七夕节那天，勇敢的跟女神表白了",
+      "score": "82"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297912#reply69",
+      "title": "面试了两个创业公司拿到了两个 offer，在纠结去哪个？",
+      "score": "69"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297817#reply64",
+      "title": "七夕,你们送女朋友什么礼物?",
+      "score": "64"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297793#reply51",
+      "title": "还有比 115 云盘离线下载更好的类似服务么。。",
+      "score": "51"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297802#reply51",
+      "title": "[V 站有 git 大神吗？ ]删除仓库的某个时间点之前的历史记录，减少.git 目录大小。 救命啊啊。",
+      "score": "51"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297832#reply45",
+      "title": "斐讯 K 系列路由器免费送活动（注册理财平台一个月后返现？）",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297905#reply45",
+      "title": "京东牛逼，我要报警了！",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297800#reply42",
+      "title": "讲真 现在做付费培训的越来越多了。",
+      "score": "42"
+    }
+  ]
+}

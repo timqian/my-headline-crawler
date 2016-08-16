@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12184522",
+      "title": "Docker for Mac and Windows Is Now Generally Available and Ready for Production",
+      "score": "493"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12185845",
+      "title": "We Should Not Accept Scientific Results That Have Not Been Repeated",
+      "score": "379"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12185727",
+      "title": "The Inner Json Effect",
+      "score": "172"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12184895",
+      "title": "Alphabet Loses $859M on 'Moonshots' in 2Q 2016",
+      "score": "171"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12184688",
+      "title": "Protecting Free Speech: Why Yelp Is Marking Businesses That Sue Their Customers",
+      "score": "158"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12185277",
+      "title": "Haskell Data Analysis and Machine Learning Cookbook",
+      "score": "112"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12185404",
+      "title": "Please save GMane",
+      "score": "108"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12185916",
+      "title": "Go Packaging Proposal Process",
+      "score": "82"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12186036",
+      "title": "Turkish academics: Remain silent or risk all",
+      "score": "80"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12182230",
+      "title": "The Deconstructed Standard Model Equation",
+      "score": "78"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4v1y12/how_to_write_unmaintainable_code/",
+      "title": "How to write unmaintainable code",
+      "score": "2805"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4v354z/dailywtf_the_inner_json_effect/",
+      "title": "DailyWTF: The Inner JSON Effect",
+      "score": "175"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4v3rh1/the_internet_on_redox_a_rust_operating_system/",
+      "title": "The Internet on Redox - A Rust Operating System",
+      "score": "90"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4v5k0w/why_working_on_chrome_made_me_develop_a_tool_for/",
+      "title": "Why working on Chrome made me develop a tool for reading source code",
+      "score": "58"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4v6chu/why_json_doesnt_support_comments_douglas_crockford/",
+      "title": "Why JSON doesn't support comments (Douglas Crockford)",
+      "score": "65"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4v2ytz/apache_mesos_100_released/",
+      "title": "Apache Mesos 1.0.0 Released",
+      "score": "28"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4v3fjs/ebb_a_programming_language_for_writing_physical/",
+      "title": "Ebb: a programming language for writing physical simulations",
+      "score": "26"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4v68c7/put_your_code_where_your_mouth_is/",
+      "title": "Put your code where your mouth is",
+      "score": "17"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4v5rsu/docker_for_mac_and_windows_is_now_generally/",
+      "title": "Docker for Mac and Windows is Now Generally Available and Ready for Production",
+      "score": "17"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4v3dmr/a_diy_computer_science_education/",
+      "title": "A DIY Computer Science Education",
+      "score": "17"
+    }
+  ],
+  "medium": [
+    {
+      "title": "The Two Minutes It Takes To Read This Will Improve Your Writing Forever",
+      "score": "5614",
+      "url": "https://medium.com/p/the-two-minutes-it-takes-to-read-this-will-improve-your-writing-forever-82a7d01441d1"
+    },
+    {
+      "title": "Why I’m voting for Trump and you should too",
+      "score": "2889",
+      "url": "https://medium.com/p/why-im-voting-for-trump-and-you-should-too-e74b23a97953"
+    },
+    {
+      "title": "To Be a Better Leader, Learn This FBI Hostage Negotiation Tactic",
+      "score": "815",
+      "url": "https://medium.com/p/this-fbi-hostage-negotiation-tactic-makes-you-a-better-leader-a4afe919c18d"
+    },
+    {
+      "title": "Let Me Remind You Fuckers Who I Am",
+      "score": "8060",
+      "url": "https://medium.com/p/let-me-remind-you-fuckers-who-i-am-e6e8b297fe47"
+    },
+    {
+      "title": "Machine Learning is Fun!",
+      "score": "1993",
+      "url": "https://medium.com/p/machine-learning-is-fun-80ea3ec3c471"
+    },
+    {
+      "title": "Design Doesn’t Scale.",
+      "score": "800",
+      "url": "https://medium.com/p/design-doesnt-scale-4d81e12cbc3e"
+    },
+    {
+      "title": "The rise and fall (OK — mostly fall) of Yahoo",
+      "score": "1677",
+      "url": "https://medium.com/p/the-rise-and-fall-mostly-fall-of-yahoo-ddbceb44670c"
+    },
+    {
+      "title": "Confused Why Donald Trump’s Message Is Resonating?",
+      "score": "268",
+      "url": "https://medium.com/p/confused-why-donald-trumps-message-is-resonating-1154c977697b"
+    },
+    {
+      "title": "American Horror Story",
+      "score": "219",
+      "url": "https://medium.com/p/american-horror-story-ab4a4b389949"
+    },
+    {
+      "title": "What Marissa Mayer Brought to Yahoo That Can’t Be Bought or Sold",
+      "score": "385",
+      "url": "https://medium.com/p/what-marissa-mayer-brought-to-yahoo-that-cant-be-bought-or-sold-4ee82382e4ee"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/amazon-restaurants",
+      "title": "Amazon Restaurants: Free one-hour local food delivery for Prime customers",
+      "score": "215"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/cofounderslab-2",
+      "title": "CoFoundersLab: Meet 250,000+ entrepreneurs online",
+      "score": "159"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/paw-3",
+      "title": "Paw 3: The most advanced API tool for Mac",
+      "score": "36"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/octo-ai",
+      "title": "Octo.ai: Open-source Mixpanel for ecommerce",
+      "score": "108"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/goldenhour-one",
+      "title": "GoldenHour.One:  The app that knows when the time is right to go take photos",
+      "score": "72"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/appspotr",
+      "title": "Appspotr: Create, preview &amp; publish your native iOS &amp; Android apps.",
+      "score": "84"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/automile-anytrack",
+      "title": "Automile AnyTrack: Track anything valuable to your business",
+      "score": "38"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/smartmirror-2",
+      "title": "SmartMirror: Motion controlled smart mirror",
+      "score": "17"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/fitso-2",
+      "title": "Fitso: Your personal training coach in your phone.",
+      "score": "34"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/art-of-the-kickstarter-148-revolutionizing-portable-footwear-on-kickstarter",
+      "title": "Art of the Kickstarter: 148 - Revolutionizing Portable Footwear on Kickstarter: Revolutionary ultraportable footwear with silver",
+      "score": "11"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/Droogans/unmaintainable-code",
+      "title": "Droogans/unmaintainable-code: An easier to share version of the infamous ",
+      "score": "953"
+    },
+    {
+      "url": "https://github.com/vhf/free-programming-books",
+      "title": "vhf/free-programming-books:  Freely available programming books",
+      "score": "598"
+    },
+    {
+      "url": "https://github.com/jgthms/web-design-in-4-minutes",
+      "title": "jgthms/web-design-in-4-minutes: Learn basics of web design in 4 minutes",
+      "score": "541"
+    },
+    {
+      "url": "https://github.com/facebookincubator/create-react-app",
+      "title": "facebookincubator/create-react-app: Create React apps with no build configuration.",
+      "score": "543"
+    },
+    {
+      "url": "https://github.com/NecronomiconCoding/NecroBot",
+      "title": "NecronomiconCoding/NecroBot: a Pokemon Go Bot based on Rocket API",
+      "score": "368"
+    },
+    {
+      "url": "https://github.com/LaunchKit/LaunchKit",
+      "title": "LaunchKit/LaunchKit: A set of web-based tools for mobile app developers, now open source!",
+      "score": "407"
+    },
+    {
+      "url": "https://github.com/uber/image-diff",
+      "title": "uber/image-diff: Create image differential between two images",
+      "score": "386"
+    },
+    {
+      "url": "https://github.com/GeniusVJR/LearningNotes",
+      "title": "GeniusVJR/LearningNotes: Enjoy Learning.",
+      "score": "336"
+    },
+    {
+      "url": "https://github.com/AHAAAAAAA/PokemonGo-Map",
+      "title": "AHAAAAAAA/PokemonGo-Map:  Live visualization of all the pokemon in your area... and more!",
+      "score": "252"
+    },
+    {
+      "url": "https://github.com/JackyAndroid/AndroidInterview-Q-A",
+      "title": "JackyAndroid/AndroidInterview-Q-A: The top Internet companies android interview questions and answers",
+      "score": "285"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/295699#reply161",
+      "title": "北京-PHP 高手打算带一个懂拉瓦 laveral 框架的初级开发人员",
+      "score": "161"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295671#reply149",
+      "title": "准备给老婆在三线城市买房子了，定金付了！值得吗？",
+      "score": "149"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295675#reply75",
+      "title": "深蹲后腿软，站不起来",
+      "score": "75"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295679#reply72",
+      "title": "机械键盘的好处是啥？",
+      "score": "72"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295743#reply67",
+      "title": "如何不让别人在 RMBP 的屏幕上用手指一顿戳？",
+      "score": "67"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295674#reply59",
+      "title": "配置不错的新电脑，玩 GTA 5 明显卡顿怎么破？",
+      "score": "59"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295807#reply51",
+      "title": "上班路程时间多少是你们能够接受的？",
+      "score": "51"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295677#reply48",
+      "title": "我被一个简单的 php 搞了 2 天，马上崩溃",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295691#reply45",
+      "title": "冲动消费的心理历程……",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295704#reply45",
+      "title": "毁三观，你绝对搞不清楚的进制单位转换， bit Byte GB GiB 1000 1024 Gbps GBps GB/s Gpps",
+      "score": "45"
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12133766",
+      "title": "Master Plan, Part Deux",
+      "score": "1363"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12131909",
+      "title": "Stack Overflow Outage Postmortem",
+      "score": "789"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12136578",
+      "title": "Why I’m Suing the US Government",
+      "score": "342"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12135484",
+      "title": "How I built an app with 500,000 users in 5 days on a $100 server",
+      "score": "270"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12133670",
+      "title": "The End of Microservices",
+      "score": "195"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12133820",
+      "title": "Programming Language Rankings: June 2016",
+      "score": "192"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12135399",
+      "title": "A Beginner's Guide to Understanding Convolutional Neural Networks",
+      "score": "169"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12136011",
+      "title": "Show HN: riko - A python stream processing engine modeled after Yahoo! Pipes",
+      "score": "165"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12133620",
+      "title": "New Features in Ruby 2.4",
+      "score": "165"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12135777",
+      "title": "America wants to believe China can’t innovate. Tech tells a different story",
+      "score": "163"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tt6ce/stack_exchange_was_down_because_of_an_innocent/",
+      "title": "Stack Exchange was down because of an innocent looking Regex",
+      "score": "2186"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4trma4/git_for_windows_accidentally_creates_ntfs/",
+      "title": "Git for Windows accidentally creates NTFS alternate data streams",
+      "score": "171"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tt9q8/how_i_built_an_app_with_500000_users_in_5_days_on/",
+      "title": "How I built an app with 500,000 users in 5 days on a $100 server",
+      "score": "106"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4twao3/introducing_stack_overflow_documentation_beta/",
+      "title": "Introducing Stack Overflow Documentation Beta",
+      "score": "87"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ttzky/10_modern_software_engineering_mistakes/",
+      "title": "10 Modern Software Engineering Mistakes",
+      "score": "41"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tub1q/angular_2_for_dart_is_going_all_dart_faster_dev/",
+      "title": "Angular 2 for Dart is going all Dart -- faster dev, faster execution, and all of Dart's features unleashed",
+      "score": "24"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tweh8/by_having_a_bootstrapped_compiler_as_the_first/",
+      "title": "&quot;[B]y having a bootstrapped compiler as the first – and, often, for some time the biggest – program in a language, the eventual language design is often unintentionally altered and rarely for the better.&quot;",
+      "score": "32"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tvsl6/the_redmonk_programming_language_rankings_june/",
+      "title": "The RedMonk Programming Language Rankings: June 2016",
+      "score": "26"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tsi20/out_run_software_development_kit_new_sdk_for_a/",
+      "title": "Out Run Software Development Kit - New SDK for a 30-year old game",
+      "score": "21"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tuwdv/scipy_2016_data_science_is_software_tutorial/",
+      "title": "SciPy 2016: &quot;Data Science is Software&quot; tutorial",
+      "score": "13"
+    }
+  ],
+  "medium": [
+    {
+      "title": "How I built an app with 500,000 users in 5 days on a $100 server",
+      "score": "596",
+      "url": "https://medium.com/p/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83"
+    },
+    {
+      "title": "7 Chrome Extensions That Will Change Your (Internet) Life",
+      "score": "886",
+      "url": "https://medium.com/p/7-chrome-extensions-that-will-change-your-internet-life-19ad3ad7a56b"
+    },
+    {
+      "title": "Inside the Obama Tech Surge as it Hacks the Pentagon and VA",
+      "score": "328",
+      "url": "https://medium.com/p/inside-the-obama-tech-surge-as-it-hacks-the-pentagon-and-va-8b439bc33ed1"
+    },
+    {
+      "title": "How we generated $712,076.64 in revenue with two people in a little over two years",
+      "score": "345",
+      "url": "https://medium.com/p/how-we-generated-712-076-64-in-revenue-with-two-people-in-a-little-over-two-years-8c4af36ed1f1"
+    },
+    {
+      "title": "MLB’s Nine Biggest Questions Before the Trade Deadline",
+      "score": "30",
+      "url": "https://medium.com/p/the-lineup-2016-mlb-trade-deadline-andrew-miller-kyle-schwarber-176f1cacf6c5"
+    },
+    {
+      "title": "Dollar Shave Club: How Michael Dubin Created A Massively Successful Company and Re-Defined CPG",
+      "score": "501",
+      "url": "https://medium.com/p/dollar-shave-club-how-michael-dubin-created-a-massively-successful-company-and-re-defined-cpg-f2fa700af62b"
+    },
+    {
+      "title": "5 Actual Web Designs Trends for 2016",
+      "score": "371",
+      "url": "https://medium.com/p/5-actual-web-designs-trends-for-2016-f9504223c9b3"
+    },
+    {
+      "title": "Ask A Swole Woman: Getting Started",
+      "score": "310",
+      "url": "https://medium.com/p/ask-a-swole-woman-getting-started-36849181c388"
+    },
+    {
+      "title": "Why Do They Hate Her?",
+      "score": "76",
+      "url": "https://medium.com/p/hillary-clinton-haters-rnc-cleveland-week-e56af8012d39"
+    },
+    {
+      "title": "Even in Fiction, the Browns Can’t Get It Right",
+      "score": "48",
+      "url": "https://medium.com/p/even-in-fiction-the-browns-cant-get-it-right-da822577b30e"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/highly-for-ios",
+      "title": "Highly for iOS: Medium-style highlighting in every app and website. 🖌",
+      "score": "292"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/google-cloud-natural-language-api",
+      "title": "Google Cloud Natural Language API:  Natural language API using Google machine learning",
+      "score": "279"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/n26",
+      "title": "N26: Run your entire financial life from your phone",
+      "score": "138"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/channelkit-2-0",
+      "title": "Channelkit 2.0: File your pile into a tidy visual knowledge base",
+      "score": "167"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/hire-tech-ladies",
+      "title": "Hire Tech Ladies: Connecting women with the best jobs in tech",
+      "score": "61"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/hubbos-2",
+      "title": "Hubbos: Find your next movie here",
+      "score": "142"
+    },
+    {
+      "url": "https://www.producthunt.com/games/dots-co",
+      "title": "Dots &amp; Co: A beautiful puzzle game from the creators of TwoDots",
+      "score": "89"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/docparser",
+      "title": "Docparser: Convert PDF documents into structured data",
+      "score": "100"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/swiftmoji-2",
+      "title": "Swiftmoji: Emoji-predicting keyboard by Swiftkey",
+      "score": "105"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/yesgraph-twinmaps",
+      "title": "YesGraph TwinMaps: Visualize your Twitter graph",
+      "score": "58"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/AHAAAAAAA/PokemonGo-Map",
+      "title": "AHAAAAAAA/PokemonGo-Map: Live visualization of all the pokemon in your area... and more!",
+      "score": "1326"
+    },
+    {
+      "url": "https://github.com/jaywcjlove/awesome-mac",
+      "title": "jaywcjlove/awesome-mac:  这个仓库主要是收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。",
+      "score": "889"
+    },
+    {
+      "url": "https://github.com/Microsoft/api-guidelines",
+      "title": "Microsoft/api-guidelines: Microsoft REST API Guidelines",
+      "score": "851"
+    },
+    {
+      "url": "https://github.com/gatsbyjs/gatsby",
+      "title": "gatsbyjs/gatsby: Transform plain text into dynamic blogs and websites using React.js",
+      "score": "691"
+    },
+    {
+      "url": "https://github.com/GUI/lua-resty-auto-ssl",
+      "title": "GUI/lua-resty-auto-ssl: On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.",
+      "score": "455"
+    },
+    {
+      "url": "https://github.com/sjchoi86/dl_tutorials",
+      "title": "sjchoi86/dl_tutorials: Deep learning tutorials (2nd ed.)",
+      "score": "397"
+    },
+    {
+      "url": "https://github.com/sahat/hackathon-starter",
+      "title": "sahat/hackathon-starter: A boilerplate for Node.js web applications",
+      "score": "348"
+    },
+    {
+      "url": "https://github.com/FallibleInc/security-guide-for-developers",
+      "title": "FallibleInc/security-guide-for-developers: Security Guide for Developers",
+      "score": "319"
+    },
+    {
+      "url": "https://github.com/mchristopher/PokemonGo-DesktopMap",
+      "title": "mchristopher/PokemonGo-DesktopMap: Electron App around PokemonGo-Map",
+      "score": "282"
+    },
+    {
+      "url": "https://github.com/Mila432/Pokemon_Go_API",
+      "title": "Mila432/Pokemon_Go_API: Pokémon GO API in Python",
+      "score": "273"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/293899#reply134",
+      "title": "回帖发福利，知道创宇＆野狗 “摇滚&amp;黑客” 马条/苏阳 北京演唱会正式开唱",
+      "score": "134"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293838#reply116",
+      "title": "希望我用 1 年半写的这本书能够对您有用。",
+      "score": "116"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293842#reply78",
+      "title": " 给你们带来福利了，不看就后悔啦",
+      "score": "78"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293848#reply77",
+      "title": "这就很尴尬了，分享同事购买二手 iPhone 遭遇 6 改 6s 始末",
+      "score": "77"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293948#reply66",
+      "title": "公积金到底有没有用",
+      "score": "66"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293891#reply60",
+      "title": "只有我一个人觉得简书就是一个鸡汤网么？",
+      "score": "60"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293841#reply46",
+      "title": "每天上班跟上坟一样，怎么办",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293890#reply44",
+      "title": "分享 Java 开发的利器-Lombok",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293836#reply43",
+      "title": "在用 MayType 的别更新 Chrome 了！",
+      "score": "43"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293840#reply34",
+      "title": "bilibili 怎么就侵权了？",
+      "score": "34"
+    }
+  ]
+}

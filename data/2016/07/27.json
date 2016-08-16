@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12171547",
+      "title": "LastPass autofill exploit",
+      "score": "584"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12171276",
+      "title": "Xiaomi’s first laptop is a Macbook Air rival that’s as cheap as $540",
+      "score": "266"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12170183",
+      "title": "Solving the Dating Problem with the SENPAI Protocol [pdf]",
+      "score": "245"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12168894",
+      "title": "Verifying ARM processors against the official ARM specification",
+      "score": "204"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12171970",
+      "title": "Philae Lander: “It’s time for me to say goodbye”",
+      "score": "181"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12169908",
+      "title": "What makes music sound “good?”",
+      "score": "161"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12170006",
+      "title": "At World’s Largest Hedge Fund, Sex, Fear and Video Surveillance",
+      "score": "137"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12172372",
+      "title": "Salary transparency at Stack Overflow",
+      "score": "129"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12172379",
+      "title": "Ask HN: Anonymous person sent proof of SSH access to our production server",
+      "score": "125"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12166666",
+      "title": "How to escape lock-in with a multi-cloud stack",
+      "score": "118"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4upzif/web_design_in_4_minutes/",
+      "title": "Web Design in 4 minutes",
+      "score": "506"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4uph84/why_uber_engineering_switched_from_postgres_to/",
+      "title": "Why Uber Engineering Switched from Postgres to MySQL",
+      "score": "384"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ur3n9/a_github_user_just_forked_the_unrealengine_repo/",
+      "title": "A GitHub user just forked the UnrealEngine repo and gave write access + hundreds of notifications to all main repo subscribers (16k users)",
+      "score": "184"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4utw89/solving_the_dating_problem_with_the_senpai/",
+      "title": "Solving the Dating Problem with the SENPAI Protocol [PDF]",
+      "score": "233"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4upjl8/amd_open_sources_opencl_renderer/",
+      "title": "AMD open sources OpenCL renderer",
+      "score": "97"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4utawv/apache_spark_200_has_been_released/",
+      "title": "Apache Spark 2.0.0 has been released!",
+      "score": "84"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4usma0/automated_pokestop_detection_and_pokemon_go/",
+      "title": "Automated Pokestop detection and Pokemon Go farming using Matlab",
+      "score": "64"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4usi98/why_naming_remains_the_hardest_problem_in/",
+      "title": "Why naming remains the hardest problem in computer science",
+      "score": "63"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ur9u3/pixars_universal_scene_description_open_sourced/",
+      "title": "Pixar's Universal Scene Description Open Sourced",
+      "score": "52"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4up7dt/deepwarp_photorealistic_image_resynthesis_for/",
+      "title": "DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation",
+      "score": "27"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Let Me Remind You Fuckers Who I Am",
+      "score": "5890",
+      "url": "https://medium.com/p/let-me-remind-you-fuckers-who-i-am-e6e8b297fe47"
+    },
+    {
+      "title": "The Two Minutes It Takes To Read This Will Improve Your Writing Forever",
+      "score": "3391",
+      "url": "https://medium.com/p/the-two-minutes-it-takes-to-read-this-will-improve-your-writing-forever-82a7d01441d1"
+    },
+    {
+      "title": "How to Think About Your Career",
+      "score": "798",
+      "url": "https://medium.com/p/how-to-think-about-your-career-abf5300eba08"
+    },
+    {
+      "title": "History tells us what may happen next with Brexit & Trump",
+      "score": "7035",
+      "url": "https://medium.com/p/history-tells-us-what-will-happen-next-with-brexit-trump-a3fefd154714"
+    },
+    {
+      "title": "The rise and fall (OK — mostly fall) of Yahoo",
+      "score": "933",
+      "url": "https://medium.com/p/the-rise-and-fall-mostly-fall-of-yahoo-ddbceb44670c"
+    },
+    {
+      "title": "4 ways I’ve fucked up as a designer 😬",
+      "score": "1041",
+      "url": "https://medium.com/p/here-are-some-of-the-ways-ive-fucked-up-as-a-designer-d6b1d430a750"
+    },
+    {
+      "title": "This is fab. I also love how all the haters in the comments are dudes.",
+      "score": "722",
+      "url": "https://medium.com/p/let-me-remind-you-fuckers-who-i-am-e6e8b297fe47"
+    },
+    {
+      "title": "Let Me Remind You Fuckers Who I Am",
+      "score": "5890",
+      "url": "https://medium.com/p/let-me-remind-you-fuckers-who-i-am-e6e8b297fe47"
+    },
+    {
+      "title": "Meet the woman who wrote Michelle Obama’s DNC speech — Sarah Hurwitz",
+      "score": "609",
+      "url": "https://medium.com/p/meet-the-woman-who-wrote-michelle-obamas-dnc-speech-sarah-hurwitz-a1b871303885"
+    },
+    {
+      "title": "Overheard in a Locker Room",
+      "score": "232",
+      "url": "https://medium.com/p/overheard-in-a-locker-room-c5369433b467"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/panda-5-beta",
+      "title": "Panda 5 Beta: A smart news reader, powered by integrations.",
+      "score": "494"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/web-design-in-4-minutes",
+      "title": "Web Design in 4 Minutes: Interactive site to show you how to design web pages",
+      "score": "87"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/garyveebot",
+      "title": "GaryVeeBot: Gary Vaynerchuk&#x27;s bot! Learn, hunt, hustle, &amp; more!",
+      "score": "119"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/screenful-for-trello",
+      "title": "Screenful for Trello: Visual dashboards and automated reports that you can share",
+      "score": "92"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/georgette-packaging-2",
+      "title": "Georgette Packaging: Branded packaging accessible to anybody who needs it",
+      "score": "67"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/density-b529759c-acf3-46c0-9939-380d686af260",
+      "title": "Density: A modern infrastructure for anonymously counting people",
+      "score": "32"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/guacamole-ui-kit-by-avocode",
+      "title": "Guacamole UI kit by Avocode: Free Sketch, Photoshop &amp; Adobe Xd UI kit",
+      "score": "104"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/sentiments",
+      "title": "Sentiments: Build Tinder style feedback forms in 2 minutes",
+      "score": "87"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/cloudapp-4-0",
+      "title": "CloudApp 4.0: Lightning fast media sharing and screengrabs",
+      "score": "44"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/upthere-2",
+      "title": "Upthere: A smarter way to keep, find, and share all of your files",
+      "score": "48"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/krasimir/react-in-patterns",
+      "title": "krasimir/react-in-patterns:  List of design patterns/techniques used while developing with React",
+      "score": "1379"
+    },
+    {
+      "url": "https://github.com/hemanth/functional-programming-jargon",
+      "title": "hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!",
+      "score": "680"
+    },
+    {
+      "url": "https://github.com/FallibleInc/security-guide-for-developers",
+      "title": "FallibleInc/security-guide-for-developers: Security Guide for Developers",
+      "score": "643"
+    },
+    {
+      "url": "https://github.com/jgthms/web-design-in-4-minutes",
+      "title": "jgthms/web-design-in-4-minutes: Learn basics of web design in 4 minutes",
+      "score": "581"
+    },
+    {
+      "url": "https://github.com/facebook/Surround360",
+      "title": "facebook/Surround360: Surround360 is Facebook's open source hardware and software for capturing stereoscopic 3D 360 video for VR. The repo contains hardware designs, as well as software for camera control and rendering.",
+      "score": "495"
+    },
+    {
+      "url": "https://github.com/AHAAAAAAA/PokemonGo-Map",
+      "title": "AHAAAAAAA/PokemonGo-Map:  Live visualization of all the pokemon in your area... and more!",
+      "score": "383"
+    },
+    {
+      "url": "https://github.com/facebookincubator/create-react-app",
+      "title": "facebookincubator/create-react-app: Create React apps with no build configuration.",
+      "score": "460"
+    },
+    {
+      "url": "https://github.com/team-gryff/react-monocle",
+      "title": "team-gryff/react-monocle: A developer tool to visualize a React application's component hierarchy.",
+      "score": "452"
+    },
+    {
+      "url": "https://github.com/Droogans/unmaintainable-code",
+      "title": "Droogans/unmaintainable-code: An easier to share version of the infamous ",
+      "score": "330"
+    },
+    {
+      "url": "https://github.com/PokemonGoF/PokemonGo-Bot",
+      "title": "PokemonGoF/PokemonGo-Bot: The Pokemon Go Bot, baking with community.",
+      "score": "225"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/295255#reply136",
+      "title": "小米还真发笔记本了",
+      "score": "136"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295209#reply85",
+      "title": "你们有没有一段时间特别不想写代码？",
+      "score": "85"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295276#reply82",
+      "title": "小米出笔记本了~~",
+      "score": "82"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295171#reply71",
+      "title": "（联动一下隔壁迷茫的高三学生）给那些高中净忙着编程的学生一个建议",
+      "score": "71"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295167#reply61",
+      "title": "话说大家都用什么 git 的第三方工具来合并/对比代码？",
+      "score": "61"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295161#reply60",
+      "title": "关于离职",
+      "score": "60"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295197#reply46",
+      "title": "互联网公司用的服务器是 apache 还是 nginx?",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295252#reply46",
+      "title": "联通免费领取 300M 流量，下月起效",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295201#reply42",
+      "title": "[10-30K ]蛋壳公寓招聘 Python 各段位小伙伴",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295245#reply42",
+      "title": "两年前端的一些技术上的迷茫和困惑。",
+      "score": "42"
+    }
+  ]
+}

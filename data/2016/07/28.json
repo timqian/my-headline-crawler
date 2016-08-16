@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12171547",
+      "title": "LastPass autofill exploit",
+      "score": "961"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12174509",
+      "title": "ALS Ice Bucket Challenge Donations Lead to Significant Gene Discovery",
+      "score": "466"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12177079",
+      "title": "Security experts have cloned all seven TSA master keys",
+      "score": "364"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12177002",
+      "title": "The Rust Platform",
+      "score": "325"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12179339",
+      "title": "Scipy Lecture Notes – Learn numerics, science, and data with Python",
+      "score": "262"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12175861",
+      "title": "The Typography of ‘Stranger Things’",
+      "score": "176"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12178450",
+      "title": "The Public Shaming of England’s First Umbrella User",
+      "score": "175"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12180039",
+      "title": "Photographer Suing Getty Images for $1B",
+      "score": "168"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12177717",
+      "title": "The Dreaded Weekly Status Email",
+      "score": "166"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12178214",
+      "title": "Nasal Bacteria Pump Out a Potential New Antibiotic That Kills MRSA",
+      "score": "160"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4uywjs/the_rust_platform/",
+      "title": "The Rust Platform",
+      "score": "116"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4v07ra/osram_lightify_light_bulbs_stores_wifi_passwords/",
+      "title": "Osram Lightify light bulbs stores Wi-Fi passwords in plain text",
+      "score": "112"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4uvr0h/bringing_chakracore_to_linux_and_os_x/",
+      "title": "Bringing ChakraCore to Linux and OS X",
+      "score": "58"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4uvcf1/the_10_algorithms_machine_learning_engineers_need/",
+      "title": "The 10 Algorithms Machine Learning Engineers Need to Know",
+      "score": "38"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4uzsiq/show_reddit_motion_controlled_smartmirror/",
+      "title": "Show Reddit: motion controlled SmartMirror",
+      "score": "43"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ux9fh/a_compilation_of_great_net_core_libraries_tools/",
+      "title": "A Compilation of Great .NET Core Libraries, Tools, Frameworks and More!",
+      "score": "29"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4uzznd/kaitai_struct_declarative_binary_format_parser/",
+      "title": "Kaitai Struct - declarative binary format parser for C++, C#, Java, JS, Python, Ruby - an online JS-based compiler",
+      "score": "21"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4uzf5l/how_xterm_is_tested/",
+      "title": "How XTerm is Tested",
+      "score": "15"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4v0232/project_delays_why_good_software_estimates_are/",
+      "title": "Project delays: why good software estimates are impossible",
+      "score": "11"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ux4l1/launch_windows_programs_from_bash_on_windows_now/",
+      "title": "Launch Windows Programs from “Bash on Windows” – Now with some security",
+      "score": "6"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Why I’m voting for Trump and you should too",
+      "score": "1589",
+      "url": "https://medium.com/p/why-im-voting-for-trump-and-you-should-too-e74b23a97953"
+    },
+    {
+      "title": "The Two Minutes It Takes To Read This Will Improve Your Writing Forever",
+      "score": "4439",
+      "url": "https://medium.com/p/the-two-minutes-it-takes-to-read-this-will-improve-your-writing-forever-82a7d01441d1"
+    },
+    {
+      "title": "Let Me Remind You Fuckers Who I Am",
+      "score": "7363",
+      "url": "https://medium.com/p/let-me-remind-you-fuckers-who-i-am-e6e8b297fe47"
+    },
+    {
+      "title": "How to Think About Your Career",
+      "score": "1412",
+      "url": "https://medium.com/p/how-to-think-about-your-career-abf5300eba08"
+    },
+    {
+      "title": "moment().endOf(‘term’)",
+      "score": "483",
+      "url": "https://medium.com/p/moment-endof-term-522d8965689"
+    },
+    {
+      "title": "I’ve never had a goal",
+      "score": "414",
+      "url": "https://medium.com/p/ive-never-had-a-goal-c89219aedddf"
+    },
+    {
+      "title": "History tells us what may happen next with Brexit & Trump",
+      "score": "7479",
+      "url": "https://medium.com/p/history-tells-us-what-will-happen-next-with-brexit-trump-a3fefd154714"
+    },
+    {
+      "title": "The rise and fall (OK — mostly fall) of Yahoo",
+      "score": "1278",
+      "url": "https://medium.com/p/the-rise-and-fall-mostly-fall-of-yahoo-ddbceb44670c"
+    },
+    {
+      "title": "The Typography of ‘Stranger Things’",
+      "score": "228",
+      "url": "https://medium.com/p/the-typography-of-stranger-things-e35771f40d31"
+    },
+    {
+      "title": "Design Doesn’t Scale.",
+      "score": "283",
+      "url": "https://medium.com/p/design-doesnt-scale-4d81e12cbc3e"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/drift-2-0",
+      "title": "Drift 2.0: A scalable way to talk to your customers",
+      "score": "181"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/idea-buddy",
+      "title": "Idea Buddy: Give 1 idea, get 10 back.",
+      "score": "53"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/sony-glass-sound-speaker",
+      "title": "Sony Glass Sound Speaker: A sexy lantern speaker made of glass",
+      "score": "40"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/channels-for-ios",
+      "title": "Channels for iOS: Watch, pause, and rewind live TV",
+      "score": "85"
+    },
+    {
+      "url": "https://www.producthunt.com/books/the-ultimate-guide-to-google-sheets",
+      "title": "The Ultimate Guide to Google Sheets: Master Google Sheets and become a spreadsheet expert",
+      "score": "74"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/time-tracking-by-and-co",
+      "title": "Time Tracking by AND CO: Time tracking freelancers won&#x27;t hate",
+      "score": "52"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/poke-find",
+      "title": "Poke Find: Simple, beautiful live radar for Pokémon GO",
+      "score": "58"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/acebot-ai-2",
+      "title": "Acebot.ai: Track expenses, manage your tasks and create polls on Slack.",
+      "score": "52"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/react-jobs",
+      "title": "React Jobs: A job site to search for React job listings",
+      "score": "46"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/joinery-nyc",
+      "title": "Joinery.nyc: Connect with outgoing tenants instead of brokers.",
+      "score": "54"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/jgthms/web-design-in-4-minutes",
+      "title": "jgthms/web-design-in-4-minutes: Learn basics of web design in 4 minutes",
+      "score": "555"
+    },
+    {
+      "url": "https://github.com/krasimir/react-in-patterns",
+      "title": "krasimir/react-in-patterns:  List of design patterns/techniques used while developing with React",
+      "score": "550"
+    },
+    {
+      "url": "https://github.com/FallibleInc/security-guide-for-developers",
+      "title": "FallibleInc/security-guide-for-developers: Security Guide for Developers",
+      "score": "397"
+    },
+    {
+      "url": "https://github.com/AHAAAAAAA/PokemonGo-Map",
+      "title": "AHAAAAAAA/PokemonGo-Map:  Live visualization of all the pokemon in your area... and more!",
+      "score": "295"
+    },
+    {
+      "url": "https://github.com/NecronomiconCoding/NecroBot",
+      "title": "NecronomiconCoding/NecroBot: a Pokemon Go Bot based on Rocket API",
+      "score": "238"
+    },
+    {
+      "url": "https://github.com/facebookincubator/create-react-app",
+      "title": "facebookincubator/create-react-app: Create React apps with no build configuration.",
+      "score": "294"
+    },
+    {
+      "url": "https://github.com/hemanth/functional-programming-jargon",
+      "title": "hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!",
+      "score": "280"
+    },
+    {
+      "url": "https://github.com/alexandres/lexvec",
+      "title": "alexandres/lexvec: This is an implementation of the LexVec word embedding model (similar to word2vec and GloVe) that achieves state of the art results in multiple NLP tasks",
+      "score": "274"
+    },
+    {
+      "url": "https://github.com/facebook/Surround360",
+      "title": "facebook/Surround360: Surround360 is Facebook's open source hardware and software for capturing stereoscopic 3D 360 video for VR. The repo contains hardware designs, as well as software for camera control and rendering.",
+      "score": "231"
+    },
+    {
+      "url": "https://github.com/PokemonGoF/PokemonGo-Bot",
+      "title": "PokemonGoF/PokemonGo-Bot: The Pokemon Go Bot, baking with community.",
+      "score": "207"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/295433#reply388",
+      "title": "Snipaste - 开发了三年的截图工具，但不只是截图",
+      "score": "388"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295503#reply86",
+      "title": "第一个电脑",
+      "score": "86"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295417#reply71",
+      "title": "计算机专业大四要实习一年，可是我什么都没学，要死...",
+      "score": "71"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295408#reply70",
+      "title": "输入法联想……大家乐呵乐呵",
+      "score": "70"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295414#reply65",
+      "title": "刚刚无聊手贱敲了 gayhub.com。。。。。",
+      "score": "65"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295563#reply59",
+      "title": "同志们，现在国内哪里有性能相对比较好的免费的二级域名，主要用于挂载个人静态博客的？",
+      "score": "59"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295526#reply50",
+      "title": "win10 对 C 盘底做了什么！！！",
+      "score": "50"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295508#reply42",
+      "title": "应届生---北京 [求职 web 前端开发工程师]",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295486#reply41",
+      "title": "YoMail for Mac 上架 Mac App Store， 支持代码高亮 (程序员-friendly)",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/295515#reply39",
+      "title": "5000 左右妹子用的笔记本，有什么合适的吗？",
+      "score": "39"
+    }
+  ]
+}

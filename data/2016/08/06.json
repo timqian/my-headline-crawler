@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12231101",
+      "title": "Hello from Orkut",
+      "score": "611"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12233894",
+      "title": "Mozilla Awards $585k to Nine Open Source Projects",
+      "score": "406"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12233289",
+      "title": "Ask HN: How do you get notified about newest research papers in your field?",
+      "score": "356"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12234735",
+      "title": "The Linux kernel hidden inside Windows 10",
+      "score": "299"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12234937",
+      "title": "Minds Turned to Ash: Burnout is more than working too hard",
+      "score": "254"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12236887",
+      "title": "Airbnb Files to Raise $850M at $30B Valuation",
+      "score": "147"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12236394",
+      "title": "Carnegie Mellon’s Mayhem AI Wins DARPA’s Cyber Grand Challenge",
+      "score": "143"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12236915",
+      "title": "Car Thieves Arrested After Using Laptop and Malware to Steal More Than 30 Jeeps",
+      "score": "116"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12235625",
+      "title": "7-Elevens Are Becoming Lifelines for Japan's Elderly",
+      "score": "106"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12234922",
+      "title": "Notes on concurrency bugs",
+      "score": "73"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wfasw/ibms_watson_makes_a_correct_diagnosis_after/",
+      "title": "IBM's Watson makes a correct diagnosis after woman's condition stumps experts.",
+      "score": "1647"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wb7c2/lets_encrypt_root_certificate_trusted_by_mozilla/",
+      "title": "Let's Encrypt root certificate trusted by Mozilla",
+      "score": "480"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wc97x/silicon_valley_arrogance_i_can_tell_you_which/",
+      "title": "Silicon Valley arrogance: “I can tell you which startups will succeed, without even knowing what they do” - According to Marissa Mayer, long hours and weekend work (in person) will lead to success",
+      "score": "427"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wcnda/mozilla_awards_200000_to_the_pypy_projects/",
+      "title": "Mozilla Awards $200,000 to the PyPy projects",
+      "score": "217"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wcnji/the_developer_died_14_years_ago_heres_a_print_out/",
+      "title": "The developer died 14 years ago, here's a print out of his source code",
+      "score": "149"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wdmmy/a_x64_os_1_uefi/",
+      "title": "A x64 OS #1: UEFI",
+      "score": "35"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wb6ox/show_reddit_i_wrote_an_apl_tutorial/",
+      "title": "Show Reddit: I wrote an APL tutorial!",
+      "score": "37"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wd32v/return_true_to_win/",
+      "title": "Return true to win",
+      "score": "36"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wbm24/this_image_is_also_an_html_webpage/",
+      "title": "This Image is Also an HTML Webpage",
+      "score": "23"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wc8rv/fluid_simulation_with_webgl_demo/",
+      "title": "Fluid Simulation (with WebGL demo)",
+      "score": "17"
+    }
+  ],
+  "medium": [
+    {
+      "title": "How the Trump Presidential Campaign is Affecting Trump Businesses",
+      "score": "528",
+      "url": "https://medium.com/p/how-the-trump-presidential-campaign-is-affecting-trump-businesses-c343178e3c03"
+    },
+    {
+      "title": "Airbnb’s racism problem is much bigger than a few racist hosts.",
+      "score": "325",
+      "url": "https://medium.com/p/airbnbs-racism-problem-is-much-bigger-than-a-few-racist-hosts-a1dea9c77586"
+    },
+    {
+      "title": "I hack time.",
+      "score": "1383",
+      "url": "https://medium.com/p/i-hack-time-6d3a32193c9"
+    },
+    {
+      "title": "The Kevin Durant–Russell Westbrook War Is Upon Us",
+      "score": "329",
+      "url": "https://medium.com/p/kevin-durant-russell-westbrook-showdown-warriors-thunder-61d12a5e3033"
+    },
+    {
+      "title": "I Replaced The Word ‘Millennials’ With ‘43-Year-Old White Men’ And Now These Headlines Are *Italian…",
+      "score": "918",
+      "url": "https://medium.com/p/i-replaced-the-word-millennials-with-43-year-old-white-men-and-now-these-headlines-are-italian-597167feb574"
+    },
+    {
+      "title": "The Tragedy of Fritz Haber: The Monster Who Fed The World",
+      "score": "502",
+      "url": "https://medium.com/p/the-tragedy-of-fritz-haber-the-monster-who-fed-the-world-ec19a9834f74"
+    },
+    {
+      "title": "AI Revolution 101",
+      "score": "806",
+      "url": "https://medium.com/p/ai-revolution-101-8dce1d9cb62d"
+    },
+    {
+      "title": "Making a case for letter case",
+      "score": "1605",
+      "url": "https://medium.com/p/making-a-case-for-letter-case-19d09f653c98"
+    },
+    {
+      "title": "Dan Shaughnessy Roots for Himself",
+      "score": "34",
+      "url": "https://medium.com/p/dan-shaughnessy-boston-globe-larry-bird-aa9cabc1d374"
+    },
+    {
+      "title": "I Peeked Into My Node_Modules Directory And You Won’t Believe What Happened Next",
+      "score": "324",
+      "url": "https://medium.com/p/i-peeked-into-my-node-modules-directory-and-you-wont-believe-what-happened-next-b89f63d21558"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/pricing-pages",
+      "title": "Pricing Pages: Curated directory of the best pricing pages",
+      "score": "126"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/ux-power-tools",
+      "title": "UX Power Tools: The Infinite UI Kit: Sketch components, styles &amp; symbols.",
+      "score": "126"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/startup-value",
+      "title": "Startup Value: Value your startup like a VC in 3 minutes",
+      "score": "103"
+    },
+    {
+      "url": "https://www.producthunt.com/books/tesla-inventor-of-the-electric-age",
+      "title": "Tesla: Inventor of the Electric Age: Inventor and &quot;celebrity scientist&quot; that gave us electricity",
+      "score": "44"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/napkin-4",
+      "title": "Napkin: Voice controlled recipe app that makes cooking super easy",
+      "score": "58"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/turi",
+      "title": "Turi: Machine learning platform for developers and data scientists",
+      "score": "38"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/emoji-lookup-for-launchbar",
+      "title": "Emoji Lookup for Launchbar: Launchbar action to fnd the perfect emoji by name or keyword",
+      "score": "49"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/nosy",
+      "title": "Nosy: Crowdsourced Tinder advice",
+      "score": "47"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/storm-it-for-ios",
+      "title": "Storm it! for iOS: Publish tweetstorms on the go",
+      "score": "37"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/trump-generator",
+      "title": "Trump Generator: Have Donald Trump insult your friends",
+      "score": "42"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/facebookresearch/fastText",
+      "title": "facebookresearch/fastText: Library for fast text representation and classification.",
+      "score": "379"
+    },
+    {
+      "url": "https://github.com/thewhitetulip/web-dev-golang-anti-textbook",
+      "title": "thewhitetulip/web-dev-golang-anti-textbook: Learn how to write webapps in Go.",
+      "score": "364"
+    },
+    {
+      "url": "https://github.com/jumpsuit/jumpsuit",
+      "title": "jumpsuit/jumpsuit: Jump in. Zip up. Build great apps.",
+      "score": "267"
+    },
+    {
+      "url": "https://github.com/sachinchoolur/lightgallery.js",
+      "title": "sachinchoolur/lightgallery.js: Full featured JavaScript gallery. No dependencies.",
+      "score": "253"
+    },
+    {
+      "url": "https://github.com/pkmngodev/Unknown6",
+      "title": "pkmngodev/Unknown6: Repo dedicated to figuring out Unknown6 - for educational purposes only",
+      "score": "210"
+    },
+    {
+      "url": "https://github.com/attic-labs/noms",
+      "title": "attic-labs/noms: The versioned, forkable, syncable database",
+      "score": "223"
+    },
+    {
+      "url": "https://github.com/fanrunqi/MaterialLogin",
+      "title": "fanrunqi/MaterialLogin: Amazing Material Login effect",
+      "score": "188"
+    },
+    {
+      "url": "https://github.com/steos/reactcards",
+      "title": "steos/reactcards: devcards for react",
+      "score": "149"
+    },
+    {
+      "url": "https://github.com/MagicStack/asyncpg",
+      "title": "MagicStack/asyncpg: A fast PostgreSQL Database Client Library for Python/asyncio",
+      "score": "143"
+    },
+    {
+      "url": "https://github.com/sourcegraph/checkup",
+      "title": "sourcegraph/checkup: Distributed, lock-free, self-hosted health checks and status pages",
+      "score": "129"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/297531#reply81",
+      "title": "艺术二维码 QArt Codes",
+      "score": "81"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297569#reply48",
+      "title": "侄子要去上大学了,送个什么游戏本比较好呢?",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297589#reply40",
+      "title": "大禹，共工，夏朝，神话传说正在逐步被证实？",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297525#reply34",
+      "title": "又是一个 V2EX 的客户端，这次是 golang 写的",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297583#reply34",
+      "title": "这张图说明了中国大陆的电影市场还有救吗？？？",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297550#reply32",
+      "title": "mba 经常电我……怎么破",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297538#reply30",
+      "title": "求助 V 友，人在国外，如何补办联通手机卡？",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297586#reply29",
+      "title": "下个月会出新款 RMBP 么？",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297580#reply26",
+      "title": "关于 HTTP/2 的有个疑问，顺便国内那些厂的 CDN 支持 h2？",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/297530#reply24",
+      "title": "今天发现我的微博被自动关注了 @微博运动",
+      "score": "24"
+    }
+  ]
+}

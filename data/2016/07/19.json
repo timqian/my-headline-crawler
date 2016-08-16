@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12115128",
+      "title": "Serverless Architectures",
+      "score": "429"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12117540",
+      "title": "The History of the URL: Path, Fragment, Query, and Auth",
+      "score": "308"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12119050",
+      "title": "The Surprising Ease of Plain Text Accounting",
+      "score": "266"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12114716",
+      "title": "D4 – Declarative Data-Driven Documents",
+      "score": "251"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12120752",
+      "title": "John Carmack on Inlined Code (2014)",
+      "score": "242"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12120201",
+      "title": "ARM founder says Softbank deal is 'sad day' for UK tech",
+      "score": "228"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12118554",
+      "title": "Ask HN: Considerations when asked to write a book?",
+      "score": "221"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12118532",
+      "title": "Memory management in C programs (2014)",
+      "score": "192"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12119080",
+      "title": "Tabs slower than spaces in Firefox",
+      "score": "159"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12120167",
+      "title": "Caddy 0.9 Released with All New Core",
+      "score": "133"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4thqsl/030000000000000004com/",
+      "title": "0.30000000000000004.com",
+      "score": "934"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tfm5q/web_programming_is_getting_unnecessarily/",
+      "title": "Web programming is getting unnecessarily complicated",
+      "score": "286"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4th6sm/a_post_mortem_on_thenthanmistakenoted_my_reddit/",
+      "title": "A post mortem on ThenThanMistakeNoted - My Reddit bot that attempted to correct users on their then/than usage.",
+      "score": "52"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4th4i4/python_for_net_rises_from_the_dead/",
+      "title": "Python for .Net rises from the dead",
+      "score": "52"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tfy2b/slashdot_interview_with_larry_wall_answering/",
+      "title": "Slashdot Interview With Larry Wall (Answering user-submitted questions on Perl 6, Python and many other topics)",
+      "score": "48"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tk8t6/apathy_of_the_commons_a_reward_system_based_on/",
+      "title": "Apathy of the Commons: &quot;A reward system based on ego satisfaction and reputation optimizes for interesting, novel work. . . . No one wants to dig through dozens of Java files for a years-old parsing bug.&quot;",
+      "score": "50"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tkaua/ending_the_tabs_vs_spaces_war_for_good/",
+      "title": "Ending the tabs vs. spaces war for good.",
+      "score": "41"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4th1j2/guy_steelefortress_features_and_lessons_learned/",
+      "title": "Guy Steele--Fortress Features and Lessons Learned | JuliaCon 2016 (video)",
+      "score": "16"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4tj6ul/bored_with_original_alertconfirmprompt_try_this/",
+      "title": "Bored with original alert/confirm/prompt? Try this alternative I wrote.",
+      "score": "20"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ti5b4/the_history_of_the_url_path_fragment_query_and/",
+      "title": "The History of the URL: Path, Fragment, Query, and Auth",
+      "score": "16"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Analyzing Kim’s Masterpiece: The Kanye and Taylor Call",
+      "score": "258",
+      "url": "https://medium.com/p/kanye-west-taylor-swift-kim-kardashian-snapchat-e4c3339d9d73"
+    },
+    {
+      "title": "“Airbnb’s Sheryl Sandberg” is the Valley’s Quiet Superpower",
+      "score": "1585",
+      "url": "https://medium.com/p/airbnbs-sheryl-sandberg-is-the-valley-s-quiet-superpower-ed02fc5fc4ea"
+    },
+    {
+      "title": "Location-based Pokémon — An “Insider’s” View",
+      "score": "246",
+      "url": "https://medium.com/p/location-based-pokémon-an-insiders-view-d64385e80a6d"
+    },
+    {
+      "title": "The Block That Saved Cleveland",
+      "score": "180",
+      "url": "https://medium.com/p/the-block-that-saved-cleveland-94fdbc67a255"
+    },
+    {
+      "title": "Moving On",
+      "score": "474",
+      "url": "https://medium.com/p/moving-on-c78c37079aa6"
+    },
+    {
+      "title": "If It Doesn’t Suck, It’s Not Worth Doing",
+      "score": "1685",
+      "url": "https://medium.com/p/if-it-doesnt-suck-it-s-not-worth-doing-1efdc6eb695c"
+    },
+    {
+      "title": "This Is How You Train Your Brain To Get What You Really Want",
+      "score": "329",
+      "url": "https://medium.com/p/this-is-how-you-train-your-brain-to-get-what-you-really-want-45e1942dcde7"
+    },
+    {
+      "title": "Peek Inside a Facebook Design Critique",
+      "score": "194",
+      "url": "https://medium.com/p/peek-inside-a-facebook-design-critique-c4833efda26e"
+    },
+    {
+      "title": "Did Kim Kardashian Illegally Tape Taylor Swift?",
+      "score": "40",
+      "url": "https://medium.com/p/did-kim-kardashian-illegally-tape-taylor-swift-3829a0f4f273"
+    },
+    {
+      "title": "How Not To Mourn A Deadly Terrorist Attack On Social Media",
+      "score": "907",
+      "url": "https://medium.com/p/how-not-to-mourn-a-deadly-terrorist-attack-on-social-media-a056e3050947"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/simpla",
+      "title": "Simpla: Dynamic content, without the CMS",
+      "score": "272"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/quuu-promote-2",
+      "title": "Quuu Promote: Promote your content to influencers",
+      "score": "199"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/sage-product",
+      "title": "Sage Product: Beautiful visualization of nutritional facts 🍟🍉🌮",
+      "score": "193"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/truebill-for-mobile",
+      "title": "Truebill for Mobile: The easiest way to find, track and manage paid subscriptions",
+      "score": "118"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/civic",
+      "title": "Civic: $1 Million free identity theft insurance, for life",
+      "score": "59"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/my-slack-emoji",
+      "title": "My Slack Emoji: Everybody deserves their own Slack logo Emoji",
+      "score": "122"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/zoho-writer-4-0",
+      "title": "Zoho Writer 4.0: Word processing re-imagined",
+      "score": "98"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/lawnmower-2",
+      "title": "Lawnmower : Bitcoin &amp; Blockchain investing, news &amp; market data",
+      "score": "91"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/mern-2-0",
+      "title": "MERN 2.0: Easily build production-ready universal apps",
+      "score": "55"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/quarterly-tax-calculator-bot",
+      "title": "Quarterly Tax Calculator Bot: Quarterly tax calculation for freelancers",
+      "score": "57"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/AHAAAAAAA/PokemonGo-Map",
+      "title": "AHAAAAAAA/PokemonGo-Map: Live visualization of all the pokemon in your area... and more!",
+      "score": "1244"
+    },
+    {
+      "url": "https://github.com/zeit/hyperterm",
+      "title": "zeit/hyperterm: o",
+      "score": "830"
+    },
+    {
+      "url": "https://github.com/nosir/cleave.js",
+      "title": "nosir/cleave.js: Format input text content when you are typing",
+      "score": "480"
+    },
+    {
+      "url": "https://github.com/rgcr/m-cli",
+      "title": "rgcr/m-cli:  Swiss Army Knife for Mac OS X",
+      "score": "390"
+    },
+    {
+      "url": "https://github.com/joelburget/d4",
+      "title": "joelburget/d4: Data-Driven Declarative Documents",
+      "score": "382"
+    },
+    {
+      "url": "https://github.com/egoist/hack",
+      "title": "egoist/hack: Dead simple CSS framework.",
+      "score": "355"
+    },
+    {
+      "url": "https://github.com/Mila432/Pokemon_Go_API",
+      "title": "Mila432/Pokemon_Go_API: Pokémon GO API in Python",
+      "score": "309"
+    },
+    {
+      "url": "https://github.com/rauchg/wifi-password",
+      "title": "rauchg/wifi-password: Get the password of the wifi you're on (bash)",
+      "score": "271"
+    },
+    {
+      "url": "https://github.com/transloadit/uppy",
+      "title": "transloadit/uppy:  The next open source file uploader for web browsers — a work in progress",
+      "score": "267"
+    },
+    {
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "title": "chrislgarry/Apollo-11: Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "score": "237"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/293434#reply170",
+      "title": "创新产品，小咖杯，上众筹网了，来猜猜几天能达到目标，猜对免费送",
+      "score": "170"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293426#reply97",
+      "title": "纯吐槽，我这坎坷的考驾照之路",
+      "score": "97"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293389#reply90",
+      "title": "怎样看待素食主义和动物权益保护？",
+      "score": "90"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293359#reply78",
+      "title": "不出意外， iphone7 真的就是这样",
+      "score": "78"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293441#reply75",
+      "title": "关于评价他人时的不成熟小建议",
+      "score": "75"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293432#reply67",
+      "title": "刚看见一则新闻刷新了对智商底线的认知",
+      "score": "67"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293388#reply59",
+      "title": "接到管局通知...",
+      "score": "59"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293373#reply52",
+      "title": "c++17 发布了，大家怎么看！",
+      "score": "52"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293357#reply48",
+      "title": "[深圳] 恋爱七周年，求推荐餐馆？",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/293354#reply44",
+      "title": "开发的微信公众号活动...不到一天就被举报了....",
+      "score": "44"
+    }
+  ]
+}
