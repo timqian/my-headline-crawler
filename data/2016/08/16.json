@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12291085",
+      "title": "Introducing Webpack Dashboard",
+      "score": "382"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12294350",
+      "title": "Go 1.7 is released",
+      "score": "378"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12289975",
+      "title": "NoSQL Databases: A Survey and Decision Guidance",
+      "score": "231"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12294155",
+      "title": "YC Tech Stacks",
+      "score": "229"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12291707",
+      "title": "Technical debt as an opportunity to accumulate technical wealth",
+      "score": "220"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12293308",
+      "title": "Why didn't Larrabee fail?",
+      "score": "201"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12292285",
+      "title": "LogicJS adds logic programming to JavaScript",
+      "score": "180"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12292843",
+      "title": "Stories and Tips: Interviews with Facebook, Twitter, Amazon and Others",
+      "score": "167"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12292723",
+      "title": "Extracting data from Wikipedia using curl, grep, cut and other bash commands",
+      "score": "159"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12294976",
+      "title": "This Is Your Life in Silicon Valley",
+      "score": "150"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xtvxl/infinity_unfinished_2000era_game_boy_color_game/",
+      "title": "Infinity - unfinished 2000-era Game Boy Color game made available, with source",
+      "score": "738"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xujph/my_text_in_your_handwriting_an_ai_capable_of/",
+      "title": "My Text in Your Handwriting: An AI capable of creating handwriting",
+      "score": "209"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xvnk3/theres_a_200k_reward_for_anyone_who_proves/",
+      "title": "There's a $200k reward for anyone who proves Microsoft ripped off MS-DOS source code",
+      "score": "190"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xwhks/go_17_is_released/",
+      "title": "Go 1.7 is released",
+      "score": "177"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xv6f1/jetbrains_ide_remote_code_execution_and_local/",
+      "title": "JetBrains IDE Remote Code Execution and Local File Disclosure",
+      "score": "149"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xsjgj/the_four_flaws_of_haskell/",
+      "title": "The Four Flaws of Haskell",
+      "score": "105"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xtylf/svg_2_new_features/",
+      "title": "SVG 2 new features",
+      "score": "97"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xtjbu/adventures_in_f_performance/",
+      "title": "Adventures in F# Performance",
+      "score": "90"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xtxt7/c_static_analysis_with_clang_and_cppcheck/",
+      "title": "C++ static analysis with clang and cppcheck",
+      "score": "32"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xv74y/gradle_30_released/",
+      "title": "Gradle 3.0 Released",
+      "score": "27"
+    }
+  ],
+  "medium": [
+    {
+      "title": "The Most Intolerant Wins: The Dictatorship of the Small Minority",
+      "score": "861",
+      "url": "https://medium.com/p/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15"
+    },
+    {
+      "title": "Design and the Self",
+      "score": "1086",
+      "url": "https://medium.com/p/design-and-the-self-a5670a000fee"
+    },
+    {
+      "title": "If You’re Too Busy For These 5 Things: Your Life Is More Off-Course Than You Think",
+      "score": "1585",
+      "url": "https://medium.com/p/if-youre-too-busy-for-these-5-things-your-life-is-more-off-course-than-you-think-2a180a509ff6"
+    },
+    {
+      "title": "What is an API? In English, please.",
+      "score": "930",
+      "url": "https://medium.com/p/what-is-an-api-in-english-please-b880a3214a82"
+    },
+    {
+      "title": "How to Become the Best in the World at What You Do",
+      "score": "1612",
+      "url": "https://medium.com/p/how-to-become-the-best-in-the-world-at-what-you-do-328f7b358bdf"
+    },
+    {
+      "title": "We’re Still Waiting on Jadeveon Clowney",
+      "score": "56",
+      "url": "https://medium.com/p/jadeveon-clowney-houston-texans-linebacker-8775dd82473d"
+    },
+    {
+      "title": "The Art of Departure",
+      "score": "299",
+      "url": "https://medium.com/p/the-art-of-departure-1afa120636c5"
+    },
+    {
+      "title": "On ‘Going Away’",
+      "score": "321",
+      "url": "https://medium.com/p/on-going-away-50e083d4a2cc"
+    },
+    {
+      "title": "It Is Impossible to Properly Rate Kyrie Irving",
+      "score": "61",
+      "url": "https://medium.com/p/cleveland-cavaliers-kyrie-irving-olympics-how-to-rate-7f3849043347"
+    },
+    {
+      "title": "Inside Australia’s prison colony, where even children view death as their only hope",
+      "score": "228",
+      "url": "https://medium.com/p/inside-australias-prison-colony-where-even-children-view-death-as-their-only-hope-2997aea79518"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/google-duo",
+      "title": "Google Duo: One-to-one video calling. Google&#x27;s FaceTime competitor.",
+      "score": "155"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/hello-color",
+      "title": "Hello Color: Color contrast generator",
+      "score": "26"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/zeus-living",
+      "title": "Zeus Living: Easiest way to rent a furnished apartment (Currently SF) 🏡",
+      "score": "13"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/wordhop-io",
+      "title": "Wordhop.io: An AI-powered analyst for chatbot developers",
+      "score": "16"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/icon8-for-messenger",
+      "title": "Icon8 for Messenger: AI bot that turns your selfies into pieces of art",
+      "score": "15"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/building-nexcast-intermission-how-to-spin-a-story",
+      "title": "Building Nexcast Intermission: How to Spin a Story: We flip the script and show how much framing matters",
+      "score": "6"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/castro-2",
+      "title": "Castro 2: The ideal app for today&#x27;s broad-minded podcast enthusiast",
+      "score": "15"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/verses",
+      "title": "Verses: A place to write and share poems",
+      "score": "10"
+    },
+    {
+      "url": "https://www.producthunt.com/games/soccer-ball-juggling-free",
+      "title": "Soccer Ball Juggling Free: Tap the ball and don&#x27;t let it fall",
+      "score": "3"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/clocktweets",
+      "title": "ClockTweets: Schedule, analyze, and stalk challengers on Twitter",
+      "score": "10"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/FormidableLabs/webpack-dashboard",
+      "title": "FormidableLabs/webpack-dashboard: A CLI dashboard for webpack dev server",
+      "score": "2127"
+    },
+    {
+      "url": "https://github.com/pstadler/keybase-gpg-github",
+      "title": "pstadler/keybase-gpg-github: Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and use it with Git and GitHub.",
+      "score": "534"
+    },
+    {
+      "url": "https://github.com/hedengcheng/tech",
+      "title": "hedengcheng/tech: programming, database, distributed system",
+      "score": "481"
+    },
+    {
+      "url": "https://github.com/arielf/weight-loss",
+      "title": "arielf/weight-loss: Machine Learning meets ketosis: how to effectively lose weight",
+      "score": "384"
+    },
+    {
+      "url": "https://github.com/recharts/recharts",
+      "title": "recharts/recharts: Redefined chart library built with React and D3",
+      "score": "339"
+    },
+    {
+      "url": "https://github.com/fuchsia-mirror/magenta",
+      "title": "fuchsia-mirror/magenta: Magenta Kernel, Core Drivers, and Services",
+      "score": "320"
+    },
+    {
+      "url": "https://github.com/mcsoto/LogicJS",
+      "title": "mcsoto/LogicJS: Logic programming for JavaScript.",
+      "score": "303"
+    },
+    {
+      "url": "https://github.com/mychoices/Jgraph",
+      "title": "mychoices/Jgraph: 图表控件",
+      "score": "273"
+    },
+    {
+      "url": "https://github.com/gmetais/sw-delta",
+      "title": "gmetais/sw-delta: An incremental cache for the web",
+      "score": "262"
+    },
+    {
+      "url": "https://github.com/sgayou/kindle-5.6.5-jailbreak",
+      "title": "sgayou/kindle-5.6.5-jailbreak: Kindle 5.6.5 exploitation tools.",
+      "score": "227"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/299594#reply67",
+      "title": "Mac 版微信已更新",
+      "score": "67"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299535#reply50",
+      "title": "貌似下个月开始白条要彻底断了信用卡还款的路",
+      "score": "50"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299571#reply28",
+      "title": "求各路大神推荐 ERP 靠谱的 ERP 开发公司",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299600#reply28",
+      "title": "微信 2.0 在最新的 macOS PB 版中登录就崩溃",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299552#reply23",
+      "title": "关于 Windows 10 睡眠之后醒来无限登录的亲，你们有装 mactype 吗？",
+      "score": "23"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299575#reply19",
+      "title": "JS 怎么把函数的参数(未知个数)传递给另一个函数?",
+      "score": "19"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299543#reply18",
+      "title": "存在七牛上的 apk, 如何防 url 劫持， 运营商劫持",
+      "score": "18"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299556#reply18",
+      "title": "关于工作到底该不该换，求靠谱建议，跪谢！",
+      "score": "18"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299610#reply18",
+      "title": "应该有很多朋友都用过正版商业软件吧？回顾一下自己都买过什么正版软件吧~单位的就不算了吧。",
+      "score": "18"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299615#reply18",
+      "title": "打算离开深圳去杭州发展了（定居）",
+      "score": "18"
+    }
+  ]
+}
