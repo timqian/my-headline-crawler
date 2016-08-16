@@ -1,279 +1,279 @@
 {
   "HN": [
     {
-      "url": "https://news.ycombinator.com/item?id=12294976",
-      "title": "This Is Your Life in Silicon Valley",
-      "score": "367"
+      "url": "https://news.ycombinator.com/item?id=12296974",
+      "title": "Fake Linus Torvalds' Key Found in the Wild, No More Short-IDs",
+      "score": "308"
     },
     {
       "url": "https://news.ycombinator.com/item?id=12294155",
       "title": "YC Tech Stacks",
-      "score": "299"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12296974",
-      "title": "Fake Linus Torvalds' Key Found in the Wild, No More Short-IDs",
-      "score": "252"
+      "score": "308"
     },
     {
       "url": "https://news.ycombinator.com/item?id=12295608",
       "title": "Google Duo, a simple 1-to-1 video calling app",
-      "score": "250"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12293308",
-      "title": "Why didn't Larrabee fail?",
-      "score": "249"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12296000",
-      "title": "Colorized man pages",
-      "score": "209"
+      "score": "266"
     },
     {
       "url": "https://news.ycombinator.com/item?id=12296798",
       "title": "Snowden: Hack of an NSA server is not unprecedented, publication of the take is",
-      "score": "204"
+      "score": "236"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12296000",
+      "title": "Colorized man pages",
+      "score": "233"
     },
     {
       "url": "https://news.ycombinator.com/item?id=12295458",
       "title": "Looking at your program’s structure in Go 1.7",
-      "score": "193"
+      "score": "200"
     },
     {
       "url": "https://news.ycombinator.com/item?id=12295500",
       "title": "Ideas for getting started in the Linux kernel",
-      "score": "179"
+      "score": "182"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12297113",
+      "title": "Debian turns 23",
+      "score": "141"
     },
     {
       "url": "https://news.ycombinator.com/item?id=12296391",
       "title": "Age differences in learning from an insufficient representation of uncertainty",
-      "score": "128"
+      "score": "139"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12296111",
+      "title": "Nvidia stuffs desktop GTX 1080, 1070, 1060 into laptops, drops the “M”",
+      "score": "109"
     }
   ],
   "reddit": [
     {
       "url": "https://www.reddit.com/r/programming/comments/4xwhks/go_17_is_released/",
       "title": "Go 1.7 is released",
-      "score": "383"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4xvnk3/theres_a_200k_reward_for_anyone_who_proves/",
-      "title": "There's a $200k reward for anyone who proves Microsoft ripped off MS-DOS source code",
-      "score": "335"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4xujph/my_text_in_your_handwriting_an_ai_capable_of/",
-      "title": "My Text in Your Handwriting: An AI capable of creating handwriting",
-      "score": "254"
+      "score": "393"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4xyvoe/colorized_man_pages/",
       "title": "Colorized man pages",
-      "score": "292"
+      "score": "370"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xvnk3/theres_a_200k_reward_for_anyone_who_proves/",
+      "title": "There's a $200k reward for anyone who proves Microsoft ripped off MS-DOS source code",
+      "score": "339"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xujph/my_text_in_your_handwriting_an_ai_capable_of/",
+      "title": "My Text in Your Handwriting: An AI capable of creating handwriting",
+      "score": "256"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4xv6f1/jetbrains_ide_remote_code_execution_and_local/",
       "title": "JetBrains IDE Remote Code Execution and Local File Disclosure",
-      "score": "220"
+      "score": "223"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4xy3fh/demystifying_git_internals/",
       "title": "Demystifying Git internals",
-      "score": "43"
+      "score": "42"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4xv74y/gradle_30_released/",
       "title": "Gradle 3.0 Released",
-      "score": "36"
+      "score": "42"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xyu2w/collection_of_useful_datasets_for_machine_learning/",
+      "title": "Collection of useful Datasets for Machine Learning",
+      "score": "35"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4xuo1r/the_awesome_errors_of_perl_6/",
       "title": "The Awesome Errors of Perl 6",
-      "score": "31"
+      "score": "32"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4xuoof/the_foundation_of_technical_leadership/",
       "title": "The Foundation of Technical Leadership",
-      "score": "29"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/4xudy3/the_qt_quick_graphics_stack_in_qt_58_qt_blog/",
-      "title": "The Qt Quick Graphics Stack in Qt 5.8 - Qt Blog",
-      "score": "30"
+      "score": "26"
     }
   ],
   "medium": [
     {
       "title": "The Most Intolerant Wins: The Dictatorship of the Small Minority",
-      "score": "934",
+      "score": "947",
       "url": "https://medium.com/p/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15"
     },
     {
       "title": "This is Your Life in Silicon Valley",
-      "score": "650",
+      "score": "780",
       "url": "https://medium.com/p/this-is-your-life-in-silicon-valley-933091235095"
     },
     {
-      "title": "Design and the Self",
-      "score": "1169",
-      "url": "https://medium.com/p/design-and-the-self-a5670a000fee"
-    },
-    {
       "title": "If You’re Too Busy For These 5 Things: Your Life Is More Off-Course Than You Think",
-      "score": "1701",
+      "score": "1715",
       "url": "https://medium.com/p/if-youre-too-busy-for-these-5-things-your-life-is-more-off-course-than-you-think-2a180a509ff6"
     },
     {
-      "title": "We’re Still Waiting on Jadeveon Clowney",
-      "score": "61",
-      "url": "https://medium.com/p/jadeveon-clowney-houston-texans-linebacker-8775dd82473d"
+      "title": "Design and the Self",
+      "score": "1183",
+      "url": "https://medium.com/p/design-and-the-self-a5670a000fee"
     },
     {
       "title": "I am what’s wrong with America*",
-      "score": "383",
+      "score": "418",
       "url": "https://medium.com/p/i-am-whats-wrong-with-america-c30f990de164"
     },
     {
+      "title": "We’re Still Waiting on Jadeveon Clowney",
+      "score": "62",
+      "url": "https://medium.com/p/jadeveon-clowney-houston-texans-linebacker-8775dd82473d"
+    },
+    {
       "title": "How to Become the Best in the World at What You Do",
-      "score": "1686",
+      "score": "1691",
       "url": "https://medium.com/p/how-to-become-the-best-in-the-world-at-what-you-do-328f7b358bdf"
     },
     {
       "title": "The Art of Departure",
-      "score": "321",
+      "score": "325",
       "url": "https://medium.com/p/the-art-of-departure-1afa120636c5"
     },
     {
-      "title": "What is an API? In English, please.",
-      "score": "992",
-      "url": "https://medium.com/p/what-is-an-api-in-english-please-b880a3214a82"
+      "title": "Olympic Gold Guilt",
+      "score": "532",
+      "url": "https://medium.com/p/olympic-gold-guilt-5551fa188d04"
     },
     {
-      "title": "On ‘Going Away’",
-      "score": "340",
-      "url": "https://medium.com/p/on-going-away-50e083d4a2cc"
+      "title": "What is an API? In English, please.",
+      "score": "1002",
+      "url": "https://medium.com/p/what-is-an-api-in-english-please-b880a3214a82"
     }
   ],
   "productHunt": [
     {
       "url": "https://www.producthunt.com/tech/google-duo",
       "title": "Google Duo: One-to-one video calling. Google&#x27;s FaceTime competitor.",
-      "score": "541"
+      "score": "616"
     },
     {
       "url": "https://www.producthunt.com/tech/mimo",
       "title": "Mimo: Learn how to code on your iPhone📱",
-      "score": "329"
-    },
-    {
-      "url": "https://www.producthunt.com/tech/hello-color",
-      "title": "Hello Color: Color contrast generator",
-      "score": "226"
+      "score": "363"
     },
     {
       "url": "https://www.producthunt.com/tech/soma-glass-water-bottle",
       "title": "Soma Glass Water Bottle: A high quality glass bottle w/ a grippable protective sleeve",
-      "score": "55"
+      "score": "99"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/hello-color",
+      "title": "Hello Color: Color contrast generator",
+      "score": "248"
     },
     {
       "url": "https://www.producthunt.com/tech/castro-2",
       "title": "Castro 2: The ideal app for today&#x27;s broad-minded podcast enthusiast",
-      "score": "120"
+      "score": "136"
     },
     {
       "url": "https://www.producthunt.com/tech/clocktweets",
       "title": "ClockTweets: Schedule, analyze, and stalk challengers on Twitter",
-      "score": "160"
+      "score": "171"
     },
     {
       "url": "https://www.producthunt.com/tech/aetros",
       "title": "AETROS: Create, train and monitor deep neural networks",
-      "score": "65"
-    },
-    {
-      "url": "https://www.producthunt.com/tech/wordhop-io",
-      "title": "Wordhop.io: An AI-powered analyst for chatbot developers",
-      "score": "63"
+      "score": "75"
     },
     {
       "url": "https://www.producthunt.com/tech/zeus-living",
       "title": "Zeus Living: Easiest way to rent a furnished apartment (Currently SF) 🏡",
-      "score": "58"
+      "score": "69"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/wordhop-io",
+      "title": "Wordhop.io: An AI-powered analyst for chatbot developers",
+      "score": "67"
     },
     {
       "url": "https://www.producthunt.com/tech/embark-4",
       "title": "Embark: A public transport app that works everywhere",
-      "score": "67"
+      "score": "74"
     }
   ],
   "github": [
     {
       "url": "https://github.com/FormidableLabs/webpack-dashboard",
       "title": "FormidableLabs/webpack-dashboard: A CLI dashboard for webpack dev server",
-      "score": "2518"
-    },
-    {
-      "url": "https://github.com/pstadler/keybase-gpg-github",
-      "title": "pstadler/keybase-gpg-github: Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and use it with Git and GitHub.",
-      "score": "540"
-    },
-    {
-      "url": "https://github.com/arielf/weight-loss",
-      "title": "arielf/weight-loss: Machine Learning meets ketosis: how to effectively lose weight",
-      "score": "394"
+      "score": "2664"
     },
     {
       "url": "https://github.com/mcsoto/LogicJS",
       "title": "mcsoto/LogicJS: Logic programming for JavaScript.",
+      "score": "452"
+    },
+    {
+      "url": "https://github.com/arielf/weight-loss",
+      "title": "arielf/weight-loss: Machine Learning meets ketosis: how to effectively lose weight",
       "score": "390"
     },
     {
       "url": "https://github.com/recharts/recharts",
       "title": "recharts/recharts: Redefined chart library built with React and D3",
-      "score": "378"
+      "score": "380"
+    },
+    {
+      "url": "https://github.com/pstadler/keybase-gpg-github",
+      "title": "pstadler/keybase-gpg-github: Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and use it with Git and GitHub.",
+      "score": "373"
     },
     {
       "url": "https://github.com/fuchsia-mirror/magenta",
       "title": "fuchsia-mirror/magenta: Magenta Kernel, Core Drivers, and Services",
-      "score": "321"
-    },
-    {
-      "url": "https://github.com/hedengcheng/tech",
-      "title": "hedengcheng/tech: programming, database, distributed system",
-      "score": "280"
+      "score": "275"
     },
     {
       "url": "https://github.com/sgayou/kindle-5.6.5-jailbreak",
       "title": "sgayou/kindle-5.6.5-jailbreak: Kindle 5.6.5 exploitation tools.",
-      "score": "252"
+      "score": "258"
     },
     {
-      "url": "https://github.com/fuchsia-mirror/fuchsia",
-      "title": "fuchsia-mirror/fuchsia: o",
-      "score": "213"
+      "url": "https://github.com/hedengcheng/tech",
+      "title": "hedengcheng/tech: programming, database, distributed system",
+      "score": "204"
     },
     {
       "url": "https://github.com/dinuscxj/RecyclerRefreshLayout",
       "title": "dinuscxj/RecyclerRefreshLayout: A pull to refresh layout for android, the RecyclerRefreshLayout is based on the SwipeRefreshLayout. support all the views, highly customizable, code simplicity, etc",
-      "score": "189"
+      "score": "208"
+    },
+    {
+      "url": "https://github.com/FallibleInc/security-guide-for-developers",
+      "title": "FallibleInc/security-guide-for-developers: Security Guide for Developers (实用性开发人员安全须知)",
+      "score": "188"
     }
   ],
   "v2ex": [
     {
-      "url": "https://www.v2ex.com/t/299594#reply113",
+      "url": "https://www.v2ex.com/t/299594#reply114",
       "title": "Mac 版微信已更新",
-      "score": "113"
+      "score": "114"
     },
     {
-      "url": "https://www.v2ex.com/t/299703#reply97",
+      "url": "https://www.v2ex.com/t/299703#reply109",
       "title": "要用 email 注册了，如果有一天， s*rge 的开发者再次被请去喝茶，估计一锅端的节奏",
-      "score": "97"
+      "score": "109"
     },
     {
-      "url": "https://www.v2ex.com/t/299642#reply70",
+      "url": "https://www.v2ex.com/t/299642#reply71",
       "title": "猎豹浏览器，个人感觉在 Windows 上面体验好过 chrome",
-      "score": "70"
+      "score": "71"
     },
     {
       "url": "https://www.v2ex.com/t/299535#reply59",
@@ -281,13 +281,18 @@
       "score": "59"
     },
     {
-      "url": "https://www.v2ex.com/t/299643#reply44",
+      "url": "https://www.v2ex.com/t/299643#reply48",
       "title": "公司让报 ip 和 mac 地址，估计是要安装监控",
-      "score": "44"
+      "score": "48"
     },
     {
-      "url": "https://www.v2ex.com/t/299615#reply34",
+      "url": "https://www.v2ex.com/t/299615#reply35",
       "title": "打算离开深圳去杭州发展了（定居）",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299639#reply34",
+      "title": "有没有初学者一起学习 python 的",
       "score": "34"
     },
     {
@@ -301,14 +306,9 @@
       "score": "33"
     },
     {
-      "url": "https://www.v2ex.com/t/299558#reply30",
-      "title": "[深圳求租] 深大、科技园、1 号线附近求合租，男生，半年，公司就在深大地铁站边上",
-      "score": "30"
-    },
-    {
-      "url": "https://www.v2ex.com/t/299639#reply30",
-      "title": "有没有初学者一起学习 python 的",
-      "score": "30"
+      "url": "https://www.v2ex.com/t/299734#reply31",
+      "title": "三星 S7Edge 和 苹果 7 哪个更值得购买！！！！",
+      "score": "31"
     }
   ]
 }
