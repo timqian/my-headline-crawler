@@ -1,5 +1,16 @@
 {
-  "HN": [],
+  "HN": [
+    {
+      "title": "Introducing Webpack Dashboard",
+      "score": "382",
+      "url": "https://news.ycombinator.com/from?site=formidable.com"
+    },
+    {
+      "title": "NoSQL Databases: A Survey and Decision Guidance",
+      "score": "231",
+      "url": "https://news.ycombinator.com/item?id=12289975"
+    }
+  ],
   "reddit": [
     {
       "url": "https://www.reddit.com/r/programming/comments/4xs87z/the_mess_were_in_by_joe_armstrong/",
