@@ -7,7 +7,7 @@ describe('getHeadlineOfRange: headlines from date range', () => {
   })
 
   it('HN', async () => {
-    const headlines = await getHeadlineOfRange('HN', '2016/05/31', '2016/06/02', 10)
+    const headlines = await getHeadlineOfRange('HN', '2016/08/08', '2016/08/14', 10)
     console.log(headlines)
   })
 
