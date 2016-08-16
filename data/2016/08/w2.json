@@ -1,55 +1,35 @@
 {
-  "HN": [
-    {
-      "url": "https://news.ycombinator.com/item?id=12237966",
-      "title": "Superblocks: how Barcelona is taking city streets back from cars",
-      "score": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12240722",
-      "title": "“Our primary goal is to un-fork the Tor Browser”",
-      "score": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12238860",
-      "title": "Tabby's star is dimming at an incredible rate",
-      "score": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12240253",
-      "title": "IBM Watson correctly diagnoses a form of leukemia",
-      "score": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12238498",
-      "title": "A x64 OS #1: UEFI",
-      "score": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12240093",
-      "title": "The 39th Root of 92",
-      "score": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12240542",
-      "title": "Show HN: Gping.io – Like TinyURL for your car",
-      "score": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12239263",
-      "title": "The brain's reward circuitry regulates immunity",
-      "score": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12238411",
-      "title": "DLS, the digital logic simulator game",
-      "score": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12239840",
-      "title": "Firejail – security sandbox",
-      "score": 0
-    }
+  "HN": [ 
+    { "url": "https://news.ycombinator.com/item?id=12260794",
+      "title": "Show HN: Generating fantasy maps – an interactive exploration",
+      "score": 1001 },
+    { "url": "https://news.ycombinator.com/item?id=12269425",
+      "title": "Indie Hackers: Learn how developers are making money",
+      "score": 942 },
+    { "url": "https://news.ycombinator.com/item?id=12268988",
+      "title": "Zero-cost futures in Rust",
+      "score": 917 },
+    { "url": "https://news.ycombinator.com/item?id=12262470",
+      "title": "This JPEG is also a webpage",
+      "score": 831 },
+    { "url": "https://news.ycombinator.com/item?id=12286724",
+      "title": "What Makes a McMansion Bad Architecture?",
+      "score": 734 },
+    { "url": "https://news.ycombinator.com/item?id=12279415",
+      "title": "Machine Learning and Ketosis",
+      "score": 672 },
+    { "url": "https://news.ycombinator.com/item?id=12247401",
+      "title": "Moving 12 years of email from GMail to FastMail",
+      "score": 646 },
+    { "url": "https://news.ycombinator.com/item?id=12268362",
+      "title": "What I learned as a hired consultant to autodidact physicists",
+      "score": 553 },
+    { "url": "https://news.ycombinator.com/item?id=12251286",
+      "title": "I Want to Know What Code Is Running Inside My Body",
+      "score": 535 },
+    { "url": "https://news.ycombinator.com/item?id=12279494",
+      "title": "Machine Learning Exercises in Python, Part 1",
+      "score": 505 } 
   ],
   "reddit": [
     {
