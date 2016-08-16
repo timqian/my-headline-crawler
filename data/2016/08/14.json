@@ -1,5 +1,16 @@
 {
-  "HN": [],
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12286724",
+      "title": "What Makes a McMansion Bad Architecture?",
+      "score": "734"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12284967",
+      "title": "An introduction to Japanese",
+      "score": "344"
+    }    
+  ],
   "reddit": [
     {
       "url": "https://www.reddit.com/r/programming/comments/4xl02l/climbing_the_infinite_ladder_of_abstraction/",
