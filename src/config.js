@@ -3,7 +3,7 @@ export default {
     scoreReg: /(\d{1,6})\s回复\s&nbsp;/ // For the post page
   },
   HN: {
-    scoreReg: />(\d{1,7})\spoints</
+    scoreReg: />(\d{1,7}).*?points</
   },
   medium: {
     scoreReg: /"recommends":(\d{0,7}),/
