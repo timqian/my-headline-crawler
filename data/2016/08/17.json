@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12303075",
+      "title": "“It's The Future”",
+      "score": "879"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12296974",
+      "title": "Fake Linus Torvalds' Key Found in the Wild, No More Short-IDs",
+      "score": "675"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12298898",
+      "title": "Optimism",
+      "score": "559"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12302128",
+      "title": "What Great Listeners Actually Do",
+      "score": "383"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12300373",
+      "title": "Intel Licenses ARM Technology to Boost Foundry Business",
+      "score": "302"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12302216",
+      "title": "Cisco to lay off about 14,000 employees",
+      "score": "280"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12301996",
+      "title": "15 Page Tutorial for R",
+      "score": "164"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12303010",
+      "title": "30K Page Views for $0.21: A Serverless Story",
+      "score": "131"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12302932",
+      "title": "Show HN: I Implemented GPU-Accelerated Digit Recognition with WebGL",
+      "score": "90"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12304604",
+      "title": "Walmart’s Crime Problem",
+      "score": "87"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4y4epv/about_5_months_from_now_the_tarballs_from_google/",
+      "title": "About 5 months from now, the tarballs from Google Code will be gone. Thousands of historically interesting projects still not migrated elsewhere.",
+      "score": "1310"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4y0r4o/why_reddit_was_down_on_aug_11/",
+      "title": "Why Reddit was down on Aug 11",
+      "score": "157"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4y0gfh/with_a_small_bash_script_for_program_prefixing/",
+      "title": "with - a small bash script for program prefixing for continuous workflow.",
+      "score": "138"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4y221g/sharding_a_multitenant_app_with_postgres/",
+      "title": "Sharding a multi-tenant app with Postgres",
+      "score": "66"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4y0q0k/thyme_a_simple_cli_to_measure_human_time_and_focus/",
+      "title": "Thyme: A simple CLI to measure human time and focus",
+      "score": "56"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4y45st/wire_writing_one_of_the_fastest_net_serializers/",
+      "title": "Wire – Writing one of the fastest .NET serializers",
+      "score": "28"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4y428x/i_implemented_gpuaccelerated_digit_recognition/",
+      "title": "I implemented GPU-accelerated Digit Recognition with WebGL!",
+      "score": "30"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4y4pjt/how_paypal_scaled_to_billions_of_transactions/",
+      "title": "How PayPal Scaled to Billions of Transactions Daily Using Just 8VMs",
+      "score": "24"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4y1b8b/sophia_v22_is_out_fast_transactional_keyvalue/",
+      "title": "Sophia v2.2 is out: fast transactional key-value storage library",
+      "score": "25"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4y27s6/the_worlds_most_epic_bank_statement/",
+      "title": "The worlds most epic bank statement",
+      "score": "19"
+    }
+  ],
+  "medium": [
+    {
+      "title": "This is Your Life in Silicon Valley",
+      "score": "3067",
+      "url": "https://medium.com/p/this-is-your-life-in-silicon-valley-933091235095"
+    },
+    {
+      "title": "Every Joke from ‘Airplane!’ Ranked",
+      "score": "264",
+      "url": "https://medium.com/p/every-joke-from-airplane-ranked-bada7d0e7c0f"
+    },
+    {
+      "title": "I am what’s wrong with America*",
+      "score": "715",
+      "url": "https://medium.com/p/i-am-whats-wrong-with-america-c30f990de164"
+    },
+    {
+      "title": "Is Trump Purposely Sabotaging His Campaign?",
+      "score": "525",
+      "url": "https://medium.com/p/is-trump-purposely-sabotaging-his-campaign-91b11fe07a91"
+    },
+    {
+      "title": "Which Country Has the Best Flag?",
+      "score": "321",
+      "url": "https://medium.com/p/which-country-has-the-best-flag-d0b1d4bf1aa1"
+    },
+    {
+      "title": "The Most Intolerant Wins: The Dictatorship of the Small Minority",
+      "score": "1128",
+      "url": "https://medium.com/p/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15"
+    },
+    {
+      "title": "If You’re Too Busy For These 5 Things: Your Life Is More Off-Course Than You Think",
+      "score": "1977",
+      "url": "https://medium.com/p/if-youre-too-busy-for-these-5-things-your-life-is-more-off-course-than-you-think-2a180a509ff6"
+    },
+    {
+      "title": "The Many Man-children of Todd Phillips",
+      "score": "51",
+      "url": "https://medium.com/p/todd-phillips-old-school-hangover-war-dogs-e3971504004e"
+    },
+    {
+      "title": "What You See is What You Use",
+      "score": "628",
+      "url": "https://medium.com/p/what-you-see-is-what-you-use-5a97677a8c71"
+    },
+    {
+      "title": "How To Finish 2016 Like A Rock Star (and have more momentum in 2017 than you know what to do with)",
+      "score": "604",
+      "url": "https://medium.com/p/how-to-finish-2016-like-a-rock-star-and-have-more-momentum-in-2017-than-you-know-what-to-do-with-487c4c5b7c40"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/stranger-things-type-generator",
+      "title": "Stranger Things Type Generator: Create and share your own Stranger Things inspired logo",
+      "score": "264"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/operator-2-0",
+      "title": "Operator 2.0: Shopping bot now with curated product recommendations",
+      "score": "216"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/lisn",
+      "title": "Lisn: Listen to music with friends, in real-time",
+      "score": "220"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/slideouts-by-appcues",
+      "title": "Slideouts by Appcues: Publish targeted messages to better engage your users",
+      "score": "158"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/simbi-2",
+      "title": "Simbi: Network to exchange talents and services",
+      "score": "217"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/codeplace",
+      "title": "Codeplace: Learn web development by building real apps",
+      "score": "258"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/joy-3",
+      "title": "Joy: Everything about your wedding in one place",
+      "score": "284"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/airmount",
+      "title": "AirMount: Access your iPhone on Mac. No cloud, just magic.",
+      "score": "128"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/casper-dog-mattress",
+      "title": "Casper Dog Mattress: Designed for dogs, by top dogs",
+      "score": "45"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/social-curation-by-yotpo",
+      "title": "Social Curation by Yotpo: Collect Instagram photos from customers and influencers",
+      "score": "248"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/FormidableLabs/webpack-dashboard",
+      "title": "FormidableLabs/webpack-dashboard: A CLI dashboard for webpack dev server",
+      "score": "1309"
+    },
+    {
+      "url": "https://github.com/sourcegraph/thyme",
+      "title": "sourcegraph/thyme: Automatically track which applications you use and for how long.",
+      "score": "472"
+    },
+    {
+      "url": "https://github.com/raganwald/presentations",
+      "title": "raganwald/presentations: Conference Talks and Proposals",
+      "score": "410"
+    },
+    {
+      "url": "https://github.com/sdispater/pendulum",
+      "title": "sdispater/pendulum: Python datetimes made easy",
+      "score": "384"
+    },
+    {
+      "url": "https://github.com/recharts/recharts",
+      "title": "recharts/recharts: Redefined chart library built with React and D3",
+      "score": "349"
+    },
+    {
+      "url": "https://github.com/arielf/weight-loss",
+      "title": "arielf/weight-loss: Machine Learning meets ketosis: how to effectively lose weight",
+      "score": "252"
+    },
+    {
+      "url": "https://github.com/eBay/NMessenger",
+      "title": "eBay/NMessenger: A fast, lightweight messenger component built on AsyncDisplaykit and written in Swift",
+      "score": "221"
+    },
+    {
+      "url": "https://github.com/mcsoto/LogicJS",
+      "title": "mcsoto/LogicJS: Logic programming for JavaScript.",
+      "score": "212"
+    },
+    {
+      "url": "https://github.com/dinuscxj/RecyclerRefreshLayout",
+      "title": "dinuscxj/RecyclerRefreshLayout: A pull to refresh layout for android, the RecyclerRefreshLayout is based on the SwipeRefreshLayout. support all the views, highly customizable, code simplicity, etc",
+      "score": "180"
+    },
+    {
+      "url": "https://github.com/danklammer/bytesize-icons",
+      "title": "danklammer/bytesize-icons: A tiny style-controlled SVG iconset",
+      "score": "174"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/299827#reply261",
+      "title": "不知道为什么就想送点东西给大家！",
+      "score": "261"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299796#reply57",
+      "title": "有没有初学者一起学习 rust 的",
+      "score": "57"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299942#reply52",
+      "title": "广电终于看不下了?各大新闻网站关于王宝强婚变新闻已经全部下架.",
+      "score": "52"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299846#reply50",
+      "title": "与电脑城奸商周旋血泪史",
+      "score": "50"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299923#reply48",
+      "title": "面试聊的很愉快很融洽，但是没通过，会是什么原因啊",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299830#reply35",
+      "title": "画了条鱿鱼",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299936#reply34",
+      "title": "为什么守望先锋中国不用分区？",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299793#reply32",
+      "title": "下载是如何吃掉带宽的？",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299853#reply31",
+      "title": "google 又又正式发布了一款聊天工具",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/299854#reply31",
+      "title": "求推荐一款笔记本",
+      "score": "31"
+    }
+  ]
+}
