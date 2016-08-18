@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12309777",
+      "title": "Grokking Deep Learning",
+      "score": "439"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12311200",
+      "title": "How I wrote and published my novel using only open source tools",
+      "score": "231"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12310757",
+      "title": "The Secret Button",
+      "score": "188"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12311860",
+      "title": "A minimal raytracer",
+      "score": "173"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12311140",
+      "title": "Technology was meant to herald a new way of working, but that’s not the case",
+      "score": "164"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12311559",
+      "title": "Uber’s First Self-Driving Fleet Arrives in Pittsburgh This Month",
+      "score": "156"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12309863",
+      "title": "Drawing isometric boxes in the correct order",
+      "score": "148"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12311218",
+      "title": "F# for Fun and Profit",
+      "score": "133"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12308974",
+      "title": "Bringing Nixie tubes back to life",
+      "score": "94"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12311277",
+      "title": "Was There a Problem with the Rio Pool?",
+      "score": "67"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4y7873/humble_book_bundle_joy_of_coding/",
+      "title": "Humble Book Bundle: Joy of Coding",
+      "score": "339"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4yb2wb/github_pages_now_supports_publishing_from_the/",
+      "title": "GitHub Pages now supports publishing from the master branch or from a docs folder on the master branch",
+      "score": "343"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ybii5/f_for_fun_and_profit_book_available_as_gitbook/",
+      "title": "F# for Fun and Profit book available as gitbook",
+      "score": "64"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4y79p5/gradle_30_released_with_official_kotlin_support/",
+      "title": "Gradle 3.0 Released With Official Kotlin Support",
+      "score": "57"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4y6pws/why_video_documentation_isnt_the_answer/",
+      "title": "Why Video Documentation Isn’t the Answer",
+      "score": "31"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ybp5u/bus1_a_new_linux_interprocess_communication/",
+      "title": "Bus1: a new Linux interprocess communication proposal [LWN.net]",
+      "score": "28"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4yb05u/aurelia_javascript_framework_hits_10_looks_to_the/",
+      "title": "Aurelia JavaScript Framework Hits 1.0, looks to the future",
+      "score": "23"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4y98nc/tutorial_git_workflow_basics/",
+      "title": "[TUTORIAL] Git Workflow Basics",
+      "score": "23"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ybilo/writing_less_damn_code/",
+      "title": "Writing Less Damn Code",
+      "score": "16"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4y8tm3/kaggle_launches_its_open_data_platform/",
+      "title": "Kaggle launches its Open Data Platform",
+      "score": "15"
+    }
+  ],
+  "medium": [
+    {
+      "title": "This is Your Life in Silicon Valley",
+      "score": "4336",
+      "url": "https://medium.com/p/this-is-your-life-in-silicon-valley-933091235095"
+    },
+    {
+      "title": "Is Trump Purposely Sabotaging His Campaign?",
+      "score": "1616",
+      "url": "https://medium.com/p/is-trump-purposely-sabotaging-his-campaign-91b11fe07a91"
+    },
+    {
+      "title": "Ingrid’s Sin Was Having Sex",
+      "score": "513",
+      "url": "https://medium.com/p/ingrids-sin-was-having-sex-6d285d103f4"
+    },
+    {
+      "title": "What’s the All-Time Best Song of the Summer?",
+      "score": "83",
+      "url": "https://medium.com/p/whats-the-all-time-best-song-of-the-summer-8fa7cf41b848"
+    },
+    {
+      "title": "Every Joke from ‘Airplane!’ Ranked",
+      "score": "328",
+      "url": "https://medium.com/p/every-joke-from-airplane-ranked-bada7d0e7c0f"
+    },
+    {
+      "title": "An Open Letter to Managers of Women",
+      "score": "689",
+      "url": "https://medium.com/p/an-open-letter-to-managers-of-women-58b1655943ce"
+    },
+    {
+      "title": "What You See is What You Use",
+      "score": "1000",
+      "url": "https://medium.com/p/what-you-see-is-what-you-use-5a97677a8c71"
+    },
+    {
+      "title": "Another Hillary Email Leak",
+      "score": "523",
+      "url": "https://medium.com/p/another-hillary-email-leak-b29f9a16f77d"
+    },
+    {
+      "title": "If You’re Too Busy For These 5 Things: Your Life Is More Off-Course Than You Think",
+      "score": "2182",
+      "url": "https://medium.com/p/if-youre-too-busy-for-these-5-things-your-life-is-more-off-course-than-you-think-2a180a509ff6"
+    },
+    {
+      "title": "This Season’s Fantasy Football Breakout Candidates Feel Awfully Familiar",
+      "score": "49",
+      "url": "https://medium.com/p/fantasy-football-draft-value-breakout-stars-e58ec903cdb8"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/conv",
+      "title": "CONV.: Convert YouTube video to MP3, GIF or MP4",
+      "score": "308"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/whyd",
+      "title": "Whyd: Beautiful, great-sounding, voice-controlled speaker",
+      "score": "147"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/vidcode-2",
+      "title": "Vidcode: Build your own Snapchat filters with code",
+      "score": "188"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/blockai-for-twitter",
+      "title": "Blockai for Twitter: Claim the copyright for your photos using Twitter",
+      "score": "123"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/shared-text-styles",
+      "title": "Shared Text Styles: Easily import and export your Text Styles in Sketch.",
+      "score": "48"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/grobo-smart-indoor-gardening-system",
+      "title": "Grobo Smart Indoor Gardening System: The easiest way to grow food and medicine at home",
+      "score": "85"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/snapcut",
+      "title": "SnapCut: Make your own Snapchat intro bumpers",
+      "score": "62"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/rideon-ski-goggles",
+      "title": "RideOn Ski Goggles: World&#x27;s first augmented reality ski goggles",
+      "score": "61"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/cardigan",
+      "title": "Cardigan: Find and delete old (embarrassing) tweets",
+      "score": "54"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/moverite",
+      "title": "MoveRite: Weight training for beginners 🏋",
+      "score": "31"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/RafalWilinski/express-status-monitor",
+      "title": "RafalWilinski/express-status-monitor:  Realtime Monitoring solution for Express.js apps, inspired by status.github.com",
+      "score": "599"
+    },
+    {
+      "url": "https://github.com/FormidableLabs/webpack-dashboard",
+      "title": "FormidableLabs/webpack-dashboard: A CLI dashboard for webpack dev server",
+      "score": "506"
+    },
+    {
+      "url": "https://github.com/danklammer/bytesize-icons",
+      "title": "danklammer/bytesize-icons: A tiny style-controlled SVG iconset",
+      "score": "448"
+    },
+    {
+      "url": "https://github.com/sourcegraph/thyme",
+      "title": "sourcegraph/thyme: Automatically track which applications you use and for how long.",
+      "score": "382"
+    },
+    {
+      "url": "https://github.com/sdispater/pendulum",
+      "title": "sdispater/pendulum: Python datetimes made easy",
+      "score": "354"
+    },
+    {
+      "url": "https://github.com/mchav/with",
+      "title": "mchav/with: Command prefixing for continuous workflow using a single tool.",
+      "score": "331"
+    },
+    {
+      "url": "https://github.com/airbnb/react-dates",
+      "title": "airbnb/react-dates: An accessible, easily internationalizable, mobile-friendly datepicker library for the web",
+      "score": "320"
+    },
+    {
+      "url": "https://github.com/Blankj/AndroidUtilCode",
+      "title": "Blankj/AndroidUtilCode: Android开发人员不得不收集的代码(持续更新中)",
+      "score": "276"
+    },
+    {
+      "url": "https://github.com/juliocesarfort/public-pentesting-reports",
+      "title": "juliocesarfort/public-pentesting-reports: Curated list of public penetration testing reports released by several consulting firms",
+      "score": "265"
+    },
+    {
+      "url": "https://github.com/Microsoft/UWPCommunityToolkit",
+      "title": "Microsoft/UWPCommunityToolkit: The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10.",
+      "score": "205"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/300190#reply221",
+      "title": "Uber 司机抢我行李，请教大家该怎么办",
+      "score": "221"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300102#reply75",
+      "title": "你们会向新人推荐 C++么？",
+      "score": "75"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300164#reply69",
+      "title": "奔驰 E 真心漂亮，有程序员开这车么？",
+      "score": "69"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300084#reply55",
+      "title": "拒绝 TCP 协议，发现还能访问网站",
+      "score": "55"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300106#reply52",
+      "title": "本周五请假，下周一请假，你们公司算请了几天假？",
+      "score": "52"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300114#reply49",
+      "title": "安卓里有没有类似于 ibooks 质量的阅读软件",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300091#reply46",
+      "title": "你们有见过公司强制捐款的事情么？",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300170#reply40",
+      "title": "Parallels 12 出来了，支持 Sierra 系统，新增 Parallel Toolbox",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300063#reply39",
+      "title": "关于项目管理系统使用禅道还是 redmine，想听听大家的想法？",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300140#reply35",
+      "title": "特价乐视超级会员 1 年+乐视超级体育会员 1 年各一年 英超会员",
+      "score": "35"
+    }
+  ]
+}
