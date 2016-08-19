@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12312408",
+      "title": "Page Dewarping",
+      "score": "691"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12317217",
+      "title": "Megaprocessor – A micro-processor built large",
+      "score": "644"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12319670",
+      "title": "Curl author asks Microsoft to remove 'curl' and 'wget' aliases from PowerShell",
+      "score": "328"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12317497",
+      "title": "The Difference Between AI, Machine Learning, and Deep Learning",
+      "score": "238"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12318615",
+      "title": "PHP the Wrong Way",
+      "score": "145"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12318280",
+      "title": "New batteries could make phones, drones, and electric cars last twice as long",
+      "score": "107"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12317525",
+      "title": "Physics, Topology, Logic and Computation: A Rosetta Stone (2009) [pdf]",
+      "score": "107"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12319661",
+      "title": "Show HN: A Multiplayer Geography Game Using WebSockets",
+      "score": "87"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12319504",
+      "title": "Researcher Grabs VPN Password with Tool from NSA Dump",
+      "score": "86"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12319164",
+      "title": "​72 Hours of Pwnage: A Paranoid N00b Goes to Def Con",
+      "score": "74"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ycum1/microsoft_open_sources_powershell_brings_it_to/",
+      "title": "Microsoft open sources PowerShell; brings it to Linux and Mac OS X",
+      "score": "3603"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ycuxp/powershell_is_open_sourced_and_is_available_on/",
+      "title": "PowerShell is open sourced and is available on Linux",
+      "score": "159"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ydxxc/announcing_rust_111/",
+      "title": "Announcing Rust 1.11",
+      "score": "141"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ydbiq/page_dewarping/",
+      "title": "Page dewarping",
+      "score": "68"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ygj6b/what_we_learned_from_running_googles_new_fuchsia/",
+      "title": "What we learned from running Google's new Fuchsia OS: Dart to play a big role",
+      "score": "57"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4yehbk/new_resharper_release_aspnet_core_10_rtm_support/",
+      "title": "New ReSharper release: ASP.NET Core 1.0 RTM support, Go to Text, Tab-driven structural navigation in code etc.",
+      "score": "36"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ydksz/tutorial_zero_to_sixty_in_racket/",
+      "title": "Tutorial: Zero to Sixty in Racket",
+      "score": "25"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ycwv1/xplat_powershell_released_runs_on_windows_osx_and/",
+      "title": "XPlat PowerShell released runs on Windows, OSX and Linux",
+      "score": "22"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ydses/gitls_list_files_with_last_commit_info_next_to/",
+      "title": "git-ls - list files with last commit info next to them",
+      "score": "21"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4yfpfl/when_progressive_web_apps_are_better_than_native/",
+      "title": "When Progressive Web Apps are better than native Android apps",
+      "score": "11"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Is Trump Purposely Sabotaging His Campaign?",
+      "score": "2565",
+      "url": "https://medium.com/p/is-trump-purposely-sabotaging-his-campaign-91b11fe07a91"
+    },
+    {
+      "title": "Why Am I So Fat?",
+      "score": "1148",
+      "url": "https://medium.com/p/why-am-i-so-fat-91564fc3a0c7"
+    },
+    {
+      "title": "This is Your Life in Silicon Valley",
+      "score": "5039",
+      "url": "https://medium.com/p/this-is-your-life-in-silicon-valley-933091235095"
+    },
+    {
+      "title": "Who Is the Best Movie Cop of the Past 30 Years?",
+      "score": "185",
+      "url": "https://medium.com/p/best-movie-cop-robocop-marge-gunderson-cd64cdef7113"
+    },
+    {
+      "title": "Model Physicist",
+      "score": "453",
+      "url": "https://medium.com/p/model-physicist-5669253d87f6"
+    },
+    {
+      "title": "Another Hillary Email Leak",
+      "score": "951",
+      "url": "https://medium.com/p/another-hillary-email-leak-b29f9a16f77d"
+    },
+    {
+      "title": "An Open Letter to Managers of Women",
+      "score": "1355",
+      "url": "https://medium.com/p/an-open-letter-to-managers-of-women-58b1655943ce"
+    },
+    {
+      "title": "Eleven Reasons To Be Excited About The Future of Technology",
+      "score": "683",
+      "url": "https://medium.com/p/eleven-reasons-to-be-excited-about-the-future-of-technology-ef5f9b939cb2"
+    },
+    {
+      "title": "Ingrid’s Sin Was Having Sex",
+      "score": "697",
+      "url": "https://medium.com/p/ingrids-sin-was-having-sex-6d285d103f4"
+    },
+    {
+      "title": "What online dating is like when you’re not gorgeous or ugly, but average",
+      "score": "304",
+      "url": "https://medium.com/p/what-online-dating-is-like-when-youre-not-gorgeous-or-ugly-but-average-465cd0f3d641"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/app-launchpad",
+      "title": "App Launchpad: Create free beautiful screenshots for App store/Google play",
+      "score": "292"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/canvas-for-ios",
+      "title": "Canvas for iOS: Write with your team, in realtime, using markdown",
+      "score": "156"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/medium-s-support-bot",
+      "title": "Medium&#x27;s Support Bot: Get support with your Medium account from a bot",
+      "score": "98"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/combo-fm-for-ios",
+      "title": "Combo.fm for iOS: The best new music you probably haven&#x27;t heard yet.",
+      "score": "143"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/thefamily-sam-altman-president-of-y-combinator",
+      "title": "TheFamily: Sam Altman, President of Y Combinator: Sam Altman on Y Combinator and importance of AI",
+      "score": "52"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/spark-pro",
+      "title": "Spark Pro: App for making movies on your iPhone",
+      "score": "61"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/annoisli",
+      "title": "Annoisli: Destroy focus and ruin your productivity.",
+      "score": "59"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/tinitell-2",
+      "title": "Tinitell: Wearable mobile phone for kids. GPS enabled.",
+      "score": "50"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/pictogif",
+      "title": "PicToGIF: Turn your regular pics into zoomable GIFs",
+      "score": "50"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/tookapic-for-ios",
+      "title": "Tookapic for iOS: Your 365 project photo journal",
+      "score": "53"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/PowerShell/PowerShell",
+      "title": "PowerShell/PowerShell: PowerShell for every system!",
+      "score": "2628"
+    },
+    {
+      "url": "https://github.com/facebookresearch/fastText",
+      "title": "facebookresearch/fastText: Library for fast text representation and classification.",
+      "score": "676"
+    },
+    {
+      "url": "https://github.com/RafalWilinski/express-status-monitor",
+      "title": "RafalWilinski/express-status-monitor:  Realtime Monitoring solution for Express.js apps, inspired by status.github.com",
+      "score": "465"
+    },
+    {
+      "url": "https://github.com/FormidableLabs/webpack-dashboard",
+      "title": "FormidableLabs/webpack-dashboard: A CLI dashboard for webpack dev server",
+      "score": "429"
+    },
+    {
+      "url": "https://github.com/danklammer/bytesize-icons",
+      "title": "danklammer/bytesize-icons: A tiny style-controlled SVG iconset",
+      "score": "370"
+    },
+    {
+      "url": "https://github.com/mzucker/page_dewarp",
+      "title": "mzucker/page_dewarp: Text page dewarping using a \"cubic sheet\" model",
+      "score": "351"
+    },
+    {
+      "url": "https://github.com/sourcegraph/thyme",
+      "title": "sourcegraph/thyme: Automatically track which applications you use and for how long.",
+      "score": "269"
+    },
+    {
+      "url": "https://github.com/airbnb/react-dates",
+      "title": "airbnb/react-dates: An accessible, easily internationalizable, mobile-friendly datepicker library for the web",
+      "score": "253"
+    },
+    {
+      "url": "https://github.com/alexadam/save-as-ebook",
+      "title": "alexadam/save-as-ebook: Save a web page/selection as an eBook (.epub format) - a Chrome/Firefox/Opera Web Extension",
+      "score": "248"
+    },
+    {
+      "url": "https://github.com/146BC/StyleKit",
+      "title": "146BC/StyleKit: A powerful &amp; easy to use styling framework written in Swift",
+      "score": "232"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/300441#reply112",
+      "title": "新的 nazo 解谜网站，来试试你能到第几关",
+      "score": "112"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300344#reply111",
+      "title": "V 友如何看待那些天天在算计着花钱，跟生活无关的基本不会买，太贵的也不买，不停的攒钱，不停的攒。。。",
+      "score": "111"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300451#reply80",
+      "title": "有腾讯公司的吗？昨天发生了一起针对留学生的诈骗案，骗走了 60000 英镑",
+      "score": "80"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300319#reply68",
+      "title": "给老人是买 iPad 好还是小米平板 2？",
+      "score": "68"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300346#reply50",
+      "title": "星巴克是在完虐单身狗么？",
+      "score": "50"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300408#reply44",
+      "title": "参加工作一年，经常感到腰酸背痛，有什么比较好的建议吗？",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300390#reply40",
+      "title": "公司要求一个月搞出一个复杂 APP....",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300343#reply39",
+      "title": "一个常用的密码感觉从记忆中抹除了，怎么回事",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300423#reply38",
+      "title": "关于 [Uber 司机抢我行李，请教大家该怎么办] 帖子的后续",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300362#reply36",
+      "title": "请问有没有什么脚本或病毒，一键销毁 rmbp 里面的数据？",
+      "score": "36"
+    }
+  ]
+}
