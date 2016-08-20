@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12324358",
+      "title": "Japanese writing system basics",
+      "score": "867"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12319063",
+      "title": "The Cuban CDN",
+      "score": "769"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12324465",
+      "title": "A suggestion on how to spend a day at home",
+      "score": "248"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12325140",
+      "title": "Data points that Facebook uses to target ads",
+      "score": "218"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12323187",
+      "title": "Kubernetes the Hard Way",
+      "score": "210"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12323649",
+      "title": "Deutsche Bank Whistle-Blower Spurns $8M SEC Reward",
+      "score": "188"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12324350",
+      "title": "Is Bandcamp the Holy Grail of Online Record Stores?",
+      "score": "180"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12322791",
+      "title": "From Chrome Apps to the Web",
+      "score": "177"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12322885",
+      "title": "Zika Infection May Affect Adult Brain Cells",
+      "score": "176"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12323999",
+      "title": "All of Google's cloud database services are now out of beta",
+      "score": "154"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ymod0/an_implementation_of_the_unix_seq_command_in_x86/",
+      "title": "An implementation of the Unix seq command in x86_64 assembly (with comments) as a learning tool for beginners",
+      "score": "113"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ylqqy/google_will_end_support_for_chrome_apps_on/",
+      "title": "Google will end support for Chrome apps on Windows, Mac, and Linux",
+      "score": "110"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4yjstp/researcher_grabs_vpn_password_with_tool_from_nsa/",
+      "title": "Researcher Grabs VPN Password With Tool From NSA Dump",
+      "score": "82"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ykevm/the_cuban_cdn/",
+      "title": "The Cuban CDN",
+      "score": "67"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4yjsxz/gophercon_2016_rob_pike_the_design_of_the_go/",
+      "title": "GopherCon 2016: Rob Pike - The Design of the Go Assembler",
+      "score": "19"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4yl2he/we_may_actually_be_in_for_a_third_oraclegoogle/",
+      "title": "We May Actually Be In For A THIRD Oracle/Google API Copyright Trial",
+      "score": "19"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ymfbm/finding_a_minimum_spanning_tree_prims_algorithm/",
+      "title": "Finding a Minimum Spanning Tree: Prim's Algorithm",
+      "score": "20"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ym5hd/mysql_founder_tries_a_new_software_licensing_model/",
+      "title": "MySQL founder tries a new software licensing model",
+      "score": "21"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4yjjvm/the_answer_is_probably_to_use_a_queue/",
+      "title": "The answer is probably to use a queue",
+      "score": "15"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4yjkw2/dividing_infinity_distributed_partitioning_schemes/",
+      "title": "Dividing Infinity - Distributed Partitioning Schemes",
+      "score": "9"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Why Am I So Fat?",
+      "score": "1675",
+      "url": "https://medium.com/p/why-am-i-so-fat-91564fc3a0c7"
+    },
+    {
+      "title": "This is Your Life in Silicon Valley",
+      "score": "5527",
+      "url": "https://medium.com/p/this-is-your-life-in-silicon-valley-933091235095"
+    },
+    {
+      "title": "Is Trump Purposely Sabotaging His Campaign?",
+      "score": "2895",
+      "url": "https://medium.com/p/is-trump-purposely-sabotaging-his-campaign-91b11fe07a91"
+    },
+    {
+      "title": "An Open Letter to Managers of Women",
+      "score": "1887",
+      "url": "https://medium.com/p/an-open-letter-to-managers-of-women-58b1655943ce"
+    },
+    {
+      "title": "Eleven Reasons To Be Excited About The Future of Technology",
+      "score": "1159",
+      "url": "https://medium.com/p/eleven-reasons-to-be-excited-about-the-future-of-technology-ef5f9b939cb2"
+    },
+    {
+      "title": "What online dating is like when you’re not gorgeous or ugly, but average",
+      "score": "502",
+      "url": "https://medium.com/p/what-online-dating-is-like-when-youre-not-gorgeous-or-ugly-but-average-465cd0f3d641"
+    },
+    {
+      "title": "All Olympic Logos, Ordered By Quality",
+      "score": "218",
+      "url": "https://medium.com/p/all-olympic-logos-ordered-by-quality-965e1cc7d0cb"
+    },
+    {
+      "title": "The sound of Blairite silence",
+      "score": "265",
+      "url": "https://medium.com/p/the-sound-of-blairite-silence-aed2ef726c8a"
+    },
+    {
+      "title": "Ingrid’s Sin Was Having Sex",
+      "score": "788",
+      "url": "https://medium.com/p/ingrids-sin-was-having-sex-6d285d103f4"
+    },
+    {
+      "title": "Model Physicist",
+      "score": "575",
+      "url": "https://medium.com/p/model-physicist-5669253d87f6"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/lifestage-by-facebook",
+      "title": "Lifestage By Facebook: Share a visual profile of who you are",
+      "score": "88"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/arbor",
+      "title": "Arbor: Easily manage product development",
+      "score": "68"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/bagobago-backpack-chair",
+      "title": "BAGOBAGO Backpack Chair: Sit down anywhere on your backpack",
+      "score": "41"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/picture-this-clothing",
+      "title": "Picture This Clothing: Kids design their own clothing",
+      "score": "47"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/megamaker-035-being-in-traffic-almost-killed-me",
+      "title": "MegaMaker - 035 - &quot;Being in traffic almost killed me&quot;: How do you quit your day job? You need the freedom ladder.",
+      "score": "11"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/backtrack",
+      "title": "Backtrack: Track FedEx, UPS and USPS deliveries from Slack",
+      "score": "20"
+    },
+    {
+      "url": "https://www.producthunt.com/books/self-discipline",
+      "title": "Self-discipline: Developing Self Discipline: The Key To Achieving Your Goals",
+      "score": "9"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/developers-developers",
+      "title": "Developers developers: Balmer&#x27;s epic catchphrase",
+      "score": "18"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/tdict",
+      "title": "tDict: Learn languages on Twitter",
+      "score": "17"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/looper-tassel",
+      "title": "Looper Tassel: The first fashionable tracker accessory",
+      "score": "16"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/PowerShell/PowerShell",
+      "title": "PowerShell/PowerShell: PowerShell for every system!",
+      "score": "737"
+    },
+    {
+      "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+      "title": "kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way. No scripts.",
+      "score": "453"
+    },
+    {
+      "url": "https://github.com/gacel112/atccargo",
+      "title": "gacel112/atccargo: My first project for learning Symfony3",
+      "score": "415"
+    },
+    {
+      "url": "https://github.com/facebookresearch/fastText",
+      "title": "facebookresearch/fastText: Library for fast text representation and classification.",
+      "score": "371"
+    },
+    {
+      "url": "https://github.com/abrenaut/posio",
+      "title": "abrenaut/posio: A multiplayer geography game using Websockets",
+      "score": "230"
+    },
+    {
+      "url": "https://github.com/FormidableLabs/webpack-dashboard",
+      "title": "FormidableLabs/webpack-dashboard: A CLI dashboard for webpack dev server",
+      "score": "216"
+    },
+    {
+      "url": "https://github.com/tockins/realize",
+      "title": "tockins/realize: Go build system with file watchers, live reload and output streams. Run, build and watch file changes with custom paths",
+      "score": "217"
+    },
+    {
+      "url": "https://github.com/RafalWilinski/express-status-monitor",
+      "title": "RafalWilinski/express-status-monitor:  Realtime Monitoring solution for Express.js apps, inspired by status.github.com",
+      "score": "186"
+    },
+    {
+      "url": "https://github.com/airbnb/react-dates",
+      "title": "airbnb/react-dates: An accessible, easily internationalizable, mobile-friendly datepicker library for the web",
+      "score": "179"
+    },
+    {
+      "url": "https://github.com/mchav/with",
+      "title": "mchav/with: Command prefixing for continuous workflow using a single tool.",
+      "score": "167"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/300576#reply124",
+      "title": "这几天累得我想自杀",
+      "score": "124"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300613#reply29",
+      "title": "树洞外链：支持多种云存储平台的外链程序",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300624#reply29",
+      "title": "手机一周内被摔碎两次，不想再修屏幕了。请问现在 Android 阵营 2k 以下有什么值得购买的机型么",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300578#reply27",
+      "title": "求推荐一个 MacBook Pro 底座 或者 Thunderbolt Hub ［送铜币］",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300591#reply27",
+      "title": "快三年的 PHPer 的困惑。",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300664#reply27",
+      "title": "培训机构出来，简历不想作假，怎样才能找到工作？老实人就该吃亏？",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300566#reply24",
+      "title": "被 http2 坑了一把,nginx 1.9.15/1.10.0 + http2 + post + safari 有严重 bug",
+      "score": "24"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300574#reply20",
+      "title": "偶遇女孩的梦",
+      "score": "20"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300603#reply20",
+      "title": "有什么比较有效的长期、稳定的 HTTP 代理么？",
+      "score": "20"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300656#reply20",
+      "title": "低成本在家 24 小时挂 PT 积分的正确姿势是什么?",
+      "score": "20"
+    }
+  ]
+}
