@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12303075",
+      "title": "“It's The Future”",
+      "score": 1309
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12324358",
+      "title": "Japanese writing system basics",
+      "score": 930
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12319063",
+      "title": "The Cuban CDN",
+      "score": 812
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12286724",
+      "title": "What Makes a McMansion Bad Architecture?",
+      "score": 756
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12312408",
+      "title": "Page Dewarping",
+      "score": 736
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12317217",
+      "title": "Megaprocessor – A micro-processor built large",
+      "score": 725
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12296974",
+      "title": "Fake Linus Torvalds' Key Found in the Wild, No More Short-IDs",
+      "score": 699
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12298898",
+      "title": "Optimism",
+      "score": 613
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12309777",
+      "title": "Grokking Deep Learning",
+      "score": 523
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12302128",
+      "title": "What Great Listeners Actually Do",
+      "score": 517
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4y4epv/about_5_months_from_now_the_tarballs_from_google/",
+      "title": "About 5 months from now, the tarballs from Google Code will be gone. Thousands of historically interesting projects still not migrated elsewhere.",
+      "score": 3080
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xnsqp/dropout_rate_from_30_days_of_the_coding_challenge/",
+      "title": "Dropout rate from 30 days of the coding challenge. Only 8.2% of them made it to the very last day.",
+      "score": 2322
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xyvoe/colorized_man_pages/",
+      "title": "Colorized man pages",
+      "score": 924
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4yb2wb/github_pages_now_supports_publishing_from_the/",
+      "title": "GitHub Pages now supports publishing from the master branch or from a docs folder on the master branch",
+      "score": 636
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xl02l/climbing_the_infinite_ladder_of_abstraction/",
+      "title": "Climbing the infinite ladder of abstraction",
+      "score": 616
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xwhks/go_17_is_released/",
+      "title": "Go 1.7 is released",
+      "score": 440
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4y7873/humble_book_bundle_joy_of_coding/",
+      "title": "Humble Book Bundle: Joy of Coding",
+      "score": 386
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xs87z/the_mess_were_in_by_joe_armstrong/",
+      "title": "&quot;The Mess We're In&quot; by Joe Armstrong",
+      "score": 375
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xvnk3/theres_a_200k_reward_for_anyone_who_proves/",
+      "title": "There's a $200k reward for anyone who proves Microsoft ripped off MS-DOS source code",
+      "score": 375
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xujph/my_text_in_your_handwriting_an_ai_capable_of/",
+      "title": "My Text in Your Handwriting: An AI capable of creating handwriting",
+      "score": 278
+    }
+  ],
+  "medium": [
+    {
+      "title": "This is Your Life in Silicon Valley",
+      "score": 5999,
+      "url": "https://medium.com/p/this-is-your-life-in-silicon-valley-933091235095"
+    },
+    {
+      "title": "Is Trump Purposely Sabotaging His Campaign?",
+      "score": 3116,
+      "url": "https://medium.com/p/is-trump-purposely-sabotaging-his-campaign-91b11fe07a91"
+    },
+    {
+      "title": "If You’re Too Busy For These 5 Things: Your Life Is More Off-Course Than You Think",
+      "score": 2621,
+      "url": "https://medium.com/p/if-youre-too-busy-for-these-5-things-your-life-is-more-off-course-than-you-think-2a180a509ff6"
+    },
+    {
+      "title": "An Open Letter to Managers of Women",
+      "score": 2160,
+      "url": "https://medium.com/p/an-open-letter-to-managers-of-women-58b1655943ce"
+    },
+    {
+      "title": "How to Become the Best in the World at What You Do",
+      "score": 2143,
+      "url": "https://medium.com/p/how-to-become-the-best-in-the-world-at-what-you-do-328f7b358bdf"
+    },
+    {
+      "title": "Why Am I So Fat?",
+      "score": 2054,
+      "url": "https://medium.com/p/why-am-i-so-fat-91564fc3a0c7"
+    },
+    {
+      "title": "I’m deleting Snapchat, and you should too",
+      "score": 1955,
+      "url": "https://medium.com/p/im-deleting-snapchat-and-you-should-too-98569b2609e4"
+    },
+    {
+      "title": "Eleven Reasons To Be Excited About The Future of Technology",
+      "score": 1694,
+      "url": "https://medium.com/p/eleven-reasons-to-be-excited-about-the-future-of-technology-ef5f9b939cb2"
+    },
+    {
+      "title": "Design and the Self",
+      "score": 1510,
+      "url": "https://medium.com/p/design-and-the-self-a5670a000fee"
+    },
+    {
+      "title": "What is an API? In English, please.",
+      "score": 1488,
+      "url": "https://medium.com/p/what-is-an-api-in-english-please-b880a3214a82"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/299827#reply261",
+      "title": "不知道为什么就想送点东西给大家！",
+      "score": 323
+    },
+    {
+      "url": "https://www.v2ex.com/t/300190#reply221",
+      "title": "Uber 司机抢我行李，请教大家该怎么办",
+      "score": 312
+    },
+    {
+      "url": "https://www.v2ex.com/t/300441#reply112",
+      "title": "新的 nazo 解谜网站，来试试你能到第几关",
+      "score": 223
+    },
+    {
+      "url": "https://www.v2ex.com/t/299391#reply131",
+      "title": "创业两周年，我做了一次尝试。想听听你的建议，送一次说走就走的旅行",
+      "score": 169
+    },
+    {
+      "url": "https://www.v2ex.com/t/300576#reply124",
+      "title": "这几天累得我想自杀",
+      "score": 155
+    },
+    {
+      "url": "https://www.v2ex.com/t/299342#reply95",
+      "title": "感谢 V2EX 对 Hyper_的热情支持以及新的验证机制",
+      "score": 148
+    },
+    {
+      "url": "https://www.v2ex.com/t/299642#reply71",
+      "title": "猎豹浏览器，个人感觉在 Windows 上面体验好过 chrome",
+      "score": 134
+    },
+    {
+      "url": "https://www.v2ex.com/t/299176#reply74",
+      "title": "Mac 真不用重启吗， uptime 15 天卡的不要不要的",
+      "score": 126
+    },
+    {
+      "url": "https://www.v2ex.com/t/299594#reply114",
+      "title": "Mac 版微信已更新",
+      "score": 126
+    },
+    {
+      "url": "https://www.v2ex.com/t/299734#reply31",
+      "title": "三星 S7Edge 和 苹果 7 哪个更值得购买！！！！",
+      "score": 98
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/google-duo",
+      "title": "Google Duo: One-to-one video calling. Google&#x27;s FaceTime competitor.",
+      "score": 1546
+    },
+    {
+      "url": "https://www.producthunt.com/tech/joy-3",
+      "title": "Joy: Everything about your wedding in one place",
+      "score": 1111
+    },
+    {
+      "url": "https://www.producthunt.com/tech/conv",
+      "title": "CONV.: Convert YouTube video to MP3, GIF or MP4",
+      "score": 1078
+    },
+    {
+      "url": "https://www.producthunt.com/tech/mimo",
+      "title": "Mimo: Learn how to code on your iPhone📱",
+      "score": 1040
+    },
+    {
+      "url": "https://www.producthunt.com/tech/indie-hackers",
+      "title": "Indie Hackers: Learn how developers are writing their own paychecks.",
+      "score": 877
+    },
+    {
+      "url": "https://www.producthunt.com/tech/app-launchpad",
+      "title": "App Launchpad: Create free beautiful screenshots for App store/Google play",
+      "score": 875
+    },
+    {
+      "url": "https://www.producthunt.com/tech/picniic-2",
+      "title": "Picniic: Slack for the Home. Family management platform.",
+      "score": 767
+    },
+    {
+      "url": "https://www.producthunt.com/tech/stranger-things-type-generator",
+      "title": "Stranger Things Type Generator: Create and share your own Stranger Things inspired logo",
+      "score": 746
+    },
+    {
+      "url": "https://www.producthunt.com/tech/codeplace",
+      "title": "Codeplace: Learn web development by building real apps",
+      "score": 733
+    },
+    {
+      "url": "https://www.producthunt.com/tech/simbi-2",
+      "title": "Simbi: Network to exchange talents and services",
+      "score": 699
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/FormidableLabs/webpack-dashboard",
+      "title": "FormidableLabs/webpack-dashboard: A CLI dashboard for webpack dev server",
+      "score": "656"
+    },
+    {
+      "url": "https://github.com/PowerShell/PowerShell",
+      "title": "PowerShell/PowerShell: PowerShell for every system!",
+      "score": "773"
+    },
+    {
+      "url": "https://github.com/facebookresearch/fastText",
+      "title": "facebookresearch/fastText: Library for fast text representation and classification.",
+      "score": "482"
+    },
+    {
+      "url": "https://github.com/RafalWilinski/express-status-monitor",
+      "title": "RafalWilinski/express-status-monitor:  Realtime Monitoring solution for Express.js apps, inspired by status.github.com",
+      "score": "474"
+    },
+    {
+      "url": "https://github.com/recharts/recharts",
+      "title": "recharts/recharts: Redefined chart library built with React and D3",
+      "score": "447"
+    },
+    {
+      "url": "https://github.com/sourcegraph/thyme",
+      "title": "sourcegraph/thyme: Automatically track which applications you use and for how long.",
+      "score": "401"
+    },
+    {
+      "url": "https://github.com/danklammer/bytesize-icons",
+      "title": "danklammer/bytesize-icons: Tiny style-controlled SVG iconset",
+      "score": "278"
+    },
+    {
+      "url": "https://github.com/arielf/weight-loss",
+      "title": "arielf/weight-loss: Machine Learning meets ketosis: how to effectively lose weight",
+      "score": "250"
+    },
+    {
+      "url": "https://github.com/airbnb/react-dates",
+      "title": "airbnb/react-dates: An accessible, easily internationalizable, mobile-friendly datepicker library for the web",
+      "score": "060"
+    },
+    {
+      "url": "https://github.com/hedengcheng/tech",
+      "title": "hedengcheng/tech: programming, database, distributed system",
+      "score": "882"
+    }
+  ]
+}
