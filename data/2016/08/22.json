@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12330311",
+      "title": "Introducing OpenStreetView",
+      "score": "325"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12332876",
+      "title": "A year of Rust and DNS",
+      "score": "154"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12330573",
+      "title": "What Golang Is and Is Not",
+      "score": "147"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12332717",
+      "title": "The gif is dead. Long live the gif",
+      "score": "140"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12330689",
+      "title": "The Amiga Boing Ball Explained",
+      "score": "123"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12333197",
+      "title": "Key study from \"Thinking Fast, Thinking Slow\" fails replication [pdf]",
+      "score": "114"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12330251",
+      "title": "Everyday ‘Placebo Buttons’ Create Semblance of Control",
+      "score": "113"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12331743",
+      "title": "Learning from Ada",
+      "score": "97"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12331458",
+      "title": "On the State of Pony",
+      "score": "91"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12331225",
+      "title": "Mobile eCommerce: Product Details",
+      "score": "87"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4yugui/reactos_042_net_framework_2040_support/",
+      "title": "ReactOS 0.4.2 (.NET Framework 2.0\\4.0 support)",
+      "score": "470"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4yu2es/semile_a_profiling_framework_currently_support_c/",
+      "title": "semile: a profiling framework (currently support c++)",
+      "score": "62"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4yurss/keawe_block_i_hire_engineers_at_google_heres_what/",
+      "title": "Keawe Block: I hire Engineers at Google - here's what I look for (and why)",
+      "score": "55"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4yvyof/learning_from_ada/",
+      "title": "Learning from Ada",
+      "score": "64"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4yvw8b/ray_a_new_python_web_framework/",
+      "title": "Ray: a new python web framework",
+      "score": "53"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4yvlfz/the_anatomy_of_online_technical_communities_how/",
+      "title": "The Anatomy of Online Technical Communities - How tech communities are born and killed online",
+      "score": "45"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4yx697/joe_duffys_presentation_safe_systems_programming/",
+      "title": "Joe Duffy's presentation &quot;Safe Systems Programming in C# and .NET&quot;",
+      "score": "36"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4yvh4x/thoughts_about_a_webglnext_an_unofficial_proposal/",
+      "title": "Thoughts about a WebGL-Next - An Unofficial Proposal For The Next WebGL",
+      "score": "31"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4yubp2/decision_trees_with_kotlin/",
+      "title": "Decision Trees with Kotlin",
+      "score": "26"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4yxwyw/a_year_of_rust_and_dns/",
+      "title": "A year of Rust and DNS",
+      "score": "37"
+    }
+  ],
+  "medium": [
+    {
+      "title": "On dating men with “potential”",
+      "score": "1135",
+      "url": "https://medium.com/p/on-dating-men-with-potential-2a7a5fbf5b0b"
+    },
+    {
+      "title": "WTFUK",
+      "score": "1193",
+      "url": "https://medium.com/p/wtfuk-73009d5623b4"
+    },
+    {
+      "title": "This is Your Life in Silicon Valley",
+      "score": "5999",
+      "url": "https://medium.com/p/this-is-your-life-in-silicon-valley-933091235095"
+    },
+    {
+      "title": "Why Am I So Fat?",
+      "score": "2054",
+      "url": "https://medium.com/p/why-am-i-so-fat-91564fc3a0c7"
+    },
+    {
+      "title": "Eleven Reasons To Be Excited About The Future of Technology",
+      "score": "1694",
+      "url": "https://medium.com/p/eleven-reasons-to-be-excited-about-the-future-of-technology-ef5f9b939cb2"
+    },
+    {
+      "title": "Is Trump Purposely Sabotaging His Campaign?",
+      "score": "3116",
+      "url": "https://medium.com/p/is-trump-purposely-sabotaging-his-campaign-91b11fe07a91"
+    },
+    {
+      "title": "How to Hack Your Brain to Destroy Procrastination, According to Harvard Research",
+      "score": "614",
+      "url": "https://medium.com/p/how-to-hack-your-brain-to-destroy-procrastination-and-accomplish-more-in-life-according-to-harvard-adb84345892f"
+    },
+    {
+      "title": "There Has to Be a Better Way to End Rape Culture: It Isn’t At All Like Stealing $5",
+      "score": "224",
+      "url": "https://medium.com/p/there-has-to-be-a-better-way-to-end-rape-culture-thoughts-on-exchange-based-analogies-f39b2ff3a182"
+    },
+    {
+      "title": "The 3 Stages of Failure in Life and Work (And How to Fix Them)",
+      "score": "340",
+      "url": "https://medium.com/p/the-3-stages-of-failure-in-life-and-work-and-how-to-fix-them-5d69196e0b38"
+    },
+    {
+      "title": "The Unicorn Hedge",
+      "score": "247",
+      "url": "https://medium.com/p/welcome-to-the-unicorn-hedge-2fd3c6b50f89"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/html5-speedtest-by-ookla",
+      "title": "HTML5 Speedtest by Ookla: The world’s most trusted internet speedtest",
+      "score": "232"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/crx-extractor",
+      "title": "CRX Extractor: Get any Chrome Extension source code. Learn and hack!",
+      "score": "195"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/arthur-2",
+      "title": "Arthur: Effortlessly optimize some of your Mac&#x27;s hidden settings",
+      "score": "237"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/hyfy",
+      "title": "HYFY: Record your screen &amp; voice. Share instantly.",
+      "score": "240"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/get-blog-by-wordpress",
+      "title": "Get.blog by WordPress: Prebook .blog domains before it&#x27;s open to public",
+      "score": "103"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/keystroke",
+      "title": "Keystroke: Use your smartphone as a remote for your PC",
+      "score": "62"
+    },
+    {
+      "url": "https://www.producthunt.com/games/qwertybeats",
+      "title": "QWERTYbeats: Fun with music using your computer keybord",
+      "score": "1"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/house-of-god",
+      "title": "House Of God: Thousands of Hours of Spiritual and Religious Content",
+      "score": "52"
+    },
+    {
+      "url": "https://www.producthunt.com/books/makers-and-developers",
+      "title": "Makers and Developers: The Business of Making Things for Startup Entrepreneurs",
+      "score": "4"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/true-north-design-horizons-diversity",
+      "title": "True North - DESIGN HORIZONS - DIVERSITY: Diversity is a massive problem in tech.",
+      "score": "1"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/Kickball/awesome-selfhosted",
+      "title": "Kickball/awesome-selfhosted: This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.",
+      "score": "675"
+    },
+    {
+      "url": "https://github.com/madler/pigz",
+      "title": "madler/pigz: A parallel implementation of gzip for modern multi-processor, multi-core machines.",
+      "score": "321"
+    },
+    {
+      "url": "https://github.com/facebookresearch/fastText",
+      "title": "facebookresearch/fastText: Library for fast text representation and classification.",
+      "score": "295"
+    },
+    {
+      "url": "https://github.com/PowerShell/PowerShell",
+      "title": "PowerShell/PowerShell: PowerShell for every system!",
+      "score": "248"
+    },
+    {
+      "url": "https://github.com/tidwall/redcon",
+      "title": "tidwall/redcon: Fast Redis compatible server framework for Go",
+      "score": "186"
+    },
+    {
+      "url": "https://github.com/jlevy/the-art-of-command-line",
+      "title": "jlevy/the-art-of-command-line: Master the command line, in one page",
+      "score": "140"
+    },
+    {
+      "url": "https://github.com/FormidableLabs/webpack-dashboard",
+      "title": "FormidableLabs/webpack-dashboard: A CLI dashboard for webpack dev server",
+      "score": "130"
+    },
+    {
+      "url": "https://github.com/jaywcjlove/awesome-mac",
+      "title": "jaywcjlove/awesome-mac:  This repo is a collection of awesome Mac applications and tools for developers and designers.",
+      "score": "119"
+    },
+    {
+      "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+      "title": "kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way. No scripts.",
+      "score": "116"
+    },
+    {
+      "url": "https://github.com/parkjs814/AlgorithmVisualizer",
+      "title": "parkjs814/AlgorithmVisualizer: Algorithm Visualizer",
+      "score": "104"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/300866#reply12",
+      "title": "奥运会闭幕式日本交接部分全是情怀！",
+      "score": "12"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300876#reply12",
+      "title": "10 月份交房准备装修，问题来了。。。。。",
+      "score": "12"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300874#reply11",
+      "title": "Mac 版 Office 全系列的 cmd+c 粘贴失败问题，打算做成产品 feature 么？",
+      "score": "11"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300872#reply9",
+      "title": "电信缓存来了",
+      "score": "9"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300863#reply8",
+      "title": "有没有外置刻录机推荐?",
+      "score": "8"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300879#reply8",
+      "title": "UI 设计，在深圳待了三年，下下周去上海，工作好找吗？",
+      "score": "8"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300877#reply6",
+      "title": "买了三个月的 macbook 13 retina 的苹果碎屏了，只能换屏了吗？",
+      "score": "6"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300873#reply5",
+      "title": "手机静音但是老是震动",
+      "score": "5"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300862#reply4",
+      "title": "公司打算在上海注册，想问下杨浦跟虹口，哪个更适合创业发展？",
+      "score": "4"
+    },
+    {
+      "url": "https://www.v2ex.com/t/300864#reply4",
+      "title": "ip6 重启，无限",
+      "score": "4"
+    }
+  ]
+}
