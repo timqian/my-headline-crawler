@@ -3,12 +3,12 @@
     {
       "url": "https://news.ycombinator.com/item?id=12335614",
       "title": "Fighting Cancer",
-      "score": "304"
+      "score": "305"
     },
     {
       "url": "https://news.ycombinator.com/item?id=12334588",
       "title": "Penny Auctions",
-      "score": "297"
+      "score": "298"
     },
     {
       "url": "https://news.ycombinator.com/item?id=12334270",
@@ -18,22 +18,22 @@
     {
       "url": "https://news.ycombinator.com/item?id=12335367",
       "title": "How to be mediocre and be happy with yourself",
-      "score": "204"
+      "score": "206"
     },
     {
       "url": "https://news.ycombinator.com/item?id=12335272",
       "title": "Almost 80% of Private Day Traders Lose Money",
-      "score": "200"
+      "score": "202"
     },
     {
       "url": "https://news.ycombinator.com/item?id=12335134",
       "title": "The Relation of Toxoplasma Infection and Sexual Attraction to Fear, Danger, Pain",
-      "score": "120"
+      "score": "121"
     },
     {
       "url": "https://news.ycombinator.com/item?id=12335256",
       "title": "Reflections on NixOS",
-      "score": "111"
+      "score": "112"
     },
     {
       "url": "https://news.ycombinator.com/item?id=12336246",
@@ -43,39 +43,39 @@
     {
       "url": "https://news.ycombinator.com/item?id=12337098",
       "title": "Evidence points to another Snowden at the NSA",
-      "score": "94"
+      "score": "93"
     },
     {
       "url": "https://news.ycombinator.com/item?id=12334272",
       "title": "Everything I Am Afraid Might Happen If I Ask New Acquaintances to Get Coffee",
-      "score": "91"
+      "score": "92"
     }
   ],
   "reddit": [
     {
       "url": "https://www.reddit.com/r/programming/comments/4yyrzd/nasa_maintains_a_github_project_of_the_primary/",
       "title": "NASA maintains a GitHub project of the primary software they use to operate rovers and visualize collected data, allowing anyone to debug, test, and implement new features.",
-      "score": "711"
+      "score": "716"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4yxwyw/a_year_of_rust_and_dns/",
       "title": "A year of Rust and DNS",
-      "score": "436"
+      "score": "441"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4yx697/joe_duffys_presentation_safe_systems_programming/",
       "title": "Joe Duffy's presentation &quot;Safe Systems Programming in C# and .NET&quot;",
-      "score": "124"
+      "score": "122"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4yvyof/learning_from_ada/",
       "title": "Learning from Ada",
-      "score": "94"
+      "score": "90"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4yvw8b/ray_a_new_python_web_framework/",
       "title": "Ray: a new python web framework",
-      "score": "76"
+      "score": "78"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4yz9dh/the_unreasonable_effectiveness_of_recurrent/",
@@ -85,58 +85,58 @@
     {
       "url": "https://www.reddit.com/r/programming/comments/4yxvla/replit_classroom_a_platform_for_teaching/",
       "title": "Repl.it classroom: a platform for teaching programming",
-      "score": "67"
+      "score": "70"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4yvlfz/the_anatomy_of_online_technical_communities_how/",
       "title": "The Anatomy of Online Technical Communities - How tech communities are born and killed online",
-      "score": "60"
+      "score": "56"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4yymqq/mainframes_as_a_lifestyle_choice/",
       "title": "Mainframes as a lifestyle choice",
-      "score": "39"
+      "score": "38"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/4yzm50/how_to_understand_a_20year_old_millionline_code/",
       "title": "How to understand a 20-year old million-line code base (x-post from /r/cpp)",
-      "score": "34"
+      "score": "31"
     }
   ],
   "medium": [
     {
       "title": "On dating men with “potential”",
-      "score": "1409",
+      "score": "1413",
       "url": "https://medium.com/p/on-dating-men-with-potential-2a7a5fbf5b0b"
     },
     {
       "title": "WTFUK",
-      "score": "1251",
+      "score": "1252",
       "url": "https://medium.com/p/wtfuk-73009d5623b4"
     },
     {
       "title": "This is Your Life in Silicon Valley",
-      "score": "6188",
+      "score": "6189",
       "url": "https://medium.com/p/this-is-your-life-in-silicon-valley-933091235095"
     },
     {
       "title": "The Unicorn Hedge",
-      "score": "442",
+      "score": "444",
       "url": "https://medium.com/p/welcome-to-the-unicorn-hedge-2fd3c6b50f89"
     },
     {
       "title": "Eleven Reasons To Be Excited About The Future of Technology",
-      "score": "1959",
+      "score": "1960",
       "url": "https://medium.com/p/eleven-reasons-to-be-excited-about-the-future-of-technology-ef5f9b939cb2"
     },
     {
       "title": "In Romantic Relationships, You’re Either a Spark-Chaser or a Long Burner.",
-      "score": "428",
+      "score": "429",
       "url": "https://medium.com/p/in-romantic-relationships-youre-either-a-spark-chaser-or-a-long-burner-9a798b53f5d3"
     },
     {
       "title": "Why Am I So Fat?",
-      "score": "2132",
+      "score": "2133",
       "url": "https://medium.com/p/why-am-i-so-fat-91564fc3a0c7"
     },
     {
@@ -151,7 +151,7 @@
     },
     {
       "title": "How to Hack Your Brain to Destroy Procrastination, According to Harvard Research",
-      "score": "797",
+      "score": "798",
       "url": "https://medium.com/p/how-to-hack-your-brain-to-destroy-procrastination-and-accomplish-more-in-life-according-to-harvard-adb84345892f"
     }
   ],
@@ -159,17 +159,17 @@
     {
       "url": "https://www.producthunt.com/tech/tinkertool",
       "title": "TinkerTool: Tinker with the hidden settings of your Mac",
-      "score": "204"
+      "score": "210"
     },
     {
       "url": "https://www.producthunt.com/tech/gigster-3-0",
       "title": "Gigster 3.0: Smart software development service",
-      "score": "220"
+      "score": "224"
     },
     {
       "url": "https://www.producthunt.com/tech/betafy",
       "title": "Betafy: Where startups meet beta users!",
-      "score": "149"
+      "score": "151"
     },
     {
       "url": "https://www.producthunt.com/tech/nature-sound",
@@ -179,12 +179,12 @@
     {
       "url": "https://www.producthunt.com/tech/device-mockups",
       "title": "Device Mockups: Ready to use vector device mockups for Sketch &amp; Illustrator",
-      "score": "57"
+      "score": "59"
     },
     {
       "url": "https://www.producthunt.com/tech/snapdex",
       "title": "Snapdex: A wiki-like directory of Snapchat users.",
-      "score": "62"
+      "score": "64"
     },
     {
       "url": "https://www.producthunt.com/tech/slack-birthday-bot",
@@ -276,9 +276,9 @@
       "score": "67"
     },
     {
-      "url": "https://www.v2ex.com/t/300981#reply62",
+      "url": "https://www.v2ex.com/t/300981#reply63",
       "title": "写了一个网站 《 滚蛋吧！莆田系》 欢迎 fork",
-      "score": "62"
+      "score": "63"
     },
     {
       "url": "https://www.v2ex.com/t/300973#reply61",
@@ -301,9 +301,9 @@
       "score": "42"
     },
     {
-      "url": "https://www.v2ex.com/t/301044#reply38",
+      "url": "https://www.v2ex.com/t/301044#reply39",
       "title": "来试试你能看出这个蓝色和紫色的区别 ？",
-      "score": "38"
+      "score": "39"
     },
     {
       "url": "https://www.v2ex.com/t/301047#reply34",
