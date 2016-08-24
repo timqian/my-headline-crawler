@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12349384",
+      "title": "Types",
+      "score": "313"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12350890",
+      "title": "Why GNU grep is fast (2010)",
+      "score": "285"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12350522",
+      "title": "Why You Should Learn Python",
+      "score": "274"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12350599",
+      "title": "A few HTML tips",
+      "score": "233"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12347595",
+      "title": "Secret Cameras Record Baltimore’s Every Move from Above",
+      "score": "195"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12349817",
+      "title": "Undebt: How We Refactored 3M Lines of Code",
+      "score": "181"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12351660",
+      "title": "The Imposter's Handbook",
+      "score": "178"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12349437",
+      "title": "Startups that launched at Y Combinator S16 Demo Day 2",
+      "score": "169"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12349363",
+      "title": "Vesper, Adieu",
+      "score": "162"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12349875",
+      "title": "More, less, and a story of typical Unix fossilization",
+      "score": "154"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zb2be/why_gnu_grep_is_fast/",
+      "title": "Why GNU grep is fast",
+      "score": "972"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4z8oop/types/",
+      "title": "types",
+      "score": "108"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4z8wvx/whats_new_in_kdevelop_50_a_crossplatform_c_c/",
+      "title": "What's new in KDevelop 5.0? (a cross-platform C, C++, Python, PHP &amp; QML/JS IDE)",
+      "score": "80"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4z7w5u/jon_blow_jaidemo_operator_overloading/",
+      "title": "Jon Blow - JaiDemo: Operator Overloading",
+      "score": "65"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zb6xz/algorithm_visualizer_write_down_your_algorithm_to/",
+      "title": "Algorithm Visualizer: Write down your algorithm to be visualized",
+      "score": "32"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4z7qdf/grpc_is_now_10_and_ready_for_production/",
+      "title": "grpc is now 1.0 and ready for production deployments [x-post]",
+      "score": "29"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4z9yuq/jvm_debugger_memory_view_for_intellij_idea/",
+      "title": "JVM Debugger Memory View for IntelliJ IDEA",
+      "score": "31"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zcgyd/mobile_audio_processing_and_memory_bus_bandwidth/",
+      "title": "Mobile Audio Processing and Memory Bus Bandwidth and Load",
+      "score": "35"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4z8neu/for_a_few_minutes_today_the_npm_package_fs_was/",
+      "title": "For a few minutes today the npm package &quot;fs&quot; was unpublished, making a lot of project to unable to install dependencies",
+      "score": "24"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zbh2h/what_would_you_like_to_see_most_in_minix_linus/",
+      "title": "What would you like to see most in minix? (Linus Torvald's post from 1991)",
+      "score": "23"
+    }
+  ],
+  "medium": [
+    {
+      "title": "50 Ways Happier, Healthier, And More Successful People Live On Their Own Terms",
+      "score": "2021",
+      "url": "https://medium.com/p/50-ways-happier-healthier-and-more-successful-people-live-on-their-own-terms-31ba8f482448"
+    },
+    {
+      "title": "Div Turakhia Just Became A Billionaire",
+      "score": "478",
+      "url": "https://medium.com/p/two-decades-ago-he-borrowed-500-from-his-dad-ef20be70f8f9"
+    },
+    {
+      "title": "Yes, you can leave the North America bubble",
+      "score": "849",
+      "url": "https://medium.com/p/yes-you-can-leave-the-north-america-bubble-a72f8d3aa583"
+    },
+    {
+      "title": "The Kid Who Revolutionized YouTube’s Tech Reviews",
+      "score": "492",
+      "url": "https://medium.com/p/the-kid-who-revolutionized-youtubes-tech-reviews-a5b9a2a03a04"
+    },
+    {
+      "title": "The United States of Hypocrisy",
+      "score": "574",
+      "url": "https://medium.com/p/the-united-states-of-hypocrisy-c3bfc949e37"
+    },
+    {
+      "title": "All your memes are belong to us",
+      "score": "129",
+      "url": "https://medium.com/p/all-your-memes-are-belong-to-us-bf639e85d3f5"
+    },
+    {
+      "title": "The X Factors for All 32 NFL Teams",
+      "score": "39",
+      "url": "https://medium.com/p/the-x-factors-for-all-32-nfl-teams-b73a29ee7d49"
+    },
+    {
+      "title": "Let’s Give ‘Con Air’ the Sequel(s) It Deserves",
+      "score": "286",
+      "url": "https://medium.com/p/con-air-sequels-matt-damon-107593556e26"
+    },
+    {
+      "title": "On dating men with “potential”",
+      "score": "1921",
+      "url": "https://medium.com/p/on-dating-men-with-potential-2a7a5fbf5b0b"
+    },
+    {
+      "title": "The Veil Between Me And The World",
+      "score": "102",
+      "url": "https://medium.com/p/the-veil-between-me-and-the-world-1542fda0ef79"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/storkstand-2-0",
+      "title": "StorkStand 2.0: StorkStand transforms any chair into a healthy standing desk",
+      "score": "181"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/teespring-direct",
+      "title": "Teespring Direct: Simple high-quality swag for you or your company",
+      "score": "158"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/ok-cookie",
+      "title": "OK Cookie: Horrible fortune cookies from Cards Against Humanity",
+      "score": "150"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/open-benchmarks",
+      "title": "Open Benchmarks: Live SaaS metric benchmarks from over 600 companies",
+      "score": "121"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/parallel",
+      "title": "Parallel: Listen to Spotify tracks with your friends at the same time",
+      "score": "105"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/branch-journeys",
+      "title": "Branch Journeys: The solution for mobile web to app conversion",
+      "score": "482"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/blackbox-3",
+      "title": "Blackbox: A shipping company from the makers of Cards Against Humanity",
+      "score": "104"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/feedback-tools",
+      "title": "Feedback Tools: Curated directory of tools for getting all the feedback",
+      "score": "82"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/emoji-dictionary",
+      "title": "Emoji Dictionary: Quickly lookup the meaning of any Emoji on Mac OS X",
+      "score": "63"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/xberts",
+      "title": "Xberts: Marketplace for creative products reviewed by influencers",
+      "score": "70"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager",
+      "title": "DevLight-Mobile-Agency/InfiniteCycleViewPager: Infinite cycle ViewPager with two-way orientation and interactive effect.",
+      "score": "701"
+    },
+    {
+      "url": "https://github.com/iamduo/workq",
+      "title": "iamduo/workq: Job server in Go",
+      "score": "654"
+    },
+    {
+      "url": "https://github.com/nasa/openmct",
+      "title": "nasa/openmct: A web based mission control framework.",
+      "score": "612"
+    },
+    {
+      "url": "https://github.com/reactotron/reactotron",
+      "title": "reactotron/reactotron: A CLI and OS X app for inspecting your React JS and React Native apps.",
+      "score": "564"
+    },
+    {
+      "url": "https://github.com/Kickball/awesome-selfhosted",
+      "title": "Kickball/awesome-selfhosted: This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.",
+      "score": "483"
+    },
+    {
+      "url": "https://github.com/benhowdle89/grade",
+      "title": "benhowdle89/grade: This JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images.",
+      "score": "414"
+    },
+    {
+      "url": "https://github.com/wichtounet/thor-os",
+      "title": "wichtounet/thor-os: Simple operating system in C++, written from scratch",
+      "score": "399"
+    },
+    {
+      "url": "https://github.com/FormidableLabs/react-music",
+      "title": "FormidableLabs/react-music: Make beats with React!",
+      "score": "324"
+    },
+    {
+      "url": "https://github.com/Yelp/undebt",
+      "title": "Yelp/undebt: A fast, straightforward, reliable tool for performing massive, automated code refactoring",
+      "score": "325"
+    },
+    {
+      "url": "https://github.com/grpc/grpc",
+      "title": "grpc/grpc: The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)",
+      "score": "275"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/301410#reply281",
+      "title": "国产的密码管理软件，我就问你敢不敢用！",
+      "score": "281"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301356#reply73",
+      "title": "自学 PHP 学的好心累啊 求解脱方法",
+      "score": "73"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301365#reply72",
+      "title": "[投票] PyConChina2016 大会纪念 T 恤创意的 Slogan",
+      "score": "72"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301432#reply68",
+      "title": "[集锦] 学生优惠资源 ，需要你的补充，对学弟的嘱咐啥的也来点吧",
+      "score": "68"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301499#reply64",
+      "title": "狗东整机价格为啥比散装便宜？",
+      "score": "64"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301392#reply52",
+      "title": "求造新英文词，中文译作“江湖”",
+      "score": "52"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301396#reply48",
+      "title": "微信小游戏 API 接口开发安全问题怎么处理？",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301494#reply42",
+      "title": "被蚊子咬了腿很痒，每晚睡着都会忍不住抠破，有没有什么物理杜绝的方法？",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301506#reply41",
+      "title": "吐槽一下： windows10 的 bug 已经严重影响我的工作了",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301359#reply33",
+      "title": "低工资+期权和高工资选一个",
+      "score": "33"
+    }
+  ]
+}
