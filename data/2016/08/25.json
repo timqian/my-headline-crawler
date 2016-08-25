@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12353441",
+      "title": "Planet Found in Habitable Zone Around Nearest Star",
+      "score": "1135"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12355102",
+      "title": "Show HN: Carbide – A New Programming Environment",
+      "score": "569"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12356218",
+      "title": "BlackBox",
+      "score": "375"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12357837",
+      "title": "Git Undo",
+      "score": "216"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12358205",
+      "title": "Looking ahead for WhatsApp",
+      "score": "167"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12356751",
+      "title": "Essential Electron",
+      "score": "148"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12358421",
+      "title": "Arguments against JSON-driven development",
+      "score": "132"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12358495",
+      "title": "Uber to post second-quarter losses exceeding $100M",
+      "score": "128"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12354933",
+      "title": "The One Second Dash",
+      "score": "125"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12358050",
+      "title": "How many x86 instructions are there?",
+      "score": "101"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zged0/top_10_h1b_employers_are_all_it_offshore/",
+      "title": "Top 10 H-1B employers are all IT offshore outsourcing firms, costing U.S. workers tens of thousands of jobs",
+      "score": "2562"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zg4kl/whats_new_in_c_70/",
+      "title": "What’s New in C# 7.0",
+      "score": "185"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zd7uh/the_treacherous_optimization/",
+      "title": "The Treacherous Optimization",
+      "score": "142"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zgawj/does_a_compiler_use_all_x86_instructions/",
+      "title": "Does a compiler use all x86 instructions?",
+      "score": "78"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zfrb6/analyzing_crime_in_san_francisco_with_sql/",
+      "title": "Analyzing Crime in San Francisco with SQL",
+      "score": "54"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zexo8/a_brief_idea_on_how_to_name_color_variables/",
+      "title": "A brief idea on how to name color variables",
+      "score": "35"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zh9l8/8_minutes_of_programming_advice_from_my_13/",
+      "title": "8 minutes of programming advice from my 13 year-old self",
+      "score": "44"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zgzk7/parsing_an_expanded_timeline/",
+      "title": "Parsing: an expanded timeline",
+      "score": "20"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zhanu/25_years_of_linux_so_far_xpost_rlinux/",
+      "title": "25 Years of Linux — so far (xpost /r/linux)",
+      "score": "14"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zi5yb/pretty_cool_javascript_programming_environment/",
+      "title": "Pretty cool javascript programming environment",
+      "score": "14"
+    }
+  ],
+  "medium": [
+    {
+      "title": "An Exclusive Look at How AI and Machine Learning Work at Apple",
+      "score": "838",
+      "url": "https://medium.com/p/an-exclusive-look-at-how-ai-and-machine-learning-work-at-apple-8dbfb131932b"
+    },
+    {
+      "title": "50 Ways Happier, Healthier, And More Successful People Live On Their Own Terms",
+      "score": "2684",
+      "url": "https://medium.com/p/50-ways-happier-healthier-and-more-successful-people-live-on-their-own-terms-31ba8f482448"
+    },
+    {
+      "title": "All your memes are belong to us",
+      "score": "269",
+      "url": "https://medium.com/p/all-your-memes-are-belong-to-us-bf639e85d3f5"
+    },
+    {
+      "title": "The Apple-Google shift",
+      "score": "669",
+      "url": "https://medium.com/p/the-apple-google-shift-bf5949c82d0f"
+    },
+    {
+      "title": "My Summer Working as an Uber Bike Messenger",
+      "score": "244",
+      "url": "https://medium.com/p/my-summer-working-as-an-uber-bike-messenger-5beca3f07307"
+    },
+    {
+      "title": "Terrorizing Ourselves?",
+      "score": "218",
+      "url": "https://medium.com/p/terrorizing-ourselves-b6ae50921c82"
+    },
+    {
+      "title": "No, Bloomberg, the Olympics didn’t stumble because of Millennials. It stumbled because of NBC.",
+      "score": "634",
+      "url": "https://medium.com/p/no-bloomberg-the-olympics-didnt-stumble-because-of-millenials-it-stumbled-because-of-nbc-17435801e8"
+    },
+    {
+      "title": "Div Turakhia Just Became A Billionaire",
+      "score": "758",
+      "url": "https://medium.com/p/two-decades-ago-he-borrowed-500-from-his-dad-ef20be70f8f9"
+    },
+    {
+      "title": "Six Things Our Terrible Movie Summer Taught Us",
+      "score": "64",
+      "url": "https://medium.com/p/terrible-summer-movies-lessons-ee60907521ff"
+    },
+    {
+      "title": "The Design Process",
+      "score": "792",
+      "url": "https://medium.com/p/the-design-process-67df3e8ec68f"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/four-hour-book-club",
+      "title": "Four Hour Book Club: 300+ Books recommended on the Tim Ferriss Show 📚",
+      "score": "280"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/product-hunt-daily",
+      "title": "Product Hunt Daily: A daily digest of the best of Product Hunt w/ your friends 💌",
+      "score": "162"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/pitchdeckers",
+      "title": "Pitchdeckers: Weekly free pitch deck templates",
+      "score": "183"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/carbide",
+      "title": "Carbide: A new kind of programming environment",
+      "score": "130"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/botfunded-by-botlist",
+      "title": "BotFunded by botlist: Track which chatbots are getting the most funding",
+      "score": "97"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/mondly-2",
+      "title": "Mondly: Features a voice chatbot for learning languages",
+      "score": "96"
+    },
+    {
+      "url": "https://www.producthunt.com/books/jolt-make-your-product-stand-out",
+      "title": "Jolt! Make your product stand out.: For devs, designers, freelancers, makers, &amp; entrepreneurs.",
+      "score": "98"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/lydia-6-0",
+      "title": "Lydia 6.0: The payment app, completely redesigned.",
+      "score": "62"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/sweatcoin",
+      "title": "Sweatcoin: The app that pays you to get fit",
+      "score": "470"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/wade-wendy",
+      "title": "Wade &amp; Wendy: Make recruiting human again via conversational intelligence",
+      "score": "78"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager",
+      "title": "DevLight-Mobile-Agency/InfiniteCycleViewPager: Infinite cycle ViewPager with two-way orientation and interactive effect.",
+      "score": "517"
+    },
+    {
+      "url": "https://github.com/reactotron/reactotron",
+      "title": "reactotron/reactotron: A CLI and OS X app for inspecting your React JS and React Native apps.",
+      "score": "481"
+    },
+    {
+      "url": "https://github.com/Yelp/undebt",
+      "title": "Yelp/undebt: A fast, straightforward, reliable tool for performing massive, automated code refactoring",
+      "score": "387"
+    },
+    {
+      "url": "https://github.com/nasa/openmct",
+      "title": "nasa/openmct: A web based mission control framework.",
+      "score": "369"
+    },
+    {
+      "url": "https://github.com/benhowdle89/grade",
+      "title": "benhowdle89/grade: This JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images.",
+      "score": "306"
+    },
+    {
+      "url": "https://github.com/mehrdadrad/mylg",
+      "title": "mehrdadrad/mylg: Network Diagnostic Tool",
+      "score": "252"
+    },
+    {
+      "url": "https://github.com/jaywcjlove/awesome-mac",
+      "title": "jaywcjlove/awesome-mac:  This repo is a collection of awesome Mac applications and tools for developers and designers.",
+      "score": "244"
+    },
+    {
+      "url": "https://github.com/Kickball/awesome-selfhosted",
+      "title": "Kickball/awesome-selfhosted: This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.",
+      "score": "240"
+    },
+    {
+      "url": "https://github.com/alibaba/DataX",
+      "title": "alibaba/DataX: DataX 是阿里巴巴集团内被广泛使用的离线数据同步工具/平台，实现包括 MySQL、Oracle、HDFS、Hive、OceanBase、HBase、OTS、ODPS 等各种异构数据源之间高效的数据同步功能。",
+      "score": "200"
+    },
+    {
+      "url": "https://github.com/tensorflow/models",
+      "title": "tensorflow/models: Models built with TensorFlow",
+      "score": "191"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/301610#reply102",
+      "title": "最新最全的中国行政区划数据（省市区街道）",
+      "score": "102"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301718#reply83",
+      "title": "防老百姓跟防贼一样？？",
+      "score": "83"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301710#reply63",
+      "title": "今天离职，领导的经典言论",
+      "score": "63"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301655#reply56",
+      "title": "我是技术人员不是网管",
+      "score": "56"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301611#reply44",
+      "title": "我写了篇文章，上了 Hacker News 前排耶！(2nd)",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301635#reply41",
+      "title": "Android7 都已经发布了，势必增加 Android 碎片化啊",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301621#reply36",
+      "title": "程序员该有脾气么",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301711#reply32",
+      "title": "瞎想，做一个类似慕课网的平台，专注于中小学生的教育怎么样?",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301670#reply31",
+      "title": "入手半年的 IE80 被🐱咬断了，求推荐",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301743#reply31",
+      "title": "从自由到自律，一个远程工作者的自述",
+      "score": "31"
+    }
+  ]
+}
