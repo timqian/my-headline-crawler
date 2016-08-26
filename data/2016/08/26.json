@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12360662",
+      "title": "NSO Group's iPhone Zero-Days used against a UAE Human Rights Defender",
+      "score": "1002"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12364297",
+      "title": "Taking Unclaimed DigitalOcean Domains",
+      "score": "325"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12364123",
+      "title": "The Sad State of Docker",
+      "score": "282"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12365693",
+      "title": "Show HN: Top books mentioned in comments on Hacker News",
+      "score": "280"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12362653",
+      "title": "Kerbal Control Panel",
+      "score": "166"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12363608",
+      "title": "Picolisp",
+      "score": "150"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12364572",
+      "title": "Italy Quake Rescuers Ask Locals to Unlock their Wi-Fi",
+      "score": "141"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12364068",
+      "title": "Interview with Steve Wozniak",
+      "score": "129"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12365178",
+      "title": "Mars Explorers Wanted Posters",
+      "score": "129"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12364061",
+      "title": "Dropbox prompts password resets",
+      "score": "119"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zl8mh/the_movfuscator_compiles_c_programs_into_mov/",
+      "title": "The M/o/Vfuscator compiles C programs into &quot;mov&quot; instructions, and only &quot;mov&quot; instructions. Arithmetic, comparisons, jumps, function calls, and everything else a program needs are all performed through mov operations",
+      "score": "518"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zo5p7/lvalues_and_rvalues_used_to_be_simple_things_now/",
+      "title": "lvalues and rvalues used to be simple things. Now, only a handful of people truly understand all facets of C++ value categories.",
+      "score": "197"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4znwwo/how_to_actually_reduce_software_defects/",
+      "title": "How to Actually Reduce Software Defects",
+      "score": "90"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zlpp6/there_is_now_a_rust_implementation_of_gnu_parallel/",
+      "title": "There is Now a Rust Implementation of GNU Parallel",
+      "score": "78"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zmnuk/interactive_guide_to_tetris_in_clojurescript/",
+      "title": "Interactive Guide to Tetris in ClojureScript",
+      "score": "47"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4znswh/rxjava_200_release_candidate/",
+      "title": "RxJava 2.0.0 Release Candidate",
+      "score": "49"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zmuy5/faster_objects_and_arrays_by_gil_tene_in_java/",
+      "title": "&quot;Faster Objects and Arrays&quot; by Gil Tene (in Java)",
+      "score": "37"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zomnz/certificate_authority_gave_out_certs_for_github/",
+      "title": "Certificate Authority Gave Out Certs For GitHub To Someone Who Just Had A GitHub Account",
+      "score": "47"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zo9gt/contributing_osscandir_to_python/",
+      "title": "Contributing os.scandir() to Python",
+      "score": "34"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4znold/nasa_openmct_moving_mission_control_centers_from/",
+      "title": "NASA OpenMCT: moving Mission Control Centers from Java/Eclipse to node.js",
+      "score": "20"
+    }
+  ],
+  "medium": [
+    {
+      "title": "50 Ways Happier, Healthier, And More Successful People Live On Their Own Terms",
+      "score": "3222",
+      "url": "https://medium.com/p/50-ways-happier-healthier-and-more-successful-people-live-on-their-own-terms-31ba8f482448"
+    },
+    {
+      "title": "An Exclusive Look at How AI and Machine Learning Work at Apple",
+      "score": "1176",
+      "url": "https://medium.com/p/an-exclusive-look-at-how-ai-and-machine-learning-work-at-apple-8dbfb131932b"
+    },
+    {
+      "title": "Terrorizing Ourselves?",
+      "score": "306",
+      "url": "https://medium.com/p/terrorizing-ourselves-b6ae50921c82"
+    },
+    {
+      "title": "Fitter. Happier. More productive. Working remotely.",
+      "score": "738",
+      "url": "https://medium.com/p/the-economics-of-working-remotely-28d4173e16e2"
+    },
+    {
+      "title": "Typography is impossible",
+      "score": "599",
+      "url": "https://medium.com/p/typography-is-impossible-5872b0c7f891"
+    },
+    {
+      "title": "TRUST YOURSELF: A practical guide to achieving any goal and living beyond fear",
+      "score": "316",
+      "url": "https://medium.com/p/trust-yourself-a-practical-guide-to-achieving-any-goal-and-living-beyond-fear-c70bd672e273"
+    },
+    {
+      "title": "The Apple-Google shift",
+      "score": "828",
+      "url": "https://medium.com/p/the-apple-google-shift-bf5949c82d0f"
+    },
+    {
+      "title": "The NFL’s Linebacker Evolution",
+      "score": "64",
+      "url": "https://medium.com/p/nfl-linebacker-position-evolution-deone-bucannon-mark-barron-6bd005ab96b"
+    },
+    {
+      "title": "The State Of JavaScript: Front-End Frameworks",
+      "score": "308",
+      "url": "https://medium.com/p/the-state-of-javascript-front-end-frameworks-1a2d8a61510"
+    },
+    {
+      "title": "A Stat to Explain Barb, the Internet, and Television",
+      "score": "129",
+      "url": "https://medium.com/p/a-stat-to-explain-barb-the-internet-and-television-43adec4774b0"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/pattern-2",
+      "title": "Pattern: Simple, focused, drawing application for the iPad.",
+      "score": "304"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/morning-routine-2-0",
+      "title": "Morning Routine 2.0: The easiest way to track your routines just got better",
+      "score": "152"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/blokdust",
+      "title": "Blokdust: Make synths, samplers &amp; self-playing contraptions",
+      "score": "92"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/napkin-5",
+      "title": "Napkin: Startup idea app for entrepreneurs",
+      "score": "102"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/krautkopf",
+      "title": "Krautkopf: Seasonal vegetarian recipes",
+      "score": "56"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/let-s-talk-the-anchor-podcast-allison-esposito-q-a",
+      "title": "Let&#x27;s Talk: The Anchor Podcast - Allison Esposito Q&amp;A: Allison Esposito of Tech Ladies discusses hiring diversity",
+      "score": "13"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/doit-bot",
+      "title": "DOit bot: An easy way to set reminders",
+      "score": "49"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/outta",
+      "title": "OUTTA: Make &amp; discover virtual spaces at real world locations",
+      "score": "88"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/dat-play-doe-2",
+      "title": "Dat Play Doe: A daily digest of top sports plays",
+      "score": "19"
+    },
+    {
+      "url": "https://www.producthunt.com/games/six-2",
+      "title": "Six!: Beautiful new puzzle game from makers of 1010! and Merged!",
+      "score": "20"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/facebookresearch/deepmask",
+      "title": "facebookresearch/deepmask: Torch implementation of DeepMask and SharpMask",
+      "score": "569"
+    },
+    {
+      "url": "https://github.com/facebookresearch/multipathnet",
+      "title": "facebookresearch/multipathnet: A Torch implementation of the object detection network from \"A MultiPath Network for Object Detection\" ()",
+      "score": "348"
+    },
+    {
+      "url": "https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager",
+      "title": "DevLight-Mobile-Agency/InfiniteCycleViewPager: Infinite cycle ViewPager with two-way orientation and interactive effect.",
+      "score": "352"
+    },
+    {
+      "url": "https://github.com/babel/babili",
+      "title": "babel/babili: Babel preset and cli for minification (beta)",
+      "score": "340"
+    },
+    {
+      "url": "https://github.com/reactotron/reactotron",
+      "title": "reactotron/reactotron: A CLI and OS X app for inspecting your React JS and React Native apps.",
+      "score": "277"
+    },
+    {
+      "url": "https://github.com/Yelp/undebt",
+      "title": "Yelp/undebt: A fast, straightforward, reliable tool for performing massive, automated code refactoring",
+      "score": "263"
+    },
+    {
+      "url": "https://github.com/benhowdle89/grade",
+      "title": "benhowdle89/grade: This JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images.",
+      "score": "223"
+    },
+    {
+      "url": "https://github.com/leriomaggio/deep-learning-keras-euroscipy2016",
+      "title": "leriomaggio/deep-learning-keras-euroscipy2016: # Deep Learning with Keras",
+      "score": "198"
+    },
+    {
+      "url": "https://github.com/google/tiger",
+      "title": "google/tiger: o",
+      "score": "199"
+    },
+    {
+      "url": "https://github.com/nasa/openmct",
+      "title": "nasa/openmct: A web based mission control framework.",
+      "score": "200"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/301836#reply79",
+      "title": "应届生怎么快速在公司独当一面",
+      "score": "79"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301983#reply61",
+      "title": "今年还有卖螃蟹的么？",
+      "score": "61"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301891#reply55",
+      "title": "如果不想做技术了，做点啥好呢？",
+      "score": "55"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301893#reply48",
+      "title": "上班时总会有种莫名的烦躁,没有动力写代码,甚至有些厌烦自己在做的事",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301913#reply36",
+      "title": "两台一样的 MacBook，有什么有趣的玩法吗？",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301925#reply35",
+      "title": "在这个骗子猖獗了时候，我想问问有多少 v 友，曾今被骗子伤害过，骗子太可恶了，网络骗子有个个查不到人是谁~",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302006#reply35",
+      "title": "chrome 浏览器竟然是明文保存密码。。。",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301841#reply31",
+      "title": "87-90 是第三次婴儿潮，那么最近两年会不会出现第四次婴儿潮",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301889#reply31",
+      "title": "大家一般怎么理财？",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/301953#reply31",
+      "title": "电脑中毒，被勒索比特币",
+      "score": "31"
+    }
+  ]
+}
