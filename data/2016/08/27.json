@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12370100",
+      "title": "Amazon is piloting teams with a 30-hour workweek",
+      "score": "326"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12371146",
+      "title": "Breaking a myth: Data shows you don’t actually need a co-founder",
+      "score": "219"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12367524",
+      "title": "Twitch could be a $20B company within Amazon",
+      "score": "208"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12370702",
+      "title": "Ntfy: A utility for sending notifications",
+      "score": "195"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12368112",
+      "title": "Itsy Bitsy Data Structures – Simplified examples of many common data structures",
+      "score": "192"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12367223",
+      "title": "WebDriver Support in Safari 10",
+      "score": "175"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12368136",
+      "title": "Are Index Funds Eating the World?",
+      "score": "162"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12370245",
+      "title": "What Slack might learn from its Open Source alternative",
+      "score": "158"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12370385",
+      "title": "Uber's Failure in Japan",
+      "score": "153"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12371688",
+      "title": "A FreeBSD 10 Desktop How-To",
+      "score": "150"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zp5dt/the_true_cost_of_interruptions_game_developer/",
+      "title": "The true cost of interruptions: Game Developer Magazine discovered that a programmer needs up to 15 minutes to start editing code again following an interruption.",
+      "score": "5246"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zr0el/forum_engine_written_entirely_in_assembly/",
+      "title": "Forum engine written entirely in Assembly",
+      "score": "70"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zsy8i/docsrs_documentation_built_and_hosted/",
+      "title": "Docs.rs: documentation built and hosted automatically for every Rust crate on crates.io",
+      "score": "56"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zqzcx/humble_bundle_full_of_programming_books/",
+      "title": "Humble Bundle full of programming books",
+      "score": "52"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zsr4y/monospaced_font_with_programming_ligatures_in/",
+      "title": "Monospaced font with programming ligatures, in case you missed APL",
+      "score": "48"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zpcn3/the_rope_memory_used_in_the_apollo_project_was/",
+      "title": "The rope memory used in the Apollo project was literally woven by little old ladies on looms (and, consequently, was sometimes known as Little Old Lady, or LOL, memory). It could only have been more arcane if the little old ladies in question had woven it using their own hair.",
+      "score": "41"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ztct9/the_applet_api_should_be_deprecated_with_java_9/",
+      "title": "The Applet API should be deprecated with Java 9",
+      "score": "20"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4ztl5d/github_code_search_programmers_goldmine/",
+      "title": "Github Code Search - Programmers' Goldmine",
+      "score": "26"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zpfcc/interview_with_videolan_president_and_lead_vlc/",
+      "title": "Interview With VideoLAN President and Lead VLC Developer Jean-Baptiste Kempf",
+      "score": "11"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zsm6v/itsy_bitsy_data_structures_common_data_structures/",
+      "title": "Itsy Bitsy Data Structures - Common data structures written in easy to read JavaScript",
+      "score": "14"
+    }
+  ],
+  "medium": [
+    {
+      "title": "50 Ways Happier, Healthier, And More Successful People Live On Their Own Terms",
+      "score": "3668",
+      "url": "https://medium.com/p/50-ways-happier-healthier-and-more-successful-people-live-on-their-own-terms-31ba8f482448"
+    },
+    {
+      "title": "Fact-Checking Alec Baldwin’s ‘Glengarry Glen Ross’ Monologue",
+      "score": "297",
+      "url": "https://medium.com/p/fact-checking-alec-baldwins-glengarry-glen-ross-monologue-661f3662ea61"
+    },
+    {
+      "title": "12 Years a Hustler, Time to Go Home",
+      "score": "583",
+      "url": "https://medium.com/p/12-years-a-hustler-time-to-go-home-35213b585eec"
+    },
+    {
+      "title": "TRUST YOURSELF: A practical guide to achieving any goal and living beyond fear",
+      "score": "557",
+      "url": "https://medium.com/p/trust-yourself-a-practical-guide-to-achieving-any-goal-and-living-beyond-fear-c70bd672e273"
+    },
+    {
+      "title": "Ghosts of White People Past: Witnessing White Flight From an Asian Ethnoburb",
+      "score": "294",
+      "url": "https://medium.com/p/ghosts-of-white-people-past-witnessing-white-flight-from-an-asian-ethnoburb-b550ba986cdb"
+    },
+    {
+      "title": "An Exclusive Look at How AI and Machine Learning Work at Apple",
+      "score": "1383",
+      "url": "https://medium.com/p/an-exclusive-look-at-how-ai-and-machine-learning-work-at-apple-8dbfb131932b"
+    },
+    {
+      "title": "Today’s Vagenda",
+      "score": "864",
+      "url": "https://medium.com/p/todays-vagenda-2747885a4497"
+    },
+    {
+      "title": "This Morning Routine will Save You 20+ Hours Per Week",
+      "score": "446",
+      "url": "https://medium.com/p/how-to-structure-your-day-for-optimal-performance-and-productivity-dcbf0665e3f3"
+    },
+    {
+      "title": "Opt Out…While You Can",
+      "score": "329",
+      "url": "https://medium.com/p/opt-out-while-you-can-5b19b2096f55"
+    },
+    {
+      "title": "Typography is impossible",
+      "score": "791",
+      "url": "https://medium.com/p/typography-is-impossible-5872b0c7f891"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/ui-temple",
+      "title": "UI Temple: Curated collection of the best web page designs",
+      "score": "87"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/subscribly",
+      "title": "Subscribly: Dashboard for your subscriptions",
+      "score": "50"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/apply-pixels",
+      "title": "Apply Pixels: Downloadable collection of high quality Icon &amp; UI templates.",
+      "score": "43"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/tiny-tower-laptop-stand-2-0",
+      "title": "Tiny Tower Laptop Stand 2.0: A portable, height-adjustable &amp; beautiful laptop stand.",
+      "score": "36"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/remind-2",
+      "title": "ReMind: Reminds you of everything you want",
+      "score": "44"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/hello-tech-pros-identifying-ideal-clients-and-pricing-models-in-your-startup",
+      "title": "Hello Tech Pros: Identifying Ideal Clients and Pricing Models in Your Startup: Veronica Kirin on Entrepreneurship",
+      "score": "4"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/jam-looper",
+      "title": "Jam Looper: A simple &amp; fun way to make music.",
+      "score": "19"
+    },
+    {
+      "url": "https://www.producthunt.com/games/george-scared-of-the-dark-sale-1-99-free-today-app-of-the-day-on-turbo-app",
+      "title": "George: Scared Of The Dark - SALE $1.99 -&gt; FREE today! &#x27;App Of The Day&#x27; on Turbo App!: Start the adventure!",
+      "score": "1"
+    },
+    {
+      "url": "https://www.producthunt.com/books/ask-any-poet",
+      "title": "Ask any poet: Get inspired by poets like Emily Dickinson or Robert Frost",
+      "score": "2"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/alto-2-0",
+      "title": "Alto 2.0: Email organized for you from AOL",
+      "score": "15"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/thejameskyle/itsy-bitsy-data-structures",
+      "title": "thejameskyle/itsy-bitsy-data-structures:  All the things you didn't know you wanted to know about data structures",
+      "score": "924"
+    },
+    {
+      "url": "https://github.com/dschep/ntfy",
+      "title": "dschep/ntfy: A utility for sending notifications, on demand and when commands finish.",
+      "score": "519"
+    },
+    {
+      "url": "https://github.com/facebookresearch/deepmask",
+      "title": "facebookresearch/deepmask: Torch implementation of DeepMask and SharpMask",
+      "score": "326"
+    },
+    {
+      "url": "https://github.com/paarthneekhara/text-to-image",
+      "title": "paarthneekhara/text-to-image: Tensorflow implementation of text to image synthesis using thought vectors",
+      "score": "303"
+    },
+    {
+      "url": "https://github.com/babel/babili",
+      "title": "babel/babili:  An ES6+ aware minifier based on the Babel toolchain (beta)",
+      "score": "306"
+    },
+    {
+      "url": "https://github.com/mzlogin/awesome-adb",
+      "title": "mzlogin/awesome-adb: ADB Usage Complete / ADB 用法大全",
+      "score": "271"
+    },
+    {
+      "url": "https://github.com/google/tiger",
+      "title": "google/tiger: o",
+      "score": "250"
+    },
+    {
+      "url": "https://github.com/nasa/openmct",
+      "title": "nasa/openmct: A web based mission control framework.",
+      "score": "235"
+    },
+    {
+      "url": "https://github.com/facebookresearch/multipathnet",
+      "title": "facebookresearch/multipathnet: A Torch implementation of the object detection network from \"A MultiPath Network for Object Detection\" ()",
+      "score": "209"
+    },
+    {
+      "url": "https://github.com/leancloud/ChatKit-OC",
+      "title": "leancloud/ChatKit-OC: An IM App UI Framework, support sending text, pictures, audio, video, location messaging, managing address book, more interesting features.",
+      "score": "186"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/302183#reply57",
+      "title": "PHP 程序员突然离职,隔一天就走了,没有交接,没有文档,现在他找我要这个月工资,求大家给个看法！",
+      "score": "57"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302080#reply50",
+      "title": "写点代码，技术上磕磕碰碰， BUG 不断，求好的方式解决！",
+      "score": "50"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302075#reply44",
+      "title": "遇到这种开发怎么怼。。",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302078#reply43",
+      "title": "前端出身的 CTO 带的团队做的产品坑掉的概率是不是高些？",
+      "score": "43"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302097#reply37",
+      "title": "学习前端半年的感悟 --- 大坑",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302068#reply35",
+      "title": "iPhone 6/ 6plus 终于被爆存在设计缺陷，苹果应该是知道的！",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302179#reply31",
+      "title": "C++ 17 写法上已经很接近 python 了",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302126#reply29",
+      "title": "互联网公司停电吗？",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302076#reply29",
+      "title": "求推荐一个手表/手环",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302081#reply28",
+      "title": "新近完成的几件成就",
+      "score": "28"
+    }
+  ]
+}
