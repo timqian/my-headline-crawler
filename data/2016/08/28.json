@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12373024",
+      "title": "4WD vs. AWD. What's the Difference?",
+      "score": "361"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12374235",
+      "title": "In rich and poor countries, researchers turn to Sci-Hub",
+      "score": "303"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12375015",
+      "title": "GitHub Code Search – Programmers' Goldmine",
+      "score": "279"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12374973",
+      "title": "A Russian Family Was Isolated for 40 Years, Unaware of WWII (2013)",
+      "score": "234"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12375587",
+      "title": "How I built a Slack bot to help me find an apartment in San Francisco",
+      "score": "201"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12375046",
+      "title": "The Price of Solar Is Declining to Unprecedented Lows",
+      "score": "152"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12375047",
+      "title": "The piracy paradox at Udemy (2015)",
+      "score": "131"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12376040",
+      "title": "WhatsApp – Opting out of new terms doesn’t stop Facebook taking information",
+      "score": "115"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12374505",
+      "title": "Amazon EC2 Beta (2006)",
+      "score": "112"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12374668",
+      "title": "Watch This Surveillance Master Dissect a Murder from the Sky",
+      "score": "110"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zylfx/how_a_guy_built_a_slack_bot_to_help_him_find_an/",
+      "title": "How a guy built a Slack bot to help him find an apartment in San Francisco",
+      "score": "534"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zvchs/carbide_programming_environment_for_js_in_the/",
+      "title": "Carbide – Programming environment for JS in the vein of Bret Victor's principle of immediate feedback",
+      "score": "80"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zyh30/adventures_in_building_a_fast_web_server/",
+      "title": "Adventures in building a fast web server",
+      "score": "12"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zzb90/building_a_mechanical_halfbinary_adder_with/",
+      "title": "Building a mechanical half-binary adder with domino stones!",
+      "score": "12"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zz4g0/programmer_interrupted/",
+      "title": "Programmer, Interrupted",
+      "score": "2"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zuuh1/why_should_children_program_a_review_of_seymour/",
+      "title": "Why should children program? A review of Seymour Papert's Mindstorms",
+      "score": "0"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zx9qu/simple_computercraft_text_editor/",
+      "title": "Simple ComputerCraft Text Editor",
+      "score": "0"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zx2ns/a_positive_note_to_programmers/",
+      "title": "A Positive Note to Programmers",
+      "score": "0"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zvtsj/how_to_choose_the_right_thirdparty_controls_for/",
+      "title": "How to choose the right Third-party controls for .Net applications?",
+      "score": "0"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zve7b/why_pair_programming_has_the_potential_for/",
+      "title": "Why Pair Programming has the potential for delivering software faster with lower cost if done correctly",
+      "score": "0"
+    }
+  ],
+  "medium": [
+    {
+      "title": "The Greatest Divide of All",
+      "score": "514",
+      "url": "https://medium.com/p/the-greatest-divide-of-all-825b855ca7e5"
+    },
+    {
+      "title": "50 Ways Happier, Healthier, And More Successful People Live On Their Own Terms",
+      "score": "4040",
+      "url": "https://medium.com/p/50-ways-happier-healthier-and-more-successful-people-live-on-their-own-terms-31ba8f482448"
+    },
+    {
+      "title": "This Morning Routine will Save You 20+ Hours Per Week",
+      "score": "965",
+      "url": "https://medium.com/p/how-to-structure-your-day-for-optimal-performance-and-productivity-dcbf0665e3f3"
+    },
+    {
+      "title": "Today’s Vagenda",
+      "score": "1315",
+      "url": "https://medium.com/p/todays-vagenda-2747885a4497"
+    },
+    {
+      "title": "Opt Out…While You Can",
+      "score": "571",
+      "url": "https://medium.com/p/opt-out-while-you-can-5b19b2096f55"
+    },
+    {
+      "title": "Learning How to Learn: The Most Important Developer Skill",
+      "score": "539",
+      "url": "https://medium.com/p/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d"
+    },
+    {
+      "title": "TRUST YOURSELF: A practical guide to achieving any goal and living beyond fear",
+      "score": "705",
+      "url": "https://medium.com/p/trust-yourself-a-practical-guide-to-achieving-any-goal-and-living-beyond-fear-c70bd672e273"
+    },
+    {
+      "title": "An Exclusive Look at How AI and Machine Learning Work at Apple",
+      "score": "1519",
+      "url": "https://medium.com/p/an-exclusive-look-at-how-ai-and-machine-learning-work-at-apple-8dbfb131932b"
+    },
+    {
+      "title": "Swipe",
+      "score": "217",
+      "url": "https://medium.com/p/swipe-e41ad730f27b"
+    },
+    {
+      "title": "where should we start?",
+      "score": "266",
+      "url": "https://medium.com/p/where-should-we-start-e392da80f64f"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/repick",
+      "title": "Repick: Well-designed products from all over the internet",
+      "score": "128"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/wing-3",
+      "title": "Wing: A dead-simple, responsive, CSS framework",
+      "score": "79"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/elite-email",
+      "title": "Elite Email: Drag &amp; drop email builder for awesome newsletters",
+      "score": "58"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/knightos",
+      "title": "KnightOS: An open-source OS for calculators",
+      "score": "65"
+    },
+    {
+      "url": "https://www.producthunt.com/games/what-is-young-thug-saying",
+      "title": "What is Young Thug Saying?: An impossible game, in your browser",
+      "score": "31"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/vuash",
+      "title": "Vuash: Send secret messages safely.",
+      "score": "34"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/kelir",
+      "title": "Kelir: Color picker, color pallete and color gradient for your Mac",
+      "score": "30"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/medidate",
+      "title": "Medidate: The app that puts yoga teachers and studios on the map",
+      "score": "28"
+    },
+    {
+      "url": "https://www.producthunt.com/books/metal",
+      "title": "Metal: Metal: The Comprehensive Guide (in Swift!)",
+      "score": "4"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/anglr",
+      "title": "Anglr: A fitbit for your fishing rod",
+      "score": "6"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/camwiegert/in-view",
+      "title": "camwiegert/in-view: Get notified when a DOM element enters or exits the viewport. ",
+      "score": "858"
+    },
+    {
+      "url": "https://github.com/dschep/ntfy",
+      "title": "dschep/ntfy: A utility for sending notifications, on demand and when commands finish.",
+      "score": "555"
+    },
+    {
+      "url": "https://github.com/thejameskyle/itsy-bitsy-data-structures",
+      "title": "thejameskyle/itsy-bitsy-data-structures:  All the things you didn't know you wanted to know about data structures",
+      "score": "527"
+    },
+    {
+      "url": "https://github.com/mozilla/http-observatory",
+      "title": "mozilla/http-observatory: HTTP Observatory",
+      "score": "299"
+    },
+    {
+      "url": "https://github.com/david-gpu/srez",
+      "title": "david-gpu/srez: Image super-resolution through deep learning",
+      "score": "254"
+    },
+    {
+      "url": "https://github.com/koush/electron-chrome",
+      "title": "koush/electron-chrome: o",
+      "score": "221"
+    },
+    {
+      "url": "https://github.com/paarthneekhara/text-to-image",
+      "title": "paarthneekhara/text-to-image: Tensorflow implementation of text to image synthesis using thought vectors",
+      "score": "196"
+    },
+    {
+      "url": "https://github.com/babel/babili",
+      "title": "babel/babili:  An ES6+ aware minifier based on the Babel toolchain (beta)",
+      "score": "167"
+    },
+    {
+      "url": "https://github.com/variadico/noti",
+      "title": "variadico/noti: Trigger notifications when a process completes.",
+      "score": "150"
+    },
+    {
+      "url": "https://github.com/FormidableLabs/react-music",
+      "title": "FormidableLabs/react-music: Make beats with React!",
+      "score": "136"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/302226#reply61",
+      "title": "Mozilla 又给我们带来一个网站安全性跑分！ 一大波 A+ 教程即将来袭了吧",
+      "score": "61"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302225#reply47",
+      "title": "更换银行预留手机号必须要去柜台吗？",
+      "score": "47"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302311#reply44",
+      "title": "我们程序员原来是被这么看待的么……",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302266#reply37",
+      "title": "从美国翻回国内的最佳方法",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302227#reply35",
+      "title": "细思极恐, 原来电话诈骗通过理财产品无密码转账, 非常容易, 告诫大家千万小心",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302284#reply31",
+      "title": "什么才叫面向对象呢",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302329#reply30",
+      "title": "md，刚买没多久的自行车又丢了，烦死了，就没有人为这个场景设计点特别的锁或是定位追踪装置么？",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302292#reply29",
+      "title": "nodo.js 前台+python 后台 做项目 开发时间 与 PHP 比那一个更快更好",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302240#reply21",
+      "title": "如何卸载小米桌面",
+      "score": "21"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302264#reply21",
+      "title": "目测 NyaVM 要上新的数据中心了，求搞基码",
+      "score": "21"
+    }
+  ]
+}
