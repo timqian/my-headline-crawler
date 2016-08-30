@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12388601",
+      "title": "Commission says Ireland granted undue tax benefits of up to €13B to Apple",
+      "score": "316"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12388721",
+      "title": "Talk of a Split from Docker",
+      "score": "216"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12388228",
+      "title": "“Baffling” “signal” “from HD 164595” is probably none of the above",
+      "score": "169"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12388654",
+      "title": "Micro v1.0 – a terminal-based text editor written in Go",
+      "score": "123"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12388486",
+      "title": "CloudFlare, SSL and unhealthy security absolutism",
+      "score": "118"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12389573",
+      "title": "Chinese CA WoSign faces revocation after possibly issuing fake certificates",
+      "score": "117"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12388118",
+      "title": "How and why I made a zine",
+      "score": "100"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12390292",
+      "title": "Victory for Net Neutrality in Europe",
+      "score": "87"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12389242",
+      "title": "Are we really so modern?",
+      "score": "75"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12388382",
+      "title": "Arduino-Based Home Weather Station on the Elastic Stack",
+      "score": "68"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/505kbd/youre_asked_to_fix_a_bug/",
+      "title": "You're asked to fix a bug...",
+      "score": "497"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/509qhd/randomly_accessing_n_items_in_dram_is_on_in/",
+      "title": "Randomly accessing n items in DRAM is O(n) in theory, but can behave more like O(n log n) in practice far beyond the limits of the cache heirarchy",
+      "score": "319"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5069g6/the_d_language_foundation_is_now_a_tax_exempt/",
+      "title": "The D Language Foundation is now a tax exempt non-profit organization",
+      "score": "243"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/509cxc/gits_patch_mode_all_the_way/",
+      "title": "Git’s Patch Mode All the Way",
+      "score": "134"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/506upw/simple_regex_language_build_regular_expressions/",
+      "title": "Simple Regex Language - build regular expressions using a SQL-like language",
+      "score": "112"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5067q0/how_c14_and_c17_help_to_write_faster_and_better/",
+      "title": "How C++14 and C++17 help to write faster (and better) code. Real world examples",
+      "score": "95"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/509dzl/improving_workflow_by_using_clangbased_tools/",
+      "title": "Improving workflow by using Clang-based tools",
+      "score": "81"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50asy8/oreilly_is_giving_50_off_ebooks_today/",
+      "title": "O'Reilly is giving 50% off eBooks today!",
+      "score": "89"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/508je9/fast_inverse_cube_root_like_the_fast_inverse/",
+      "title": "Fast Inverse Cube Root: like the Fast Inverse Square Root, but cubier and a lot less useful.",
+      "score": "57"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50aox1/ruminations_on_d_an_interview_with_walter_bright/",
+      "title": "Ruminations on D: An Interview with Walter Bright",
+      "score": "60"
+    }
+  ],
+  "medium": [
+    {
+      "title": "I Got Scammed By A Silicon Valley Startup",
+      "score": "2874",
+      "url": "https://medium.com/p/i-got-scammed-by-a-silicon-valley-startup-574ced8acdff"
+    },
+    {
+      "title": "Bel Pesce e o empreendedorismo de palco: porque a Menina do Vale não vale tanto assim",
+      "score": "1978",
+      "url": "https://medium.com/p/bel-pesce-e-o-empreendedorismo-de-palco-porque-a-menina-do-vale-não-vale-tanto-assim-da9e0c917844"
+    },
+    {
+      "title": "Linux is 25. Yay! Let’s celebrate with 25 stunning facts about Linux.",
+      "score": "1730",
+      "url": "https://medium.com/p/linux-is-25-yay-lets-celebrate-with-25-rad-facts-about-linux-c8d8ac30076d"
+    },
+    {
+      "title": "How I Used & Abused My Tesla — What a Tesla looks like after 100,000 Miles, a 48 State Road trip…",
+      "score": "747",
+      "url": "https://medium.com/p/how-i-used-abused-my-tesla-what-a-tesla-looks-like-after-100-000-miles-a-48-state-road-trip-6b6ae66b3c10"
+    },
+    {
+      "title": "Why Gene Wilder Stopped Acting",
+      "score": "341",
+      "url": "https://medium.com/p/why-gene-wilder-stopped-acting-992771f4b9e4"
+    },
+    {
+      "title": "How I run a blog, started a business and work a full time job all at once",
+      "score": "612",
+      "url": "https://medium.com/p/how-i-use-evernote-to-pitch-at-the-top-of-my-game-2c5966ef720b"
+    },
+    {
+      "title": "50 Ways Happier, Healthier, And More Successful People Live On Their Own Terms",
+      "score": "4683",
+      "url": "https://medium.com/p/50-ways-happier-healthier-and-more-successful-people-live-on-their-own-terms-31ba8f482448"
+    },
+    {
+      "title": "This Morning Routine will Save You 20+ Hours Per Week",
+      "score": "1833",
+      "url": "https://medium.com/p/how-to-structure-your-day-for-optimal-performance-and-productivity-dcbf0665e3f3"
+    },
+    {
+      "title": "Será que a Bel Pesce aprendeu mesmo a lição?",
+      "score": "1260",
+      "url": "https://medium.com/p/será-que-a-bel-pesce-aprendeu-mesmo-a-lição-89e4a80803be"
+    },
+    {
+      "title": "The Shocking Reason Millennials are Binging on Songs about Binging on Drugs",
+      "score": "487",
+      "url": "https://medium.com/p/the-shocking-reason-millennials-are-binging-on-songs-about-binging-on-drugs-90bd67635388"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/email-list-verify",
+      "title": "Email List Verify: Remove hard bounces and email traps from your email lists",
+      "score": "284"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/cuddle-mattress",
+      "title": "Cuddle Mattress: Hug your better half without the arm numbing",
+      "score": "179"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/basetrip",
+      "title": "Basetrip: All the travel information you need about any country",
+      "score": "158"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/duuoo-2",
+      "title": "Duuoo: Intelligent 1-on-1’s with your team",
+      "score": "202"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/custom-by-sock-club",
+      "title": "Custom by Sock Club: Quality custom socks for your company",
+      "score": "98"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/fitbit-adventures",
+      "title": "Fitbit Adventures: Experience exciting destinations virtually for fitness",
+      "score": "67"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/intelligence-node",
+      "title": "Intelligence Node: Automate your retail pricing strategy with big data",
+      "score": "48"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/timelines",
+      "title": "Timelines: Track your time on a fully interactive timeline",
+      "score": "59"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/cloak-for-teams",
+      "title": "Cloak for Teams: Super-simple VPN for Mac, iPhone &amp; iPad",
+      "score": "159"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/lango",
+      "title": "LanGo: Learn Japanese with 1000 phrases and smart flashcards",
+      "score": "61"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/brillout/awesome-react-components",
+      "title": "brillout/awesome-react-components: Catalog of React components / libraries",
+      "score": "1114"
+    },
+    {
+      "url": "https://github.com/camwiegert/in-view",
+      "title": "camwiegert/in-view: Get notified when a DOM element enters or exits the viewport. ",
+      "score": "567"
+    },
+    {
+      "url": "https://github.com/thejameskyle/itsy-bitsy-data-structures",
+      "title": "thejameskyle/itsy-bitsy-data-structures:  All the things you didn't know you wanted to know about data structures",
+      "score": "514"
+    },
+    {
+      "url": "https://github.com/HiFaraz/node-playbook",
+      "title": "HiFaraz/node-playbook: Get started fast with Node.js",
+      "score": "495"
+    },
+    {
+      "url": "https://github.com/TYVRNET/SRL",
+      "title": "TYVRNET/SRL: Simple Regex Language",
+      "score": "467"
+    },
+    {
+      "url": "https://github.com/david-gpu/srez",
+      "title": "david-gpu/srez: Image super-resolution through deep learning",
+      "score": "431"
+    },
+    {
+      "url": "https://github.com/mzlogin/awesome-adb",
+      "title": "mzlogin/awesome-adb: ADB Usage Complete / ADB 用法大全",
+      "score": "288"
+    },
+    {
+      "url": "https://github.com/helloqingfeng/Awsome-Front-End-learning-resource",
+      "title": "helloqingfeng/Awsome-Front-End-learning-resource: GitHub上最全的前端资源汇总（包括前端学习、前端开发资源、前端求职面试等）",
+      "score": "245"
+    },
+    {
+      "url": "https://github.com/dschep/ntfy",
+      "title": "dschep/ntfy: A utility for sending notifications, on demand and when commands finish.",
+      "score": "207"
+    },
+    {
+      "url": "https://github.com/chengdazhi/StyleImageView",
+      "title": "chengdazhi/StyleImageView: Add styles and filters to ImageViews, Views' backgroud, Drawables and Bitmaps, with animation and bitmap output.",
+      "score": "200"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/302598#reply93",
+      "title": "2015 年各大高校图书馆借阅榜前三书单，华科高亮了……",
+      "score": "93"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302637#reply79",
+      "title": "买 macbook 不买 apple care，活该？",
+      "score": "79"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302685#reply72",
+      "title": "刚被人事的叫出去，让我下个月不用来了。。",
+      "score": "72"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302675#reply71",
+      "title": "中国移动死也不肯作书面道歉，也是蛮拼的",
+      "score": "71"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302623#reply68",
+      "title": "自学前端，最近在北京找工作中，投了两天简历，到现在还没有接到面试， 2333",
+      "score": "68"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302626#reply52",
+      "title": "有多少创业公司没法撑过这个夏天",
+      "score": "52"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302661#reply50",
+      "title": "你向内网 NAS 上传文件速度是多少 MB/秒？",
+      "score": "50"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302605#reply48",
+      "title": "高配机器适合做什么",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302717#reply46",
+      "title": "求推荐靠谱提神咖啡，不考虑性价比！",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302759#reply41",
+      "title": "哈萨克斯坦不是 YSL 国家么？怎么那么多妹子在网上搞 X 直播呢？",
+      "score": "41"
+    }
+  ]
+}
