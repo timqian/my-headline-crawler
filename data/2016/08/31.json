@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12396331",
+      "title": "The Dropbox hack is real",
+      "score": "761"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12393032",
+      "title": "Google Takes on Uber with New Ride-Share Service",
+      "score": "571"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12390292",
+      "title": "Victory for Net Neutrality in Europe",
+      "score": "525"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12393918",
+      "title": "SEC awards $22M to Monsanto whistleblower",
+      "score": "257"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12395737",
+      "title": "Grateful Dead Fan Timothy Tyler Has Been Granted Clemency",
+      "score": "195"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12395330",
+      "title": "SES-10 Launching to Orbit on SpaceX's Flight-Proven Falcon 9 Rocket",
+      "score": "190"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12395250",
+      "title": "Pebble 4.0 Apps and Firmware Released",
+      "score": "128"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12396420",
+      "title": "My favorite Erlang Program (2013)",
+      "score": "116"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12398303",
+      "title": "Rclone: rsync for cloud storage",
+      "score": "115"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12397015",
+      "title": "Decoding Data from Iridium Satellites",
+      "score": "110"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50f5r9/400000_github_repositories_1_billion_files_14/",
+      "title": "400,000 GitHub repositories, 1 billion files, 14 terabytes of code: Spaces or Tabs?",
+      "score": "1791"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50bx36/announcing_typescript_20_rc/",
+      "title": "Announcing TypeScript 2.0 RC",
+      "score": "138"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50ebud/the_design_of_c_lecture_by_bjarne_stroustrup_1994/",
+      "title": "&quot;The design of C++&quot; - lecture by Bjarne Stroustrup (1994)",
+      "score": "45"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50cdu0/file_system_features_we_encountered_developing/",
+      "title": "File system features we encountered developing the Mail.Ru Cloud synchronization mechanism",
+      "score": "34"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50fgfu/sasm_simple_crossplatform_ide_for_nasm_masm_gas/",
+      "title": "SASM - Simple crossplatform IDE for NASM, MASM, GAS, FASM assembly languages",
+      "score": "35"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50cxzg/bartosz_milewskis_category_theory_lessons_part_2/",
+      "title": "Bartosz Milewski's Category Theory lessons (Part 2)",
+      "score": "33"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50cheh/the_story_of_how_wosign_gave_me_an_ssl/",
+      "title": "The story of how WoSign gave me an SSL certificate for GitHub.com (X-Post from /r/sysadmin)",
+      "score": "25"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50daek/aws_s3_alternative_in_go/",
+      "title": "AWS S3 Alternative in Go",
+      "score": "22"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50dad9/what_we_talk_about_when_we_talk_about_computation/",
+      "title": "What We Talk About When We Talk About Computation: On Two Views of Computation in Computer Science",
+      "score": "23"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50bpl5/distributed_transactions_the_icebergs_of/",
+      "title": "Distributed Transactions: The Icebergs of Microservices",
+      "score": "21"
+    }
+  ],
+  "medium": [
+    {
+      "title": "I Got Scammed By A Silicon Valley Startup",
+      "score": "3968",
+      "url": "https://medium.com/p/i-got-scammed-by-a-silicon-valley-startup-574ced8acdff"
+    },
+    {
+      "title": "How I Used & Abused My Tesla — What a Tesla looks like after 100,000 Miles, a 48 State Road trip…",
+      "score": "1673",
+      "url": "https://medium.com/p/how-i-used-abused-my-tesla-what-a-tesla-looks-like-after-100-000-miles-a-48-state-road-trip-6b6ae66b3c10"
+    },
+    {
+      "title": "Bel Pesce e o empreendedorismo de palco: porque a Menina do Vale não vale tanto assim",
+      "score": "2664",
+      "url": "https://medium.com/p/bel-pesce-e-o-empreendedorismo-de-palco-porque-a-menina-do-vale-não-vale-tanto-assim-da9e0c917844"
+    },
+    {
+      "title": "Why Gene Wilder Stopped Acting",
+      "score": "620",
+      "url": "https://medium.com/p/why-gene-wilder-stopped-acting-992771f4b9e4"
+    },
+    {
+      "title": "The NBA Offseason Awards",
+      "score": "102",
+      "url": "https://medium.com/p/nba-offseason-awards-carmelo-anthony-hassan-whiteside-mike-conley-aa54b4fe294"
+    },
+    {
+      "title": "Linux is 25. Yay! Let’s celebrate with 25 stunning facts about Linux.",
+      "score": "2077",
+      "url": "https://medium.com/p/linux-is-25-yay-lets-celebrate-with-25-rad-facts-about-linux-c8d8ac30076d"
+    },
+    {
+      "title": "So a product manager asks you to fix a bug…",
+      "score": "1149",
+      "url": "https://medium.com/p/youre-asked-to-make-a-fix-e156b802ad92"
+    },
+    {
+      "title": "Gene Wilder Was Right: Gilda Radner Didn’t Have To Die, And We Need To Talk About Why She Did",
+      "score": "358",
+      "url": "https://medium.com/p/gene-wilder-was-right-gilda-radner-didnt-have-to-die-and-we-need-to-talk-about-why-she-did-b2797e01db28"
+    },
+    {
+      "title": "Here’s The Powerful Letter The Stanford Victim Read To Her Attacker",
+      "score": "149",
+      "url": "https://medium.com/p/heres-the-powerful-letter-the-stanford-victim-read-to-her-attacker-eddd1f597ad4"
+    },
+    {
+      "title": "How I run a blog, started a business and work a full time job all at once",
+      "score": "887",
+      "url": "https://medium.com/p/how-i-use-evernote-to-pitch-at-the-top-of-my-game-2c5966ef720b"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/kin-calendar-2",
+      "title": "Kin Calendar: The simple and connected calendar",
+      "score": "340"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/nexar-for-android",
+      "title": "Nexar for Android: Turn your Android into an AI Dashcam",
+      "score": "191"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/timely-6",
+      "title": "Timely: Automatic time tracking for freelancers and teams.",
+      "score": "154"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/sunsama-calendar",
+      "title": "Sunsama Calendar: The calendar for teams",
+      "score": "139"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/amity-2",
+      "title": "Amity: A messaging experience, with a new level of live interaction",
+      "score": "104"
+    },
+    {
+      "url": "https://www.producthunt.com/books/100-tricks-to-appear-smart-in-meetings-2",
+      "title": "100 Tricks to Appear Smart in Meetings: How to get by without even trying",
+      "score": "140"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/emoji-printer",
+      "title": "Emoji Printer: Emojify a poster 😎🖨",
+      "score": "91"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/svgsus-2",
+      "title": "Svgsus: Organize, clean and transform your SVGs",
+      "score": "78"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/grid-guide",
+      "title": "Grid Guide: Helps you create pixel perfect grids within your designs",
+      "score": "34"
+    },
+    {
+      "url": "https://www.producthunt.com/games/jongler",
+      "title": "Jongler: All you have to do is juggle the ball &amp; smash the high score",
+      "score": "42"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/baidu/Paddle",
+      "title": "baidu/Paddle: PArallel Distributed Deep LEarning",
+      "score": "1285"
+    },
+    {
+      "url": "https://github.com/brillout/awesome-react-components",
+      "title": "brillout/awesome-react-components: Catalog of React components / libraries",
+      "score": "845"
+    },
+    {
+      "url": "https://github.com/minio/minio",
+      "title": "minio/minio: Minio is an object storage server compatible with Amazon S3 and licensed under Apache 2.0 License",
+      "score": "836"
+    },
+    {
+      "url": "https://github.com/zyedidia/micro",
+      "title": "zyedidia/micro: A modern and intuitive terminal-based text editor",
+      "score": "813"
+    },
+    {
+      "url": "https://github.com/jlsutherland/doc2text",
+      "title": "jlsutherland/doc2text: Detect text blocks and OCR poorly scanned PDFs in bulk. Python module available via pip.",
+      "score": "619"
+    },
+    {
+      "url": "https://github.com/david-gpu/srez",
+      "title": "david-gpu/srez: Image super-resolution through deep learning",
+      "score": "585"
+    },
+    {
+      "url": "https://github.com/tencent-wechat/phxsql",
+      "title": "tencent-wechat/phxsql: A high availability MySQL cluster that guarantees data consistency between a master and slaves.",
+      "score": "405"
+    },
+    {
+      "url": "https://github.com/TYVRNET/SRL",
+      "title": "TYVRNET/SRL: Simple Regex Language",
+      "score": "412"
+    },
+    {
+      "url": "https://github.com/thejameskyle/itsy-bitsy-data-structures",
+      "title": "thejameskyle/itsy-bitsy-data-structures:  All the things you didn't know you wanted to know about data structures",
+      "score": "379"
+    },
+    {
+      "url": "https://github.com/HiFaraz/node-playbook",
+      "title": "HiFaraz/node-playbook: Get started fast with Node.js",
+      "score": "350"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/302825#reply192",
+      "title": "公司开始强制要求 997，我是否要继续留下？",
+      "score": "192"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302850#reply107",
+      "title": "辞职被公司上司威胁了怎么办？",
+      "score": "107"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302835#reply99",
+      "title": "大家整天对着电脑，皮肤油大吗？长痘吗？ 什么牌子的男士洗面奶好用？",
+      "score": "99"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302929#reply84",
+      "title": "现在的程序员都这样了？",
+      "score": "84"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302860#reply76",
+      "title": "大家有没有收藏网页的习惯",
+      "score": "76"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302914#reply50",
+      "title": "帮老板选个礼物送给开发哥哥来着，小米电饭煲或者 PSV 哪个好？",
+      "score": "50"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302990#reply45",
+      "title": "女朋友想做开发，要教么。。。。",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302999#reply35",
+      "title": "我的班瓦工突然 ping 不通了",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303005#reply33",
+      "title": "谁在 DDos，出来",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/302837#reply31",
+      "title": "3000+的笔记本有什么推荐？求老司机支招",
+      "score": "31"
+    }
+  ]
+}
