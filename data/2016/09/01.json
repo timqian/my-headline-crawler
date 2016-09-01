@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12399804",
+      "title": "Smaller and faster data compression with Zstandard",
+      "score": "768"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12405006",
+      "title": "A SpaceX Falcon 9 rocket just exploded at Cape Canaveral",
+      "score": "374"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12402850",
+      "title": "Code that is valid in both PHP and Java, and produces the same output in both",
+      "score": "363"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12403768",
+      "title": "Transmission BitTorrent Client OSX/Keydnap Malware Incident Q+A",
+      "score": "235"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12404109",
+      "title": "OpenBSD 6.0 released",
+      "score": "217"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12403544",
+      "title": "Apache Spark Scale: A 60 TB+ production use case",
+      "score": "184"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12403783",
+      "title": "DDoS protection",
+      "score": "172"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12404871",
+      "title": "Show HN: A self-hosted alternative to Trello, Basecamp, and Freshbooks",
+      "score": "129"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12404647",
+      "title": "UPSat – the first open source hardware and software satellite is delivered",
+      "score": "80"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12402407",
+      "title": "Alzheimer’s treatment appears to alleviate memory loss in small trial",
+      "score": "77"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50inhd/how_a_japanese_cucumber_farmer_is_using_deep/",
+      "title": "How a Japanese cucumber farmer is using deep learning and TensorFlow",
+      "score": "700"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50lpyy/same_code_is_syntactically_valid_in_both_php_and/",
+      "title": "Same code is syntactically valid in both PHP and Java",
+      "score": "253"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50irrz/a_simple_website_dedicated_to_rubber_duck/",
+      "title": "A Simple Website Dedicated to Rubber Duck Debugging",
+      "score": "221"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50mwxd/as_engineers_were_often_obsessed_with_the_idea/",
+      "title": "As engineers, we’re often obsessed with the idea that our job satisfaction comes solely from solving only the most exciting technical challenges. In reality, research shows that we perform best when we are rested, feel valued, &amp; feel connected to a cause so we can focus on high-priority work.",
+      "score": "405"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50iwdj/smaller_and_faster_data_compression_with_zstandard/",
+      "title": "Smaller and faster data compression with Zstandard",
+      "score": "149"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50hzvf/pypy2_v54_released_incremental_improvements_and/",
+      "title": "PyPy2 v5.4 released - incremental improvements and enhancements",
+      "score": "94"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50m99l/new_edition_of_programming_in_haskell_now/",
+      "title": "New Edition of &quot;Programming in Haskell&quot; Now Available",
+      "score": "86"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50lovo/unaligned_memory_access/",
+      "title": "Unaligned Memory Access",
+      "score": "70"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50kbqu/announcing_bucklescript_10_ocaml_js_compiler/",
+      "title": "Announcing BuckleScript 1.0 (Ocaml -&gt; JS compiler)",
+      "score": "59"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50hw57/the_surprising_story_of_the_first_microprocessors/",
+      "title": "The surprising story of the first microprocessors: before the 4004 and 8008",
+      "score": "51"
+    }
+  ],
+  "medium": [
+    {
+      "title": "How I Used & Abused My Tesla — What a Tesla looks like after 100,000 Miles, a 48 State Road trip…",
+      "score": "2273",
+      "url": "https://medium.com/p/how-i-used-abused-my-tesla-what-a-tesla-looks-like-after-100-000-miles-a-48-state-road-trip-6b6ae66b3c10"
+    },
+    {
+      "title": "I Got Scammed By A Silicon Valley Startup",
+      "score": "4510",
+      "url": "https://medium.com/p/i-got-scammed-by-a-silicon-valley-startup-574ced8acdff"
+    },
+    {
+      "title": "Gene Wilder Was Right: Gilda Radner Didn’t Have To Die, And We Need To Talk About Why She Did",
+      "score": "722",
+      "url": "https://medium.com/p/gene-wilder-was-right-gilda-radner-didnt-have-to-die-and-we-need-to-talk-about-why-she-did-b2797e01db28"
+    },
+    {
+      "title": "Bel Pesce e o empreendedorismo de palco: porque a Menina do Vale não vale tanto assim",
+      "score": "2799",
+      "url": "https://medium.com/p/bel-pesce-e-o-empreendedorismo-de-palco-porque-a-menina-do-vale-não-vale-tanto-assim-da9e0c917844"
+    },
+    {
+      "title": "The Burning Desire for Hot Chicken",
+      "score": "203",
+      "url": "https://medium.com/p/the-burning-desire-for-hot-chicken-bf87446b4dda"
+    },
+    {
+      "title": "Unlimited Vacation and Other Forms of Guilt-Based Management",
+      "score": "696",
+      "url": "https://medium.com/p/unlimited-vacation-and-other-forms-of-guilt-based-management-44413269a184"
+    },
+    {
+      "title": "Let’s “Fix” Racism in Movies and TV",
+      "score": "86",
+      "url": "https://medium.com/p/lets-fix-racism-in-movies-and-tv-c5c20ad529f0"
+    },
+    {
+      "title": "So a product manager asks you to fix a bug…",
+      "score": "1545",
+      "url": "https://medium.com/p/youre-asked-to-make-a-fix-e156b802ad92"
+    },
+    {
+      "title": "Linux is 25. Yay! Let’s celebrate with 25 stunning facts about Linux.",
+      "score": "2298",
+      "url": "https://medium.com/p/linux-is-25-yay-lets-celebrate-with-25-rad-facts-about-linux-c8d8ac30076d"
+    },
+    {
+      "title": "How Exercise Shapes You, Far Beyond the Gym",
+      "score": "501",
+      "url": "https://medium.com/p/how-exercise-shapes-you-far-beyond-the-gym-2c6f345526e9"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/pastebot",
+      "title": "Pastebot: Clipboard manager from the creators of Tweetbot",
+      "score": "264"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/candy-3",
+      "title": "Candy: Bookmarks for the 21st century.",
+      "score": "81"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/style",
+      "title": "Style: AI powered filters for both images &amp; video that runs locally",
+      "score": "110"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/vyte-for-ios",
+      "title": "Vyte for iOS: Schedule meetings on the go",
+      "score": "100"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/amplemarket",
+      "title": "Amplemarket: AI-powered sales assistant",
+      "score": "95"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/sgnl",
+      "title": "Sgnl: Make calls with your fingertip",
+      "score": "55"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/instant-video-on-facebook-messenger",
+      "title": "Instant Video on Facebook Messenger: Seamlessly add live video when you &amp; a friend are active",
+      "score": "15"
+    },
+    {
+      "url": "https://www.producthunt.com/books/how-to-produce-awesome-snapchat-takeovers",
+      "title": "How To Produce Awesome Snapchat Takeovers: Tips &amp; best practices on delivering high value takeovers",
+      "score": "34"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/genius-scan-4",
+      "title": "Genius Scan 4: A scanner in your pocket 📱",
+      "score": "37"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/roger-2-0-talkheads",
+      "title": "Roger 2.0 &amp; TalkHeads: A walkie talkie button over any app",
+      "score": "30"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/facebook/zstd",
+      "title": "facebook/zstd: Zstandard - Fast real-time compression algorithm",
+      "score": "805"
+    },
+    {
+      "url": "https://github.com/ncw/rclone",
+      "title": "ncw/rclone: \"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "score": "722"
+    },
+    {
+      "url": "https://github.com/baidu/Paddle",
+      "title": "baidu/Paddle: PArallel Distributed Deep LEarning",
+      "score": "577"
+    },
+    {
+      "url": "https://github.com/brillout/awesome-react-components",
+      "title": "brillout/awesome-react-components: Catalog of React components / libraries",
+      "score": "500"
+    },
+    {
+      "url": "https://github.com/zyedidia/micro",
+      "title": "zyedidia/micro: A modern and intuitive terminal-based text editor",
+      "score": "347"
+    },
+    {
+      "url": "https://github.com/minio/minio",
+      "title": "minio/minio: Minio is an object storage server compatible with Amazon S3 and licensed under Apache 2.0 License",
+      "score": "331"
+    },
+    {
+      "url": "https://github.com/david-gpu/srez",
+      "title": "david-gpu/srez: Image super-resolution through deep learning",
+      "score": "314"
+    },
+    {
+      "url": "https://github.com/ManoMarks/docker-swarm-visualizer",
+      "title": "ManoMarks/docker-swarm-visualizer: A visualizer for Docker Swarm using the Docker Remote API, Node.JS, and D3",
+      "score": "236"
+    },
+    {
+      "url": "https://github.com/thejameskyle/itsy-bitsy-data-structures",
+      "title": "thejameskyle/itsy-bitsy-data-structures:  All the things you didn't know you wanted to know about data structures",
+      "score": "220"
+    },
+    {
+      "url": "https://github.com/tencent-wechat/phxsql",
+      "title": "tencent-wechat/phxsql: A high availability MySQL cluster that guarantees data consistency between a master and slaves.",
+      "score": "203"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/303096#reply92",
+      "title": "看了提多帖子，有点在意自己这种培训出来的程序员",
+      "score": "92"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303172#reply89",
+      "title": "为什么不推荐 W3Schools",
+      "score": "89"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303216#reply74",
+      "title": "分享下这半年内买的，明显提升了生活品质东西",
+      "score": "74"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303078#reply72",
+      "title": "看书写代码写累了，情绪 down 了，有什么歌／节目／电影推荐吗？让人立马打满鸡血的那种",
+      "score": "72"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303193#reply54",
+      "title": "千万不要帮朋友做网站",
+      "score": "54"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303077#reply44",
+      "title": "济南的 python 坑真是少，还有 20 天就要离职了，逼我这个 4 年 pythoner 转行么",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303084#reply44",
+      "title": "请教一下各位，没有经验跨行进贵行业有多难",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303142#reply40",
+      "title": "注册域名,你选择什么?",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303151#reply39",
+      "title": "大家工资一般什么时候发？",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303238#reply39",
+      "title": "大陆访问德国最快的方式是什么？",
+      "score": "39"
+    }
+  ]
+}
