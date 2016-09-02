@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12405006",
+      "title": "A SpaceX Falcon 9 rocket has exploded at Cape Canaveral",
+      "score": "936"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12409425",
+      "title": "Canadian surgeons urge people to throw out bristle BBQ brushes",
+      "score": "706"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12409577",
+      "title": "Tricks to Monetize Your Side Projects",
+      "score": "495"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12410451",
+      "title": "Google shelves plan for phone with interchangeable parts",
+      "score": "267"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12409555",
+      "title": "New cloud attack takes full control of virtual machines with little effort",
+      "score": "262"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12411747",
+      "title": "Contemplating the possible retirement of Apache OpenOffice",
+      "score": "245"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12410083",
+      "title": "DEA will ban chemicals contained in kratom, a popular herbal supplement",
+      "score": "167"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12411870",
+      "title": "WoSign's secret purchase of StartCom: WoSign threatened legal actions",
+      "score": "140"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12410014",
+      "title": "How Tor Works",
+      "score": "140"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12410277",
+      "title": "Joe Sutter, who guided creation of the Boeing 747, has died",
+      "score": "112"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50oqkj/why_was_doom_developed_on_a_next/",
+      "title": "Why was Doom developed on a NeXT?",
+      "score": "1750"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50ofw0/how_the_jvm_compares_your_strings_using_the/",
+      "title": "How the JVM compares your strings using the craziest x86 instruction you've never heard of",
+      "score": "140"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50s87x/how_malicious_websites_can_access_a_developers/",
+      "title": "How malicious websites can access a developer's local database",
+      "score": "133"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50ryf8/dolphin_progress_report_august_2016/",
+      "title": "Dolphin Progress Report: August 2016",
+      "score": "103"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50pgmv/when_to_avoid_jsonb_in_a_postgresql_schema/",
+      "title": "When To Avoid JSONB In A PostgreSQL Schema",
+      "score": "43"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50osmt/jon_blow_demo_quick_lambas_looping_polymorph/",
+      "title": "Jon Blow - Demo: Quick Lambas, Looping Polymorph Solver",
+      "score": "37"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50puct/20_open_source_time_series_databases_compared/",
+      "title": "20 open source time series databases compared",
+      "score": "14"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50owp5/think_before_you_parallelize_a_tour_of_parallel/",
+      "title": "Think Before You Parallelize: A tour of parallel abstractions",
+      "score": "13"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50pbmt/memory_hole_a_simple_support_issue_organizer/",
+      "title": "Memory Hole: a simple support issue organizer",
+      "score": "12"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50ok48/the_lurn/",
+      "title": "The Lurn",
+      "score": "9"
+    }
+  ],
+  "medium": [
+    {
+      "title": "I Got Scammed By A Silicon Valley Startup",
+      "score": "4944",
+      "url": "https://medium.com/p/i-got-scammed-by-a-silicon-valley-startup-574ced8acdff"
+    },
+    {
+      "title": "How Exercise Shapes You, Far Beyond the Gym",
+      "score": "1246",
+      "url": "https://medium.com/p/how-exercise-shapes-you-far-beyond-the-gym-2c6f345526e9"
+    },
+    {
+      "title": "How I Used & Abused My Tesla — What a Tesla looks like after 100,000 Miles, a 48 State Road trip…",
+      "score": "2619",
+      "url": "https://medium.com/p/how-i-used-abused-my-tesla-what-a-tesla-looks-like-after-100-000-miles-a-48-state-road-trip-6b6ae66b3c10"
+    },
+    {
+      "title": "Goodbye Democracy and Capitalism",
+      "score": "309",
+      "url": "https://medium.com/p/goodbye-democracy-and-capitalism-355b68ae5147"
+    },
+    {
+      "title": "Colin and the Kids",
+      "score": "709",
+      "url": "https://medium.com/p/colin-kaepernick-protest-biracial-kids-f982eacc740f"
+    },
+    {
+      "title": "The Disturbing Details Of The Derrick Rose Gang Rape Case",
+      "score": "68",
+      "url": "https://medium.com/p/derrick-rose-rape-case-2182c16b55e2"
+    },
+    {
+      "title": "Why ‘Deadwood’ Is a Top-10 TV Show of All Time",
+      "score": "77",
+      "url": "https://medium.com/p/deadwood-hbo-tv-the-book-dadb4007790e"
+    },
+    {
+      "title": "Bel Pesce e o empreendedorismo de palco: porque a Menina do Vale não vale tanto assim",
+      "score": "2905",
+      "url": "https://medium.com/p/bel-pesce-e-o-empreendedorismo-de-palco-porque-a-menina-do-vale-não-vale-tanto-assim-da9e0c917844"
+    },
+    {
+      "title": "Linux is 25. Yay! Let’s celebrate with 25 stunning facts about Linux.",
+      "score": "2532",
+      "url": "https://medium.com/p/linux-is-25-yay-lets-celebrate-with-25-rad-facts-about-linux-c8d8ac30076d"
+    },
+    {
+      "title": "Real Life Shark Tank: 12 of the Strangest Things I’ve Been Pitched",
+      "score": "146",
+      "url": "https://medium.com/p/real-life-shark-tank-12-of-the-strangest-things-ive-been-pitched-1812e9cdde87"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/founder-catalog",
+      "title": "Founder Catalog: What the world’s most influential founders are writing about",
+      "score": "319"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/aloha-browser",
+      "title": "Aloha Browser: Private and secure mobile browser with free unlimited VPN",
+      "score": "140"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/actions",
+      "title": "Actions: Automate repetitive tasks on your iOS Device",
+      "score": "85"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/ramsophone",
+      "title": "Ramsophone: A generative art/music machine. (Be sure to refresh!)",
+      "score": "102"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/wheelys-dreams",
+      "title": "Wheelys Dreams: Crowdfunding for making dreams become real",
+      "score": "77"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/geekwire-radio-our-favorite-apps-w-ryan-hoover",
+      "title": "GeekWire Radio: Our Favorite Apps w/ Ryan Hoover: Chatting about Toasty, Parallel, and other fun apps",
+      "score": "48"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/propeller-2",
+      "title": "Propeller: The powerful CRM that lets you sell from Gmail",
+      "score": "51"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/qrates-3",
+      "title": "QRATES: Vinyl on demand - press your own music onto vinyl",
+      "score": "42"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/sony-mdr-1000x-headphones",
+      "title": "Sony MDR-1000X Headphones: Bluetooth, noise-cancelling headphones that rival Bose",
+      "score": "45"
+    },
+    {
+      "url": "https://www.producthunt.com/games/oneliner64",
+      "title": "Oneliner64: Complete arcade action game for Commodore64 in 1 line code",
+      "score": "23"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/facebook/zstd",
+      "title": "facebook/zstd: Zstandard - Fast real-time compression algorithm",
+      "score": "624"
+    },
+    {
+      "url": "https://github.com/rubensousa/RecyclerViewSnap",
+      "title": "rubensousa/RecyclerViewSnap: RecyclerView snapping example with SnapHelper",
+      "score": "489"
+    },
+    {
+      "url": "https://github.com/baidu/Paddle",
+      "title": "baidu/Paddle: PArallel Distributed Deep LEarning",
+      "score": "367"
+    },
+    {
+      "url": "https://github.com/david-gpu/srez",
+      "title": "david-gpu/srez: Image super-resolution through deep learning",
+      "score": "405"
+    },
+    {
+      "url": "https://github.com/thejameskyle/itsy-bitsy-data-structures",
+      "title": "thejameskyle/itsy-bitsy-data-structures:  All the things you didn't know you wanted to know about data structures",
+      "score": "382"
+    },
+    {
+      "url": "https://github.com/brillout/awesome-react-components",
+      "title": "brillout/awesome-react-components: Catalog of React components / libraries",
+      "score": "380"
+    },
+    {
+      "url": "https://github.com/ncw/rclone",
+      "title": "ncw/rclone: \"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "score": "314"
+    },
+    {
+      "url": "https://github.com/ManoMarks/docker-swarm-visualizer",
+      "title": "ManoMarks/docker-swarm-visualizer: A visualizer for Docker Swarm using the Docker Remote API, Node.JS, and D3",
+      "score": "306"
+    },
+    {
+      "url": "https://github.com/zyedidia/micro",
+      "title": "zyedidia/micro: A modern and intuitive terminal-based text editor",
+      "score": "260"
+    },
+    {
+      "url": "https://github.com/torvalds/linux",
+      "title": "torvalds/linux: Linux kernel source tree",
+      "score": "173"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/303512#reply65",
+      "title": "QQ 聊天能被监控吗？在公司",
+      "score": "65"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303424#reply51",
+      "title": "看到别人写 SQL 会在 where 后面写 1=1，是什么意思？",
+      "score": "51"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303377#reply45",
+      "title": "女程序员的郁闷",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303405#reply44",
+      "title": "直接套用那些 bootstrap 后台模板会不会感觉很 low？",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303432#reply40",
+      "title": "在 Hack News 被吐槽",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303394#reply39",
+      "title": "我们被一个模仿我们的网站给告了",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303479#reply35",
+      "title": "「鼠须管」配置方案分享",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303399#reply32",
+      "title": "今天把使用了快 20 天的三星 S7Edge 给退了！！！！",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303369#reply31",
+      "title": "在深圳办什么宽带好？",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303453#reply31",
+      "title": "你们鼠标的中键是用食指还是中指按的？拿鼠标的正确姿势？",
+      "score": "31"
+    }
+  ]
+}
