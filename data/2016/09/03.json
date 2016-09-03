@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12417290",
+      "title": "An account of a serious medical emergency on a transoceanic flight",
+      "score": "604"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12415488",
+      "title": "A global map of wind, weather, and ocean conditions",
+      "score": "386"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12413512",
+      "title": "Neural Network Architectures",
+      "score": "304"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12417400",
+      "title": "Paris climate deal: US and China announce ratification",
+      "score": "187"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12417419",
+      "title": "Git 2.10 has been released",
+      "score": "182"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12416160",
+      "title": "Bugs found in GCC with the help of PVS-Studio",
+      "score": "161"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12417447",
+      "title": "A computer engineer has tracked down the first Apollo guidance computer",
+      "score": "138"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12417399",
+      "title": "Latest Intel, AMD chips won't support Windows versions earlier than Windows 10",
+      "score": "138"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12418788",
+      "title": "The Math Myth",
+      "score": "127"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12417938",
+      "title": "How Spy Tech Firms Let Governments See Everything on a Smartphone",
+      "score": "125"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50uo8r/consistent_hashing/",
+      "title": "Consistent Hashing",
+      "score": "665"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50uxvs/testing_for_people_who_hate_testing/",
+      "title": "Testing, for people who hate testing",
+      "score": "381"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50xkvx/automatically_locate_when_and_where_bugs_were/",
+      "title": "Automatically Locate When and Where Bugs Were Introduced with git bisect",
+      "score": "158"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50xwfz/microsoft_bug_bounty_program_adds_net_core_and/",
+      "title": "Microsoft bug bounty program adds .NET Core and ASP.NET Core",
+      "score": "84"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50ys2w/git_210_has_been_released/",
+      "title": "Git 2.10 has been released",
+      "score": "129"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50vodd/templeos_test_drive_of_beast_xeon_1224_core/",
+      "title": "TempleOS: Test Drive of Beast Xeon 12/24 core 3.0/3.5Ghz by flooring it.",
+      "score": "60"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50y2c9/bitemyapp_the_hashrocket_websocket_shootout_in/",
+      "title": "bitemyapp - The Hashrocket websocket shootout in Haskell",
+      "score": "48"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50wmmv/john_regehr_solutions_to_integer_overflow/",
+      "title": "John Regehr: Solutions to Integer Overflow",
+      "score": "36"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50u94g/facebook_opensources_new_compression_algorithm/",
+      "title": "Facebook Open-Sources New Compression Algorithm Outperforming Zlib",
+      "score": "30"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50x9qk/the_g1_garbage_collector/",
+      "title": "The G1 Garbage Collector",
+      "score": "24"
+    }
+  ],
+  "medium": [
+    {
+      "title": "I Got Scammed By A Silicon Valley Startup",
+      "score": "5243",
+      "url": "https://medium.com/p/i-got-scammed-by-a-silicon-valley-startup-574ced8acdff"
+    },
+    {
+      "title": "A verdade sobre Bel Pesce",
+      "score": "462",
+      "url": "https://medium.com/p/a-verdade-sobre-bel-pesce-82c706e16b4a"
+    },
+    {
+      "title": "An Open Letter to Colin Kaepernick",
+      "score": "1122",
+      "url": "https://medium.com/p/an-open-letter-to-colin-kaepernick-1398203ed46f"
+    },
+    {
+      "title": "How I Used & Abused My Tesla — What a Tesla looks like after 100,000 Miles, a 48 State Road trip…",
+      "score": "2811",
+      "url": "https://medium.com/p/how-i-used-abused-my-tesla-what-a-tesla-looks-like-after-100-000-miles-a-48-state-road-trip-6b6ae66b3c10"
+    },
+    {
+      "title": "The Disturbing Details Of The Derrick Rose Gang Rape Case",
+      "score": "99",
+      "url": "https://medium.com/p/derrick-rose-rape-case-2182c16b55e2"
+    },
+    {
+      "title": "Netflix And Chill",
+      "score": "123",
+      "url": "https://medium.com/p/netflix-and-chill-7933b08ef1ed"
+    },
+    {
+      "title": "0 to $640M: Non-obvious Lessons Learned at BrightRoll",
+      "score": "368",
+      "url": "https://medium.com/p/0-to-640m-non-obvious-lessons-learned-at-brightroll-b6b3eb4086ac"
+    },
+    {
+      "title": "Real Life Shark Tank: 12 of the Strangest Things I’ve Been Pitched",
+      "score": "177",
+      "url": "https://medium.com/p/real-life-shark-tank-12-of-the-strangest-things-ive-been-pitched-1812e9cdde87"
+    },
+    {
+      "title": "Why I Am Giving Up Teaching",
+      "score": "186",
+      "url": "https://medium.com/p/why-i-am-giving-up-teaching-bc3ec2071c80"
+    },
+    {
+      "title": "I ruined you before you were three.",
+      "score": "515",
+      "url": "https://medium.com/p/i-ruined-you-before-you-were-three-6e962acd4804"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/adioma",
+      "title": "Adioma: Create infographics quickly and easily",
+      "score": "190"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/uidb",
+      "title": "UIDB: Find examples of any UI",
+      "score": "69"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/apple-subscriptions",
+      "title": "Apple Subscriptions: Subscription offerings now available to App Store developers",
+      "score": "94"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/the-last-sunday",
+      "title": "The Last Sunday: Chrome extension to tell how many days remain in your life",
+      "score": "65"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/blog-kinja",
+      "title": "Blog Kinja: Ready to post blog images for your startup",
+      "score": "29"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/hello-tech-pros-the-business-building-activities-you-should-be-doing",
+      "title": "Hello Tech Pros: The Business-Building Activities You Should Be Doing: Kelly Roach on Entrepreneurship",
+      "score": "2"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/bubo",
+      "title": "Bubo: Your personal task management assistant",
+      "score": "26"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/upnable",
+      "title": "UpNable: Simple and quick user testing platform",
+      "score": "28"
+    },
+    {
+      "url": "https://www.producthunt.com/games/mathster",
+      "title": "Mathster: Math workout game",
+      "score": "10"
+    },
+    {
+      "url": "https://www.producthunt.com/books/eat-and-run",
+      "title": "Eat and Run: Journey into the world of ultramarathon running",
+      "score": "12"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/anthonynsimon/bild",
+      "title": "anthonynsimon/bild: A collection of parallel image processing algorithms in pure Go",
+      "score": "277"
+    },
+    {
+      "url": "https://github.com/david-gpu/srez",
+      "title": "david-gpu/srez: Image super-resolution through deep learning",
+      "score": "250"
+    },
+    {
+      "url": "https://github.com/facebook/zstd",
+      "title": "facebook/zstd: Zstandard - Fast real-time compression algorithm",
+      "score": "229"
+    },
+    {
+      "url": "https://github.com/heynickc/awesome-ddd",
+      "title": "heynickc/awesome-ddd: A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",
+      "score": "224"
+    },
+    {
+      "url": "https://github.com/Nummer/Destroy-Windows-10-Spying",
+      "title": "Nummer/Destroy-Windows-10-Spying: Destroy Windows Spying tool",
+      "score": "208"
+    },
+    {
+      "url": "https://github.com/gridcontrol/gridcontrol",
+      "title": "gridcontrol/gridcontrol: Networked Process Manager to execute functions in a Computer Grid",
+      "score": "204"
+    },
+    {
+      "url": "https://github.com/thejameskyle/itsy-bitsy-data-structures",
+      "title": "thejameskyle/itsy-bitsy-data-structures:  All the things you didn't know you wanted to know about data structures",
+      "score": "190"
+    },
+    {
+      "url": "https://github.com/brillout/awesome-react-components",
+      "title": "brillout/awesome-react-components: Catalog of React components / libraries",
+      "score": "171"
+    },
+    {
+      "url": "https://github.com/rubensousa/RecyclerViewSnap",
+      "title": "rubensousa/RecyclerViewSnap: RecyclerView snapping example with SnapHelper",
+      "score": "166"
+    },
+    {
+      "url": "https://github.com/ncw/rclone",
+      "title": "ncw/rclone: \"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "score": "150"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/303607#reply71",
+      "title": "当得知 supersu 被一家北京的公司收购，我内心是复杂的。",
+      "score": "71"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303635#reply45",
+      "title": "喜大普奔， golang.org 可以直接访问了",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303649#reply41",
+      "title": "准备做一个主机分享站点 以测评推荐为主 大家提提意见吧 http://vps.top",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303605#reply41",
+      "title": "联通 15 元 1G 省内流量",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303673#reply38",
+      "title": "感觉自己被骗了。",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303699#reply35",
+      "title": "你能不能看到图片里隐藏的 V2EX 这几个立体文字？",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303630#reply29",
+      "title": "寻求国内顶尖 python 培训机构！！！",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303644#reply27",
+      "title": "如何回复产品经理&quot;这个功能为什么不能做?&quot;这样的问句?",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303606#reply23",
+      "title": "关于 CCMT 更新的 Supersu 2.78 大家怎么看",
+      "score": "23"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303631#reply21",
+      "title": "有没有开过离岸账户的 V 友？",
+      "score": "21"
+    }
+  ]
+}
