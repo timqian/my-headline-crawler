@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12379518",
+      "title": "Scammed By A Silicon Valley Startup",
+      "score": 1303
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12396331",
+      "title": "The Dropbox hack is real",
+      "score": 1302
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12405006",
+      "title": "A SpaceX Falcon 9 rocket just exploded at Cape Canaveral",
+      "score": 974
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12405006",
+      "title": "A SpaceX Falcon 9 rocket has exploded at Cape Canaveral",
+      "score": 974
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12409425",
+      "title": "Canadian surgeons urge people to throw out bristle BBQ brushes",
+      "score": 835
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12399804",
+      "title": "Smaller and faster data compression with Zstandard",
+      "score": 809
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12417290",
+      "title": "An account of a serious medical emergency on a transoceanic flight",
+      "score": 789
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12409577",
+      "title": "Tricks to Monetize Your Side Projects",
+      "score": 636
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12393032",
+      "title": "Google Takes on Uber with New Ride-Share Service",
+      "score": 593
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12381791",
+      "title": "Academic Torrents: A distributed system for sharing enormous datasets",
+      "score": 552
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50f5r9/400000_github_repositories_1_billion_files_14/",
+      "title": "400,000 GitHub repositories, 1 billion files, 14 terabytes of code: Spaces or Tabs?",
+      "score": 2642
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zylfx/how_a_guy_built_a_slack_bot_to_help_him_find_an/",
+      "title": "How a guy built a Slack bot to help him find an apartment in San Francisco",
+      "score": 1916
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50oqkj/why_was_doom_developed_on_a_next/",
+      "title": "Why was Doom developed on a NeXT?",
+      "score": 1882
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50mwxd/as_engineers_were_often_obsessed_with_the_idea/",
+      "title": "As engineers, we’re often obsessed with the idea that our job satisfaction comes solely from solving only the most exciting technical challenges. In reality, research shows that we perform best when we are rested, feel valued, &amp; feel connected to a cause so we can focus on high-priority work.",
+      "score": 1696
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50ys2w/git_210_has_been_released/",
+      "title": "Git 2.10 has been released",
+      "score": 1300
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/504tu0/game_graphics_101_rendering_2d_graphics_on_a_3d/",
+      "title": "Game graphics 101. Rendering 2D graphics on a 3D engine. Very very basic intro to shaders",
+      "score": 1101
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50inhd/how_a_japanese_cucumber_farmer_is_using_deep/",
+      "title": "How a Japanese cucumber farmer is using deep learning and TensorFlow",
+      "score": 728
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50uo8r/consistent_hashing/",
+      "title": "Consistent Hashing",
+      "score": 689
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/505kbd/youre_asked_to_fix_a_bug/",
+      "title": "You're asked to fix a bug...",
+      "score": 562
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50s87x/how_malicious_websites_can_access_a_developers/",
+      "title": "How malicious websites can access a developer's local database",
+      "score": 538
+    }
+  ],
+  "medium": [
+    {
+      "title": "I Got Scammed By A Silicon Valley Startup",
+      "score": 5439,
+      "url": "https://medium.com/p/i-got-scammed-by-a-silicon-valley-startup-574ced8acdff"
+    },
+    {
+      "title": "50 Ways Happier, Healthier, And More Successful People Live On Their Own Terms",
+      "score": 5157,
+      "url": "https://medium.com/p/50-ways-happier-healthier-and-more-successful-people-live-on-their-own-terms-31ba8f482448"
+    },
+    {
+      "title": "How I Used & Abused My Tesla — What a Tesla looks like after 100,000 Miles, a 48 State Road trip…",
+      "score": 2938,
+      "url": "https://medium.com/p/how-i-used-abused-my-tesla-what-a-tesla-looks-like-after-100-000-miles-a-48-state-road-trip-6b6ae66b3c10"
+    },
+    {
+      "title": "Linux is 25. Yay! Let’s celebrate with 25 stunning facts about Linux.",
+      "score": 2724,
+      "url": "https://medium.com/p/linux-is-25-yay-lets-celebrate-with-25-rad-facts-about-linux-c8d8ac30076d"
+    },
+    {
+      "title": "This Morning Routine will Save You 20+ Hours Per Week",
+      "score": 2591,
+      "url": "https://medium.com/p/how-to-structure-your-day-for-optimal-performance-and-productivity-dcbf0665e3f3"
+    },
+    {
+      "title": "So a product manager asks you to fix a bug…",
+      "score": 2015,
+      "url": "https://medium.com/p/youre-asked-to-make-a-fix-e156b802ad92"
+    },
+    {
+      "title": "An Exclusive Look at How AI and Machine Learning Work at Apple",
+      "score": 1985,
+      "url": "https://medium.com/p/an-exclusive-look-at-how-ai-and-machine-learning-work-at-apple-8dbfb131932b"
+    },
+    {
+      "title": "Today’s Vagenda",
+      "score": 1773,
+      "url": "https://medium.com/p/todays-vagenda-2747885a4497"
+    },
+    {
+      "title": "How Exercise Shapes You, Far Beyond the Gym",
+      "score": 1688,
+      "url": "https://medium.com/p/how-exercise-shapes-you-far-beyond-the-gym-2c6f345526e9"
+    },
+    {
+      "title": "How I run a blog, started a business and work a full time job all at once",
+      "score": 1445,
+      "url": "https://medium.com/p/how-i-use-evernote-to-pitch-at-the-top-of-my-game-2c5966ef720b"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/302825#reply192",
+      "title": "公司开始强制要求 997，我是否要继续留下？",
+      "score": 209
+    },
+    {
+      "url": "https://www.v2ex.com/t/302675#reply71",
+      "title": "中国移动死也不肯作书面道歉，也是蛮拼的",
+      "score": 145
+    },
+    {
+      "url": "https://www.v2ex.com/t/302990#reply45",
+      "title": "女朋友想做开发，要教么。。。。",
+      "score": 145
+    },
+    {
+      "url": "https://www.v2ex.com/t/302850#reply107",
+      "title": "辞职被公司上司威胁了怎么办？",
+      "score": 143
+    },
+    {
+      "url": "https://www.v2ex.com/t/302541#reply80",
+      "title": "八千学费在手如何做投资？",
+      "score": 139
+    },
+    {
+      "url": "https://www.v2ex.com/t/303216#reply74",
+      "title": "分享下这半年内买的，明显提升了生活品质东西",
+      "score": 138
+    },
+    {
+      "url": "https://www.v2ex.com/t/303512#reply65",
+      "title": "QQ 聊天能被监控吗？在公司",
+      "score": 129
+    },
+    {
+      "url": "https://www.v2ex.com/t/302311#reply44",
+      "title": "我们程序员原来是被这么看待的么……",
+      "score": 120
+    },
+    {
+      "url": "https://www.v2ex.com/t/303172#reply89",
+      "title": "为什么不推荐 W3Schools",
+      "score": 120
+    },
+    {
+      "url": "https://www.v2ex.com/t/302835#reply99",
+      "title": "大家整天对着电脑，皮肤油大吗？长痘吗？ 什么牌子的男士洗面奶好用？",
+      "score": 114
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/kin-calendar-2",
+      "title": "Kin Calendar: The simple and connected calendar",
+      "score": 1170
+    },
+    {
+      "url": "https://www.producthunt.com/tech/hacbook-elite",
+      "title": "HacBook Elite: Fully functional Macintosh for 1/3 the price.",
+      "score": 945
+    },
+    {
+      "url": "https://www.producthunt.com/tech/basetrip",
+      "title": "Basetrip: All the travel information you need about any country",
+      "score": 877
+    },
+    {
+      "url": "https://www.producthunt.com/tech/repick",
+      "title": "Repick: Well-designed products from all over the internet",
+      "score": 808
+    },
+    {
+      "url": "https://www.producthunt.com/tech/checkout-pages",
+      "title": "Checkout Pages: Curated directory of the best checkout pages",
+      "score": 761
+    },
+    {
+      "url": "https://www.producthunt.com/tech/pastebot",
+      "title": "Pastebot: Clipboard manager from the creators of Tweetbot",
+      "score": 747
+    },
+    {
+      "url": "https://www.producthunt.com/tech/timely-6",
+      "title": "Timely: Automatic time tracking for freelancers and teams.",
+      "score": 733
+    },
+    {
+      "url": "https://www.producthunt.com/tech/email-list-verify",
+      "title": "Email List Verify: Remove hard bounces and email traps from your email lists",
+      "score": 712
+    },
+    {
+      "url": "https://www.producthunt.com/tech/founder-catalog",
+      "title": "Founder Catalog: What the world’s most influential founders are writing about",
+      "score": 687
+    },
+    {
+      "url": "https://www.producthunt.com/tech/adioma",
+      "title": "Adioma: Create infographics quickly and easily",
+      "score": 585
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/brillout/awesome-react-components",
+      "title": "brillout/awesome-react-components: Catalog of React components / libraries",
+      "score": "456"
+    },
+    {
+      "url": "https://github.com/baidu/Paddle",
+      "title": "baidu/Paddle: PArallel Distributed Deep LEarning",
+      "score": "458"
+    },
+    {
+      "url": "https://github.com/david-gpu/srez",
+      "title": "david-gpu/srez: Image super-resolution through deep learning",
+      "score": "562"
+    },
+    {
+      "url": "https://github.com/thejameskyle/itsy-bitsy-data-structures",
+      "title": "thejameskyle/itsy-bitsy-data-structures:  All the things you didn't know you wanted to know about data structures",
+      "score": "232"
+    },
+    {
+      "url": "https://github.com/camwiegert/in-view",
+      "title": "camwiegert/in-view: Get notified when a DOM element enters or exits the viewport. ",
+      "score": "903"
+    },
+    {
+      "url": "https://github.com/facebook/zstd",
+      "title": "facebook/zstd: Zstandard - Fast real-time compression algorithm",
+      "score": "830"
+    },
+    {
+      "url": "https://github.com/zyedidia/micro",
+      "title": "zyedidia/micro: A modern and intuitive terminal-based text editor",
+      "score": "777"
+    },
+    {
+      "url": "https://github.com/minio/minio",
+      "title": "minio/minio: Minio is an object storage server compatible with Amazon S3 and licensed under Apache 2.0 License",
+      "score": "453"
+    },
+    {
+      "url": "https://github.com/HiFaraz/node-playbook",
+      "title": "HiFaraz/node-playbook: Get started fast with Node.js",
+      "score": "308"
+    },
+    {
+      "url": "https://github.com/ncw/rclone",
+      "title": "ncw/rclone: \"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
+      "score": "276"
+    }
+  ]
+}
