@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12426766",
+      "title": "Running a Tor Exit Node for Fun and E-mails",
+      "score": "388"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12430298",
+      "title": "Philae Found",
+      "score": "343"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12427505",
+      "title": "Show HN: Postacard – Text a Photo to Send as a Postcard Anywhere on Earth for $3",
+      "score": "187"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12428097",
+      "title": "Paranoid Android: The Divine Madness of Philip K Dick",
+      "score": "160"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12428274",
+      "title": "First new antibiotic in 30 years discovered in major breakthrough",
+      "score": "158"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12429748",
+      "title": "German Federal Intelligence Service BND Violates Laws And Constitution",
+      "score": "153"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12428925",
+      "title": "Tesla envy grips Germany’s giants",
+      "score": "131"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12429538",
+      "title": "NSA Hacked French President’s House",
+      "score": "129"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12429349",
+      "title": "How to Learn Advanced Mathematics Without Heading to University – Part 3",
+      "score": "111"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12428576",
+      "title": "NativeJIT – a C++ to x64 JIT used in Bing",
+      "score": "107"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/518h8v/nativejit_a_c_to_x64_jit_used_in_bing/",
+      "title": "NativeJIT – a C++ to x64 JIT used in Bing",
+      "score": "157"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/518u7d/qt_58_alpha_released/",
+      "title": "Qt 5.8 Alpha released",
+      "score": "78"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/516ai2/a_hacker_from_south_africa_just_rescued_the_first/",
+      "title": "A Hacker From South Africa Just Rescued the First NASA Computer in Space",
+      "score": "70"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51589j/animate_with_css/",
+      "title": "Animate with CSS",
+      "score": "62"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5182x8/memory_allocator_tutorial/",
+      "title": "Memory allocator tutorial",
+      "score": "46"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/517yds/optimizing_for_human_understanding/",
+      "title": "Optimizing for Human Understanding",
+      "score": "38"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/514rym/templeos_sprite_animations_are_not_flash/",
+      "title": "TempleOS: Sprite Animations Are Not Flash",
+      "score": "31"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/518gdk/goto_2016_seven_secrets_of_maintainable_codebases/",
+      "title": "GOTO 2016 • Seven Secrets of Maintainable Codebases • Adam Tornhill",
+      "score": "27"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/515m8f/camera_calibration_using_c_and_opencv_tutorial/",
+      "title": "Camera calibration using C++ and OpenCV tutorial",
+      "score": "19"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5181h8/design_for_testability_separate_io_layers/",
+      "title": "Design for Testability: Separate I/O layers",
+      "score": "20"
+    }
+  ],
+  "medium": [
+    {
+      "title": "How not to bomb your offer negotiation",
+      "score": "757",
+      "url": "https://medium.com/p/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea"
+    },
+    {
+      "title": "I Got Scammed By A Silicon Valley Startup",
+      "score": "5614",
+      "url": "https://medium.com/p/i-got-scammed-by-a-silicon-valley-startup-574ced8acdff"
+    },
+    {
+      "title": "So You Want to be a Functional Programmer (Part 1)",
+      "score": "848",
+      "url": "https://medium.com/p/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536"
+    },
+    {
+      "title": "That Clinton Scandal the Press Desperately Wants Exists, But it’s Actually About Trump.",
+      "score": "748",
+      "url": "https://medium.com/p/that-clinton-scandal-the-press-desperately-wants-exists-but-its-actually-about-trump-6d4291edc324"
+    },
+    {
+      "title": "Cognitive bias cheat sheet",
+      "score": "1559",
+      "url": "https://medium.com/p/cognitive-bias-cheat-sheet-55a472476b18"
+    },
+    {
+      "title": "Our parents discovered leisure. We killed it.",
+      "score": "402",
+      "url": "https://medium.com/p/hobby-career-b5d199b0df18"
+    },
+    {
+      "title": "8 Ways Billionaires and Elite Athletes Perform at the Highest Level",
+      "score": "704",
+      "url": "https://medium.com/p/8-ways-billionaires-and-elite-athletes-perform-at-the-highest-level-cd7f97082f5e"
+    },
+    {
+      "title": "Being Single Is Hard",
+      "score": "810",
+      "url": "https://medium.com/p/being-single-is-hard-dfdb534b0bec"
+    },
+    {
+      "title": "The Long Road Home",
+      "score": "100",
+      "url": "https://medium.com/p/lianas-story-53cb17ca070f"
+    },
+    {
+      "title": "A verdade sobre Bel Pesce",
+      "score": "635",
+      "url": "https://medium.com/p/a-verdade-sobre-bel-pesce-82c706e16b4a"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/designer-emojis",
+      "title": "Designer Emojis: Vector emojis for designers",
+      "score": "162"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/emoji-css",
+      "title": "Emoji CSS: Add Emoji&#x27;s to your website",
+      "score": "146"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/docs2epub",
+      "title": "docs2epub: Get your favorite docs as eBooks",
+      "score": "102"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/moodnotes-2-0",
+      "title": "Moodnotes 2.0: Capture your mood and improve your thinking habits",
+      "score": "38"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/snaggy",
+      "title": "Snaggy: Share screenshots across the web with a single click",
+      "score": "87"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/omnicharge",
+      "title": "Omnicharge: Smart &amp; compact portable power bank",
+      "score": "60"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/algebra-rules",
+      "title": "Algebra Rules: The most useful rules of basic algebra",
+      "score": "56"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/how-to-get-to-product-market-fit",
+      "title": "How to Get to Product/Market Fit: By Côme Courteault, Growth Hacker At TheFamily",
+      "score": "19"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/tickey",
+      "title": "Tickey: Buy tickets for public transport with your smartphone",
+      "score": "57"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/workmarket",
+      "title": "WorkMarket: The #1 on-demand talent marketplace",
+      "score": "48"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/sarcadass/granim.js",
+      "title": "sarcadass/granim.js: Create fluid and interactive gradients animations with this small (&lt; 10 kB) js library.",
+      "score": "580"
+    },
+    {
+      "url": "https://github.com/ElemeFE/element",
+      "title": "ElemeFE/element: Desktop UI elements for Vue.js 2.0",
+      "score": "393"
+    },
+    {
+      "url": "https://github.com/tmrts/go-patterns",
+      "title": "tmrts/go-patterns: A curated list of Go patterns and idioms",
+      "score": "375"
+    },
+    {
+      "url": "https://github.com/still-life-studios/txt.wav",
+      "title": "still-life-studios/txt.wav: some weird text animations the internet deserves",
+      "score": "287"
+    },
+    {
+      "url": "https://github.com/heynickc/awesome-ddd",
+      "title": "heynickc/awesome-ddd: A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",
+      "score": "234"
+    },
+    {
+      "url": "https://github.com/skypeopensource/skypeopensource2",
+      "title": "skypeopensource/skypeopensource2: skype open source2",
+      "score": "216"
+    },
+    {
+      "url": "https://github.com/HotBitmapGG/CreditSesameRingView",
+      "title": "HotBitmapGG/CreditSesameRingView: Imitation of Ali credit sesame new old ring view.",
+      "score": "194"
+    },
+    {
+      "url": "https://github.com/brillout/awesome-react-components",
+      "title": "brillout/awesome-react-components: Catalog of React components / libraries",
+      "score": "190"
+    },
+    {
+      "url": "https://github.com/rubensousa/RecyclerViewSnap",
+      "title": "rubensousa/RecyclerViewSnap: RecyclerView snapping example with SnapHelper",
+      "score": "182"
+    },
+    {
+      "url": "https://github.com/BitFunnel/NativeJIT",
+      "title": "BitFunnel/NativeJIT: Open sourcing a JIT. Documentation not yet ready for public consumption",
+      "score": "180"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/303932#reply80",
+      "title": "来讨论点经验，给 28 岁现状如下的女生推荐书目。",
+      "score": "80"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303985#reply58",
+      "title": "工资与房租之间的关系",
+      "score": "58"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303952#reply56",
+      "title": "抢券抢不到生气了，准备写一个自动抢券的东东，时间成本最低的 web 方案是什么？",
+      "score": "56"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303997#reply49",
+      "title": "智能农业",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303925#reply47",
+      "title": "星巴克买一赠一券用不完怎么办",
+      "score": "47"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303965#reply40",
+      "title": "教几个小学生 c++一段时间了,有一些经验和感悟愿意和大家分享.",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303987#reply40",
+      "title": "python qr code：可生成图片二维码、动态图二维码",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/303961#reply39",
+      "title": "php 网站被白帽黑客 gank，目录被删，求老司机介绍介绍目前的黑客技术发展情况",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/304065#reply37",
+      "title": "一个连我自己都觉得很 2 的项目，大家给点意见。",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/304003#reply33",
+      "title": "namesilo 的验证码的确让我一脸懵逼。。。",
+      "score": "33"
+    }
+  ]
+}
