@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12430298",
+      "title": "Philae Found",
+      "score": "1187"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12435236",
+      "title": "EU Announces That All Scientific Articles Should Be Freely Accessible by 2020",
+      "score": "535"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12432859",
+      "title": "Insomnia 3.0 – A simple and beautiful REST API client",
+      "score": "458"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12433365",
+      "title": "When you change the world and no one notices",
+      "score": "425"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12434350",
+      "title": "A Design Defect Is Breaking iPhone 6 Pluses",
+      "score": "233"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12435978",
+      "title": "ITT Technical Institutes Shuts Down",
+      "score": "208"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12434252",
+      "title": "The ESP32 has been released",
+      "score": "196"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12434244",
+      "title": "Dolphin Emulator – Booting the Final GameCube Game",
+      "score": "189"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12434215",
+      "title": "How do I give our security auditor the information he wants? (2011)",
+      "score": "174"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12433069",
+      "title": "Taylor – Swift on bare metal",
+      "score": "139"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51cuyt/eigenvectors_and_eigenvalues_explained_visually/",
+      "title": "Eigenvectors and Eigenvalues explained visually",
+      "score": "1377"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51a40v/crystal_019_released/",
+      "title": "Crystal 0.19 released!",
+      "score": "157"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51d0ws/insomnia_30_a_simple_and_beautiful_rest_api_client/",
+      "title": "Insomnia 3.0 – A simple and beautiful REST API client",
+      "score": "152"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51aytr/github_facebookincubatorcreatereactapp_create/",
+      "title": "GitHub - facebookincubator/create-react-app: Create React apps with no build configuration.",
+      "score": "64"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51ck8b/nofaq_helps_you_fix_your_command_line_errors_and/",
+      "title": "NoFAQ helps you fix your command line errors and constantly learns how to be better at it",
+      "score": "54"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51bepe/zetawar_a_turn_based_tactical_strategy_game/",
+      "title": "Zetawar: a turn based tactical strategy game implemented in 100% ClojureScript",
+      "score": "44"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51f1yz/booting_the_final_gamecube_game_dolphin/",
+      "title": "Booting the Final GameCube Game [Dolphin]",
+      "score": "53"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/519wvs/xpost_rlinuxmasterrace_meet_ali_abdulghani_a/",
+      "title": "[x-post /r/linuxmasterrace] Meet Ali Abdulghani, a Blind Programmer Working in the field of Open Source – FossBoss",
+      "score": "36"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51c6jm/perl_6s_schrödingercertified_junctions/",
+      "title": "Perl 6's Schrödinger-Certified Junctions",
+      "score": "18"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51e2ol/inspecting_cs_qsort_through_animation/",
+      "title": "Inspecting C's qsort Through Animation",
+      "score": "19"
+    }
+  ],
+  "medium": [
+    {
+      "title": "That Clinton Scandal the Press Desperately Wants Exists, But it’s Actually About Trump.",
+      "score": "1465",
+      "url": "https://medium.com/p/that-clinton-scandal-the-press-desperately-wants-exists-but-its-actually-about-trump-6d4291edc324"
+    },
+    {
+      "title": "How not to bomb your offer negotiation",
+      "score": "951",
+      "url": "https://medium.com/p/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea"
+    },
+    {
+      "title": "I Got Scammed By A Silicon Valley Startup",
+      "score": "5732",
+      "url": "https://medium.com/p/i-got-scammed-by-a-silicon-valley-startup-574ced8acdff"
+    },
+    {
+      "title": "The 44 Most-Loved Products Launched in Summer 2016",
+      "score": "504",
+      "url": "https://medium.com/p/the-44-most-loved-products-launched-in-summer-2016-deaa36125316"
+    },
+    {
+      "title": "The Long Road Home",
+      "score": "176",
+      "url": "https://medium.com/p/lianas-story-53cb17ca070f"
+    },
+    {
+      "title": "So You Want to be a Functional Programmer (Part 1)",
+      "score": "1240",
+      "url": "https://medium.com/p/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536"
+    },
+    {
+      "title": "NFL Preseason Rankings, Part I: We’ll Care About These Teams at the Draft",
+      "score": "50",
+      "url": "https://medium.com/p/nfl-preseason-rankings-bottom-eight-teams-7d26009354fd"
+    },
+    {
+      "title": "How I used A / B testing to hack my kids",
+      "score": "179",
+      "url": "https://medium.com/p/how-i-used-a-b-testing-to-hack-my-kids-986b2e3d64e6"
+    },
+    {
+      "title": "Being Single Is Hard",
+      "score": "1193",
+      "url": "https://medium.com/p/being-single-is-hard-dfdb534b0bec"
+    },
+    {
+      "title": "YouTube De-Monetization Explained",
+      "score": "290",
+      "url": "https://medium.com/p/youtube-de-monetization-explained-44464f902a22"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/startup-pitch-decks",
+      "title": "Startup Pitch Decks: Real decks from real startups that raised over $400M",
+      "score": "744"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/zcast-2-0",
+      "title": "ZCast 2.0: Mobile podcasting, now with recording and landing pages",
+      "score": "193"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/the-headphone-by-bragi",
+      "title": "The Headphone by Bragi: Truly wireless earphones",
+      "score": "138"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/avast-passwords-for-mac",
+      "title": "Avast Passwords for Mac: Free password manager from Avast",
+      "score": "91"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/nerdify-bot",
+      "title": "Nerdify Bot: First AI-powered tutor bot for Facebook Messenger",
+      "score": "190"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/top-authors",
+      "title": "Top Authors: A leaderboard for Medium Authors",
+      "score": "96"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/neuron-2",
+      "title": "Neuron: Teaching machines to learn",
+      "score": "108"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/prototyp",
+      "title": "Prototyp: Free tool based on Framer.js to create awesome interactions",
+      "score": "92"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/beatsense-2",
+      "title": "BeatSense: The game changing music platform",
+      "score": "78"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/colorize",
+      "title": "Colorize: Turns any word or phrase into a hex color",
+      "score": "59"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/shekhargulati/52-technologies-in-2016",
+      "title": "shekhargulati/52-technologies-in-2016: Let's learn a new technology every week. A new technology blog every Sunday in 2016.",
+      "score": "538"
+    },
+    {
+      "url": "https://github.com/sarcadass/granim.js",
+      "title": "sarcadass/granim.js: Create fluid and interactive gradients animations with this small (&lt; 10 kB) js library.",
+      "score": "545"
+    },
+    {
+      "url": "https://github.com/tmrts/go-patterns",
+      "title": "tmrts/go-patterns: A curated list of Go patterns and idioms",
+      "score": "455"
+    },
+    {
+      "url": "https://github.com/pavel-odintsov/fastnetmon",
+      "title": "pavel-odintsov/fastnetmon: FastNetMon - very fast DDoS analyzer with sflow/netflow/mirror support",
+      "score": "368"
+    },
+    {
+      "url": "https://github.com/xcatliu/mobi.css",
+      "title": "xcatliu/mobi.css: A lightweight, flexible css framework that focus on mobile.",
+      "score": "283"
+    },
+    {
+      "url": "https://github.com/sylnsfar/qrcode",
+      "title": "sylnsfar/qrcode: artistic QR Code in Python （Animated GIF qr code）- Python 艺术二维码生成器 （GIF动态二维码、图片二维码）",
+      "score": "278"
+    },
+    {
+      "url": "https://github.com/BitFunnel/NativeJIT",
+      "title": "BitFunnel/NativeJIT: Open sourcing a JIT. Documentation not yet ready for public consumption",
+      "score": "254"
+    },
+    {
+      "url": "https://github.com/ElemeFE/element",
+      "title": "ElemeFE/element: Desktop UI elements for Vue.js 2.0",
+      "score": "244"
+    },
+    {
+      "url": "https://github.com/huazhiyuan2008/RecyclerViewCardGallery",
+      "title": "huazhiyuan2008/RecyclerViewCardGallery: RecyclerView实现Card Gallery效果，替代ViewPager方案",
+      "score": "231"
+    },
+    {
+      "url": "https://github.com/facebook/zstd",
+      "title": "facebook/zstd: Zstandard - Fast real-time compression algorithm",
+      "score": "195"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/304378#reply366",
+      "title": "限量野狗 T 恤马克杯放送！！ 9.10 野狗 Meetup 技术沙龙 ——滴滴大牛、《Vue.js 权威指南》作者空降",
+      "score": "366"
+    },
+    {
+      "url": "https://www.v2ex.com/t/304194#reply116",
+      "title": "领导终于开始考虑使用 html5 来代替 mfc 写桌面版客户端了……",
+      "score": "116"
+    },
+    {
+      "url": "https://www.v2ex.com/t/304241#reply114",
+      "title": "今天看到电商搞特价心情很激动，花个四、五百买个键盘值得不？",
+      "score": "114"
+    },
+    {
+      "url": "https://www.v2ex.com/t/304233#reply78",
+      "title": "微信要出应用号， APP 以后真的用不上了吗？？",
+      "score": "78"
+    },
+    {
+      "url": "https://www.v2ex.com/t/304208#reply75",
+      "title": "我前天问大家 骑车上班建议的，今天体验了一下，感受如下",
+      "score": "75"
+    },
+    {
+      "url": "https://www.v2ex.com/t/304207#reply62",
+      "title": "回龙观买套房至少得准备 140 万",
+      "score": "62"
+    },
+    {
+      "url": "https://www.v2ex.com/t/304337#reply61",
+      "title": "离开现在的“996”下一个就一定是“885”吗？",
+      "score": "61"
+    },
+    {
+      "url": "https://www.v2ex.com/t/304220#reply57",
+      "title": "我期待很久的一本 Python 书，可能是国内目前最好的 Python 书，终于出版啦啦！！",
+      "score": "57"
+    },
+    {
+      "url": "https://www.v2ex.com/t/304216#reply56",
+      "title": "1500 以下的安卓机，有什么可以选的吗？",
+      "score": "56"
+    },
+    {
+      "url": "https://www.v2ex.com/t/304199#reply53",
+      "title": "京东白条被盗了，太不安全了，居然可以任意修改白条绑定的手机号？有没有人遇到过啊",
+      "score": "53"
+    }
+  ]
+}
