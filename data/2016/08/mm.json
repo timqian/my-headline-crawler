@@ -1,0 +1,263 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12303075",
+      "title": "“It's The Future”",
+      "score": 1309
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12379518",
+      "title": "Scammed By A Silicon Valley Startup",
+      "score": 1303
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12396331",
+      "title": "The Dropbox hack is real",
+      "score": 1302
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12353441",
+      "title": "Planet Found in Habitable Zone Around Nearest Star",
+      "score": 1184
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12360662",
+      "title": "NSO Group's iPhone Zero-Days used against a UAE Human Rights Defender",
+      "score": 1034
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12260794",
+      "title": "Show HN: Generating fantasy maps – an interactive exploration",
+      "score": 1001
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12405006",
+      "title": "A SpaceX Falcon 9 rocket has exploded at Cape Canaveral",
+      "score": 974
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12405006",
+      "title": "A SpaceX Falcon 9 rocket just exploded at Cape Canaveral",
+      "score": 974
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12269425",
+      "title": "Indie Hackers: Learn how developers are making money",
+      "score": 942
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12324358",
+      "title": "Japanese writing system basics",
+      "score": 930
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zp5dt/the_true_cost_of_interruptions_game_developer/",
+      "title": "The true cost of interruptions: Game Developer Magazine discovered that a programmer needs up to 15 minutes to start editing code again following an interruption.",
+      "score": 5337
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4x2sjl/text_analysis_of_trumps_tweets_confirms_he_writes/",
+      "title": "Text analysis of Trump's tweets confirms he writes only the (angrier) Android half",
+      "score": 4837
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4y4epv/about_5_months_from_now_the_tarballs_from_google/",
+      "title": "About 5 months from now, the tarballs from Google Code will be gone. Thousands of historically interesting projects still not migrated elsewhere.",
+      "score": 3080
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zged0/top_10_h1b_employers_are_all_it_offshore/",
+      "title": "Top 10 H-1B employers are all IT offshore outsourcing firms, costing U.S. workers tens of thousands of jobs",
+      "score": 2859
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50f5r9/400000_github_repositories_1_billion_files_14/",
+      "title": "400,000 GitHub repositories, 1 billion files, 14 terabytes of code: Spaces or Tabs?",
+      "score": 2642
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4xnsqp/dropout_rate_from_30_days_of_the_coding_challenge/",
+      "title": "Dropout rate from 30 days of the coding challenge. Only 8.2% of them made it to the very last day.",
+      "score": 2322
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4wu0nj/i_want_to_know_what_code_is_running_inside_my_body/",
+      "title": "“I Want to Know What Code Is Running Inside My Body”",
+      "score": 2287
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zb2be/why_gnu_grep_is_fast/",
+      "title": "Why GNU grep is fast",
+      "score": 1984
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/4zylfx/how_a_guy_built_a_slack_bot_to_help_him_find_an/",
+      "title": "How a guy built a Slack bot to help him find an apartment in San Francisco",
+      "score": 1916
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/50oqkj/why_was_doom_developed_on_a_next/",
+      "title": "Why was Doom developed on a NeXT?",
+      "score": 1882
+    }
+  ],
+  "medium": [
+    {
+      "title": "This is Your Life in Silicon Valley",
+      "score": 6798,
+      "url": "https://medium.com/p/this-is-your-life-in-silicon-valley-933091235095"
+    },
+    {
+      "title": "A Letter to My Daughter About Young Men",
+      "score": 5606,
+      "url": "https://medium.com/p/a-letter-to-my-daughter-about-young-men-2bab2fca4971"
+    },
+    {
+      "title": "I Got Scammed By A Silicon Valley Startup",
+      "score": 5439,
+      "url": "https://medium.com/p/i-got-scammed-by-a-silicon-valley-startup-574ced8acdff"
+    },
+    {
+      "title": "50 Ways Happier, Healthier, And More Successful People Live On Their Own Terms",
+      "score": 5157,
+      "url": "https://medium.com/p/50-ways-happier-healthier-and-more-successful-people-live-on-their-own-terms-31ba8f482448"
+    },
+    {
+      "title": "I Peeked Into My Node_Modules Directory And You Won’t Believe What Happened Next",
+      "score": 3837,
+      "url": "https://medium.com/p/i-peeked-into-my-node-modules-directory-and-you-wont-believe-what-happened-next-b89f63d21558"
+    },
+    {
+      "title": "Is Trump Purposely Sabotaging His Campaign?",
+      "score": 3374,
+      "url": "https://medium.com/p/is-trump-purposely-sabotaging-his-campaign-91b11fe07a91"
+    },
+    {
+      "title": "How I Used & Abused My Tesla — What a Tesla looks like after 100,000 Miles, a 48 State Road trip…",
+      "score": 2938,
+      "url": "https://medium.com/p/how-i-used-abused-my-tesla-what-a-tesla-looks-like-after-100-000-miles-a-48-state-road-trip-6b6ae66b3c10"
+    },
+    {
+      "title": "Is this my interface or yours?",
+      "score": 2930,
+      "url": "https://medium.com/p/is-this-my-interface-or-yours-b09a7a795256"
+    },
+    {
+      "title": "19 Incredibly Useful Websites You Wish You Knew Earlier",
+      "score": 2876,
+      "url": "https://medium.com/p/19-incredibly-useful-websites-you-wish-you-knew-earlier-eda6f16752c8"
+    },
+    {
+      "title": "Eleven Reasons To Be Excited About The Future of Technology",
+      "score": 2736,
+      "url": "https://medium.com/p/eleven-reasons-to-be-excited-about-the-future-of-technology-ef5f9b939cb2"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/301410#reply281",
+      "title": "国产的密码管理软件，我就问你敢不敢用！",
+      "score": 379
+    },
+    {
+      "url": "https://www.v2ex.com/t/299827#reply261",
+      "title": "不知道为什么就想送点东西给大家！",
+      "score": 323
+    },
+    {
+      "url": "https://www.v2ex.com/t/299116#reply41",
+      "title": "Hyper_ 开放啦！最简单的 Docker 云，两秒部署你的应用，注册就送 20 美刀",
+      "score": 316
+    },
+    {
+      "url": "https://www.v2ex.com/t/300190#reply221",
+      "title": "Uber 司机抢我行李，请教大家该怎么办",
+      "score": 312
+    },
+    {
+      "url": "https://www.v2ex.com/t/300441#reply112",
+      "title": "新的 nazo 解谜网站，来试试你能到第几关",
+      "score": 223
+    },
+    {
+      "url": "https://www.v2ex.com/t/302825#reply192",
+      "title": "公司开始强制要求 997，我是否要继续留下？",
+      "score": 209
+    },
+    {
+      "url": "https://www.v2ex.com/t/298280#reply179",
+      "title": "公司新规定，上班时间不许穿短裤、无袖、拖鞋，现在浑身不舒服可咋办？",
+      "score": 203
+    },
+    {
+      "url": "https://www.v2ex.com/t/299391#reply131",
+      "title": "创业两周年，我做了一次尝试。想听听你的建议，送一次说走就走的旅行",
+      "score": 169
+    },
+    {
+      "url": "https://www.v2ex.com/t/299071#reply116",
+      "title": "有感于最近一次支付宝 9.9 改版",
+      "score": 163
+    },
+    {
+      "url": "https://www.v2ex.com/t/301044#reply39",
+      "title": "来试试你能看出这个蓝色和紫色的区别 ？",
+      "score": 156
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/notion-1-0-mac-app",
+      "title": "Notion 1.0 + Mac App: Docs, wikis, tasks – a minimal &amp; unified workspace for teams",
+      "score": 2025
+    },
+    {
+      "url": "https://www.producthunt.com/tech/google-duo",
+      "title": "Google Duo: One-to-one video calling. Google&#x27;s FaceTime competitor.",
+      "score": 1546
+    },
+    {
+      "url": "https://www.producthunt.com/tech/boomerang-respondable",
+      "title": "Boomerang Respondable: Write perfect emails with Artificial Intelligence",
+      "score": 1315
+    },
+    {
+      "url": "https://www.producthunt.com/tech/product-pages",
+      "title": "Product Pages: Curated directory of the best product pages",
+      "score": 1187
+    },
+    {
+      "url": "https://www.producthunt.com/tech/kin-calendar-2",
+      "title": "Kin Calendar: The simple and connected calendar",
+      "score": 1170
+    },
+    {
+      "url": "https://www.producthunt.com/tech/joy-3",
+      "title": "Joy: Everything about your wedding in one place",
+      "score": 1111
+    },
+    {
+      "url": "https://www.producthunt.com/tech/conv",
+      "title": "CONV.: Convert YouTube video to MP3, GIF or MP4",
+      "score": 1078
+    },
+    {
+      "url": "https://www.producthunt.com/tech/mimo",
+      "title": "Mimo: Learn how to code on your iPhone📱",
+      "score": 1040
+    },
+    {
+      "url": "https://www.producthunt.com/tech/website-downloader",
+      "title": "Website Downloader: Download source code from any website",
+      "score": 994
+    },
+    {
+      "url": "https://www.producthunt.com/tech/html-email",
+      "title": "HTML Email: Responsive HTML email templates for startups &amp; developers",
+      "score": 988
+    }
+  ],
+  "github": []
+}

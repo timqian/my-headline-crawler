@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12440612",
+      "title": "Gordon Murray-designed ‘OX’ flat-pack truck",
+      "score": "281"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12440807",
+      "title": "How to Generate Secure Random Numbers (in Various Programming Languages)",
+      "score": "209"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12441519",
+      "title": "Support for Hello discontinued in Firefox 49",
+      "score": "203"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12441703",
+      "title": "PiBakery – a blocks based, easy to use setup tool for Raspberry Pi",
+      "score": "193"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12440713",
+      "title": "Pirates Plunder 4K Hateful Eight, but Did They Crack DCP?",
+      "score": "189"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12441799",
+      "title": "16-year-old British girl earns £48,000 helping Chinese people name their babies",
+      "score": "177"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12443629",
+      "title": "How to Raise a Genius: Lessons from a 45-year Study of Super-Smart Children",
+      "score": "128"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12441618",
+      "title": "Flightradar24 ADS-B Receivers On-board a Surface Ocean Robot",
+      "score": "120"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12441656",
+      "title": "How Quaternions encode rotations: derivation and sample code",
+      "score": "119"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12441354",
+      "title": "A pilot who stole a secret Soviet fighter jet",
+      "score": "108"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51i1fd/excel_messenger_a_group_messaging_app_where_the/",
+      "title": "Excel Messenger: a group messaging app where the server and clients are all just excel sheets that reference each other",
+      "score": "2496"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51i3ff/multiprocess_firefox_brings_400700_improvement_in/",
+      "title": "Multi-process Firefox brings 400-700% improvement in responsiveness",
+      "score": "454"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51fqta/llvm_39_released_release_notes/",
+      "title": "LLVM 3.9 Released – Release Notes",
+      "score": "117"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51gqwg/tcl_the_misunderstood/",
+      "title": "Tcl the Misunderstood",
+      "score": "75"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51g5ss/become_a_gdb_power_user_greg_law_accu_2016/",
+      "title": "'Become a GDB Power User' - Greg Law [ ACCU 2016 ]",
+      "score": "63"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51iu4u/analyzing_prince_of_persias_source_code/",
+      "title": "Analyzing Prince of Persia's source code",
+      "score": "44"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51jn5v/intellij_idea_20163_eap_sf_fira_code_debugger/",
+      "title": "IntelliJ IDEA 2016.3 EAP: SF, Fira Code, Debugger Improvements and More",
+      "score": "30"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51gyep/bootstrap_v3_is_no_longer_supported/",
+      "title": "Bootstrap v3 Is No Longer Supported",
+      "score": "28"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51ggtu/erlang_rest_server_stack_xpost_rerlang/",
+      "title": "Erlang REST Server Stack [x-post /r/erlang]",
+      "score": "25"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51l2qk/new_zine_linux_debugging_tools_youll_love/",
+      "title": "New zine: Linux debugging tools you'll love",
+      "score": "30"
+    }
+  ],
+  "medium": [
+    {
+      "title": "The 44 Most-Loved Products Launched in Summer 2016",
+      "score": "865",
+      "url": "https://medium.com/p/the-44-most-loved-products-launched-in-summer-2016-deaa36125316"
+    },
+    {
+      "title": "We’re F*cked, It’s Over. Or Is It?",
+      "score": "452",
+      "url": "https://medium.com/p/were-f-cked-it-s-over-or-is-it-5abe1432471d"
+    },
+    {
+      "title": "I Got Scammed By A Silicon Valley Startup",
+      "score": "5865",
+      "url": "https://medium.com/p/i-got-scammed-by-a-silicon-valley-startup-574ced8acdff"
+    },
+    {
+      "title": "How I used A / B testing to hack my kids",
+      "score": "329",
+      "url": "https://medium.com/p/how-i-used-a-b-testing-to-hack-my-kids-986b2e3d64e6"
+    },
+    {
+      "title": "NFL Preseason Rankings, Part II: Just Good Enough to Fail",
+      "score": "56",
+      "url": "https://medium.com/p/nfl-preseason-rankings-second-eight-teams-e7596eebd661"
+    },
+    {
+      "title": "How the Far-Right Media Controls Donald Trump",
+      "score": "228",
+      "url": "https://medium.com/p/how-the-far-right-media-controls-donald-trump-3d077ca46a21"
+    },
+    {
+      "title": "How not to bomb your offer negotiation",
+      "score": "1090",
+      "url": "https://medium.com/p/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea"
+    },
+    {
+      "title": "Lena Dunham Is A Fuckboy",
+      "score": "457",
+      "url": "https://medium.com/p/lena-dunham-is-a-fuckboy-1c7cd247e45e"
+    },
+    {
+      "title": "The NBA’s New Lineups of Death",
+      "score": "133",
+      "url": "https://medium.com/p/the-nbas-new-lineups-of-death-7e52303954a1"
+    },
+    {
+      "title": "NFL Preseason Rankings, Part I: We’ll Care About These Teams at the Draft",
+      "score": "76",
+      "url": "https://medium.com/p/nfl-preseason-rankings-bottom-eight-teams-7d26009354fd"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/apple-events-for-macos",
+      "title": "Apple Events for macOS: The unofficial Apple Events app for macOS",
+      "score": "197"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/amphetamine-3",
+      "title": "Amphetamine 3: Keep your Mac awake from the menubar",
+      "score": "185"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/promorepublic-for-buffer",
+      "title": "PromoRepublic for Buffer: Daily content ideas for your Buffer posts",
+      "score": "205"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/squire-6",
+      "title": "Squire: Discover &amp; book the best Barbers in your city",
+      "score": "107"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/bubblestore",
+      "title": "Bubblestore: Ready-made templates to build apps without code on Bubble",
+      "score": "75"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/moo-do-for-gmail",
+      "title": "Moo.do for Gmail: Email with powerful task management",
+      "score": "105"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/quill-1-0",
+      "title": "Quill 1.0: An API driven rich text editor",
+      "score": "61"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/nweets",
+      "title": "Nweets: Keep up with technology news in twenty tweets.",
+      "score": "58"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/clippings-com",
+      "title": "Clippings.com: Marketplace that connects you with innovative design brands",
+      "score": "69"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/20vc-brett-demarrais-partner-ludlow-ventures",
+      "title": "20VC: Brett DeMarrais, Partner @ Ludlow Ventures: What is wrong with how VCs treat founders?",
+      "score": "31"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/shekhargulati/52-technologies-in-2016",
+      "title": "shekhargulati/52-technologies-in-2016: Let's learn a new technology every week. A new technology blog every Sunday in 2016.",
+      "score": "769"
+    },
+    {
+      "url": "https://github.com/quilljs/quill",
+      "title": "quilljs/quill: Your powerful, rich text editor",
+      "score": "723"
+    },
+    {
+      "url": "https://github.com/sylnsfar/qrcode",
+      "title": "sylnsfar/qrcode: artistic QR Code in Python （Animated GIF qr code）- Python 艺术二维码生成器 （GIF动态二维码、图片二维码）",
+      "score": "467"
+    },
+    {
+      "url": "https://github.com/sarcadass/granim.js",
+      "title": "sarcadass/granim.js: Create fluid and interactive gradients animations with this small (&lt; 10 kB) js library.",
+      "score": "422"
+    },
+    {
+      "url": "https://github.com/tmrts/go-patterns",
+      "title": "tmrts/go-patterns: A curated list of Go patterns and idioms",
+      "score": "396"
+    },
+    {
+      "url": "https://github.com/xcatliu/mobi.css",
+      "title": "xcatliu/mobi.css: A lightweight, flexible css framework that focus on mobile.",
+      "score": "329"
+    },
+    {
+      "url": "https://github.com/facebook/zstd",
+      "title": "facebook/zstd: Zstandard - Fast real-time compression algorithm",
+      "score": "290"
+    },
+    {
+      "url": "https://github.com/huazhiyuan2008/RecyclerViewCardGallery",
+      "title": "huazhiyuan2008/RecyclerViewCardGallery: RecyclerView实现Card Gallery效果，替代ViewPager方案",
+      "score": "282"
+    },
+    {
+      "url": "https://github.com/ElemeFE/element",
+      "title": "ElemeFE/element: Desktop UI elements for Vue.js 2.0",
+      "score": "272"
+    },
+    {
+      "url": "https://github.com/huluoyang/freecodecamp.cn",
+      "title": "huluoyang/freecodecamp.cn: 看源码请到Code，提问请到Issues，提交代码请到Pull requests，看学习心得请到Wiki。^_^",
+      "score": "276"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/304519#reply78",
+      "title": "另一个角度看 996",
+      "score": "78"
+    },
+    {
+      "url": "https://www.v2ex.com/t/304546#reply68",
+      "title": "知乎乱套了",
+      "score": "68"
+    },
+    {
+      "url": "https://www.v2ex.com/t/304473#reply60",
+      "title": "麻烦大家推荐个智能手表",
+      "score": "60"
+    },
+    {
+      "url": "https://www.v2ex.com/t/304534#reply56",
+      "title": "马上到结婚纪念日了，想送媳妇个礼物，可是她不让花钱！想做个网站送给她，大家帮忙想想有什么好 idea!",
+      "score": "56"
+    },
+    {
+      "url": "https://www.v2ex.com/t/304587#reply56",
+      "title": "凌晨发布会有看直播的吗？",
+      "score": "56"
+    },
+    {
+      "url": "https://www.v2ex.com/t/304552#reply46",
+      "title": "非常好奇现在大学软件专业都学些什么",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/304594#reply45",
+      "title": "[上海]想尝试一次体面的 iOS 招聘",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/304521#reply44",
+      "title": "《星际争霸 2》这个游戏太可惜了，用户量这么少",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/304523#reply42",
+      "title": "有懂经济学的朋友么？简单分析下现状呗",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/304460#reply38",
+      "title": "大家帮忙给推荐一款无线鼠标",
+      "score": "38"
+    }
+  ]
+}
