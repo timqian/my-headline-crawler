@@ -1,314 +1,314 @@
 {
   "HN": [
     {
-      "url": "https://news.ycombinator.com/item?id=12457004",
-      "title": "“Dear Mark. I am writing this to inform you that I shall not comply”",
-      "score": "423"
-    },
-    {
       "url": "https://news.ycombinator.com/item?id=12455510",
       "title": "WaveNet: A Generative Model for Raw Audio",
-      "score": "350"
+      "score": "530"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=12455034",
-      "title": "Sophisticated OS X Backdoor Discovered",
-      "score": "312"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12453535",
-      "title": "How to Write a Spelling Corrector",
-      "score": "310"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12456136",
-      "title": "Visual Studio Code 1.5",
-      "score": "274"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12454714",
-      "title": "VotePlz – The Easiest Way to Vote",
-      "score": "191"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=12453028",
-      "title": "Google to acquire Apigee",
-      "score": "184"
+      "url": "https://news.ycombinator.com/item?id=12459755",
+      "title": "Some bad Git situations and how I got myself out of them",
+      "score": "512"
     },
     {
       "url": "https://news.ycombinator.com/item?id=12456569",
       "title": "How to Test Drive Your Business Idea Before Quitting Your Job",
-      "score": "159"
+      "score": "380"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=12455274",
-      "title": "Introducing “Ask a Female Engineer”",
-      "score": "145"
+      "url": "https://news.ycombinator.com/item?id=12460831",
+      "title": "Costa Rica has gone 76 straight days using 100% renewable electricity",
+      "score": "242"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=12455104",
-      "title": "500 Lines or Less – A Python Interpreter Written in Python",
-      "score": "137"
+      "url": "https://news.ycombinator.com/item?id=12461691",
+      "title": "Facebook deletes Norway PM's post as 'napalm girl' row escalates",
+      "score": "241"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12459216",
+      "title": "The Art of Insight in Science and Engineering: Mastering Complexity (2014) [pdf]",
+      "score": "228"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12459335",
+      "title": "FAA Urges Passengers to Not Use Samsung Galaxy Note 7 on Planes",
+      "score": "178"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12459259",
+      "title": "Getting started with Raspberry Pi – Building a Digital Photo Frame",
+      "score": "171"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12460257",
+      "title": "Companies would benefit from helping introverts to thrive",
+      "score": "160"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12460469",
+      "title": "Radiobox.css – Tiny set of CSS3 animations meant for your radio inputs",
+      "score": "153"
     }
   ],
   "reddit": [
     {
       "url": "https://www.reddit.com/r/programming/comments/51t7no/visual_studio_code_august_2016_15/",
       "title": "Visual Studio Code August 2016 1.5",
-      "score": "367"
+      "score": "903"
     },
     {
-      "url": "https://www.reddit.com/r/programming/comments/51t3w0/google_chrome_to_start_marking_http_connections/",
-      "title": "Google Chrome to start marking HTTP connections as insecure",
-      "score": "356"
+      "url": "https://www.reddit.com/r/programming/comments/51wixe/oh_shit_git/",
+      "title": "Oh, shit, git!",
+      "score": "500"
     },
     {
-      "url": "https://www.reddit.com/r/programming/comments/51qnic/this_is_what_python_beginners_have_to_deal_with/",
-      "title": "This is What Python Beginners Have to Deal With",
-      "score": "215"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/51q41z/a_proposal_of_new_concurrency_model_for_ruby_3_by/",
-      "title": "A proposal of new concurrency model for Ruby 3 by Koichi Sasada",
-      "score": "108"
-    },
-    {
-      "url": "https://www.reddit.com/r/programming/comments/51razh/exploring_weird_maths_with_code/",
-      "title": "Exploring weird maths with code",
-      "score": "61"
+      "url": "https://www.reddit.com/r/programming/comments/51ugc1/incremental_compilation_in_the_rust_compiler/",
+      "title": "Incremental Compilation in the Rust Compiler",
+      "score": "143"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/51sqda/event_sourcing_cqrs_stream_processing_and_apache/",
       "title": "Event sourcing, CQRS, stream processing and Apache Kafka: What’s the connection?",
-      "score": "63"
+      "score": "89"
     },
     {
-      "url": "https://www.reddit.com/r/programming/comments/51sxiq/sophisticated_os_x_backdoor_discovered/",
-      "title": "Sophisticated OS X Backdoor Discovered",
-      "score": "46"
+      "url": "https://www.reddit.com/r/programming/comments/51xdy6/doom_2016_graphics_study/",
+      "title": "DOOM (2016) - Graphics Study",
+      "score": "112"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/51smvo/screencasts_for_programmers_mostly_web/",
       "title": "Screencasts for programmers (mostly web)",
-      "score": "36"
+      "score": "43"
     },
     {
       "url": "https://www.reddit.com/r/programming/comments/51strj/people_are_still_bad_at_gauging_their_own/",
       "title": "People are still bad at gauging their own interview performance. Here’s the data.",
-      "score": "35"
+      "score": "43"
     },
     {
-      "url": "https://www.reddit.com/r/programming/comments/51qvlu/deep_exploration_into_python_lets_review_the_dict/",
-      "title": "Deep Exploration Into Python: Let’s Review The Dict Module",
-      "score": "29"
+      "url": "https://www.reddit.com/r/programming/comments/51utmx/deepmind_wavenet_a_generative_model_for_raw_audio/",
+      "title": "DeepMind - WaveNet: A Generative Model for Raw Audio",
+      "score": "38"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51wcsh/dawn_of_the_dead_ends_fixing_a_memory_leak_in/",
+      "title": "Dawn of the Dead Ends: Fixing a Memory Leak in Apache Kafka",
+      "score": "39"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51sxiq/sophisticated_os_x_backdoor_discovered/",
+      "title": "Sophisticated OS X Backdoor Discovered",
+      "score": "31"
     }
   ],
   "medium": [
     {
-      "title": "How Google obliterated my 4 year old Chrome extension featuring 24k+ users",
-      "score": "847",
-      "url": "https://medium.com/p/how-google-obliterated-my-24k-users-chrome-extension-eeb14c040a39"
-    },
-    {
       "title": "Live asynchronously.",
-      "score": "1043",
+      "score": "1581",
       "url": "https://medium.com/p/live-asynchronously-c8e7172fe7ea"
     },
     {
+      "title": "How Google obliterated my 4 year old Chrome extension featuring 24k+ users",
+      "score": "1057",
+      "url": "https://medium.com/p/how-google-obliterated-my-24k-users-chrome-extension-eeb14c040a39"
+    },
+    {
       "title": "The Disappearance of Justin Blackmon",
-      "score": "145",
+      "score": "193",
       "url": "https://medium.com/p/the-disappearance-of-justin-blackmon-9823f0376c98"
     },
     {
+      "title": "How To Learn In 2 Days What Normally Takes 6 Months",
+      "score": "633",
+      "url": "https://medium.com/p/how-to-learn-in-2-days-what-normally-takes-6-months-57953ee30da4"
+    },
+    {
       "title": "How to pretend you’re a great designer",
-      "score": "871",
+      "score": "1157",
       "url": "https://medium.com/p/how-to-pretend-youre-a-great-designer-3625de90d79f"
     },
     {
-      "title": "We’re F*cked, It’s Over. Or Is It?",
-      "score": "674",
-      "url": "https://medium.com/p/were-f-cked-it-s-over-or-is-it-5abe1432471d"
-    },
-    {
-      "title": "The 44 Most-Loved Products Launched in Summer 2016",
-      "score": "1225",
-      "url": "https://medium.com/p/the-44-most-loved-products-launched-in-summer-2016-deaa36125316"
-    },
-    {
       "title": "The French Burkini story explained to my American Friends",
-      "score": "236",
+      "score": "354",
       "url": "https://medium.com/p/the-french-burkini-story-explained-to-my-american-friends-3307c1efaadb"
     },
     {
-      "title": "NFL Preseason Rankings, Part III: The Raiders Are Coming",
-      "score": "47",
-      "url": "https://medium.com/p/nfl-preseason-rankings-eight-contending-teams-3957302db895"
+      "title": "NFL Preseason Rankings, Part IV: One of These Teams Is Winning the Super Bowl",
+      "score": "43",
+      "url": "https://medium.com/p/nfl-preseason-rankings-super-bowl-contenders-78aa3d679d3f"
     },
     {
-      "title": "The NFL Has an Age Problem",
-      "score": "122",
-      "url": "https://medium.com/p/the-nfl-has-an-age-problem-7068825845e4"
+      "title": "The 44 Most-Loved Products Launched in Summer 2016",
+      "score": "1359",
+      "url": "https://medium.com/p/the-44-most-loved-products-launched-in-summer-2016-deaa36125316"
     },
     {
-      "title": "The 100% correct way to validate email addresses",
-      "score": "290",
-      "url": "https://medium.com/p/the-100-correct-way-to-validate-email-addresses-7c4818f24643"
+      "title": "We’re F*cked, It’s Over. Or Is It?",
+      "score": "747",
+      "url": "https://medium.com/p/were-f-cked-it-s-over-or-is-it-5abe1432471d"
+    },
+    {
+      "title": "An Open Letter to that Lady who has All the Answers to #NoDAPL",
+      "score": "524",
+      "url": "https://medium.com/p/an-open-letter-the-that-lady-who-has-all-the-answers-to-nodapl-8068158764bb"
     }
   ],
   "productHunt": [
     {
-      "url": "https://www.producthunt.com/tech/accessurl",
-      "title": "AccessURL: Share access to accounts without sending a username/password",
-      "score": "803"
+      "url": "https://www.producthunt.com/tech/growthhackers-projects",
+      "title": "GrowthHackers Projects: Growth collaboration software for teams 📈",
+      "score": "293"
     },
     {
-      "url": "https://www.producthunt.com/tech/google-photos-2-0",
-      "title": "Google Photos 2.0: Free storage &amp; automatic organization for all your memories",
-      "score": "346"
+      "url": "https://www.producthunt.com/tech/referred-club",
+      "title": "Referred Club: Automatically use and share referral links for free stuff",
+      "score": "213"
     },
     {
-      "url": "https://www.producthunt.com/tech/fidget-cube",
-      "title": "Fidget Cube: An unusually addicting, high-quality desk toy",
-      "score": "525"
+      "url": "https://www.producthunt.com/tech/cafe-wifi",
+      "title": "Café Wifi: Share cafés and their Wi-Fi speeds — w/ Foursquare check-ins",
+      "score": "152"
     },
     {
-      "url": "https://www.producthunt.com/tech/y-combinator-companies",
-      "title": "Y Combinator Companies: Interactive list of all 1000+ YC companies",
-      "score": "409"
+      "url": "https://www.producthunt.com/tech/gyroscope-sleep-ai",
+      "title": "Gyroscope Sleep Ai: Automatically track your sleep each night!",
+      "score": "173"
     },
     {
-      "url": "https://www.producthunt.com/tech/ui-ux-assets",
-      "title": "UI/UX Assets: Curated UI kits, wireframes, templates, icons and more.",
-      "score": "181"
+      "url": "https://www.producthunt.com/tech/i-dare-you-to-build",
+      "title": "I Dare You To Build: Side project ideas to launch in 2016",
+      "score": "99"
     },
     {
-      "url": "https://www.producthunt.com/tech/teleconsole-1",
-      "title": "teleconsole: Share your terminal in seconds",
-      "score": "246"
+      "url": "https://www.producthunt.com/tech/paul-graham-essay-translations",
+      "title": "Paul Graham Essay Translations: Collection of 174 essays covering up to 13 languages",
+      "score": "74"
     },
     {
-      "url": "https://www.producthunt.com/tech/linkedin-publishing",
-      "title": "LinkedIn Publishing: A brand new, sleek and intuitive editor",
-      "score": "189"
+      "url": "https://www.producthunt.com/tech/how-to-lose-an-airpod",
+      "title": "How To Lose An Airpod: Creative ways to lose an Airpod",
+      "score": "84"
     },
     {
-      "url": "https://www.producthunt.com/tech/diverse-ui",
-      "title": "Diverse UI: Diverse representations of people for your mockups",
-      "score": "94"
+      "url": "https://www.producthunt.com/tech/lazy-day",
+      "title": "Lazy Day: Find movies with friends online",
+      "score": "65"
     },
     {
-      "url": "https://www.producthunt.com/tech/deep-learning-chat",
-      "title": "Deep learning chat: Chatting with a deep learning chatbot",
-      "score": "156"
+      "url": "https://www.producthunt.com/games/the-holy-test",
+      "title": "The Holy Test: Guess whether a quote is from the Bible or the Quran",
+      "score": "40"
     },
     {
-      "url": "https://www.producthunt.com/books/what-is-fire",
-      "title": "What is Fire?: An illustrated explanation, from Hardbound",
-      "score": "79"
+      "url": "https://www.producthunt.com/tech/vicinity-2",
+      "title": "Vicinity: Stay focused with handcrafted ambient sounds in HD",
+      "score": "62"
     }
   ],
   "github": [
     {
       "url": "https://github.com/franciscop/cookies.js",
       "title": "franciscop/cookies.js: Interactive and easy cookies from your browser in javascript",
-      "score": "579"
-    },
-    {
-      "url": "https://github.com/quilljs/quill",
-      "title": "quilljs/quill: Your powerful, rich text editor",
-      "score": "561"
+      "score": "688"
     },
     {
       "url": "https://github.com/gztchan/awesome-design",
       "title": "gztchan/awesome-design:  Best UI/UX Design Sources For Developer &amp; Designer Ever :)",
-      "score": "435"
+      "score": "642"
+    },
+    {
+      "url": "https://github.com/quilljs/quill",
+      "title": "quilljs/quill: Your powerful, rich text editor",
+      "score": "421"
+    },
+    {
+      "url": "https://github.com/gravitational/teleconsole",
+      "title": "gravitational/teleconsole: UNIX shell broadcasting tool",
+      "score": "403"
+    },
+    {
+      "url": "https://github.com/knownsec/KCon",
+      "title": "knownsec/KCon: KCon is a famous Hacker Con powered by Knownsec Team.",
+      "score": "305"
+    },
+    {
+      "url": "https://github.com/PHPixie/Project",
+      "title": "PHPixie/Project: A lightweight MVC PHP framework designed for speed and simplicty",
+      "score": "349"
     },
     {
       "url": "https://github.com/shekhargulati/52-technologies-in-2016",
       "title": "shekhargulati/52-technologies-in-2016: Let's learn a new technology every week. A new technology blog every Sunday in 2016.",
-      "score": "341"
+      "score": "296"
     },
     {
       "url": "https://github.com/sarcadass/granim.js",
       "title": "sarcadass/granim.js: Create fluid and interactive gradients animations with this small (&lt; 10 kB) js library.",
-      "score": "273"
+      "score": "264"
     },
     {
-      "url": "https://github.com/sylnsfar/qrcode",
-      "title": "sylnsfar/qrcode: artistic QR Code in Python （Animated GIF qr code）- Python 艺术二维码生成器 （GIF动态二维码、图片二维码）",
-      "score": "252"
+      "url": "https://github.com/kjw0612/awesome-rnn",
+      "title": "kjw0612/awesome-rnn: Recurrent Neural Network - A curated list of resources dedicated to RNN",
+      "score": "264"
     },
     {
-      "url": "https://github.com/adamsitnik/awesome-dot-net-performance",
-      "title": "adamsitnik/awesome-dot-net-performance: A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff.",
-      "score": "238"
-    },
-    {
-      "url": "https://github.com/zhoubowen-sky/LingDong2.0",
-      "title": "zhoubowen-sky/LingDong2.0: “面对面文件快传”，Android端灵动快传，安卓互传文件，局域网，无网传输文件，Android，file transfer",
-      "score": "219"
-    },
-    {
-      "url": "https://github.com/davidferguson/pibakery",
-      "title": "davidferguson/pibakery: The blocks based, easy to use setup tool for Raspberry Pi",
-      "score": "217"
-    },
-    {
-      "url": "https://github.com/microapps/MoonMail",
-      "title": "microapps/MoonMail: Shoot billions of emails using AWS - SES - Lambda. Serverless Framework powered project",
-      "score": "211"
+      "url": "https://github.com/ebidel/appmetrics.js",
+      "title": "ebidel/appmetrics.js: A small (1.1kb) library for measuring things in your web app and reporting the results to Google Analytics.",
+      "score": "222"
     }
   ],
   "v2ex": [
     {
-      "url": "https://www.v2ex.com/t/304965#reply21",
+      "url": "https://www.v2ex.com/t/305047#reply102",
+      "title": "快播王欣认罪了，大伙怎么看？",
+      "score": "102"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305106#reply77",
+      "title": "真想知道 12306 是哪个开发的",
+      "score": "77"
+    },
+    {
+      "url": "https://www.v2ex.com/t/304965#reply54",
       "title": "渣渣 windows 10(10.0.14393)，睡醒后无法登入系统，只能重启。",
-      "score": "21"
+      "score": "54"
     },
     {
-      "url": "https://www.v2ex.com/t/304977#reply16",
-      "title": "干了两年向老板提加薪，却被批评不懂得感恩没良心，该不该走",
-      "score": "16"
+      "url": "https://www.v2ex.com/t/305057#reply46",
+      "title": "90% 的技术人思考能力到不了的问题，你是那 10%吗？",
+      "score": "46"
     },
     {
-      "url": "https://www.v2ex.com/t/304970#reply8",
+      "url": "https://www.v2ex.com/t/305090#reply46",
+      "title": "现在官网还是不能预约",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/304970#reply45",
       "title": "关于业务员离职，公司要求签一份离职后三年内不能进入同行业的协议，是否合理？",
-      "score": "8"
+      "score": "45"
     },
     {
-      "url": "https://www.v2ex.com/t/304963#reply7",
-      "title": "大家准备跳槽的时候会去哪些网站看新的机会呢？有推荐吗？",
-      "score": "7"
+      "url": "https://www.v2ex.com/t/305053#reply44",
+      "title": "7 还是 7 Plus 呢？ 大家给点建议",
+      "score": "44"
     },
     {
-      "url": "https://www.v2ex.com/t/304974#reply5",
-      "title": "对于 yii2 和 phalcon 来说，哪个更适合新手？",
-      "score": "5"
+      "url": "https://www.v2ex.com/t/305042#reply40",
+      "title": "为什么华为手机出货量第一，月活量却未进前十？",
+      "score": "40"
     },
     {
-      "url": "https://www.v2ex.com/t/304966#reply4",
-      "title": "点击首页帖子列表上排中的“关注”，就会 500",
-      "score": "4"
+      "url": "https://www.v2ex.com/t/305135#reply38",
+      "title": "想入 iPhon7 了，照相没啥大的需求 32G 的够不够用啊",
+      "score": "38"
     },
     {
-      "url": "https://www.v2ex.com/t/304969#reply4",
-      "title": "朝鲜又搞核试验了？",
-      "score": "4"
-    },
-    {
-      "url": "https://www.v2ex.com/t/304964#reply3",
-      "title": "D 盘出现 recEx 文件夹，搜索引擎无解",
-      "score": "3"
-    },
-    {
-      "url": "https://www.v2ex.com/t/304976#reply2",
-      "title": "有 iPhone 6 升级到 IOS 10GM 了吗？求问卡不卡？",
-      "score": "2"
-    },
-    {
-      "url": "https://www.v2ex.com/t/304973#reply1",
-      "title": "WordPress 迁移服务器之后页面的资源（ CSS/JS 等）无法显示（ 404 错误）怎么办？",
-      "score": "1"
+      "url": "https://www.v2ex.com/t/305083#reply35",
+      "title": "我们有 50%可能性生活在虚拟机中",
+      "score": "35"
     }
   ]
 }
