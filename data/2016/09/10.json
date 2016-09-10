@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12463338",
+      "title": "How Dropbox Hacks Your Mac",
+      "score": "957"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12464647",
+      "title": "I’m Joining Stripe to Work on Atlas",
+      "score": "791"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12460831",
+      "title": "Costa Rica has gone 76 days using 100% renewable electricity",
+      "score": "544"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12466625",
+      "title": "Show HN: A flask app to make dashboards, easily",
+      "score": "254"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12465017",
+      "title": "Chinese Billionaire Linked to Giant Aluminum Stockpile in Mexican Desert",
+      "score": "217"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12465298",
+      "title": "Tiny Lisp Computer",
+      "score": "130"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12460858",
+      "title": "3D Printed Camera",
+      "score": "118"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12466983",
+      "title": "Apple Is Said to Be Rethinking Strategy on Self-Driving Cars",
+      "score": "116"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12465214",
+      "title": "1 in 5 Seafood Samples Is Fake, Report Finds",
+      "score": "113"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12467904",
+      "title": "Things I Hate About PostgreSQL (2013)",
+      "score": "103"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/521vrb/simple_c_library_for_an_xbox_one_controller_linux/",
+      "title": "Simple C library for an XBox One Controller (Linux) for easy use in games",
+      "score": "297"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5219gs/build_a_tensorflow_image_classifier_in_5_min/",
+      "title": "Build a TensorFlow Image Classifier in 5 Min",
+      "score": "56"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5227fq/flyweb_by_mozilla_web_appspecific_server/",
+      "title": "FlyWeb (by Mozilla) - web app-specific server available to people near you (x-post /r/webdev)",
+      "score": "46"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/521c3q/a_flask_app_to_make_dashboards_easily/",
+      "title": "A flask app to make dashboards, easily",
+      "score": "37"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51zbeo/managing_complexity_or_why_do_you_code_in_f_xpost/",
+      "title": "Managing Complexity - Or &quot;Why do you code in F#?&quot; (xpost /r/fsharp)",
+      "score": "31"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/521aq1/standalone_visual_c_compiler_2016/",
+      "title": "Standalone Visual C++ Compiler (2016)",
+      "score": "23"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51ykn3/how_i2p_works/",
+      "title": "How I2P Works",
+      "score": "17"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51y1lt/pg_cron_run_periodic_jobs_in_postgresql/",
+      "title": "pg_cron: Run periodic jobs in PostgreSQL",
+      "score": "13"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51y4uf/everything_i_wish_i_had_known_about_enterprise_sso/",
+      "title": "Everything I Wish I Had Known About Enterprise SSO",
+      "score": "13"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51zxdm/build_a_realtime_chat_web_app_with_dart_angular_2/",
+      "title": "Build a Real-Time Chat Web App with Dart, Angular 2, and Firebase 3",
+      "score": "10"
+    }
+  ],
+  "medium": [
+    {
+      "title": "How To Learn In 2 Days What Normally Takes 6 Months",
+      "score": "1297",
+      "url": "https://medium.com/p/how-to-learn-in-2-days-what-normally-takes-6-months-57953ee30da4"
+    },
+    {
+      "title": "Live asynchronously.",
+      "score": "2202",
+      "url": "https://medium.com/p/live-asynchronously-c8e7172fe7ea"
+    },
+    {
+      "title": "Chip Kelly and the Vanishing Offense",
+      "score": "126",
+      "url": "https://medium.com/p/chip-kelly-san-francisco-49ers-offense-f332f053870e"
+    },
+    {
+      "title": "Week 1 NFL Picks",
+      "score": "54",
+      "url": "https://medium.com/p/week-1-nfl-picks-812cde5f583d"
+    },
+    {
+      "title": "Shaq and A.I.: Where They Stack Up in the Basketball Pantheon",
+      "score": "84",
+      "url": "https://medium.com/p/shaquille-oneal-allen-iverson-book-of-basketball-af5f76450f78"
+    },
+    {
+      "title": "An Open Letter to that Lady who has All the Answers to #NoDAPL",
+      "score": "821",
+      "url": "https://medium.com/p/an-open-letter-the-that-lady-who-has-all-the-answers-to-nodapl-8068158764bb"
+    },
+    {
+      "title": "I walked out of the Brisbane Writers Festival Keynote Address. This is why.",
+      "score": "496",
+      "url": "https://medium.com/p/i-walked-out-of-the-brisbane-writers-festival-keynote-address-this-is-why-78a4d8c4b7ac"
+    },
+    {
+      "title": "How Google obliterated my 4 year old Chrome extension featuring 24k+ users",
+      "score": "1209",
+      "url": "https://medium.com/p/how-google-obliterated-my-24k-users-chrome-extension-eeb14c040a39"
+    },
+    {
+      "title": "How to pretend you’re a great designer",
+      "score": "1485",
+      "url": "https://medium.com/p/how-to-pretend-youre-a-great-designer-3625de90d79f"
+    },
+    {
+      "title": "The Disappearance of Justin Blackmon",
+      "score": "242",
+      "url": "https://medium.com/p/the-disappearance-of-justin-blackmon-9823f0376c98"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/hash-tab",
+      "title": "Hash Tab: A trending news story with every new tab.",
+      "score": "99"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/courage",
+      "title": "Courage: Never lose your AirPods again. Strap on a pair!",
+      "score": "83"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/ios-10-ui-kit-2",
+      "title": "iOS 10 UI Kit: A massive UI kit for iOS 10 (PS &amp; Sketch)",
+      "score": "47"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/modsy-2",
+      "title": "Modsy: Visualize furniture in your home without lifting a finger",
+      "score": "67"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/materia",
+      "title": "Materia: Build advanced mobile and web applications.",
+      "score": "65"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/graphic-design-bot",
+      "title": "Graphic Design Bot: A Messenger bot that helps you with simple design tasks",
+      "score": "50"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/evabot-for-slack",
+      "title": "Evabot for Slack: Send coffee/beer as an appreciation gift to colleagues",
+      "score": "33"
+    },
+    {
+      "url": "https://www.producthunt.com/books/the-daily-stoic",
+      "title": "The Daily Stoic: Meditations on Wisdom, Perseverance, and the Art of Living",
+      "score": "4"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/trayplay",
+      "title": "TrayPlay: Control Spotify and iTunes from your menu bar",
+      "score": "12"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/startup-tuesdays-podcast-4-prarthana-johnson-head-of-design-at-soundcloud",
+      "title": "Startup Tuesdays Podcast - #4 - Prarthana Johnson, Head of Design at SoundCloud: Prarthana shares her journey &amp; offer some actionable advice.",
+      "score": "4"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/christabor/flask_jsondash",
+      "title": "christabor/flask_jsondash: Build javascript chart dashboards without any front-end code. Uses any json endpoint. JSON config only. Ready to go.",
+      "score": "646"
+    },
+    {
+      "url": "https://github.com/gztchan/awesome-design",
+      "title": "gztchan/awesome-design:  Best UI/UX Design Sources For Developer &amp; Designer Ever :)",
+      "score": "586"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "326"
+    },
+    {
+      "url": "https://github.com/franciscop/cookies.js",
+      "title": "franciscop/cookies.js:  Interactive and easy cookies from your browser in javascript",
+      "score": "258"
+    },
+    {
+      "url": "https://github.com/gravitational/teleconsole",
+      "title": "gravitational/teleconsole: Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.",
+      "score": "259"
+    },
+    {
+      "url": "https://github.com/dabit3/React-Native-Elements",
+      "title": "dabit3/React-Native-Elements: React Native Elements UI Toolkit",
+      "score": "209"
+    },
+    {
+      "url": "https://github.com/720kb/radiobox.css",
+      "title": "720kb/radiobox.css: ",
+      "score": "200"
+    },
+    {
+      "url": "https://github.com/quilljs/quill",
+      "title": "quilljs/quill: Your powerful, rich text editor",
+      "score": "186"
+    },
+    {
+      "url": "https://github.com/datasciencemasters/go",
+      "title": "datasciencemasters/go: The Open Source Data Science Masters",
+      "score": "171"
+    },
+    {
+      "url": "https://github.com/sarcadass/granim.js",
+      "title": "sarcadass/granim.js: Create fluid and interactive gradients animations with this small (&lt; 10 kB) js library.",
+      "score": "169"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/305271#reply92",
+      "title": "小伙伴们经常会重复看的电影有哪些",
+      "score": "92"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305230#reply53",
+      "title": "关于选择工作的疑惑，二线城市 10 万还是北上广深 20 万",
+      "score": "53"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305274#reply53",
+      "title": "我也搞了个搜索引擎",
+      "score": "53"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305266#reply41",
+      "title": "面试官问：“说说你最擅长的技术“，你会怎么答？",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305247#reply38",
+      "title": "总感觉 7 是过渡产品",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305222#reply31",
+      "title": "MacBook 系列会不会加个 lightning 口..",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305290#reply28",
+      "title": "如何防止别人刷注册接口，求解决方案",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305257#reply27",
+      "title": "杨永信事件央视犯的恶？",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305277#reply25",
+      "title": "微信支付唯一一点比不上支付宝",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305278#reply22",
+      "title": "想组个 5k 左右台式机列了个配置单有几个问题请教大神们，谢谢",
+      "score": "22"
+    }
+  ]
+}
