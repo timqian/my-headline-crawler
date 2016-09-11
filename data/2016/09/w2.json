@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12430298",
+      "title": "Philae Found",
+      "score": 1232
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12435236",
+      "title": "EU Announces That All Scientific Articles Should Be Freely Accessible by 2020",
+      "score": 1187
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12463338",
+      "title": "How Dropbox Hacks Your Mac",
+      "score": 1003
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12448545",
+      "title": "You Suck at Excel with Joel Spolsky (2015) [video]",
+      "score": 930
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12417290",
+      "title": "An account of a serious medical emergency on a transoceanic flight",
+      "score": 832
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12464647",
+      "title": "I’m Joining Stripe to Work on Atlas",
+      "score": 819
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12459755",
+      "title": "Some bad Git situations and how I got myself out of them",
+      "score": 690
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12421687",
+      "title": "How to Tell a Mother Her Child Is Dead",
+      "score": 688
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12455510",
+      "title": "WaveNet: A Generative Model for Raw Audio",
+      "score": 610
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12460831",
+      "title": "Costa Rica has gone 76 straight days using 100% renewable electricity",
+      "score": 561
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51wixe/oh_shit_git/",
+      "title": "Oh, shit, git!",
+      "score": 3010
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51i1fd/excel_messenger_a_group_messaging_app_where_the/",
+      "title": "Excel Messenger: a group messaging app where the server and clients are all just excel sheets that reference each other",
+      "score": 2964
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51cuyt/eigenvectors_and_eigenvalues_explained_visually/",
+      "title": "Eigenvectors and Eigenvalues explained visually",
+      "score": 1900
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/513u35/500_byte_images_the_haiku_vector_icon_format/",
+      "title": "500 Byte Images: The Haiku Vector Icon Format",
+      "score": 1374
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51m7q2/what_i_didnt_understand_as_a_junior_programmer/",
+      "title": "What I Didn't Understand as a Junior Programmer",
+      "score": 1001
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51t7no/visual_studio_code_august_2016_15/",
+      "title": "Visual Studio Code August 2016 1.5",
+      "score": 955
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51qquq/open_source_client_for_skype_network_based_on/",
+      "title": "Open source client for Skype Network based on reverse engineering.",
+      "score": 893
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51xdy6/doom_2016_graphics_study/",
+      "title": "DOOM (2016) - Graphics Study",
+      "score": 757
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51f1yz/booting_the_final_gamecube_game_dolphin/",
+      "title": "Booting the Final GameCube Game [Dolphin]",
+      "score": 605
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/51i3ff/multiprocess_firefox_brings_400700_improvement_in/",
+      "title": "Multi-process Firefox brings 400-700% improvement in responsiveness",
+      "score": 578
+    }
+  ],
+  "medium": [
+    {
+      "title": "I Got Scammed By A Silicon Valley Startup",
+      "score": 6112,
+      "url": "https://medium.com/p/i-got-scammed-by-a-silicon-valley-startup-574ced8acdff"
+    },
+    {
+      "title": "How I Used & Abused My Tesla — What a Tesla looks like after 100,000 Miles, a 48 State Road trip…",
+      "score": 3173,
+      "url": "https://medium.com/p/how-i-used-abused-my-tesla-what-a-tesla-looks-like-after-100-000-miles-a-48-state-road-trip-6b6ae66b3c10"
+    },
+    {
+      "title": "Live asynchronously.",
+      "score": 2648,
+      "url": "https://medium.com/p/live-asynchronously-c8e7172fe7ea"
+    },
+    {
+      "title": "Cognitive bias cheat sheet",
+      "score": 2581,
+      "url": "https://medium.com/p/cognitive-bias-cheat-sheet-55a472476b18"
+    },
+    {
+      "title": "So You Want to be a Functional Programmer (Part 1)",
+      "score": 2460,
+      "url": "https://medium.com/p/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536"
+    },
+    {
+      "title": "Being Single Is Hard",
+      "score": 2133,
+      "url": "https://medium.com/p/being-single-is-hard-dfdb534b0bec"
+    },
+    {
+      "title": "That Clinton Scandal the Press Desperately Wants Exists, But it’s Actually About Trump.",
+      "score": 1844,
+      "url": "https://medium.com/p/that-clinton-scandal-the-press-desperately-wants-exists-but-its-actually-about-trump-6d4291edc324"
+    },
+    {
+      "title": "How To Learn In 2 Days What Normally Takes 6 Months",
+      "score": 1844,
+      "url": "https://medium.com/p/how-to-learn-in-2-days-what-normally-takes-6-months-57953ee30da4"
+    },
+    {
+      "title": "How to pretend you’re a great designer",
+      "score": 1695,
+      "url": "https://medium.com/p/how-to-pretend-youre-a-great-designer-3625de90d79f"
+    },
+    {
+      "title": "The 44 Most-Loved Products Launched in Summer 2016",
+      "score": 1673,
+      "url": "https://medium.com/p/the-44-most-loved-products-launched-in-summer-2016-deaa36125316"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/304378#reply366",
+      "title": "限量野狗 T 恤马克杯放送！！ 9.10 野狗 Meetup 技术沙龙 ——滴滴大牛、《Vue.js 权威指南》作者空降",
+      "score": 555
+    },
+    {
+      "url": "https://www.v2ex.com/t/304804#reply148",
+      "title": "ATB 这么牛，为什么不搞一搞操作系统？",
+      "score": 230
+    },
+    {
+      "url": "https://www.v2ex.com/t/305271#reply92",
+      "title": "小伙伴们经常会重复看的电影有哪些",
+      "score": 143
+    },
+    {
+      "url": "https://www.v2ex.com/t/304337#reply61",
+      "title": "离开现在的“996”下一个就一定是“885”吗？",
+      "score": 138
+    },
+    {
+      "url": "https://www.v2ex.com/t/303767#reply76",
+      "title": "现在应不应该回国？",
+      "score": 136
+    },
+    {
+      "url": "https://www.v2ex.com/t/304241#reply114",
+      "title": "今天看到电商搞特价心情很激动，花个四、五百买个键盘值得不？",
+      "score": 134
+    },
+    {
+      "url": "https://www.v2ex.com/t/304194#reply116",
+      "title": "领导终于开始考虑使用 html5 来代替 mfc 写桌面版客户端了……",
+      "score": 129
+    },
+    {
+      "url": "https://www.v2ex.com/t/304748#reply117",
+      "title": "苹果 7 出来，你心动不",
+      "score": 122
+    },
+    {
+      "url": "https://www.v2ex.com/t/304216#reply56",
+      "title": "1500 以下的安卓机，有什么可以选的吗？",
+      "score": 120
+    },
+    {
+      "url": "https://www.v2ex.com/t/304718#reply102",
+      "title": "好奇 iPhone 用户是不是都用外壳？",
+      "score": 116
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/startup-pitch-decks",
+      "title": "Startup Pitch Decks: Real decks from real startups that raised over $400M",
+      "score": 2746
+    },
+    {
+      "url": "https://www.producthunt.com/tech/stocky",
+      "title": "Stocky: Free photo, video, graphics &amp; music for commercial use.",
+      "score": 1468
+    },
+    {
+      "url": "https://www.producthunt.com/tech/accessurl",
+      "title": "AccessURL: Share access to accounts without sending a username/password",
+      "score": 1339
+    },
+    {
+      "url": "https://www.producthunt.com/tech/fidget-cube",
+      "title": "Fidget Cube: An unusually addicting, high-quality desk toy",
+      "score": 815
+    },
+    {
+      "url": "https://www.producthunt.com/tech/growthhackers-projects",
+      "title": "GrowthHackers Projects: Growth collaboration software for teams 📈",
+      "score": 758
+    },
+    {
+      "url": "https://www.producthunt.com/tech/nerdify-bot",
+      "title": "Nerdify Bot: First AI-powered tutor bot for Facebook Messenger",
+      "score": 720
+    },
+    {
+      "url": "https://www.producthunt.com/tech/y-combinator-companies",
+      "title": "Y Combinator Companies: Interactive list of all 1000+ YC companies",
+      "score": 697
+    },
+    {
+      "url": "https://www.producthunt.com/tech/designer-emojis",
+      "title": "Designer Emojis: Vector emojis for designers",
+      "score": 618
+    },
+    {
+      "url": "https://www.producthunt.com/tech/emoji-css",
+      "title": "Emoji CSS: Add Emoji&#x27;s to your website",
+      "score": 528
+    },
+    {
+      "url": "https://www.producthunt.com/tech/zcast-2-0",
+      "title": "ZCast 2.0: Mobile podcasting, now with recording and landing pages",
+      "score": 524
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "250"
+    },
+    {
+      "url": "https://github.com/sarcadass/granim.js",
+      "title": "sarcadass/granim.js: Create fluid and interactive gradients animations with this small (&lt; 10 kB) js library.",
+      "score": "263"
+    },
+    {
+      "url": "https://github.com/shekhargulati/52-technologies-in-2016",
+      "title": "shekhargulati/52-technologies-in-2016: Let's learn a new technology every week. A new technology blog every Sunday in 2016.",
+      "score": "245"
+    },
+    {
+      "url": "https://github.com/quilljs/quill",
+      "title": "quilljs/quill: Your powerful, rich text editor",
+      "score": "034"
+    },
+    {
+      "url": "https://github.com/gztchan/awesome-design",
+      "title": "gztchan/awesome-design:  Best UI/UX Design Resources For Developer &amp; Designer Ever :)",
+      "score": "993"
+    },
+    {
+      "url": "https://github.com/tmrts/go-patterns",
+      "title": "tmrts/go-patterns: A curated list of Go patterns and idioms",
+      "score": "673"
+    },
+    {
+      "url": "https://github.com/sylnsfar/qrcode",
+      "title": "sylnsfar/qrcode: artistic QR Code in Python （Animated GIF qr code）- Python 艺术二维码生成器 （GIF动态二维码、图片二维码）",
+      "score": "418"
+    },
+    {
+      "url": "https://github.com/franciscop/cookies.js",
+      "title": "franciscop/cookies.js:  Interactive and easy cookies from your browser in javascript",
+      "score": "344"
+    },
+    {
+      "url": "https://github.com/christabor/flask_jsondash",
+      "title": "christabor/flask_jsondash: Build javascript chart dashboards without any front-end code. Uses any json endpoint. JSON config only. Ready to go.",
+      "score": "194"
+    },
+    {
+      "url": "https://github.com/ElemeFE/element",
+      "title": "ElemeFE/element: Desktop UI elements for Vue.js 2.0",
+      "score": "026"
+    }
+  ]
+}
