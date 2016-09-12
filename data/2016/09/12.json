@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12477190",
+      "title": "Ask HN: Is web programming a series of hacks on hacks?",
+      "score": "624"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12479156",
+      "title": "Vim version 8.0",
+      "score": "260"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12478538",
+      "title": "If your code accepts URIs as input, filter out “file://”",
+      "score": "241"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12476597",
+      "title": "Dynamic Programming: The Name (1984)",
+      "score": "215"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12476692",
+      "title": "The Fourier Transform and its Applications",
+      "score": "200"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12477323",
+      "title": "Kubernetes – The Hard Way",
+      "score": "128"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12478408",
+      "title": "How I learned to program",
+      "score": "121"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12479740",
+      "title": "For 25 years, Carl Malamud has been fighting to make public information public",
+      "score": "117"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12478226",
+      "title": "MySQL Remote Root Code Execution/Privilege Escalation Exploit",
+      "score": "116"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12478699",
+      "title": "HP is buying Samsung’s printer business for $1.05B",
+      "score": "105"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52d5o2/happy_international_programmers_day/",
+      "title": "Happy international programmers day!",
+      "score": "1131"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/529k5m/why_im_dropping_rust/",
+      "title": "Why I’m dropping Rust",
+      "score": "480"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52a8x3/falcon_chrome_extension_for_full_text_browsing/",
+      "title": "Falcon: Chrome extension for full text browsing history search!",
+      "score": "163"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52e929/vim_80_release/",
+      "title": "Vim 8.0 Release",
+      "score": "77"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/529gj9/caught_in_the_act_take_pictures_of_eavesdroppers/",
+      "title": "Caught in the act - take pictures of eavesdroppers.",
+      "score": "51"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52d3ry/why_writing_correct_software_is_hard_and_why_math/",
+      "title": "Why Writing Correct Software Is Hard (and why math alone won't help us)",
+      "score": "45"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52b1nl/learning_something_heres_why_you_should_think/",
+      "title": "Learning something? Here's why you should think small",
+      "score": "37"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/529t7u/a_story_of_compromises_and_types/",
+      "title": "A story of compromises and types",
+      "score": "21"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52dnb4/chrome_is_intervening_against_documentwrite/",
+      "title": "Chrome is intervening against document.write()",
+      "score": "24"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52dg57/dynamic_programming_the_name_1984/",
+      "title": "Dynamic Programming: The Name (1984)",
+      "score": "13"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Ketchup Sandwiches and Other Things Stupid Poor People Eat",
+      "score": "1580",
+      "url": "https://medium.com/p/ketchup-sandwiches-and-other-things-stupid-poor-people-eat-41617483b497"
+    },
+    {
+      "title": "Against Minimalism",
+      "score": "747",
+      "url": "https://medium.com/p/against-minimalism-1be2c4abadbf"
+    },
+    {
+      "title": "What It’s Like Not To Work For A Tech Company.",
+      "score": "671",
+      "url": "https://medium.com/p/what-its-like-not-to-work-for-a-tech-company-c2544a00b633"
+    },
+    {
+      "title": "Machine Learning in a Year",
+      "score": "756",
+      "url": "https://medium.com/p/machine-learning-in-a-year-cdb0b0ebd29c"
+    },
+    {
+      "title": "How To Learn In 2 Days What Normally Takes 6 Months",
+      "score": "2212",
+      "url": "https://medium.com/p/how-to-learn-in-2-days-what-normally-takes-6-months-57953ee30da4"
+    },
+    {
+      "title": "The Winners and Losers From NFL Week 1",
+      "score": "61",
+      "url": "https://medium.com/p/the-winners-and-losers-from-nfl-week-1-585947befdde"
+    },
+    {
+      "title": "The Age of Apple is Over",
+      "score": "264",
+      "url": "https://medium.com/p/the-age-of-apple-is-over-b4570e2a2955"
+    },
+    {
+      "title": "Live asynchronously.",
+      "score": "2966",
+      "url": "https://medium.com/p/live-asynchronously-c8e7172fe7ea"
+    },
+    {
+      "title": "So You Want to be a Functional Programmer (Part 2)",
+      "score": "515",
+      "url": "https://medium.com/p/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a"
+    },
+    {
+      "title": "So You Want to be a Functional Programmer (Part 1)",
+      "score": "2619",
+      "url": "https://medium.com/p/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/appfollow-2-0",
+      "title": "AppFollow 2.0: The best way to track app activities in the appstores",
+      "score": "466"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/tesla-autopilot-8-0",
+      "title": "Tesla Autopilot 8.0: Tesla&#x27;s latest radar-reliant OS can detect UFOs",
+      "score": "226"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/voteplz-2",
+      "title": "VotePlz: Literally the easiest way to vote",
+      "score": "65"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/mailparser-io-2-0",
+      "title": "Mailparser.io 2.0: Extract data from emails. Automate your workflow.",
+      "score": "147"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/neon-manufacturing",
+      "title": "Neon Manufacturing: Handmade neon art for your wall",
+      "score": "83"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/mubert-2",
+      "title": "Mubert: Electronic music generated in real-time just for you",
+      "score": "78"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/blend-2-0",
+      "title": "Blend 2.0: Create and customize beautiful CSS3 gradients",
+      "score": "50"
+    },
+    {
+      "url": "https://www.producthunt.com/books/working-with-pictures-the-tiny-book",
+      "title": "Working with Pictures: The Tiny Book!: A tiny book of design exercises",
+      "score": "31"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/moment-726a998a-b4f4-4da8-83fe-b347cdf5056e",
+      "title": "Moment: All the information you need. No distracting screens.",
+      "score": "54"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/geo-screenshot",
+      "title": "Geo Screenshot: Test your webpage from multiple locations worldwide.",
+      "score": "45"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/gztchan/awesome-design",
+      "title": "gztchan/awesome-design:  Best UI/UX Design Resources For Developer &amp; Designer Ever :)",
+      "score": "651"
+    },
+    {
+      "url": "https://github.com/react-native-community/React-Native-Elements",
+      "title": "react-native-community/React-Native-Elements: React Native Elements UI Toolkit",
+      "score": "371"
+    },
+    {
+      "url": "https://github.com/uWebSockets/uWebSockets",
+      "title": "uWebSockets/uWebSockets: Highly scalable WebSocket server library",
+      "score": "326"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "318"
+    },
+    {
+      "url": "https://github.com/christabor/flask_jsondash",
+      "title": "christabor/flask_jsondash: Build javascript chart dashboards without any front-end code. Uses any json endpoint. JSON config only. Ready to go.",
+      "score": "319"
+    },
+    {
+      "url": "https://github.com/hustcc/timeago.js",
+      "title": "hustcc/timeago.js:  timeago.js is a tiny(~1.75kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependences &amp; localization &amp; tiny.",
+      "score": "304"
+    },
+    {
+      "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+      "title": "kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way on Google Cloud Platform or Amazon EC2. No scripts.",
+      "score": "300"
+    },
+    {
+      "url": "https://github.com/crufter/borg",
+      "title": "crufter/borg: A terminal based search engine for bash commands",
+      "score": "267"
+    },
+    {
+      "url": "https://github.com/kdchang/reactjs101",
+      "title": "kdchang/reactjs101: 從零開始學 ReactJS（ReactJS 101）是一本希望讓初學者一看就懂的 ReactJS 中文入門教學書，由淺入深學習 ReactJS 生態系 (Flux, Redux, React Router, ImmutableJS, React Native, Relay/GraphQL etc.)。",
+      "score": "259"
+    },
+    {
+      "url": "https://github.com/franciscop/cookies.js",
+      "title": "franciscop/cookies.js:  Interactive and easy cookies from your browser in javascript",
+      "score": "234"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/305677#reply90",
+      "title": "大家平时除了写代码还喜欢干啥",
+      "score": "90"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305651#reply62",
+      "title": "支付宝 10 月 12 日起提现收费：每人 2 万基础免费额度.",
+      "score": "62"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305658#reply57",
+      "title": "每一个不曾 996 的公司，都是对程序员的最大辜负",
+      "score": "57"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305560#reply45",
+      "title": "想离职然后在家工作...",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305680#reply41",
+      "title": "对于支付宝在 10 月 12 日起, 实行提现超过 2w 免费额度后, 将收取 0.1%的手续费,怎么看?",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305666#reply38",
+      "title": "ios10 可以标记骚扰电话了？用过的说说实用性如何吧",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305659#reply35",
+      "title": "奉上 Instastack for Instagram Mac App Store 兑换码 若干个",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305565#reply32",
+      "title": "求问怎么购买 google play 里的应用",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305647#reply30",
+      "title": "越来越感觉 996 不是个别公司的事情，是一盘大局！",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305683#reply29",
+      "title": "前端每秒刷新的 PHP 接口文件，取同一数据库 5 张不同表里面的数据。",
+      "score": "29"
+    }
+  ]
+}
