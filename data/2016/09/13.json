@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12483047",
+      "title": "Microsoft Pix",
+      "score": "486"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12483952",
+      "title": "To tell someone they're wrong, first tell them how they're right",
+      "score": "397"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12485650",
+      "title": "Advancing in the Bash Shell",
+      "score": "357"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12487112",
+      "title": "GitLab Master Plan",
+      "score": "281"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12487307",
+      "title": "Adblock Plus now sells ads",
+      "score": "214"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12488149",
+      "title": "Logo Pizza: Hot and ready logos for sale",
+      "score": "158"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12487108",
+      "title": "Edward Snowden makes 'moral' case for presidential pardon",
+      "score": "158"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12484926",
+      "title": "Weirdly broken Wi-Fi access points",
+      "score": "153"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12485544",
+      "title": "Advice I Wish I'd Been Told (1999)",
+      "score": "139"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12485080",
+      "title": "Logical Induction",
+      "score": "135"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52fhxc/a_tale_of_an_impossible_bug_biglittle_and_caching/",
+      "title": "A tale of an impossible bug: big.LITTLE and caching",
+      "score": "340"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52i7en/libtiff_has_fallen_off_the_internet/",
+      "title": "Libtiff has fallen off the internet",
+      "score": "183"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52go9t/paper_processor/",
+      "title": "paper processor",
+      "score": "146"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52fb42/sonic_the_hedgehog_physics_reversed_from_the_roms/",
+      "title": "Sonic the Hedgehog physics reversed from the ROMs",
+      "score": "134"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52j4lw/advancing_in_the_bash_shell/",
+      "title": "Advancing in the Bash Shell",
+      "score": "109"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52hg4y/python_36_beta_is_here/",
+      "title": "Python 3.6 beta is here!",
+      "score": "92"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52k29h/a_critique_of_rusts_stdcollections/",
+      "title": "A Critique of Rust's `std::collections`",
+      "score": "107"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52jf21/the_risks_of_counting_votes_with_cookies_or_why/",
+      "title": "The risks of counting votes with cookies, or why we can't have nice things...",
+      "score": "83"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52eum5/nosql_meets_bitcoin_and_brings_down_two_exchanges/",
+      "title": "NoSQL Meets Bitcoin and Brings Down Two Exchanges",
+      "score": "65"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52k97v/gitlab_master_plan/",
+      "title": "GitLab Master Plan",
+      "score": "61"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Ketchup Sandwiches and Other Things Stupid Poor People Eat",
+      "score": "2544",
+      "url": "https://medium.com/p/ketchup-sandwiches-and-other-things-stupid-poor-people-eat-41617483b497"
+    },
+    {
+      "title": "The Age of Apple is Over",
+      "score": "540",
+      "url": "https://medium.com/p/the-age-of-apple-is-over-b4570e2a2955"
+    },
+    {
+      "title": "NFL Week 1 Recap: The Patriots Just Won’t Die",
+      "score": "90",
+      "url": "https://medium.com/p/nfl-week-1-recap-new-england-patriots-b874688f0f3f"
+    },
+    {
+      "title": "The Winners and Losers From NFL Week 1",
+      "score": "92",
+      "url": "https://medium.com/p/the-winners-and-losers-from-nfl-week-1-585947befdde"
+    },
+    {
+      "title": "Against Minimalism",
+      "score": "965",
+      "url": "https://medium.com/p/against-minimalism-1be2c4abadbf"
+    },
+    {
+      "title": "How To Learn In 2 Days What Normally Takes 6 Months",
+      "score": "2475",
+      "url": "https://medium.com/p/how-to-learn-in-2-days-what-normally-takes-6-months-57953ee30da4"
+    },
+    {
+      "title": "Another ‘My Wife Is Trans’ Story",
+      "score": "297",
+      "url": "https://medium.com/p/another-my-wife-is-trans-story-c172ef4daef3"
+    },
+    {
+      "title": "Who Is the Best Fictional Pilot of All Time?",
+      "score": "84",
+      "url": "https://medium.com/p/who-is-the-best-fictional-pilot-of-all-time-3dc9863fbc34"
+    },
+    {
+      "title": "How To Invest In Yourself",
+      "score": "509",
+      "url": "https://medium.com/p/how-to-invest-in-yourself-a98dfd33e81a"
+    },
+    {
+      "title": "Machine Learning in a Year",
+      "score": "1046",
+      "url": "https://medium.com/p/machine-learning-in-a-year-cdb0b0ebd29c"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/hardbound-3",
+      "title": "Hardbound: Stories for curious minds",
+      "score": "360"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/toby-3",
+      "title": "Toby: Organize your browser tabs",
+      "score": "203"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/walkie",
+      "title": "Walkie: Design Slack dialogs effortlessly",
+      "score": "139"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/coding-confessional",
+      "title": "Coding Confessional: Anonymous confessions from programmers",
+      "score": "135"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/voo-plan-for-imessage",
+      "title": "Voo Plan for iMessage: Plan and meet with friends fast via iMessage.",
+      "score": "114"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/becoming-superhuman-david-heinemeier-hansson",
+      "title": "Becoming Superhuman: David Heinemeier Hansson: An interview with a real-world superlearner",
+      "score": "63"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/unsend-it-2",
+      "title": "Unsend.it: Un-send or edit any SMS text message after you sent it",
+      "score": "100"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/awwwa",
+      "title": "AWWWA: Animated backgrounds for iPhone with stories inside",
+      "score": "140"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/super-mario-run-stickers",
+      "title": "SUPER MARIO RUN Stickers: It&#x27;s a me, Mario, in your iMessages!",
+      "score": "68"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/remindme",
+      "title": "RemindMe: The most convenient reminders, on Facebook Messenger",
+      "score": "72"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/gztchan/awesome-design",
+      "title": "gztchan/awesome-design:  Best UI/UX Design Resources For Developer &amp; Designer Ever :)",
+      "score": "856"
+    },
+    {
+      "url": "https://github.com/vim/vim",
+      "title": "vim/vim: The official Vim repository",
+      "score": "732"
+    },
+    {
+      "url": "https://github.com/lengstrom/falcon",
+      "title": "lengstrom/falcon: Chrome extension for full text history search!",
+      "score": "623"
+    },
+    {
+      "url": "https://github.com/react-native-community/React-Native-Elements",
+      "title": "react-native-community/React-Native-Elements: React Native Elements UI Toolkit",
+      "score": "463"
+    },
+    {
+      "url": "https://github.com/KeepSafe/TapTargetView",
+      "title": "KeepSafe/TapTargetView: An implementation of tap targets from the Material Design guidelines for feature discovery",
+      "score": "423"
+    },
+    {
+      "url": "https://github.com/luciotato/golang-notes",
+      "title": "luciotato/golang-notes: Notes to understand golang",
+      "score": "369"
+    },
+    {
+      "url": "https://github.com/Easyfood/pageAccelerator",
+      "title": "Easyfood/pageAccelerator: A very light solution to load web pages faster",
+      "score": "366"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "329"
+    },
+    {
+      "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+      "title": "kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way on Google Cloud Platform or Amazon EC2. No scripts.",
+      "score": "308"
+    },
+    {
+      "url": "https://github.com/hustcc/timeago.js",
+      "title": "hustcc/timeago.js:  timeago.js is a tiny(~1.75kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependency &amp; localization &amp; tiny.",
+      "score": "263"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/305935#reply208",
+      "title": "昨天程序员节，昨晚阿里员工内网刷月饼被开除",
+      "score": "208"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305903#reply155",
+      "title": "都来显摆下，中秋贵公司的福利。",
+      "score": "155"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305922#reply147",
+      "title": "阿里是不是 TM 有病...实力开除",
+      "score": "147"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305988#reply72",
+      "title": "有没有不是程序员 也混迹在 V2EX 的·",
+      "score": "72"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305896#reply58",
+      "title": "你们还在用 twitter 吗？",
+      "score": "58"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305984#reply51",
+      "title": "大家都在用 Time Machine 吗？",
+      "score": "51"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305874#reply44",
+      "title": "无线路由器的瓶颈在哪？ 100M 跑不满",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305944#reply41",
+      "title": "为什么三星爆炸影响力那么大？",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305845#reply41",
+      "title": "在你们说月薪时是到手还是名义上？",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/305870#reply38",
+      "title": "有阿里的同学吗？整个河南几百万人无法正常访问天猫你们知道吗？",
+      "score": "38"
+    }
+  ]
+}
