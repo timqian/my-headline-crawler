@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12494998",
+      "title": "Pardon Snowden",
+      "score": "1258"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12494999",
+      "title": "Why are Adults so busy?",
+      "score": "303"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12493603",
+      "title": "Swift Playgrounds – Learn to code on your iPad",
+      "score": "268"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12493494",
+      "title": "UnrealCV",
+      "score": "210"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12493059",
+      "title": "A Soviet scientist created tame foxes",
+      "score": "197"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12493040",
+      "title": "Airbnb gets into the property management business",
+      "score": "191"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12493822",
+      "title": "Swift.org – Swift 3.0 Released",
+      "score": "164"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12496050",
+      "title": "Google’s become an obsessive stalker",
+      "score": "143"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12496558",
+      "title": "Ask HN: What's your favorite HN post?",
+      "score": "136"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12494927",
+      "title": "Why drug prices in America are so high",
+      "score": "134"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52l7nv/super_mario_source_code_in_java_by_brent_aureli/",
+      "title": "Super Mario source code in java by Brent Aureli. (Today marks 31st anniversary of Super Mario Bros. the first Super Mario ever)",
+      "score": "833"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52o5br/quinedb/",
+      "title": "QuineDB",
+      "score": "344"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52l62w/whenever_i_think_function_level_tests_are/",
+      "title": "Whenever I think function level tests are overkill, I read a story like this to remember why they exist.",
+      "score": "289"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52mcf3/the_fall_of_eclipse/",
+      "title": "The Fall of Eclipse",
+      "score": "181"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52o0la/what_really_happened_on_mars_1997/",
+      "title": "What really happened on Mars? (1997)",
+      "score": "171"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52mg68/eulex_baremetal_x86_forth/",
+      "title": "Eulex - Bare-metal x86 FORTH",
+      "score": "126"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52ljv3/adding_ssl_certificate_to_your_blog_is_free_and/",
+      "title": "Adding SSL Certificate to Your Blog is Free and Easier Than You Might Expect",
+      "score": "126"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52qelr/new_mit_programming_language_claims_4x_speedups/",
+      "title": "New MIT programming language claims 4x speed-ups for parallel computing",
+      "score": "204"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52l6kj/yandexmail_success_story_oracle_to_postgresql/",
+      "title": "Yandex.Mail success story: Oracle to PostgreSQL",
+      "score": "112"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52lylf/when_win32_returns_a_bool_that_isnt_true_on/",
+      "title": "When Win32 returns a BOOL... that isn't TRUE on success?! Couldn't find this bug for the longest time.",
+      "score": "97"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Mike Rothenberg’s VC firm was young, splashy, and loaded with cash. Now it’s all come crashing down",
+      "score": "267",
+      "url": "https://medium.com/p/mike-rothenbergs-vc-firm-was-young-splashy-and-loaded-with-cash-now-it-s-all-come-crashing-down-e76fa076c7c5"
+    },
+    {
+      "title": "The Age of Apple is Over",
+      "score": "927",
+      "url": "https://medium.com/p/the-age-of-apple-is-over-b4570e2a2955"
+    },
+    {
+      "title": "How To Invest In Yourself",
+      "score": "1025",
+      "url": "https://medium.com/p/how-to-invest-in-yourself-a98dfd33e81a"
+    },
+    {
+      "title": "Ketchup sandwiches and other things stupid poor people eat",
+      "score": "3065",
+      "url": "https://medium.com/p/ketchup-sandwiches-and-other-things-stupid-poor-people-eat-41617483b497"
+    },
+    {
+      "title": "Me, A Chill Girl With No Feelings",
+      "score": "631",
+      "url": "https://medium.com/p/me-a-chill-girl-with-no-feelings-5f0fb7410e80"
+    },
+    {
+      "title": "Antonio Brown Got a Flag for Twerking, and the NFL Was Fun for a Moment",
+      "score": "605",
+      "url": "https://medium.com/p/nfl-antonio-brown-twerking-penalty-646f473dd5af"
+    },
+    {
+      "title": "How To Learn In 2 Days What Normally Takes 6 Months",
+      "score": "2699",
+      "url": "https://medium.com/p/how-to-learn-in-2-days-what-normally-takes-6-months-57953ee30da4"
+    },
+    {
+      "title": "My father’s death by suicide inspired me to learn how to just ‘be’",
+      "score": "327",
+      "url": "https://medium.com/p/my-fathers-death-by-suicide-inspired-me-to-learn-how-to-just-be-4501b0934a9e"
+    },
+    {
+      "title": "Against Minimalism",
+      "score": "1098",
+      "url": "https://medium.com/p/against-minimalism-1be2c4abadbf"
+    },
+    {
+      "title": "The NFL Can’t Protect Its Quarterbacks",
+      "score": "49",
+      "url": "https://medium.com/p/the-nfl-cant-protect-its-quarterbacks-e132ebbb99b5"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/self-driving-uber",
+      "title": "Self-Driving Uber: The world’s first Self-Driving Ubers",
+      "score": "248"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/foursquare-10",
+      "title": "Foursquare 10: Your ultimate city guide, in your pocket",
+      "score": "274"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/giphy-for-imessage",
+      "title": "GIPHY for iMessage: The easiest way to share all the GIFs in all your txts",
+      "score": "210"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/croissant-2-0",
+      "title": "Croissant 2.0: Unlock the hottest coworking spaces in your city",
+      "score": "212"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/airbnb-imessage-app",
+      "title": "Airbnb iMessage App: A new way to plan your trip",
+      "score": "162"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/swift-playgrounds-2",
+      "title": "Swift Playgrounds: Makes it fun to learn and experiment with code",
+      "score": "127"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/blur-3",
+      "title": "BLUR: Obscure and expire private photos in iMessage",
+      "score": "125"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/clearbit-reveal",
+      "title": "Clearbit Reveal: Turn anonymous traffic into company data",
+      "score": "67"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/streethacker",
+      "title": "Streethacker: Discover great restaurants through 10 second videos.",
+      "score": "122"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/vectr-1-0",
+      "title": "Vectr 1.0: Free, cross-platform vector graphics editor.",
+      "score": "104"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/gztchan/awesome-design",
+      "title": "gztchan/awesome-design:  Best UI/UX Design Resources For Developer &amp; Designer Ever :)",
+      "score": "754"
+    },
+    {
+      "url": "https://github.com/shu223/iOS-10-Sampler",
+      "title": "shu223/iOS-10-Sampler: Code examples for new APIs of iOS 10.",
+      "score": "498"
+    },
+    {
+      "url": "https://github.com/KeepSafe/TapTargetView",
+      "title": "KeepSafe/TapTargetView: An implementation of tap targets from the Material Design guidelines for feature discovery",
+      "score": "406"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "324"
+    },
+    {
+      "url": "https://github.com/react-native-community/React-Native-Elements",
+      "title": "react-native-community/React-Native-Elements: React Native Elements UI Toolkit",
+      "score": "323"
+    },
+    {
+      "url": "https://github.com/vim/vim",
+      "title": "vim/vim: The official Vim repository",
+      "score": "292"
+    },
+    {
+      "url": "https://github.com/lengstrom/falcon",
+      "title": "lengstrom/falcon: Chrome extension for full text history search!",
+      "score": "271"
+    },
+    {
+      "url": "https://github.com/gfredericks/quinedb",
+      "title": "gfredericks/quinedb: QuineDB is a quine that is also a key-value store.",
+      "score": "246"
+    },
+    {
+      "url": "https://github.com/hustcc/timeago.js",
+      "title": "hustcc/timeago.js:  timeago.js is a tiny(~1.75kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependency &amp; localization &amp; tiny.",
+      "score": "222"
+    },
+    {
+      "url": "https://github.com/Easyfood/pageAccelerator",
+      "title": "Easyfood/pageAccelerator: A very light solution to load web pages faster",
+      "score": "219"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/306098#reply180",
+      "title": "要不我们来秀秀我们的编程字体？",
+      "score": "180"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306115#reply125",
+      "title": "关于 DNSPod 的 D 监控邮件",
+      "score": "125"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306116#reply93",
+      "title": "说说从 iOS 9 升级到 iOS 10 喜欢的地方和吐槽的地方",
+      "score": "93"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306188#reply82",
+      "title": "终于又可以用上 android 了。终于可以抛弃苹果了",
+      "score": "82"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306216#reply67",
+      "title": "熟练地 Vim，真的能极大的提高工作效率么？",
+      "score": "67"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306095#reply59",
+      "title": "一道又意思的数学题",
+      "score": "59"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306170#reply55",
+      "title": "airpods 如果能够降噪就堪称完美了",
+      "score": "55"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306222#reply46",
+      "title": "用自己熟悉的语言 写出 中秋节快乐",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306246#reply41",
+      "title": "为什么配置个舒心的 Java 开发环境这么难？",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306249#reply41",
+      "title": "明明叫 lemp，为什么中国人偏要叫 lnmp",
+      "score": "41"
+    }
+  ]
+}
