@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12499642",
+      "title": "Announcing new tools, forums, and features",
+      "score": "1066"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12502947",
+      "title": "Angular 2 Final Released",
+      "score": "661"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12503458",
+      "title": "Old Geek",
+      "score": "355"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12502878",
+      "title": "FBI director: Cover up your webcam",
+      "score": "272"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12504694",
+      "title": "Microsoft is now the leading company for open source contributions on GitHub",
+      "score": "268"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12501985",
+      "title": "Auto-GCAS Saves Unconscious F-16 Pilot",
+      "score": "157"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12504747",
+      "title": "Qualities of clean code",
+      "score": "113"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12505136",
+      "title": "Varnish Cache 5.0",
+      "score": "113"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12503872",
+      "title": "Win32 and .NET desktop apps can now be published in the Windows Store",
+      "score": "107"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12502839",
+      "title": "Why I Majored in Philosophy Despite Everyone Telling Me Not To (2013)",
+      "score": "107"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52ubz5/angular_200_officially_released/",
+      "title": "Angular 2.0.0 officially released",
+      "score": "928"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52rvc6/github_update_announcing_new_tools_forums_and/",
+      "title": "GitHub update - announcing new tools, forums, and features",
+      "score": "421"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52uslp/microsoft_has_the_most_open_source_contributors/",
+      "title": "Microsoft has the most open source contributors on GitHub",
+      "score": "158"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52s9t6/twitch_launches_programming_channel/",
+      "title": "Twitch Launches Programming Channel",
+      "score": "116"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52r44n/the_neural_network_zoo/",
+      "title": "The Neural Network Zoo",
+      "score": "100"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52v2l4/in_feb_93_marc_andreessen_proposes_the_img_tag/",
+      "title": "In Feb 93, Marc Andreessen proposes the IMG tag, and Tim Berners-Lee doesn't like special tags one bit.",
+      "score": "84"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52r6pi/why_rusts_stdcollections_is_absolutely_fantastic/",
+      "title": "Why Rust's `std::collections` is absolutely fantastic",
+      "score": "58"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52t08g/critical_thinking_for_software_engineers/",
+      "title": "Critical thinking for software engineers",
+      "score": "45"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52w1f7/in_1993_guido_van_rossum_wrote_a_python_bot_that/",
+      "title": "In 1993, Guido van Rossum wrote a Python bot that &quot;tries to map out the entire web&quot; and it found &quot;50 or 60 different sites&quot;",
+      "score": "57"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52snuz/introducing_debuggerhtml/",
+      "title": "Introducing debugger.html",
+      "score": "26"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Mike Rothenberg’s VC firm was young, splashy, and loaded with cash. Now it’s all come crashing down",
+      "score": "408",
+      "url": "https://medium.com/p/mike-rothenbergs-vc-firm-was-young-splashy-and-loaded-with-cash-now-it-s-all-come-crashing-down-e76fa076c7c5"
+    },
+    {
+      "title": "Why Silicon Valley is all wrong about Apple’s AirPods",
+      "score": "565",
+      "url": "https://medium.com/p/silicon-valley-is-all-wrong-about-the-airpods-8204ede08f0f"
+    },
+    {
+      "title": "To the 4 white male policemen who beat me for checking the health of a sick black man in their…",
+      "score": "1618",
+      "url": "https://medium.com/p/to-the-4-white-male-policemen-who-beat-me-for-checking-the-health-of-a-sick-black-man-in-their-8d77789fb24d"
+    },
+    {
+      "title": "How To Invest In Yourself",
+      "score": "1493",
+      "url": "https://medium.com/p/how-to-invest-in-yourself-a98dfd33e81a"
+    },
+    {
+      "title": "The League Is Ready for Joel Embiid",
+      "score": "137",
+      "url": "https://medium.com/p/joel-embiid-process-76ers-132abb28d20d"
+    },
+    {
+      "title": "The Age of Apple is Over",
+      "score": "1145",
+      "url": "https://medium.com/p/the-age-of-apple-is-over-b4570e2a2955"
+    },
+    {
+      "title": "So blue. The heartbroken case for Hillary Clinton",
+      "score": "213",
+      "url": "https://medium.com/p/so-blue-the-heartbroken-case-for-hillary-clinton-e91a22cd8ebe"
+    },
+    {
+      "title": "My father’s death by suicide inspired me to learn how to just ‘be’",
+      "score": "663",
+      "url": "https://medium.com/p/my-fathers-death-by-suicide-inspired-me-to-learn-how-to-just-be-4501b0934a9e"
+    },
+    {
+      "title": "I Was a CIA Whistleblower.",
+      "score": "303",
+      "url": "https://medium.com/p/i-was-a-cia-whistleblower-c14f5eaa2f69"
+    },
+    {
+      "title": "This 30-Minute Evening Ritual Will Help You To Kick Life In The Ass",
+      "score": "977",
+      "url": "https://medium.com/p/this-30-minute-evening-ritual-will-help-you-to-kick-life-in-the-ass-fb2c2625f757"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/slack-beta",
+      "title": "Slack Beta: A faster and nicer Slack built on Electron",
+      "score": "652"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/startup-rocket-framework",
+      "title": "Startup Rocket Framework: Framework to help entrepreneurs w/ the first critical steps",
+      "score": "189"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/angular-2-0",
+      "title": "Angular 2.0: Learn one way to build applications",
+      "score": "151"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/focusmusic-fm",
+      "title": "focusmusic.fm: Music for work, productivity, and flow.",
+      "score": "168"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/adobe-stock-2",
+      "title": "Adobe Stock: Remember when all stock images looked the same?",
+      "score": "110"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/dependn",
+      "title": "Dependn&#x27;: Keep your addictions under control",
+      "score": "109"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/my-lacroix",
+      "title": "My LaCroix: Create and share your own LaCroix can",
+      "score": "93"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/outsite-for-retreats",
+      "title": "Outsite for Retreats: Team retreats and offsites as a service",
+      "score": "97"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/coderoulette",
+      "title": "Coderoulette: Chatroulette for developers (a pair programming game) 🚀",
+      "score": "56"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/power-toothpaste",
+      "title": "Power Toothpaste: The 1st caffeinated toothpaste. Get a rush while you brush!",
+      "score": "79"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/devtools-html/debugger.html",
+      "title": "devtools-html/debugger.html: The Firefox debugger that works anywhere",
+      "score": "569"
+    },
+    {
+      "url": "https://github.com/gztchan/awesome-design",
+      "title": "gztchan/awesome-design:  Best UI/UX Design Resources For Developer &amp; Designer Ever :)",
+      "score": "555"
+    },
+    {
+      "url": "https://github.com/ibab/tensorflow-wavenet",
+      "title": "ibab/tensorflow-wavenet: A TensorFlow implementation of DeepMind's WaveNet paper",
+      "score": "496"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "380"
+    },
+    {
+      "url": "https://github.com/elendirx/web2web",
+      "title": "elendirx/web2web: P2P web powered by torrents and blockchain.",
+      "score": "381"
+    },
+    {
+      "url": "https://github.com/shu223/iOS-10-Sampler",
+      "title": "shu223/iOS-10-Sampler: Code examples for new APIs of iOS 10.",
+      "score": "357"
+    },
+    {
+      "url": "https://github.com/trueadm/inferno",
+      "title": "trueadm/inferno: An extremely fast, React-like JavaScript library for building modern user interfaces",
+      "score": "342"
+    },
+    {
+      "url": "https://github.com/dollarshaveclub/reframe.js",
+      "title": "dollarshaveclub/reframe.js: Reframe unresponsive elements responsively.",
+      "score": "317"
+    },
+    {
+      "url": "https://github.com/turbo/alwsl",
+      "title": "turbo/alwsl: Install archlinux as the WSL (Windows Subsystem for Linux) host.",
+      "score": "264"
+    },
+    {
+      "url": "https://github.com/Easyfood/pageAccelerator",
+      "title": "Easyfood/pageAccelerator: A very light solution to load web pages faster",
+      "score": "232"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/306449#reply89",
+      "title": "应届本科生，腾讯 20w，华为 30w 的 offer，怎么选？",
+      "score": "89"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306461#reply85",
+      "title": "感觉各大安卓厂商在屏幕分辨率问题上被绕进去了",
+      "score": "85"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306423#reply58",
+      "title": "阿里月饼事件是不是说明在公司跟对老大很重要",
+      "score": "58"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306487#reply50",
+      "title": "请问，程序员的利益，应该谁来保护！写在阿里“月饼”事件之后。",
+      "score": "50"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306378#reply44",
+      "title": "大家都是怎么对付家里人唠叨你还不找对象结婚的？",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306471#reply38",
+      "title": "面试用不用穿正装？",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306447#reply34",
+      "title": "爱奇艺的视频隐秘水印是什么概念和原理?",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306458#reply30",
+      "title": "Mac 上的订票助手 12306ForMac",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306436#reply29",
+      "title": "Angular 2.0 正式 Release 了",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306460#reply26",
+      "title": "最近在写爬虫，发现一个干死 99.9999%爬虫的办法",
+      "score": "26"
+    }
+  ]
+}
