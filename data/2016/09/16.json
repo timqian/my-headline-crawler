@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12508356",
+      "title": "Elon Musk on How to Build the Future",
+      "score": "919"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12511501",
+      "title": "Tesla Wins Contract to Help Power the California Grid",
+      "score": "411"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12508776",
+      "title": "The building blocks of understanding are memorization and repetition",
+      "score": "300"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12510609",
+      "title": "We Don’t Simply Get Remote Jobs, We Join Remote Teams",
+      "score": "258"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12511353",
+      "title": "Why the Apple II ProDOS 2.4 Release Is the OS News of the Year",
+      "score": "247"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12512618",
+      "title": "Bash 4.4 released",
+      "score": "145"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12512154",
+      "title": "Some questions about Docker and rkt",
+      "score": "132"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12511419",
+      "title": "React Router v4 FAQ",
+      "score": "121"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12512136",
+      "title": "Esoteric Topics in Computer Programming",
+      "score": "88"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12513701",
+      "title": "EpiPen Maker Quietly Steers Effort That Could Protect Its Price",
+      "score": "86"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/530vjq/everything_old_is_new_again_and_a_compiler_bug/",
+      "title": "Everything Old is New Again, and a Compiler Bug",
+      "score": "230"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52ynwp/google_open_sources_a_fast_texture_compressor_for/",
+      "title": "Google open sources a fast texture compressor for VR developers.",
+      "score": "149"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5310bh/heres_how_broken_todays_web_will_feel_in_chromes/",
+      "title": "Here's how broken today's web will feel in Chrome's secure-by-default future",
+      "score": "134"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5318oz/there_is_no_rest_api/",
+      "title": "There is No REST API",
+      "score": "114"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52x2m4/old_geek_jobs_fighting_against_ageism_in_the/",
+      "title": "Old Geek Jobs: fighting against ageism in the industry",
+      "score": "56"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/531po8/from_the_d_blog_introducing_an_open_source_game/",
+      "title": "From the D Blog: Introducing an open source game &amp; related libraries.",
+      "score": "65"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52xc6z/old_geek/",
+      "title": "Old Geek",
+      "score": "43"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52y6ms/brin_indexes_in_postgres_95/",
+      "title": "BRIN Indexes in Postgres 9.5",
+      "score": "28"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52xemt/rob_eisenberg_the_father_of_aurelia_join_microsoft/",
+      "title": "Rob Eisenberg (the father of Aurelia) join Microsoft",
+      "score": "25"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/530b2y/prodos_24_for_all_apple_ii_computers_released/",
+      "title": "ProDOS 2.4 for all Apple II computers released",
+      "score": "27"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Why Silicon Valley is all wrong about Apple’s AirPods",
+      "score": "1940",
+      "url": "https://medium.com/p/silicon-valley-is-all-wrong-about-the-airpods-8204ede08f0f"
+    },
+    {
+      "title": "Mike Rothenberg’s VC firm was young, splashy, and loaded with cash. Now it’s all come crashing down",
+      "score": "477",
+      "url": "https://medium.com/p/mike-rothenbergs-vc-firm-was-young-splashy-and-loaded-with-cash-now-it-s-all-come-crashing-down-e76fa076c7c5"
+    },
+    {
+      "title": "To the 4 white male policemen who beat me for checking the health of a sick black man in their…",
+      "score": "2744",
+      "url": "https://medium.com/p/to-the-4-white-male-policemen-who-beat-me-for-checking-the-health-of-a-sick-black-man-in-their-8d77789fb24d"
+    },
+    {
+      "title": "How To Invest In Yourself",
+      "score": "1798",
+      "url": "https://medium.com/p/how-to-invest-in-yourself-a98dfd33e81a"
+    },
+    {
+      "title": "Three NBA Prospects Worth Tanking for in 2017",
+      "score": "57",
+      "url": "https://medium.com/p/three-nba-prospects-worth-tanking-for-in-2017-262342f6ea40"
+    },
+    {
+      "title": "The One-Win Emmys",
+      "score": "105",
+      "url": "https://medium.com/p/one-win-emmys-bryan-cranston-matthew-mcconaughey-1edf1a101bbc"
+    },
+    {
+      "title": "The Age of Apple is Over",
+      "score": "1282",
+      "url": "https://medium.com/p/the-age-of-apple-is-over-b4570e2a2955"
+    },
+    {
+      "title": "The NFL’s Dink-and-Dunk Reality",
+      "score": "52",
+      "url": "https://medium.com/p/nfl-quarterbacks-dink-and-dunk-passing-trend-9e48acad3e83"
+    },
+    {
+      "title": "This 30-Minute Evening Ritual Will Help You To Kick Life In The Ass",
+      "score": "1246",
+      "url": "https://medium.com/p/this-30-minute-evening-ritual-will-help-you-to-kick-life-in-the-ass-fb2c2625f757"
+    },
+    {
+      "title": "This is Our Flag",
+      "score": "235",
+      "url": "https://medium.com/p/this-is-our-flag-62cc639e9b48"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/cardlife",
+      "title": "Cardlife: All your business (SaaS) subscriptions in one",
+      "score": "207"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/peel-for-iphone-7",
+      "title": "Peel for iPhone 7: Peel&#x27;s super thin case, now for iPhone 7",
+      "score": "191"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/good-moves",
+      "title": "Good Moves: The most popular motion design, surfaced each and every day.",
+      "score": "131"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/logo-pizza",
+      "title": "Logo Pizza: Hot and ready logos for sale",
+      "score": "127"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/blocs-cms",
+      "title": "Blocs CMS: Design any project or design flow in Blocs",
+      "score": "98"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/app-tools",
+      "title": "App Tools: Curated list of the best tools in the mobile app ecosystem.",
+      "score": "79"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/grammar-snob-2",
+      "title": "Grammar Snob: Markup your friend iMessages like an English teacher 😁",
+      "score": "83"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/sit-with-us",
+      "title": "Sit With Us: Help bullied kids never feel alone during school lunchtime",
+      "score": "35"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/seatgeek-imessage-app",
+      "title": "SeatGeek iMessage App: Making it easier to see more live events with your friends",
+      "score": "39"
+    },
+    {
+      "url": "https://www.producthunt.com/games/antiyoy",
+      "title": "Antiyoy: Addictive turn based strategy game!",
+      "score": "28"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/FormidableLabs/react-game-kit",
+      "title": "FormidableLabs/react-game-kit: Component library for making games with React &amp; React Native",
+      "score": "800"
+    },
+    {
+      "url": "https://github.com/devtools-html/debugger.html",
+      "title": "devtools-html/debugger.html: The Firefox debugger that works anywhere",
+      "score": "478"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "432"
+    },
+    {
+      "url": "https://github.com/elendirx/web2web",
+      "title": "elendirx/web2web: P2P web powered by torrents and blockchain.",
+      "score": "424"
+    },
+    {
+      "url": "https://github.com/shoutem/ui",
+      "title": "shoutem/ui: Customizable set of components for React Native applications",
+      "score": "366"
+    },
+    {
+      "url": "https://github.com/gztchan/awesome-design",
+      "title": "gztchan/awesome-design:  Best UI/UX Design Resources For Developer &amp; Designer Ever :)",
+      "score": "349"
+    },
+    {
+      "url": "https://github.com/shu223/iOS-10-Sampler",
+      "title": "shu223/iOS-10-Sampler: Code examples for new APIs of iOS 10.",
+      "score": "256"
+    },
+    {
+      "url": "https://github.com/sivasamyk/logtrail",
+      "title": "sivasamyk/logtrail: Kibana plugin to view, search &amp; live tail log events",
+      "score": "244"
+    },
+    {
+      "url": "https://github.com/trueadm/inferno",
+      "title": "trueadm/inferno: An extremely fast, React-like JavaScript library for building modern user interfaces",
+      "score": "232"
+    },
+    {
+      "url": "https://github.com/etsy/411",
+      "title": "etsy/411: An Alert Management Web Application",
+      "score": "224"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/306561#reply68",
+      "title": "当你跳槽到下一家公司， hr 问你怎么看待阿里事件，作为程序员要怎么回答？",
+      "score": "68"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306624#reply60",
+      "title": "很好奇，大家都是怎么给自己的电脑命名的？",
+      "score": "60"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306540#reply47",
+      "title": "请求推荐符合如下条件的安卓备用机",
+      "score": "47"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306652#reply31",
+      "title": "阿里「月饼门」中最后一人（第五人）也被开除。",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306610#reply29",
+      "title": "小米手机有后门？？🙄🙄🙄",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306577#reply26",
+      "title": "电话被呼死你攻击了，你们是怎么处理的？",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306586#reply26",
+      "title": "想做美股，又不想交几百块的转账手续费，然后脑洞了一下",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306644#reply26",
+      "title": "抓了点知乎用户数据，打算分享给各位兄弟",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306622#reply25",
+      "title": "ios10 上大家用的什么防骚扰软件",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306542#reply24",
+      "title": "自己写的批处理打包后报毒是要申请白名单吗？（杀毒厂商）",
+      "score": "24"
+    }
+  ]
+}
