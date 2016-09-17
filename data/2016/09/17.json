@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12514971",
+      "title": "Investing for Geeks",
+      "score": "707"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12518000",
+      "title": "Muni ISP forced to shut off fiber-to-the-home Internet after court ruling",
+      "score": "291"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12517884",
+      "title": "Is your SSH password revealed when you attempt to connect to the wrong server?",
+      "score": "266"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12518870",
+      "title": "Bottleneck Bandwidth and RTT",
+      "score": "203"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12519537",
+      "title": "Consistency is Consistently Undervalued",
+      "score": "163"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12518768",
+      "title": "Learning Web Audio by Recreating the Works of Steve Reich and Brian Eno",
+      "score": "153"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12519289",
+      "title": "From Kafka to ZeroMQ for real-time log aggregation",
+      "score": "140"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12519503",
+      "title": "The iPhone's new chip should worry Intel",
+      "score": "135"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12518657",
+      "title": "To do in San Francisco this weekend: the first-ever roguelike celebration",
+      "score": "121"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12519150",
+      "title": "Why Do Famous People Get Paid $250,000 to Give a Speech?",
+      "score": "102"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/533q8a/bruce_schneier_someone_is_learning_how_to_take/",
+      "title": "Bruce Schneier: &quot;Someone Is Learning How to Take Down the Internet&quot;",
+      "score": "1693"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/532tto/oracle_wants_to_dump_its_netbeans_java_integrated/",
+      "title": "Oracle wants to dump its NetBeans Java integrated development environment on the Apache Software Foundation.",
+      "score": "195"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/534aj8/the_advantages_of_static_typing_simply_stated/",
+      "title": "The advantages of static typing, simply stated",
+      "score": "95"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/533i6e/raspberry_pis_latest_milestone_10_million_units/",
+      "title": "Raspberry Pi’s Latest Milestone: 10 Million Units Sold",
+      "score": "63"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5340ml/sql_symbol_cheat_sheet/",
+      "title": "SQL Symbol Cheat Sheet",
+      "score": "52"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53683z/if_you_didnt_know_about_bisqwit_please_check_him/",
+      "title": "If you didn't know about Bisqwit, please, check him out! He does frequent programming and gaming-related videos. His latest series is about cracking videogame passwords.",
+      "score": "42"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/533xaa/mozilla_relaunches_javascript_debugger_as_part_of/",
+      "title": "Mozilla relaunches JavaScript debugger as part of tools transition plan",
+      "score": "27"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/535sql/late_night_programming_a_poem/",
+      "title": "Late Night Programming: A Poem",
+      "score": "17"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/535yrv/the_ergonomics_of_type_checking_michael_feathers/",
+      "title": "The Ergonomics of Type Checking | Michael Feathers",
+      "score": "6"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/534zbw/pbr_for_audio_software_interfaces/",
+      "title": "PBR for Audio Software Interfaces",
+      "score": "7"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Why Silicon Valley is all wrong about Apple’s AirPods",
+      "score": "2889",
+      "url": "https://medium.com/p/silicon-valley-is-all-wrong-about-the-airpods-8204ede08f0f"
+    },
+    {
+      "title": "Mike Rothenberg’s VC firm was young, splashy, and loaded with cash. Now it’s all come crashing down",
+      "score": "563",
+      "url": "https://medium.com/p/mike-rothenbergs-vc-firm-was-young-splashy-and-loaded-with-cash-now-it-s-all-come-crashing-down-e76fa076c7c5"
+    },
+    {
+      "title": "The Intellectual Yet Idiot",
+      "score": "696",
+      "url": "https://medium.com/p/the-intellectual-yet-idiot-13211e2d0577"
+    },
+    {
+      "title": "Week 2 NFL Picks: Hide the Cornerbacks",
+      "score": "45",
+      "url": "https://medium.com/p/week-2-nfl-picks-drew-brees-detroit-lions-5abd0811ace0"
+    },
+    {
+      "title": "The Greatest Sales Deck I’ve Ever Seen",
+      "score": "804",
+      "url": "https://medium.com/p/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0"
+    },
+    {
+      "title": "How To Invest In Yourself",
+      "score": "2034",
+      "url": "https://medium.com/p/how-to-invest-in-yourself-a98dfd33e81a"
+    },
+    {
+      "title": "Here’s What Happens When You Give $1,000 to Someone in Extreme Poverty",
+      "score": "123",
+      "url": "https://medium.com/p/heres-what-happens-when-you-give-1-000-to-someone-in-extreme-poverty-78bdce3aa414"
+    },
+    {
+      "title": "Kid Cudi and the Growing Pains of Kanye West’s Children",
+      "score": "81",
+      "url": "https://medium.com/p/kid-cudi-and-the-growing-pains-of-kanye-wests-children-797aebf726fd"
+    },
+    {
+      "title": "The Age of Apple is Over",
+      "score": "1367",
+      "url": "https://medium.com/p/the-age-of-apple-is-over-b4570e2a2955"
+    },
+    {
+      "title": "You Can’t Separate Derrick Rose the Knick From Derrick Rose the Defendant",
+      "score": "165",
+      "url": "https://medium.com/p/derrick-rose-rape-case-and-nba-fandom-bfd92e771d61"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/elwing-boards",
+      "title": "Elwing Boards: The world&#x27;s most compact electric skateboard",
+      "score": "59"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/stock-apparel",
+      "title": "Stock Apparel: Tshirts of terrible stock photos for purchase",
+      "score": "56"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/helpingo",
+      "title": "Helpingo: The app for college life.",
+      "score": "64"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/what-the-bot",
+      "title": "What The Bot?!: Convos with chatbots to make you SMH and LOL",
+      "score": "55"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/daybear",
+      "title": "Daybear: Airbnb for in-home daycare 👶",
+      "score": "43"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/cirtru",
+      "title": "Cirtru: Roommates, rentals, sublets by professionals &amp; students",
+      "score": "35"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/proper-iphone-7-case",
+      "title": "Proper iPhone 7 Case: Thin, durable, flat-back case for your iPhone 7",
+      "score": "29"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/seedcamp-hugh-campbell",
+      "title": "Seedcamp - Hugh Campbell: prepare your startup for an exit",
+      "score": "4"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/opzzz",
+      "title": "Opzzz: Track the effects of on-call on your devops team",
+      "score": "11"
+    },
+    {
+      "url": "https://www.producthunt.com/games/diaries-of-a-spaceport-janitor",
+      "title": "Diaries of a Spaceport Janitor: An anti-adventure game about picking up trash",
+      "score": "1"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/FormidableLabs/react-game-kit",
+      "title": "FormidableLabs/react-game-kit: Component library for making games with React &amp; React Native",
+      "score": "365"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "318"
+    },
+    {
+      "url": "https://github.com/elendirx/web2web",
+      "title": "elendirx/web2web: P2P web powered by torrents and blockchain.",
+      "score": "245"
+    },
+    {
+      "url": "https://github.com/vapor/vapor",
+      "title": "vapor/vapor: A web framework and server for Swift that works on macOS and Ubuntu.",
+      "score": "176"
+    },
+    {
+      "url": "https://github.com/devtools-html/debugger.html",
+      "title": "devtools-html/debugger.html: The Firefox debugger that works anywhere",
+      "score": "172"
+    },
+    {
+      "url": "https://github.com/shoutem/ui",
+      "title": "shoutem/ui: Customizable set of components for React Native applications",
+      "score": "174"
+    },
+    {
+      "url": "https://github.com/gztchan/awesome-design",
+      "title": "gztchan/awesome-design:  Best UI/UX Design Resources For Developer &amp; Designer Ever :)",
+      "score": "170"
+    },
+    {
+      "url": "https://github.com/samccone/coverage-ext",
+      "title": "samccone/coverage-ext: Generate code coverage for any webpage",
+      "score": "169"
+    },
+    {
+      "url": "https://github.com/vhf/free-programming-books",
+      "title": "vhf/free-programming-books:  Freely available programming books",
+      "score": "120"
+    },
+    {
+      "url": "https://github.com/AnyChart/graphicsjs",
+      "title": "AnyChart/graphicsjs: A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.",
+      "score": "117"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/306725#reply87",
+      "title": "聊聊你当初做的毕设吧",
+      "score": "87"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306733#reply54",
+      "title": "你司是不是把程序员都开除光了",
+      "score": "54"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306714#reply49",
+      "title": "7 出来了，是时候卖掉你的 iPhone 6s 后换新了。",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306722#reply44",
+      "title": "小米路由器插入广告",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306746#reply35",
+      "title": "怎么让一个网站签发多张 letsencrypt 证书？",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306740#reply34",
+      "title": "MoeTu 一个支持 HTTPS 的图床",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306777#reply31",
+      "title": "欺负一下暴力破解 SSH 密码的脚本小子，分享一个 SSH 蜜罐",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306749#reply27",
+      "title": "无法升级 iTunes 到 12.5.1",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306767#reply21",
+      "title": "为什么普遍不推荐魔声耳机",
+      "score": "21"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306703#reply20",
+      "title": "Uber 更新了以后使用了 Google 地图",
+      "score": "20"
+    }
+  ]
+}
