@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12522654",
+      "title": "I gave commit rights to someone I didn't know",
+      "score": "702"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12520674",
+      "title": "Google HTML/CSS Style Guide – Omit Optional Tags",
+      "score": "429"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12524031",
+      "title": "HP Allegedly Time Bombs Unofficial Ink Cartridges from Working in Its Printers",
+      "score": "255"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12524998",
+      "title": "Dear Al-Jazeera: Why Steal Our Code?",
+      "score": "199"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12523043",
+      "title": "No Exit",
+      "score": "180"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12524405",
+      "title": "GpuScan and SSD-To-GPU Direct DMA",
+      "score": "135"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12523734",
+      "title": "When Nintendo got rid of the headphone jack",
+      "score": "120"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12522652",
+      "title": "Golang landmines",
+      "score": "113"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12523181",
+      "title": "The Real Lolita",
+      "score": "102"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12523455",
+      "title": "Ever wondered how many open FTP servers there are?",
+      "score": "96"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/538bft/emacs_251_released/",
+      "title": "Emacs 25.1 released",
+      "score": "607"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53ap4p/ewww_you_use_php/",
+      "title": "Ewww, You Use PHP?",
+      "score": "513"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5389si/shared_libraries_understanding_dynamic_loading/",
+      "title": "Shared Libraries: Understanding Dynamic Loading",
+      "score": "307"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53bzai/dear_aljazeera_why_steal_our_code/",
+      "title": "Dear Al-Jazeera: Why Steal Our Code?",
+      "score": "374"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/539wpv/ldc_speed_up_incremental_builds_of_d_programs/",
+      "title": "LDC: Speed up incremental builds of D programs with object file caching",
+      "score": "28"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53bidf/gpuscan_ssdtogpu_direct_dma_kaigaiの俺メモ/",
+      "title": "GpuScan + SSD-to-GPU Direct DMA - KaiGaiの俺メモ",
+      "score": "22"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53bg6l/on_the_road_to_open_source/",
+      "title": "On the Road to Open Source",
+      "score": "16"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/539y5l/building_hacker_news_with_angular_2_cli_rxjs_and/",
+      "title": "Building Hacker News with Angular 2 CLI, RxJS and Webpack",
+      "score": "19"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/538n30/how_to_convert_an_autotools_project_to_meson/",
+      "title": "How to convert an Autotools project to Meson",
+      "score": "6"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/538dok/data_structures_a_high_level_overview_of_what/",
+      "title": "Data Structures: A high level overview of what they are and why we need them",
+      "score": "4"
+    }
+  ],
+  "medium": [
+    {
+      "title": "The Intellectual Yet Idiot",
+      "score": "1324",
+      "url": "https://medium.com/p/the-intellectual-yet-idiot-13211e2d0577"
+    },
+    {
+      "title": "Why Silicon Valley is all wrong about Apple’s AirPods",
+      "score": "3297",
+      "url": "https://medium.com/p/silicon-valley-is-all-wrong-about-the-airpods-8204ede08f0f"
+    },
+    {
+      "title": "The Greatest Sales Deck I’ve Ever Seen",
+      "score": "1290",
+      "url": "https://medium.com/p/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0"
+    },
+    {
+      "title": "Mike Rothenberg’s VC firm was young, splashy, and loaded with cash. Now it’s all come crashing down",
+      "score": "600",
+      "url": "https://medium.com/p/mike-rothenbergs-vc-firm-was-young-splashy-and-loaded-with-cash-now-it-s-all-come-crashing-down-e76fa076c7c5"
+    },
+    {
+      "title": "How To Invest In Yourself",
+      "score": "2253",
+      "url": "https://medium.com/p/how-to-invest-in-yourself-a98dfd33e81a"
+    },
+    {
+      "title": "Here’s What Happens When You Give $1,000 to Someone in Extreme Poverty",
+      "score": "283",
+      "url": "https://medium.com/p/heres-what-happens-when-you-give-1-000-to-someone-in-extreme-poverty-78bdce3aa414"
+    },
+    {
+      "title": "8 Steps You Must Take to Write a Book",
+      "score": "333",
+      "url": "https://medium.com/p/8-steps-you-must-take-to-write-a-book-ae363898d3d7"
+    },
+    {
+      "title": "15 Books that Shaped My Mind and Changed My Outlook on Life",
+      "score": "276",
+      "url": "https://medium.com/p/15-books-that-shaped-my-mind-and-changed-my-outlook-on-life-130b5eb8eb41"
+    },
+    {
+      "title": "The 6 most desirable coding jobs (and the types of people drawn to each)",
+      "score": "226",
+      "url": "https://medium.com/p/the-6-most-desirable-coding-jobs-and-the-types-of-people-drawn-to-each-aebac45fd7f7"
+    },
+    {
+      "title": "Elite goes tinfoil over Momentum",
+      "score": "144",
+      "url": "https://medium.com/p/elite-goes-tinfoil-over-momentum-dd544c9d8f1c"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/make-twitter-great-again",
+      "title": "Make Twitter Great Again: Chrome extension that hides tweets about U.S. 2016 elections",
+      "score": "79"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/magic-keyboard-2",
+      "title": "Magic Keyboard: Fun, bowser based keyboard for hackers",
+      "score": "48"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/trifecta-workout",
+      "title": "Trifecta Workout: A beautiful, simply designed personal trainer for iPhone.",
+      "score": "49"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/the-hacking-ui-podcast-14-good-fucking-design-advice",
+      "title": "The Hacking UI Podcast #14 - Good Fucking Design Advice: Abandoning fear and getting out of your comfort zone",
+      "score": "7"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/pogolist",
+      "title": "Pogolist: A curated list of resources for Pokémon GO",
+      "score": "34"
+    },
+    {
+      "url": "https://www.producthunt.com/games/first-flight-fly-the-nest",
+      "title": "First Flight - Fly the Nest: Can you fly the nest? How far?",
+      "score": "16"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/this-week-in-startups-674-w-mark-suster",
+      "title": "This Week in Startups: #674 w/ Mark Suster: Mark Suster shares secrets from both sides of the table",
+      "score": "7"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/exponent-ep-88-the-dark-side-of-the-facebook",
+      "title": "Exponent: Ep. 88 - The Dark Side of the Facebook: Ben and James discuss Facebook’s latest run-in w/ the media",
+      "score": "6"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/hello-tech-pros-developing-an-epic-d-d-campaign-story",
+      "title": "Hello Tech Pros: Developing an Epic D&amp;D Campaign Story: Like writing a series of adventure books",
+      "score": "1"
+    },
+    {
+      "url": "https://www.producthunt.com/games/cubeslam",
+      "title": "Cubeslam: 3D rendered pong classic.",
+      "score": "12"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/Bupterambition/AwesomeCommand",
+      "title": "Bupterambition/AwesomeCommand: An awesome command for async operation with ReactiveCocoa",
+      "score": "432"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "321"
+    },
+    {
+      "url": "https://github.com/ryanhoo/StylishMusicPlayer",
+      "title": "ryanhoo/StylishMusicPlayer: A stylish music player for android device 16+",
+      "score": "276"
+    },
+    {
+      "url": "https://github.com/elendirx/web2web",
+      "title": "elendirx/web2web: P2P web powered by torrents and blockchain.",
+      "score": "255"
+    },
+    {
+      "url": "https://github.com/FormidableLabs/react-game-kit",
+      "title": "FormidableLabs/react-game-kit: Component library for making games with React &amp; React Native",
+      "score": "240"
+    },
+    {
+      "url": "https://github.com/gztchan/awesome-design",
+      "title": "gztchan/awesome-design:  Best UI/UX Design Resources For Developer &amp; Designer Ever :)",
+      "score": "183"
+    },
+    {
+      "url": "https://github.com/vapor/vapor",
+      "title": "vapor/vapor: A web framework and server for Swift that works on macOS and Ubuntu.",
+      "score": "186"
+    },
+    {
+      "url": "https://github.com/CoXier/LowPoly",
+      "title": "CoXier/LowPoly: LowPoly For Android",
+      "score": "170"
+    },
+    {
+      "url": "https://github.com/leereilly/games",
+      "title": "leereilly/games:  A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.",
+      "score": "168"
+    },
+    {
+      "url": "https://github.com/renaudcerrato/DoorSignView",
+      "title": "renaudcerrato/DoorSignView: Customizable, sensor-enabled, door sign custom views for Android.",
+      "score": "155"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/307018#reply175",
+      "title": "为什么很多人讨论阿里月饼事件都选择性忽略他们抢了多少盒？",
+      "score": "175"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306880#reply119",
+      "title": "问大家 公司要求定期换密码 有什么好的新密码思路？",
+      "score": "119"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306921#reply73",
+      "title": "最近在做一个要求从 IE6 开始兼容的项目...求老司机指点",
+      "score": "73"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306903#reply71",
+      "title": "计算机从未被真正普及 —— 阿里月饼门有感",
+      "score": "71"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306897#reply66",
+      "title": "阿里内网 BBS &quot;貌似是按 HR 提的需求，研发给（每个员工的访问界面）加了一层肉眼无法识别的东西&quot; 这个是怎么做到的?",
+      "score": "66"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306865#reply46",
+      "title": "问下大家 vim 都用啥 color scheme",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307075#reply45",
+      "title": "坑爹京东理财",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307032#reply43",
+      "title": "简历中不写参与过的项目，可行么？",
+      "score": "43"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306950#reply40",
+      "title": "空间商是否有过几乎要了你的命的那一刻~",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/306922#reply39",
+      "title": "请问使用 scrapy 的优势是什么?直接用 requests 不是很简单?",
+      "score": "39"
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12494998",
+      "title": "Pardon Snowden",
+      "score": 2549
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12499642",
+      "title": "Announcing new tools, forums, and features",
+      "score": 1138
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12508356",
+      "title": "Elon Musk on How to Build the Future",
+      "score": 1063
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12502947",
+      "title": "Angular 2 Final Released",
+      "score": 827
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12477190",
+      "title": "Ask HN: Is web programming a series of hacks on hacks?",
+      "score": 818
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12514971",
+      "title": "Investing for Geeks",
+      "score": 759
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12496558",
+      "title": "Ask HN: What's your favorite HN post?",
+      "score": 673
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12479156",
+      "title": "Vim version 8.0",
+      "score": 657
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12487112",
+      "title": "GitLab Master Plan",
+      "score": 572
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12479740",
+      "title": "For 25 years, Carl Malamud has been fighting to make public information public",
+      "score": 552
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52d5o2/happy_international_programmers_day/",
+      "title": "Happy international programmers day!",
+      "score": 2464
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/533q8a/bruce_schneier_someone_is_learning_how_to_take/",
+      "title": "Bruce Schneier: &quot;Someone Is Learning How to Take Down the Internet&quot;",
+      "score": 1941
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52w1f7/in_1993_guido_van_rossum_wrote_a_python_bot_that/",
+      "title": "In 1993, Guido van Rossum wrote a Python bot that &quot;tries to map out the entire web&quot; and it found &quot;50 or 60 different sites&quot;",
+      "score": 1876
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52qelr/new_mit_programming_language_claims_4x_speedups/",
+      "title": "New MIT programming language claims 4x speed-ups for parallel computing",
+      "score": 1594
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52ubz5/angular_200_officially_released/",
+      "title": "Angular 2.0.0 officially released",
+      "score": 1310
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52l7nv/super_mario_source_code_in_java_by_brent_aureli/",
+      "title": "Super Mario source code in java by Brent Aureli. (Today marks 31st anniversary of Super Mario Bros. the first Super Mario ever)",
+      "score": 886
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/527yui/machine_learning_in_a_year_going_from_total_noob/",
+      "title": "Machine Learning in a Year – Going from total noob to start using it professionally",
+      "score": 743
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/530vjq/everything_old_is_new_again_and_a_compiler_bug/",
+      "title": "Everything Old is New Again, and a Compiler Bug",
+      "score": 631
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/52e929/vim_80_release/",
+      "title": "Vim 8.0 Release",
+      "score": 537
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/526z2n/capn_proto/",
+      "title": "Cap’n Proto",
+      "score": 516
+    }
+  ],
+  "medium": [
+    {
+      "title": "Live asynchronously.",
+      "score": 3884,
+      "url": "https://medium.com/p/live-asynchronously-c8e7172fe7ea"
+    },
+    {
+      "title": "Ketchup Sandwiches and Other Things Stupid Poor People Eat",
+      "score": 3642,
+      "url": "https://medium.com/p/ketchup-sandwiches-and-other-things-stupid-poor-people-eat-41617483b497"
+    },
+    {
+      "title": "Ketchup sandwiches and other things stupid poor people eat",
+      "score": 3642,
+      "url": "https://medium.com/p/ketchup-sandwiches-and-other-things-stupid-poor-people-eat-41617483b497"
+    },
+    {
+      "title": "Why Silicon Valley is all wrong about Apple’s AirPods",
+      "score": 3297,
+      "url": "https://medium.com/p/silicon-valley-is-all-wrong-about-the-airpods-8204ede08f0f"
+    },
+    {
+      "title": "To the 4 white male policemen who beat me for checking the health of a sick black man in their…",
+      "score": 3214,
+      "url": "https://medium.com/p/to-the-4-white-male-policemen-who-beat-me-for-checking-the-health-of-a-sick-black-man-in-their-8d77789fb24d"
+    },
+    {
+      "title": "How To Learn In 2 Days What Normally Takes 6 Months",
+      "score": 3175,
+      "url": "https://medium.com/p/how-to-learn-in-2-days-what-normally-takes-6-months-57953ee30da4"
+    },
+    {
+      "title": "So You Want to be a Functional Programmer (Part 1)",
+      "score": 3072,
+      "url": "https://medium.com/p/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536"
+    },
+    {
+      "title": "How To Invest In Yourself",
+      "score": 2253,
+      "url": "https://medium.com/p/how-to-invest-in-yourself-a98dfd33e81a"
+    },
+    {
+      "title": "The 44 Most-Loved Products Launched in Summer 2016",
+      "score": 2029,
+      "url": "https://medium.com/p/the-44-most-loved-products-launched-in-summer-2016-deaa36125316"
+    },
+    {
+      "title": "This 30-Minute Evening Ritual Will Help You To Kick Life In The Ass",
+      "score": 1614,
+      "url": "https://medium.com/p/this-30-minute-evening-ritual-will-help-you-to-kick-life-in-the-ass-fb2c2625f757"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/305935#reply208",
+      "title": "昨天程序员节，昨晚阿里员工内网刷月饼被开除",
+      "score": 288
+    },
+    {
+      "url": "https://www.v2ex.com/t/305922#reply147",
+      "title": "阿里是不是 TM 有病...实力开除",
+      "score": 210
+    },
+    {
+      "url": "https://www.v2ex.com/t/306098#reply180",
+      "title": "要不我们来秀秀我们的编程字体？",
+      "score": 194
+    },
+    {
+      "url": "https://www.v2ex.com/t/305903#reply155",
+      "title": "都来显摆下，中秋贵公司的福利。",
+      "score": 189
+    },
+    {
+      "url": "https://www.v2ex.com/t/305483#reply67",
+      "title": "你们是几岁开始学习编程的？",
+      "score": 178
+    },
+    {
+      "url": "https://www.v2ex.com/t/305514#reply55",
+      "title": "谁的天气 app 敢说比我这个还简洁？",
+      "score": 150
+    },
+    {
+      "url": "https://www.v2ex.com/t/306449#reply89",
+      "title": "应届本科生，腾讯 20w，华为 30w 的 offer，怎么选？",
+      "score": 137
+    },
+    {
+      "url": "https://www.v2ex.com/t/306115#reply125",
+      "title": "关于 DNSPod 的 D 监控邮件",
+      "score": 136
+    },
+    {
+      "url": "https://www.v2ex.com/t/306216#reply67",
+      "title": "熟练地 Vim，真的能极大的提高工作效率么？",
+      "score": 125
+    },
+    {
+      "url": "https://www.v2ex.com/t/306725#reply87",
+      "title": "聊聊你当初做的毕设吧",
+      "score": 121
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/slack-beta",
+      "title": "Slack Beta: A faster and nicer Slack built on Electron",
+      "score": 1708
+    },
+    {
+      "url": "https://www.producthunt.com/tech/self-driving-uber",
+      "title": "Self-Driving Uber: The world’s first Self-Driving Ubers",
+      "score": 1255
+    },
+    {
+      "url": "https://www.producthunt.com/tech/hardbound-3",
+      "title": "Hardbound: Stories for curious minds",
+      "score": 1225
+    },
+    {
+      "url": "https://www.producthunt.com/tech/appfollow-2-0",
+      "title": "AppFollow 2.0: The best way to track app activities in the appstores",
+      "score": 1046
+    },
+    {
+      "url": "https://www.producthunt.com/tech/croissant-2-0",
+      "title": "Croissant 2.0: Unlock the hottest coworking spaces in your city",
+      "score": 893
+    },
+    {
+      "url": "https://www.producthunt.com/tech/startup-rocket-framework",
+      "title": "Startup Rocket Framework: Framework to help entrepreneurs w/ the first critical steps",
+      "score": 856
+    },
+    {
+      "url": "https://www.producthunt.com/tech/toby-3",
+      "title": "Toby: Organize your browser tabs",
+      "score": 816
+    },
+    {
+      "url": "https://www.producthunt.com/tech/voteplz-2",
+      "title": "VotePlz: Literally the easiest way to vote",
+      "score": 727
+    },
+    {
+      "url": "https://www.producthunt.com/tech/foursquare-10",
+      "title": "Foursquare 10: Your ultimate city guide, in your pocket",
+      "score": 617
+    },
+    {
+      "url": "https://www.producthunt.com/tech/tesla-autopilot-8-0",
+      "title": "Tesla Autopilot 8.0: Tesla&#x27;s latest radar-reliant OS can detect UFOs",
+      "score": 587
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/gztchan/awesome-design",
+      "title": "gztchan/awesome-design:  Best UI/UX Design Resources For Developer &amp; Designer Ever :)",
+      "score": "491"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "418"
+    },
+    {
+      "url": "https://github.com/react-native-community/React-Native-Elements",
+      "title": "react-native-community/React-Native-Elements: React Native Elements UI Toolkit",
+      "score": "622"
+    },
+    {
+      "url": "https://github.com/devtools-html/debugger.html",
+      "title": "devtools-html/debugger.html: The Firefox debugger that works anywhere",
+      "score": "420"
+    },
+    {
+      "url": "https://github.com/FormidableLabs/react-game-kit",
+      "title": "FormidableLabs/react-game-kit: Component library for making games with React &amp; React Native",
+      "score": "410"
+    },
+    {
+      "url": "https://github.com/vim/vim",
+      "title": "vim/vim: The official Vim repository",
+      "score": "335"
+    },
+    {
+      "url": "https://github.com/shu223/iOS-10-Sampler",
+      "title": "shu223/iOS-10-Sampler: Code examples for new APIs of iOS 10.",
+      "score": "316"
+    },
+    {
+      "url": "https://github.com/elendirx/web2web",
+      "title": "elendirx/web2web: P2P web powered by torrents and blockchain.",
+      "score": "315"
+    },
+    {
+      "url": "https://github.com/KeepSafe/TapTargetView",
+      "title": "KeepSafe/TapTargetView: An implementation of tap targets from the Material Design guidelines for feature discovery",
+      "score": "206"
+    },
+    {
+      "url": "https://github.com/hustcc/timeago.js",
+      "title": "hustcc/timeago.js:  timeago.js is a tiny(~1.7kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependency &amp; localization &amp; tiny.",
+      "score": "153"
+    }
+  ]
+}
