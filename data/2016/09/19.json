@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12528144",
+      "title": "Music theory for nerds",
+      "score": "597"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12527203",
+      "title": "Mozilla Thimble",
+      "score": "496"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12526717",
+      "title": "Instant.io – Streaming file transfer over WebTorrent",
+      "score": "327"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12527519",
+      "title": "The Making of Lemmings",
+      "score": "273"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12530659",
+      "title": "I quit my job, bought an army truck, and spent 19 months circumnavigating Africa",
+      "score": "265"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12528070",
+      "title": "Static Website Generators",
+      "score": "256"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12528544",
+      "title": "How to Overthrow a Government [video]",
+      "score": "221"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12530212",
+      "title": "The cypherpunk revolution",
+      "score": "200"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12528206",
+      "title": "Gorgonia: a library like Theano or TensorFlow, mainly written in Go",
+      "score": "159"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12528591",
+      "title": "Hacker takes down CEO wire transfer scammers",
+      "score": "140"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53gb56/why_learning_angular_2_was_excruciating/",
+      "title": "Why Learning Angular 2 Was Excruciating",
+      "score": "490"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53g26k/the_legend_of_zelda_ultimate_glitch_explained/",
+      "title": "The Legend of Zelda Ultimate Glitch Explained [Arbitrary Code Execution] - Warp Straight to Zelda!",
+      "score": "140"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53fgmx/a_wizard_did_it_the_danger_of_magic_in_programming/",
+      "title": "A Wizard Did It: The Danger of Magic in Programming",
+      "score": "88"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53gg7q/my_experience_rewriting_enjarify_in_rustim_not/",
+      "title": "My experience rewriting Enjarify in Rust(i'm not the author)",
+      "score": "68"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53dcor/a_kernel_module_to_support_ssdtogpu_direct_dma/",
+      "title": "A kernel module to support SSD-to-GPU direct DMA- Read data from SSD directly into GPU bypassing CPU.",
+      "score": "52"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53gq2a/increasing_image_resolution_using_a_neural_network/",
+      "title": "Increasing image resolution using a neural network",
+      "score": "51"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53e19w/go_18_performance_improvements_one_month_in/",
+      "title": "Go 1.8 performance improvements, one month in",
+      "score": "40"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53gawc/thimble_by_mozilla_an_online_code_editor_for/",
+      "title": "Thimble by Mozilla - An online code editor for learners &amp; educators.",
+      "score": "32"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53cz3p/github_vs_bitbucket_vs_gitlab_vs_coding/",
+      "title": "Github vs. Bitbucket vs. Gitlab vs. Coding - Repository Management Services Compared",
+      "score": "25"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53gatw/music_theory_for_nerds/",
+      "title": "Music theory for nerds",
+      "score": "25"
+    }
+  ],
+  "medium": [
+    {
+      "title": "The Third Transportation Revolution",
+      "score": "1089",
+      "url": "https://medium.com/p/the-third-transportation-revolution-27860f05fa91"
+    },
+    {
+      "title": "Why Silicon Valley is all wrong about Apple’s AirPods",
+      "score": "3700",
+      "url": "https://medium.com/p/silicon-valley-is-all-wrong-about-the-airpods-8204ede08f0f"
+    },
+    {
+      "title": "A strategy for Jeremy Corbyn’s leadership to succeed",
+      "score": "133",
+      "url": "https://medium.com/p/a-strategy-for-jeremy-corbyns-leadership-to-succeed-9ffe4c27149b"
+    },
+    {
+      "title": "The Intellectual Yet Idiot",
+      "score": "1689",
+      "url": "https://medium.com/p/the-intellectual-yet-idiot-13211e2d0577"
+    },
+    {
+      "title": "The Greatest Sales Deck I’ve Ever Seen",
+      "score": "1770",
+      "url": "https://medium.com/p/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0"
+    },
+    {
+      "title": "The Winners and Losers From NFL Week 2",
+      "score": "30",
+      "url": "https://medium.com/p/nfl-week-2-winners-and-losers-c8236dfe3e27"
+    },
+    {
+      "title": "8 Steps You Must Take to Write a Book",
+      "score": "733",
+      "url": "https://medium.com/p/8-steps-you-must-take-to-write-a-book-ae363898d3d7"
+    },
+    {
+      "title": "Mike Rothenberg’s VC firm was young, splashy, and loaded with cash. Now it’s all come crashing down",
+      "score": "640",
+      "url": "https://medium.com/p/mike-rothenbergs-vc-firm-was-young-splashy-and-loaded-with-cash-now-it-s-all-come-crashing-down-e76fa076c7c5"
+    },
+    {
+      "title": "How To Invest In Yourself",
+      "score": "2539",
+      "url": "https://medium.com/p/how-to-invest-in-yourself-a98dfd33e81a"
+    },
+    {
+      "title": "15 Books that Shaped My Mind and Changed My Outlook on Life",
+      "score": "429",
+      "url": "https://medium.com/p/15-books-that-shaped-my-mind-and-changed-my-outlook-on-life-130b5eb8eb41"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/inside-com",
+      "title": "Inside.com: The network of email newsletters",
+      "score": "393"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/pablo",
+      "title": "PABLO: Create light art photos with your iPhone ✨",
+      "score": "141"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/unfollow-for-instagram",
+      "title": "Unfollow for Instagram: Unfollow those users who do not follow you back on Instagram",
+      "score": "125"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/savemytime",
+      "title": "SaveMyTime: A new way to track time and analyse productivity",
+      "score": "99"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/watson-virtual-agent",
+      "title": "Watson Virtual Agent: Help your customers with cognitive customer engagement",
+      "score": "23"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/the-next-bot",
+      "title": "The Next Bot: Everyday news about Bots, AI, development and best practices",
+      "score": "58"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/citysets",
+      "title": "Citysets: Free city-based icon sets",
+      "score": "37"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/sharkle-2",
+      "title": "Sharkle: Generator of random awesomeness",
+      "score": "43"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/censored-imessage-stickers",
+      "title": "Censored iMessage Stickers: Bad words bleeped. Photos pixelated. Secrets kept.",
+      "score": "19"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/surge-5",
+      "title": "Surge: Advanced web debugging proxy for Mac &amp; iOS",
+      "score": "74"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/ryanhoo/StylishMusicPlayer",
+      "title": "ryanhoo/StylishMusicPlayer: A stylish music player for android device 16+",
+      "score": "640"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "381"
+    },
+    {
+      "url": "https://github.com/gztchan/awesome-design",
+      "title": "gztchan/awesome-design:  Best UI/UX Design Resources For Developer &amp; Designer Ever :)",
+      "score": "272"
+    },
+    {
+      "url": "https://github.com/CoXier/LowPoly",
+      "title": "CoXier/LowPoly: LowPoly For Android",
+      "score": "217"
+    },
+    {
+      "url": "https://github.com/fancymax/12306ForMac",
+      "title": "fancymax/12306ForMac: An unofficial 12306 Client for Mac",
+      "score": "213"
+    },
+    {
+      "url": "https://github.com/massivedynamic/openftp4",
+      "title": "massivedynamic/openftp4: A list of all FTP servers in IPv4 that allow anonymous logins.",
+      "score": "206"
+    },
+    {
+      "url": "https://github.com/brillout/awesome-react-components",
+      "title": "brillout/awesome-react-components: Catalog of React components / libraries",
+      "score": "195"
+    },
+    {
+      "url": "https://github.com/leereilly/games",
+      "title": "leereilly/games:  A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.",
+      "score": "185"
+    },
+    {
+      "url": "https://github.com/chewxy/gorgonia",
+      "title": "chewxy/gorgonia: Gorgonia is a library that helps facilitate machine learning in Go.",
+      "score": "184"
+    },
+    {
+      "url": "https://github.com/mozilla/thimble.mozilla.org",
+      "title": "mozilla/thimble.mozilla.org: Online code editor geared to people teaching and learning HTML, CSS, and JavaScript.",
+      "score": "164"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/307207#reply99",
+      "title": "现在买房是不是又要为国接盘了？",
+      "score": "99"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307190#reply88",
+      "title": "国庆你们都打算去那了？",
+      "score": "88"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307290#reply64",
+      "title": "招行 Young 卡提额有什么技巧吗",
+      "score": "64"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307155#reply60",
+      "title": "Chrome 更新到最新的 感觉简约了很多看的好舒服啊",
+      "score": "60"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307253#reply57",
+      "title": "小米手机加上 MIUI8 用起来很好啊，体验完全不输给 IOS",
+      "score": "57"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307236#reply54",
+      "title": "中国本土有哪些高质量日报（媲美《纽约时报》）和政经杂志期刊（媲美《经济学人》）",
+      "score": "54"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307310#reply48",
+      "title": "百度反腐开除 30 人，和阿里月饼事件性质相同吗？",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307146#reply40",
+      "title": "紧随福建联通，江苏联通也推出无限流量卡了~",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307254#reply35",
+      "title": "一个 json 字符串的 value 内部含有双引号怎么处理=。=",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307147#reply33",
+      "title": "[x 经] 现在已经是 Python 3 的时代了么？",
+      "score": "33"
+    }
+  ]
+}
