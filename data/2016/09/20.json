@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12537614",
+      "title": "If TypeScript is so great, how come all notable ReactJS projects use Babel?",
+      "score": "241"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12537538",
+      "title": "Getting things done",
+      "score": "212"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12537992",
+      "title": "Snapshot of North Korea’s DNS data taken from zone transfers",
+      "score": "164"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12538144",
+      "title": "Why we use progressive enhancement to build Gov.uk",
+      "score": "155"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12538435",
+      "title": "Oct. 4",
+      "score": "139"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12536211",
+      "title": "Ways to implement computer languages on 6502s (1994)",
+      "score": "120"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12537653",
+      "title": "Linux on an 8-bit micro? (2012)",
+      "score": "109"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12538993",
+      "title": "Self-Driving Cars Must Meet 15 Benchmarks in U.S. Guidance",
+      "score": "98"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12538212",
+      "title": "There aren’t many things so basic to the internet as customization",
+      "score": "97"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12536934",
+      "title": "Closing in on high-temperature superconductivity",
+      "score": "97"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53krzx/federal_officials_will_take_the_unprecedented/",
+      "title": "&quot;Federal officials will take the unprecedented step of asserting oversight over the software that operates self-driving vehicles when they publish a set of autonomous vehicle guidelines Tuesday, the White House said.&quot;",
+      "score": "1423"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53i4qm/my_most_important_project_was_a_bytecode/",
+      "title": "My Most Important Project Was a Bytecode Interpreter",
+      "score": "178"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53mkpw/dear_aljazeera_thank_you_for_doing_the_right_thing/",
+      "title": "Dear Al-Jazeera: Thank you for doing the right thing",
+      "score": "175"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53ib0z/ceylon_13_released_with_support_for_android_and/",
+      "title": "Ceylon 1.3 released with support for Android and npm",
+      "score": "131"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53lb2t/primitive_pictures_reproducing_images_with/",
+      "title": "Primitive Pictures: Reproducing images with geometric primitives. (by me!)",
+      "score": "124"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53i4ce/rainstorm_powered_with_webgl/",
+      "title": "Rainstorm powered with WebGL.",
+      "score": "41"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53jwwu/microsoftvcpkg_cmake_based_vc_packaging_tool/",
+      "title": "Microsoft/vcpkg: Cmake based VC++ Packaging Tool",
+      "score": "29"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53mkvr/julia_05_released/",
+      "title": "Julia 0.5 released.",
+      "score": "25"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53ilbv/how_personal_passion_for_a_project_might_conflict/",
+      "title": "How personal passion for a project might conflict with corporate motives.",
+      "score": "21"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53kk4m/google_acquired_apiai/",
+      "title": "Google acquired API.ai",
+      "score": "21"
+    }
+  ],
+  "medium": [
+    {
+      "title": "The Third Transportation Revolution",
+      "score": "1923",
+      "url": "https://medium.com/p/the-third-transportation-revolution-27860f05fa91"
+    },
+    {
+      "title": "The Winners and Losers From NFL Week 2",
+      "score": "72",
+      "url": "https://medium.com/p/nfl-week-2-winners-and-losers-c8236dfe3e27"
+    },
+    {
+      "title": "Why Silicon Valley is all wrong about Apple’s AirPods",
+      "score": "3939",
+      "url": "https://medium.com/p/silicon-valley-is-all-wrong-about-the-airpods-8204ede08f0f"
+    },
+    {
+      "title": "Why Learning Angular 2 Was Excruciating",
+      "score": "398",
+      "url": "https://medium.com/p/why-learning-angular-2-was-excruciating-d50dc28acc8a"
+    },
+    {
+      "title": "The Greatest Sales Deck I’ve Ever Seen",
+      "score": "2313",
+      "url": "https://medium.com/p/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0"
+    },
+    {
+      "title": "NFL Week 2 Recap: The Vikings’ Plan Is All Coming Together",
+      "score": "60",
+      "url": "https://medium.com/p/nfl-week-2-recap-minnesota-vikings-adrian-peterson-d085e89fdb5b"
+    },
+    {
+      "title": "It’s Not About Race!",
+      "score": "580",
+      "url": "https://medium.com/p/its-not-about-race-fb140bac8f1"
+    },
+    {
+      "title": "50 User profile page — Design Inspiration",
+      "score": "331",
+      "url": "https://medium.com/p/50-user-profile-page-design-inspiration-5c45aeeda400"
+    },
+    {
+      "title": "Fact-Checking the ‘Goodfellas’ “Funny Like a Clown” Speech",
+      "score": "183",
+      "url": "https://medium.com/p/goodfellas-funny-like-a-clown-speech-e919f46d9a23"
+    },
+    {
+      "title": "The 15 Essential TV Shows No One Is Talking About",
+      "score": "51",
+      "url": "https://medium.com/p/essential-fall-tv-kingdom-playing-house-last-ship-2a5979c91162"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/pepper-2",
+      "title": "Pepper: A friendly contact widget for your website",
+      "score": "335"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/charliehr",
+      "title": "CharlieHR: The best free HR platform for small businesses",
+      "score": "197"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/whatshelp-widget",
+      "title": "Whatshelp Widget: Chat with website visitors via popular messaging apps",
+      "score": "100"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/invision-usertesting",
+      "title": "InVision + UserTesting: A free integration for better user research",
+      "score": "106"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/gyroscope-chrome-extension",
+      "title": "Gyroscope Chrome Extension: Get your latest health stats from Gyroscope in a new tab",
+      "score": "117"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/mindiq",
+      "title": "MindIQ: Create a news or commerce Facebook Bot in minutes, no coding",
+      "score": "138"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/fretello-lead",
+      "title": "Fretello Lead: Duolingo for learning how to play guitar",
+      "score": "122"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/postable-io",
+      "title": "Postable.io: Import blog posts from Google Docs to WordPress in one click",
+      "score": "128"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/carousel-push-notifications-by-qgraph",
+      "title": "Carousel Push Notifications by QGraph: Beautiful and personalized push notifications for iOS 10",
+      "score": "94"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/party-parrots",
+      "title": "Party Parrots: Bring the joy of Party Parrots to to iMessage",
+      "score": "91"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/nolanlawson/optimize-js",
+      "title": "nolanlawson/optimize-js: Optimize a JavaScript file for faster initial load by wrapping eagerly-invoked functions",
+      "score": "674"
+    },
+    {
+      "url": "https://github.com/ryanhoo/StylishMusicPlayer",
+      "title": "ryanhoo/StylishMusicPlayer: A stylish music player for android device 16+",
+      "score": "471"
+    },
+    {
+      "url": "https://github.com/thibmaek/awesome-raspberrypi",
+      "title": "thibmaek/awesome-raspberrypi: A curated list of awesome Raspberry Pi tools, projects, images and resources",
+      "score": "468"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "442"
+    },
+    {
+      "url": "https://github.com/hungtraan/FacebookBot",
+      "title": "hungtraan/FacebookBot: A Facebook Messenger Bot that supports Voice Recognition, Natural Language Processing and features such as: search nearby restaurants, search trending news, transcribe and save memos to the cloud.",
+      "score": "362"
+    },
+    {
+      "url": "https://github.com/gztchan/awesome-design",
+      "title": "gztchan/awesome-design:  Best UI/UX Design Resources For Developer &amp; Designer Ever :)",
+      "score": "297"
+    },
+    {
+      "url": "https://github.com/chewxy/gorgonia",
+      "title": "chewxy/gorgonia: Gorgonia is a library that helps facilitate machine learning in Go.",
+      "score": "245"
+    },
+    {
+      "url": "https://github.com/fancymax/12306ForMac",
+      "title": "fancymax/12306ForMac: An unofficial 12306 Client for Mac",
+      "score": "238"
+    },
+    {
+      "url": "https://github.com/qiujuer/UPMiss",
+      "title": "qiujuer/UPMiss: UPMiss open source, use MVP.",
+      "score": "199"
+    },
+    {
+      "url": "https://github.com/tomlepaine/fast-wavenet",
+      "title": "tomlepaine/fast-wavenet: Efficient implementation of Wavenet generation.",
+      "score": "203"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/307466#reply136",
+      "title": "PHP 过时了吗？我大学老师说现在没人用 PHP 了",
+      "score": "136"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307542#reply91",
+      "title": "miui 是除了 ios 以外最好用的系统没有之一",
+      "score": "91"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307446#reply71",
+      "title": "数人云有奖讨论集结号：开源那些事儿",
+      "score": "71"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307483#reply70",
+      "title": "[广州] 刚换的大办公室，就等你来（招前端）",
+      "score": "70"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307418#reply56",
+      "title": "新入职的同事刚来就一个劲当面逼问工资是不是特别没素质的体现？",
+      "score": "56"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307452#reply54",
+      "title": "SSL HTTPS 证书买哪家的比较好？有什么区别？",
+      "score": "54"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307558#reply46",
+      "title": "阿里云可视化购买重磅上线 体验立享 75 折！",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307573#reply41",
+      "title": "为什么互联网及编程码农行业有像 v2ex、csdn 等一批这样专业的技术性很强且很黏糊的网站？其他行业甚少？",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307512#reply37",
+      "title": "那么问题来了，国产安卓 ROM，大家保持流畅都有哪些妙招？",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307546#reply37",
+      "title": "求推荐个好用的手机，主要是拍照要好",
+      "score": "37"
+    }
+  ]
+}
