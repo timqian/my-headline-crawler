@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12545878",
+      "title": "Linux can’t be installed on a recent Lenovo laptop",
+      "score": "849"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12539109",
+      "title": "Show HN: Primitive Pictures",
+      "score": "832"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12546542",
+      "title": "Homebrew 1.0.0",
+      "score": "575"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12544881",
+      "title": "Nootropics",
+      "score": "353"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12545292",
+      "title": "Say hello to Google Allo: a smarter messaging app",
+      "score": "328"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12547181",
+      "title": "Police Accidentally Record Themselves Conspiring to Fabricate Charges",
+      "score": "245"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12545059",
+      "title": "Twitter's Bootstrap hit 100,000 stars on GitHub",
+      "score": "171"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12547353",
+      "title": "Why Finnish babies sleep in cardboard boxes (2013)",
+      "score": "147"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12547130",
+      "title": "Google backs off on previously announced Allo privacy feature",
+      "score": "139"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12546439",
+      "title": "Open Cola",
+      "score": "118"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53nydb/dokany_the_windows_filesystem_in_userspace_fuse/",
+      "title": "Dokany - The Windows Filesystem in Userspace (FUSE) - Release 1.0.0 compatible Win10 v1607 / Server 2016",
+      "score": "273"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53nw6w/roslynlinqrewrite_optimize_linq_code_to/",
+      "title": "roslyn-linq-rewrite: optimize LINQ code to fast/allocation-free procedural code",
+      "score": "180"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53pis5/selfdriving_cars_must_meet_15_benchmarks_in_us/",
+      "title": "Self-Driving Cars Must Meet 15 Benchmarks in U.S. Guidance",
+      "score": "129"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53sn5y/homebrew_100/",
+      "title": "Homebrew 1.0.0",
+      "score": "179"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53ox7r/safe_and_unsafe_operations_for_high_volume/",
+      "title": "Safe and unsafe operations for high volume PostgreSQL",
+      "score": "96"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53nwkb/google_your_own_brain_evolution_of_the_cms_using/",
+      "title": "&quot;Google&quot; your own brain? Evolution of the CMS using Neo4J and Elasticsearch.",
+      "score": "59"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53rz8y/the_five_stages_of_nosql/",
+      "title": "The Five Stages of NoSQL",
+      "score": "63"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53oel5/carved_in_stone_immutables_in_javascript/",
+      "title": "Carved In Stone: Immutables in JavaScript",
+      "score": "57"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53sdx9/the_curious_case_of_the_switch_statement/",
+      "title": "The curious case of the switch statement",
+      "score": "59"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53r1rr/the_280yearold_algorithm_inside_google_trips/",
+      "title": "The 280-Year-Old Algorithm Inside Google Trips",
+      "score": "42"
+    }
+  ],
+  "medium": [
+    {
+      "title": "It’s Not About Race!",
+      "score": "1198",
+      "url": "https://medium.com/p/its-not-about-race-fb140bac8f1"
+    },
+    {
+      "title": "Your Company Is Going to Be Huge",
+      "score": "488",
+      "url": "https://medium.com/p/your-company-is-going-to-be-huge-5abf559f5199"
+    },
+    {
+      "title": "The Third Transportation Revolution",
+      "score": "2273",
+      "url": "https://medium.com/p/the-third-transportation-revolution-27860f05fa91"
+    },
+    {
+      "title": "10 Career Mistakes I Wish I Had Never Made",
+      "score": "816",
+      "url": "https://medium.com/p/10-career-mistakes-i-wish-i-had-never-made-5c42dab36b6e"
+    },
+    {
+      "title": "The Talk Show That Time Forgot",
+      "score": "124",
+      "url": "https://medium.com/p/the-talk-show-that-time-forgot-e6cf1bbcaab"
+    },
+    {
+      "title": "The Greatest Sales Deck I’ve Ever Seen",
+      "score": "2696",
+      "url": "https://medium.com/p/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0"
+    },
+    {
+      "title": "Why Silicon Valley is all wrong about Apple’s AirPods",
+      "score": "4106",
+      "url": "https://medium.com/p/silicon-valley-is-all-wrong-about-the-airpods-8204ede08f0f"
+    },
+    {
+      "title": "Why Learning Angular 2 Was Excruciating",
+      "score": "575",
+      "url": "https://medium.com/p/why-learning-angular-2-was-excruciating-d50dc28acc8a"
+    },
+    {
+      "title": "On Your Way to the Camps, I Just Want You to Know…",
+      "score": "1617",
+      "url": "https://medium.com/p/on-your-way-to-the-camps-i-just-want-you-to-know-92a6dbf7c0ac"
+    },
+    {
+      "title": "From Medium to Book Deal in 12 Months",
+      "score": "492",
+      "url": "https://medium.com/p/from-medium-to-book-deal-in-12-months-656fb2738d51"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/google-allo-2",
+      "title": "Google Allo: Smart messaging app that helps you say more and do more.",
+      "score": "801"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/lemonade-2",
+      "title": "Lemonade: The world’s first peer to peer insurance company",
+      "score": "356"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/troops",
+      "title": "Troops: Slackbot that makes CRM easy and Intelligent",
+      "score": "242"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/design-inc-2",
+      "title": "Design Inc.: High quality design work on demand from hand-picked talent",
+      "score": "53"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/dark-sky-for-web",
+      "title": "Dark Sky for Web: Hyperlocal weather information, now on the web ⛈",
+      "score": "78"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/buddy-8",
+      "title": "Buddy: Development automation, simplified.",
+      "score": "155"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/freelanship-2-0",
+      "title": "Freelanship 2.0: Pre-packaged full-stack marketing gigs",
+      "score": "144"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/essentials-kit-by-elasticode",
+      "title": "Essentials Kit By Elasticode: Onboarding and walkthrough platform for mobile native apps",
+      "score": "127"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/dubsmash-for-imessage",
+      "title": "Dubsmash for iMessage: Share hilarious sounds with your friends 🎤 👯",
+      "score": "114"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/sample-focus",
+      "title": "Sample Focus: The easiest way to find the perfect audio sample",
+      "score": "82"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/fogleman/primitive",
+      "title": "fogleman/primitive: Reproducing images with geometric primitives.",
+      "score": "2112"
+    },
+    {
+      "url": "https://github.com/mandatoryprogrammer/NorthKoreaDNSLeak",
+      "title": "mandatoryprogrammer/NorthKoreaDNSLeak: Snapshot of North Korea's DNS data taken from zone transfers.",
+      "score": "525"
+    },
+    {
+      "url": "https://github.com/nolanlawson/optimize-js",
+      "title": "nolanlawson/optimize-js: Optimize a JavaScript file for faster initial load by wrapping eagerly-invoked functions",
+      "score": "514"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "447"
+    },
+    {
+      "url": "https://github.com/thibmaek/awesome-raspberrypi",
+      "title": "thibmaek/awesome-raspberrypi: A curated list of awesome Raspberry Pi tools, projects, images and resources",
+      "score": "432"
+    },
+    {
+      "url": "https://github.com/twbs/bootstrap",
+      "title": "twbs/bootstrap: The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+      "score": "270"
+    },
+    {
+      "url": "https://github.com/TangoAgency/material-intro-screen",
+      "title": "TangoAgency/material-intro-screen: Inspired by Heinrich Reimer Material Intro and developed with love from scratch",
+      "score": "269"
+    },
+    {
+      "url": "https://github.com/bowenpay/wechat-spider",
+      "title": "bowenpay/wechat-spider: 微信公众号爬虫",
+      "score": "227"
+    },
+    {
+      "url": "https://github.com/hungtraan/FacebookBot",
+      "title": "hungtraan/FacebookBot: A Facebook Messenger Bot that supports Voice Recognition, Natural Language Processing and features such as: search nearby restaurants, search trending news, transcribe and save memos to the cloud.",
+      "score": "252"
+    },
+    {
+      "url": "https://github.com/ryanhoo/StylishMusicPlayer",
+      "title": "ryanhoo/StylishMusicPlayer: A stylish music player for android device 16+",
+      "score": "229"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/307710#reply121",
+      "title": "奇葩电动车",
+      "score": "121"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307732#reply116",
+      "title": "正在下载 MacOS Sierra，目前有哪些坑？",
+      "score": "116"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307740#reply111",
+      "title": "被野猫抓伤了十天观察法有效吗？",
+      "score": "111"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307748#reply80",
+      "title": "传统技术问答太 low，我们想改变这个现状",
+      "score": "80"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307894#reply76",
+      "title": "神器板瓦工又来了。。。 只是现在没有 9.9 刀的 最低 11.99 刀，凤凰城节点，，速度还可以。。看 youtube 没问题",
+      "score": "76"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307737#reply74",
+      "title": "MacOS Sierra 最令人感动的更新——简体拼音输入法",
+      "score": "74"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307846#reply65",
+      "title": "我愿意提供我的空间，也想收取一点费用，有没有人愿意把网站放在我这。提供 NGINX+PHP+MYSQL。费用可以详谈 QQ:1494533903",
+      "score": "65"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307725#reply61",
+      "title": "试用期还有不到半个月遇到公司裁员",
+      "score": "61"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307711#reply61",
+      "title": "这么多的桌面系统看来还是 cinnamon 比较适合我，速度比 Gnome3 快多了，重要的是操作便捷。 #ArchLinux #cinnamon",
+      "score": "61"
+    },
+    {
+      "url": "https://www.v2ex.com/t/307901#reply57",
+      "title": "送 Cloudinsight 限量 TEE！送 PS4 Pro ！（盖楼有福利！）",
+      "score": "57"
+    }
+  ]
+}
