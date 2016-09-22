@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12552094",
+      "title": "What every coder should know about gamma",
+      "score": "488"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12553936",
+      "title": "It Costs $30 to Make a DIY EpiPen",
+      "score": "441"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12553591",
+      "title": "My Most Important Project Was a Bytecode Interpreter",
+      "score": "282"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12553417",
+      "title": "How to build a robot that “sees” with $100 and TensorFlow",
+      "score": "247"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12555858",
+      "title": "OpenSSL Security Advisory",
+      "score": "192"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12554024",
+      "title": "Dokany – User mode file system library for windows with FUSE Wrapper",
+      "score": "176"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12554334",
+      "title": "Gallium – Build Desktop Applications in Go and HTML",
+      "score": "129"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12556470",
+      "title": "Yahoo to confirm a historic hack affecting 200M users",
+      "score": "96"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12556609",
+      "title": "OS X-KVM: Running Mac OS X El Capitan on KVM and QEMU",
+      "score": "92"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12555810",
+      "title": "The Age of the Superbug Is Here",
+      "score": "86"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53wdf6/what_every_coder_should_know_about_gamma/",
+      "title": "What every coder should know about gamma",
+      "score": "1099"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53wky3/blockchain_explainer/",
+      "title": "Blockchain explainer",
+      "score": "95"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53y36h/optimizing_optimizing_some_insights_that_led_to_a/",
+      "title": "Optimizing optimizing: some insights that led to a 400% speedup of PowerDNS",
+      "score": "80"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53wll7/methods_for_finding_related_reddit_subreddits/",
+      "title": "Methods for Finding Related Reddit Subreddits with Simple Set Theory",
+      "score": "71"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53y7uv/what_every_programmer_should_know_about_the_mit/",
+      "title": "What every programmer should know about the MIT license, line by line.",
+      "score": "96"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53urns/applications_of_the_vector_dot_product_for_game/",
+      "title": "Applications of the Vector Dot Product for Game Programming",
+      "score": "44"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53tm6j/flow_vs_typescript/",
+      "title": "Flow vs TypeScript",
+      "score": "40"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53u6jm/from_individual_contributor_to_team_lead_game/",
+      "title": "From individual contributor to team lead: game changing qualities and skills of a team leader",
+      "score": "23"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53yrro/sublime_text_3_build_3124_released_its_almost_out/",
+      "title": "&quot;Sublime Text 3&quot; Build 3124 Released - It's almost out of Beta now",
+      "score": "25"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53wj2n/woven_is_built_with_dart_polymer/",
+      "title": "Woven is built with Dart + Polymer",
+      "score": "16"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Your Company Is Going to Be Huge",
+      "score": "761",
+      "url": "https://medium.com/p/your-company-is-going-to-be-huge-5abf559f5199"
+    },
+    {
+      "title": "10 Career Mistakes I Wish I Had Never Made",
+      "score": "1207",
+      "url": "https://medium.com/p/10-career-mistakes-i-wish-i-had-never-made-5c42dab36b6e"
+    },
+    {
+      "title": "Something Is Wrong With Aaron Rodgers",
+      "score": "108",
+      "url": "https://medium.com/p/something-is-wrong-with-aaron-rodgers-af70c87703a7"
+    },
+    {
+      "title": "It’s Not About Race!",
+      "score": "1508",
+      "url": "https://medium.com/p/its-not-about-race-fb140bac8f1"
+    },
+    {
+      "title": "The 3 Qualities All Successful People Have In Common",
+      "score": "639",
+      "url": "https://medium.com/p/3-common-qualities-among-all-successful-people-8528847ea216"
+    },
+    {
+      "title": "The Imposter",
+      "score": "832",
+      "url": "https://medium.com/p/the-imposter-ddbe96b14e14"
+    },
+    {
+      "title": "The Greatest Sales Deck I’ve Ever Seen",
+      "score": "2988",
+      "url": "https://medium.com/p/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0"
+    },
+    {
+      "title": "How Much Is Your Sleep Worth?",
+      "score": "75",
+      "url": "https://medium.com/p/how-much-is-your-sleep-worth-1b311d0d6ea4"
+    },
+    {
+      "title": "Why Silicon Valley is all wrong about Apple’s AirPods",
+      "score": "4224",
+      "url": "https://medium.com/p/silicon-valley-is-all-wrong-about-the-airpods-8204ede08f0f"
+    },
+    {
+      "title": "On Your Way to the Camps, I Just Want You to Know…",
+      "score": "2119",
+      "url": "https://medium.com/p/on-your-way-to-the-camps-i-just-want-you-to-know-92a6dbf7c0ac"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/statsbot-alerts",
+      "title": "Statsbot Alerts: Immediately focus on significant changes in your data",
+      "score": "377"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/flynn",
+      "title": "Flynn: Open source Heroku on your own servers",
+      "score": "169"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/momento",
+      "title": "Momento: Share your memories as GIFs in iMessage",
+      "score": "104"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/plug-3",
+      "title": "PLUG: Battery pack with 2 AC wall outlets &amp; solar charging",
+      "score": "146"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/weebly-4-2",
+      "title": "Weebly 4: A complete platform to run your business online",
+      "score": "157"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/scale-model-2",
+      "title": "Scale Model: Connect with more of the people who really matter",
+      "score": "71"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/creojam",
+      "title": "Creojam: DIY marketplace, connecting makers and businesses",
+      "score": "65"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/adcat-2",
+      "title": "AdCat: Design tool for marketers to create ad images in seconds",
+      "score": "77"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/tresorit-3-0",
+      "title": "Tresorit 3.0: End-to-end encrypted file sync &amp; sharing for your team",
+      "score": "80"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/snaplytics-2",
+      "title": "Snaplytics: Influencer tracking platform for Snapchat",
+      "score": "52"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/fogleman/primitive",
+      "title": "fogleman/primitive: Reproducing images with geometric primitives.",
+      "score": "827"
+    },
+    {
+      "url": "https://github.com/alexflint/gallium",
+      "title": "alexflint/gallium: Build desktop applications in Go and HTML.",
+      "score": "801"
+    },
+    {
+      "url": "https://github.com/airyland/vux",
+      "title": "airyland/vux: Mobile web UI Components based on Vue and WeUI. Be Cool with Vue &amp; WeUI.",
+      "score": "713"
+    },
+    {
+      "url": "https://github.com/deepstreamIO/deepstream.io",
+      "title": "deepstreamIO/deepstream.io: deepstream.io server",
+      "score": "631"
+    },
+    {
+      "url": "https://github.com/ElemeFE/element",
+      "title": "ElemeFE/element: Desktop UI elements for Vue.js 2.0",
+      "score": "496"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "410"
+    },
+    {
+      "url": "https://github.com/mandatoryprogrammer/NorthKoreaDNSLeak",
+      "title": "mandatoryprogrammer/NorthKoreaDNSLeak: Snapshot of North Korea's DNS data taken from zone transfers.",
+      "score": "376"
+    },
+    {
+      "url": "https://github.com/alrojo/tensorflow-tutorial",
+      "title": "alrojo/tensorflow-tutorial: Practical tutorials and labs for TensorFlow used by Nvidia, FFN, CNN, RNN, Kaggle, AE",
+      "score": "295"
+    },
+    {
+      "url": "https://github.com/thibmaek/awesome-raspberrypi",
+      "title": "thibmaek/awesome-raspberrypi: A curated list of awesome Raspberry Pi tools, projects, images and resources",
+      "score": "262"
+    },
+    {
+      "url": "https://github.com/TangXiaoLv/TelegramGallery",
+      "title": "TangXiaoLv/TelegramGallery: world level Gallery , from Telegram ，QQ 相册风格，相册选择器",
+      "score": "240"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/308048#reply95",
+      "title": "所以目前老百姓唯一能向国家套利的机会，就是买房了？？",
+      "score": "95"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308157#reply78",
+      "title": "JS 现在真是火得不行啊……真羡慕，这是否意味着后端语言正在衰落？",
+      "score": "78"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308015#reply67",
+      "title": "微信小程序开发交流群",
+      "score": "67"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308162#reply51",
+      "title": "我是独立开发者，现在成立了一家公司，招聘前端工程师(全职/实习)",
+      "score": "51"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308080#reply46",
+      "title": "Element UI——一套基于 Vue 2.0 的桌面端组件库",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308071#reply44",
+      "title": "做的英文站引用了其它网站的图片，被老外抓着要版权费了，咋办？",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308078#reply43",
+      "title": "[思客教学] 抱团转行学前端",
+      "score": "43"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308194#reply39",
+      "title": "长沙作为省会城市，为什么房价那么低！",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308017#reply34",
+      "title": "最近这段时间找工作好难啊！",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308039#reply32",
+      "title": "天热的时候，大家的指纹解锁还好用吗？",
+      "score": "32"
+    }
+  ]
+}
