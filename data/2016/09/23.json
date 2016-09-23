@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12561928",
+      "title": "Akamai takes Brian Krebs’ site off its servers after ‘record’ cyberattack",
+      "score": "589"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12559006",
+      "title": "An Important Message About Yahoo User Security",
+      "score": "475"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12559169",
+      "title": "The MIT License, Line by Line",
+      "score": "449"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12556160",
+      "title": "Ask HN: What are the must-read books about economics/finance?",
+      "score": "346"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12563852",
+      "title": "Original bulletin board thread in which ‘:-)’ was proposed",
+      "score": "216"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12562019",
+      "title": "I’m joining the Go team at Google",
+      "score": "198"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12562849",
+      "title": "iOS 10: Security Weakness Discovered, Backup Passwords Much Easier to Break",
+      "score": "150"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12563833",
+      "title": "House Passes Employee Stock Options Bill Aimed at Startups",
+      "score": "136"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12556126",
+      "title": "Gnuplotting – Create scientific plots using gnuplot",
+      "score": "136"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12563904",
+      "title": "GIMP development - What’s the point?",
+      "score": "109"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53zozb/announcing_typescript_20/",
+      "title": "Announcing TypeScript 2.0",
+      "score": "1047"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/543mkx/javascript_vs_c_creating_the_same_3d_game_in_both/",
+      "title": "JavaScript vs C++: Creating the same 3D game in both",
+      "score": "645"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/543bzr/super_mario_64_1996_developer_interviews/",
+      "title": "Super Mario 64 – 1996 Developer Interviews",
+      "score": "103"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53znz9/why_your_web_developers_are_grumpy_and_how_to/",
+      "title": "Why Your Web Developers Are Grumpy (And How To Talk To Them)",
+      "score": "89"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/543fys/best_comparison_ruby_vs_python_the_definitive_faq/",
+      "title": "[Best Comparison] Ruby vs Python, the Definitive FAQ",
+      "score": "72"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/543avb/introducing_the_github_load_balancer/",
+      "title": "Introducing the GitHub Load Balancer",
+      "score": "62"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5418ar/the_making_of_nimyaml_why_nim_is_a_cool_language/",
+      "title": "The Making of NimYAML - Why Nim is a Cool Language",
+      "score": "42"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/541vto/confessions_of_a_necromancer_hintjenscom/",
+      "title": "Confessions of a Necromancer - Hintjens.com",
+      "score": "43"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/541di1/red_hat_and_google_are_creating_a_way_for/",
+      "title": "Red Hat and Google are creating a way for Kubernetes to run containers without Docker",
+      "score": "35"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/544o3h/inclusivity_is_a_joke/",
+      "title": "Inclusivity Is a Joke",
+      "score": "70"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Redesigning Chrome desktop",
+      "score": "555",
+      "url": "https://medium.com/p/redesigning-chrome-desktop-769aeb5ab987"
+    },
+    {
+      "title": "10 Career Mistakes I Wish I Had Never Made",
+      "score": "1604",
+      "url": "https://medium.com/p/10-career-mistakes-i-wish-i-had-never-made-5c42dab36b6e"
+    },
+    {
+      "title": "What Does CNN Want to Be?",
+      "score": "107",
+      "url": "https://medium.com/p/what-does-cnn-want-to-be-e72bb8ebbb1"
+    },
+    {
+      "title": "How Much Is Your Sleep Worth?",
+      "score": "174",
+      "url": "https://medium.com/p/how-much-is-your-sleep-worth-1b311d0d6ea4"
+    },
+    {
+      "title": "15 Must-have Chrome extensions for web designers and front end developer",
+      "score": "302",
+      "url": "https://medium.com/p/15-must-have-chrome-extensions-for-web-designers-and-front-end-developer-b12c1bd9490c"
+    },
+    {
+      "title": "The Greatest Sales Deck I’ve Ever Seen",
+      "score": "3258",
+      "url": "https://medium.com/p/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0"
+    },
+    {
+      "title": "It’s Not About Race!",
+      "score": "1763",
+      "url": "https://medium.com/p/its-not-about-race-fb140bac8f1"
+    },
+    {
+      "title": "Your Company Is Going to Be Huge",
+      "score": "914",
+      "url": "https://medium.com/p/your-company-is-going-to-be-huge-5abf559f5199"
+    },
+    {
+      "title": "The Imposter",
+      "score": "1168",
+      "url": "https://medium.com/p/the-imposter-ddbe96b14e14"
+    },
+    {
+      "title": "Seinfeld, and the Tale of the White Lunchroom",
+      "score": "209",
+      "url": "https://medium.com/p/seinfeld-and-white-lunchrooms-7e256834f70b"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/manual-2-0",
+      "title": "Manual 2.0: A manual camera for iOS now with RAW images in DNG format",
+      "score": "205"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/codemade-io",
+      "title": "Codemade.io: Pinterest for coders",
+      "score": "170"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/linkedin-learning",
+      "title": "LinkedIn Learning: Resource to learn creative, technology &amp; business skills",
+      "score": "167"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/kaomotion",
+      "title": "Kaomotion: Animated Japanese emoticons in iMessage ¯\\_(ツ)_/¯",
+      "score": "93"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/google-daydream",
+      "title": "Google Daydream: Google&#x27;s virtual reality SDK",
+      "score": "141"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/ask-elon-musk-bot",
+      "title": "Ask Elon Musk Bot: Chat one-on-one with Elon Musk",
+      "score": "105"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/tunnelbear-for-mac-windows",
+      "title": "TunnelBear for Mac &amp; Windows: Keep your browsing secure with the handsome new TunnelBear",
+      "score": "66"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/adwords-shopping-software",
+      "title": "Adwords Shopping Software: Create &amp; manage AdWords Shopping Campaigns in 3 easy steps.",
+      "score": "72"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/just-product-jobs",
+      "title": "Just Product Jobs: Curating the best product management opportunities.",
+      "score": "56"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/elsewhere-3d",
+      "title": "Elsewhere 3D: Glasses that turn any video into immersive 3D 😎",
+      "score": "66"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/gavinkwoe/weapp-ide-crack",
+      "title": "gavinkwoe/weapp-ide-crack: 【应用号】IDE + 破解 + Demo",
+      "score": "2731"
+    },
+    {
+      "url": "https://github.com/alexflint/gallium",
+      "title": "alexflint/gallium: Build desktop applications in Go and HTML.",
+      "score": "938"
+    },
+    {
+      "url": "https://github.com/kholia/OSX-KVM",
+      "title": "kholia/OSX-KVM: Running Mac OS X El Capitan and macOS Sierra on QEMU/KVM",
+      "score": "799"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "466"
+    },
+    {
+      "url": "https://github.com/fogleman/primitive",
+      "title": "fogleman/primitive: Reproducing images with geometric primitives.",
+      "score": "369"
+    },
+    {
+      "url": "https://github.com/xwartz/wechatApp-demo",
+      "title": "xwartz/wechatApp-demo: 微信小程序 demo / 开发工具 / 文档资源",
+      "score": "328"
+    },
+    {
+      "url": "https://github.com/ElemeFE/element",
+      "title": "ElemeFE/element: Desktop UI elements for Vue.js 2.0",
+      "score": "340"
+    },
+    {
+      "url": "https://github.com/airyland/vux",
+      "title": "airyland/vux: Mobile web UI Components based on Vue and WeUI. Be Cool with Vue &amp; WeUI.",
+      "score": "311"
+    },
+    {
+      "url": "https://github.com/deepstreamIO/deepstream.io",
+      "title": "deepstreamIO/deepstream.io: deepstream.io server",
+      "score": "294"
+    },
+    {
+      "url": "https://github.com/mzucker/noteshrink",
+      "title": "mzucker/noteshrink: Convert scans of handwritten notes to beautiful, compact PDFs",
+      "score": "267"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/308425#reply54",
+      "title": "[求助] 发现一只刚生下不久的小野猫，怎么养活？",
+      "score": "54"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308384#reply52",
+      "title": "有没有觉得这歌词很烂？",
+      "score": "52"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308349#reply40",
+      "title": "高并发如何保证微信 access_token 的有效",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308357#reply32",
+      "title": "大家如何看待疑似北上广炒房团抢空成都城南楼盘",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308421#reply31",
+      "title": "记 js 的一个小坑",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308482#reply30",
+      "title": "为防电信诈骗 atm 转账将 24 小时后到账？？",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308380#reply29",
+      "title": "现有经济现状下，看多还是看空国内互联网产业？",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308405#reply28",
+      "title": "chuansong.me 这网站一直都是采集的微信公众号的文章，这种采集是如何实现的那？采集的来源是哪里那？",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308518#reply27",
+      "title": "欢迎来我论坛玩玩，主要是讨论服务器、网络和域名 https://www.sb/",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308523#reply26",
+      "title": "Miui 又进化了， root 也不能禁用应用商店了…",
+      "score": "26"
+    }
+  ]
+}
