@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12564442",
+      "title": "Ripgrep – A new command line search tool",
+      "score": "633"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12566503",
+      "title": "Google’s lawyers are asking to find Oracle’s lawyers in contempt of court",
+      "score": "371"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12563899",
+      "title": "Upgrade your SSH keys",
+      "score": "330"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12569182",
+      "title": "Snapchat Releases First Hardware Product, Spectacles",
+      "score": "238"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12569858",
+      "title": "YouTube Changes YouTube Heroes Video Stealthily",
+      "score": "128"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12570395",
+      "title": "FreeBSD 11.0 amd64 binaries",
+      "score": "82"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12569574",
+      "title": "Bogdanov affair",
+      "score": "76"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12568863",
+      "title": "What a Programmer Does (1967) [pdf]",
+      "score": "75"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12570292",
+      "title": "Nasa to reveal 'surprising' activity on Jupiter's moon Europa",
+      "score": "62"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12555500",
+      "title": "Zombie Moore's Law shows hardware is eating software",
+      "score": "61"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5487o9/fixing_et_for_the_atari_2600_one_of_my_favorite/",
+      "title": "Fixing E.T. for the Atari 2600 - One of my favorite code explorations of all time",
+      "score": "814"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5456jd/create_an_os_kernel_from_scratch/",
+      "title": "Create an OS kernel from scratch",
+      "score": "144"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/548nc5/upgrade_your_ssh_keys/",
+      "title": "Upgrade your SSH keys",
+      "score": "67"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/545ghv/skip_lists_done_right/",
+      "title": "Skip Lists: Done Right",
+      "score": "69"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5479wz/announcing_citus_mx_scaling_postgres_to_over_500k/",
+      "title": "Announcing Citus MX: Scaling Postgres to over 500k writes per second",
+      "score": "38"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/545wnh/an_overview_of_tls_13_and_qa_videotranscript/",
+      "title": "An overview of TLS 1.3 and Q&amp;A [video+transcript]",
+      "score": "20"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/549pqr/bridgenet_open_source_c_to_javascript_compiler/",
+      "title": "Bridge.NET - Open Source C# to JavaScript Compiler",
+      "score": "18"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/545znf/showing_the_weather_in_tmux/",
+      "title": "Showing The Weather In Tmux",
+      "score": "15"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/546vzx/the_ten_commandments_for_c_programmers_annotated/",
+      "title": "The Ten Commandments for C Programmers (Annotated Edition) by Henry Spencer",
+      "score": "16"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/549now/how_does_google_know_where_i_am/",
+      "title": "How does Google know where I am?",
+      "score": "13"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Redesigning Chrome desktop",
+      "score": "805",
+      "url": "https://medium.com/p/redesigning-chrome-desktop-769aeb5ab987"
+    },
+    {
+      "title": "Week 3 NFL Picks: The Dawn of the Next Great QB",
+      "score": "51",
+      "url": "https://medium.com/p/week-3-nfl-picks-carson-wentz-eagles-23d774c3b913"
+    },
+    {
+      "title": "Presidential Debates Are Not on the Level",
+      "score": "210",
+      "url": "https://medium.com/p/presidential-debates-are-not-on-the-level-b85266ea53fa"
+    },
+    {
+      "title": "10 Career Mistakes I Wish I Had Never Made",
+      "score": "1842",
+      "url": "https://medium.com/p/10-career-mistakes-i-wish-i-had-never-made-5c42dab36b6e"
+    },
+    {
+      "title": "Emails From A CEO Who’s Making The Presentation Himself This Time",
+      "score": "620",
+      "url": "https://medium.com/p/emails-from-a-ceo-whos-making-the-presentation-himself-this-time-64c42eb00b79"
+    },
+    {
+      "title": "How Much Is Your Sleep Worth?",
+      "score": "222",
+      "url": "https://medium.com/p/how-much-is-your-sleep-worth-1b311d0d6ea4"
+    },
+    {
+      "title": "The Patriots Are Still the Patriots, No Matter How Many Options You Take Away",
+      "score": "127",
+      "url": "https://medium.com/p/the-patriots-are-still-the-patriots-no-matter-how-many-options-you-take-away-80b4a449240e"
+    },
+    {
+      "title": "The history of the Tulsa race massacre that destroyed America’s wealthiest black neighborhood",
+      "score": "314",
+      "url": "https://medium.com/p/history-tulsa-race-massacre-a92bb2356a69"
+    },
+    {
+      "title": "The 3 Qualities All Successful People Have In Common",
+      "score": "1023",
+      "url": "https://medium.com/p/3-common-qualities-among-all-successful-people-8528847ea216"
+    },
+    {
+      "title": "It’s Not About Race!",
+      "score": "1943",
+      "url": "https://medium.com/p/its-not-about-race-fb140bac8f1"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/spectacles",
+      "title": "Spectacles: Embedded camera sunglasses by Snapchat",
+      "score": "303"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/minipoll",
+      "title": "Minipoll: Fast and simple polls for your iMessage groups",
+      "score": "91"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/react-color",
+      "title": "React Color: A collection of color pickers from Sketch, Photoshop, Chrome",
+      "score": "67"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/downnotifier",
+      "title": "DownNotifier: Get an alert when your website is down 🚨",
+      "score": "42"
+    },
+    {
+      "url": "https://www.producthunt.com/games/code-arcade",
+      "title": "Code Arcade: An arcade game for programmers",
+      "score": "27"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/stamp-pack",
+      "title": "Stamp Pack: Say it with a stamp",
+      "score": "41"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/whileaway",
+      "title": "Whileaway: Never miss a tweet from your favorite tweeters.",
+      "score": "18"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/oncourse",
+      "title": "OnCourse: Boating made easy! Advanced navigation on your smartphone",
+      "score": "28"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/social-pros-podcast-how-social-fits-into-your-owned-media-strategy",
+      "title": "&quot;Social Pros Podcast&quot; - How Social Fits Into Your Owned Media Strategy: How a PESO integration model converts leads into sales.",
+      "score": "2"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/kanyebot",
+      "title": "KanyeBot: Kanye&#x27;s verses, rants, and best quotes in Messenger",
+      "score": "24"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/Tencent/tinker",
+      "title": "Tencent/tinker: Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.",
+      "score": "699"
+    },
+    {
+      "url": "https://github.com/BurntSushi/ripgrep",
+      "title": "BurntSushi/ripgrep: ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "score": "710"
+    },
+    {
+      "url": "https://github.com/gavinkwoe/weapp-ide-crack",
+      "title": "gavinkwoe/weapp-ide-crack: 【应用号】IDE + 破解 + Demo",
+      "score": "443"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "415"
+    },
+    {
+      "url": "https://github.com/Aufree/awesome-wechat-weapp",
+      "title": "Aufree/awesome-wechat-weapp: 微信小程序资源汇总整理， Awesome WeChat WeApp，涵括微信 Web 开发者工具收集，WeApp 教程收集，站点收集和代码实例",
+      "score": "326"
+    },
+    {
+      "url": "https://github.com/justjavac/awesome-wechat-weapp",
+      "title": "justjavac/awesome-wechat-weapp: 微信小程序开发资源汇总",
+      "score": "263"
+    },
+    {
+      "url": "https://github.com/alexflint/gallium",
+      "title": "alexflint/gallium: Build desktop applications in Go and HTML.",
+      "score": "274"
+    },
+    {
+      "url": "https://github.com/apple/swift-protobuf-plugin",
+      "title": "apple/swift-protobuf-plugin: Generate Swift code with this protoc plugin",
+      "score": "264"
+    },
+    {
+      "url": "https://github.com/fogleman/primitive",
+      "title": "fogleman/primitive: Reproducing images with geometric primitives.",
+      "score": "216"
+    },
+    {
+      "url": "https://github.com/alrojo/tensorflow-tutorial",
+      "title": "alrojo/tensorflow-tutorial: Practical tutorials and labs for TensorFlow used by Nvidia, FFN, CNN, RNN, Kaggle, AE",
+      "score": "177"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/308625#reply54",
+      "title": "如果我去面试 iOS 和 android，别人考我算法题",
+      "score": "54"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308705#reply50",
+      "title": "关于抄袭：愿天下所有的不公，最终都会被世人抵制。",
+      "score": "50"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308632#reply44",
+      "title": "大家觉得报名饥人谷的前端培训班怎么样？",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308648#reply42",
+      "title": "Google Allo 苹果国区开放下载啦",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308721#reply37",
+      "title": "喷了，今天停机状态下被联通彪走近 30G 流量。",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308723#reply33",
+      "title": "如果把现在的程序员放在 50 年前,会不会个个都会很厉害,",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308630#reply32",
+      "title": "明确的“亲爱的用户，我是你爹”用户协议，你怎么看？",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308734#reply28",
+      "title": "想送个双轮平衡车（体感车）给外甥女（初中），有没有千元左右的推荐呢？",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308652#reply27",
+      "title": "Google Allo 怎么定义它",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308669#reply27",
+      "title": "16 年的 Mac 什么时候更新，上个月就想换电脑了。。。",
+      "score": "27"
+    }
+  ]
+}
