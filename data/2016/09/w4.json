@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12545878",
+      "title": "Linux can’t be installed on a recent Lenovo laptop",
+      "score": 1052
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12546542",
+      "title": "Homebrew 1.0.0",
+      "score": 902
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12539109",
+      "title": "Show HN: Primitive Pictures",
+      "score": 893
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12522654",
+      "title": "I gave commit rights to someone I didn't know",
+      "score": 832
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12528144",
+      "title": "Music theory for nerds",
+      "score": 761
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12564442",
+      "title": "Ripgrep – A new command line search tool",
+      "score": 683
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12561928",
+      "title": "Akamai takes Brian Krebs’ site off its servers after ‘record’ cyberattack",
+      "score": 649
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12527203",
+      "title": "Mozilla Thimble",
+      "score": 564
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12552094",
+      "title": "What every coder should know about gamma",
+      "score": 555
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12559169",
+      "title": "The MIT License, Line by Line",
+      "score": 510
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53bzai/dear_aljazeera_why_steal_our_code/",
+      "title": "Dear Al-Jazeera: Why Steal Our Code?",
+      "score": 3661
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53krzx/federal_officials_will_take_the_unprecedented/",
+      "title": "&quot;Federal officials will take the unprecedented step of asserting oversight over the software that operates self-driving vehicles when they publish a set of autonomous vehicle guidelines Tuesday, the White House said.&quot;",
+      "score": 1906
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/543mkx/javascript_vs_c_creating_the_same_3d_game_in_both/",
+      "title": "JavaScript vs C++: Creating the same 3D game in both",
+      "score": 1673
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53gb56/why_learning_angular_2_was_excruciating/",
+      "title": "Why Learning Angular 2 Was Excruciating",
+      "score": 1371
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53wdf6/what_every_coder_should_know_about_gamma/",
+      "title": "What every coder should know about gamma",
+      "score": 1187
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5487o9/fixing_et_for_the_atari_2600_one_of_my_favorite/",
+      "title": "Fixing E.T. for the Atari 2600 - One of my favorite code explorations of all time",
+      "score": 1186
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53zozb/announcing_typescript_20/",
+      "title": "Announcing TypeScript 2.0",
+      "score": 1087
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53sn5y/homebrew_100/",
+      "title": "Homebrew 1.0.0",
+      "score": 838
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/538bft/emacs_251_released/",
+      "title": "Emacs 25.1 released",
+      "score": 644
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/53ap4p/ewww_you_use_php/",
+      "title": "Ewww, You Use PHP?",
+      "score": 633
+    }
+  ],
+  "medium": [
+    {
+      "title": "Why Silicon Valley is all wrong about Apple’s AirPods",
+      "score": 4380,
+      "url": "https://medium.com/p/silicon-valley-is-all-wrong-about-the-airpods-8204ede08f0f"
+    },
+    {
+      "title": "The Greatest Sales Deck I’ve Ever Seen",
+      "score": 3543,
+      "url": "https://medium.com/p/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0"
+    },
+    {
+      "title": "How To Invest In Yourself",
+      "score": 2978,
+      "url": "https://medium.com/p/how-to-invest-in-yourself-a98dfd33e81a"
+    },
+    {
+      "title": "On Your Way to the Camps, I Just Want You to Know…",
+      "score": 2686,
+      "url": "https://medium.com/p/on-your-way-to-the-camps-i-just-want-you-to-know-92a6dbf7c0ac"
+    },
+    {
+      "title": "The Third Transportation Revolution",
+      "score": 2655,
+      "url": "https://medium.com/p/the-third-transportation-revolution-27860f05fa91"
+    },
+    {
+      "title": "The Intellectual Yet Idiot",
+      "score": 2223,
+      "url": "https://medium.com/p/the-intellectual-yet-idiot-13211e2d0577"
+    },
+    {
+      "title": "It’s Not About Race!",
+      "score": 2084,
+      "url": "https://medium.com/p/its-not-about-race-fb140bac8f1"
+    },
+    {
+      "title": "10 Career Mistakes I Wish I Had Never Made",
+      "score": 2047,
+      "url": "https://medium.com/p/10-career-mistakes-i-wish-i-had-never-made-5c42dab36b6e"
+    },
+    {
+      "title": "The Imposter",
+      "score": 1422,
+      "url": "https://medium.com/p/the-imposter-ddbe96b14e14"
+    },
+    {
+      "title": "8 Steps You Must Take to Write a Book",
+      "score": 1024,
+      "url": "https://medium.com/p/8-steps-you-must-take-to-write-a-book-ae363898d3d7"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/307466#reply136",
+      "title": "PHP 过时了吗？我大学老师说现在没人用 PHP 了",
+      "score": 197
+    },
+    {
+      "url": "https://www.v2ex.com/t/307710#reply121",
+      "title": "奇葩电动车",
+      "score": 158
+    },
+    {
+      "url": "https://www.v2ex.com/t/307901#reply57",
+      "title": "送 Cloudinsight 限量 TEE！送 PS4 Pro ！（盖楼有福利！）",
+      "score": 154
+    },
+    {
+      "url": "https://www.v2ex.com/t/308157#reply78",
+      "title": "JS 现在真是火得不行啊……真羡慕，这是否意味着后端语言正在衰落？",
+      "score": 146
+    },
+    {
+      "url": "https://www.v2ex.com/t/307732#reply116",
+      "title": "正在下载 MacOS Sierra，目前有哪些坑？",
+      "score": 145
+    },
+    {
+      "url": "https://www.v2ex.com/t/307846#reply65",
+      "title": "我愿意提供我的空间，也想收取一点费用，有没有人愿意把网站放在我这。提供 NGINX+PHP+MYSQL。费用可以详谈 QQ:1494533903",
+      "score": 143
+    },
+    {
+      "url": "https://www.v2ex.com/t/307207#reply99",
+      "title": "现在买房是不是又要为国接盘了？",
+      "score": 140
+    },
+    {
+      "url": "https://www.v2ex.com/t/308048#reply95",
+      "title": "所以目前老百姓唯一能向国家套利的机会，就是买房了？？",
+      "score": 139
+    },
+    {
+      "url": "https://www.v2ex.com/t/307542#reply91",
+      "title": "miui 是除了 ios 以外最好用的系统没有之一",
+      "score": 133
+    },
+    {
+      "url": "https://www.v2ex.com/t/306880#reply119",
+      "title": "问大家 公司要求定期换密码 有什么好的新密码思路？",
+      "score": 126
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/google-allo-2",
+      "title": "Google Allo: Smart messaging app that helps you say more and do more.",
+      "score": 1911
+    },
+    {
+      "url": "https://www.producthunt.com/tech/lemonade-2",
+      "title": "Lemonade: The world’s first peer to peer insurance company",
+      "score": 1413
+    },
+    {
+      "url": "https://www.producthunt.com/tech/design-inc-2",
+      "title": "Design Inc.: High quality design work on demand from hand-picked talent",
+      "score": 1203
+    },
+    {
+      "url": "https://www.producthunt.com/tech/pepper-2",
+      "title": "Pepper: A friendly contact widget for your website",
+      "score": 1131
+    },
+    {
+      "url": "https://www.producthunt.com/tech/statsbot-alerts",
+      "title": "Statsbot Alerts: Immediately focus on significant changes in your data",
+      "score": 957
+    },
+    {
+      "url": "https://www.producthunt.com/tech/inside-com",
+      "title": "Inside.com: The network of email newsletters",
+      "score": 868
+    },
+    {
+      "url": "https://www.producthunt.com/tech/spectacles",
+      "title": "Spectacles: Embedded camera sunglasses by Snapchat",
+      "score": 840
+    },
+    {
+      "url": "https://www.producthunt.com/tech/charliehr",
+      "title": "CharlieHR: The best free HR platform for small businesses",
+      "score": 743
+    },
+    {
+      "url": "https://www.producthunt.com/tech/manual-2-0",
+      "title": "Manual 2.0: A manual camera for iOS now with RAW images in DNG format",
+      "score": 613
+    },
+    {
+      "url": "https://www.producthunt.com/tech/flynn",
+      "title": "Flynn: Open source Heroku on your own servers",
+      "score": 556
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/gavinkwoe/weapp-ide-crack",
+      "title": "gavinkwoe/weapp-ide-crack: 【应用号】IDE + 破解 + Demo",
+      "score": "655"
+    },
+    {
+      "url": "https://github.com/fogleman/primitive",
+      "title": "fogleman/primitive: Reproducing images with geometric primitives.",
+      "score": "749"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "838"
+    },
+    {
+      "url": "https://github.com/alexflint/gallium",
+      "title": "alexflint/gallium: Build desktop applications in Go and HTML.",
+      "score": "169"
+    },
+    {
+      "url": "https://github.com/nolanlawson/optimize-js",
+      "title": "nolanlawson/optimize-js: Optimize a JavaScript file for faster initial load by wrapping eagerly-invoked functions",
+      "score": "823"
+    },
+    {
+      "url": "https://github.com/Aufree/awesome-wechat-weapp",
+      "title": "Aufree/awesome-wechat-weapp: 微信小程序资源汇总整理， Awesome WeChat WeApp，涵括微信 Web 开发者工具收集，WeApp 教程收集，站点收集和代码实例",
+      "score": "432"
+    },
+    {
+      "url": "https://github.com/thibmaek/awesome-raspberrypi",
+      "title": "thibmaek/awesome-raspberrypi: A curated list of awesome Raspberry Pi tools, projects, images and resources",
+      "score": "382"
+    },
+    {
+      "url": "https://github.com/Tencent/tinker",
+      "title": "Tencent/tinker: Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.",
+      "score": "279"
+    },
+    {
+      "url": "https://github.com/gztchan/awesome-design",
+      "title": "gztchan/awesome-design:  Best UI/UX Design Resources For Developer &amp; Designer Ever :)",
+      "score": "244"
+    },
+    {
+      "url": "https://github.com/mandatoryprogrammer/NorthKoreaDNSLeak",
+      "title": "mandatoryprogrammer/NorthKoreaDNSLeak: Snapshot of North Korea's DNS data taken from zone transfers.",
+      "score": "165"
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12571383",
+      "title": "Neural Photo Editor",
+      "score": "299"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12571200",
+      "title": "Show HN: InstaPart – Build circuit boards faster with instant parts",
+      "score": "291"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12571627",
+      "title": "First Ever Quadriplegic Treated with Stem Cells Regains Upper Body Motor Control",
+      "score": "199"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12575166",
+      "title": "Two years spent spamming spammers back",
+      "score": "197"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12574428",
+      "title": "KrebsOnSecurity is now up and hosted on Google Cloud",
+      "score": "175"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12574510",
+      "title": "Ask HN: What are the best practises for using SSH keys?",
+      "score": "166"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12573490",
+      "title": "Study Explains Why We Arrest Moms for Putting Kids in Nearly Non-Existent Danger",
+      "score": "133"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12573099",
+      "title": "Python by the C side",
+      "score": "116"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12574107",
+      "title": "In San Francisco, a Sinking Skyscraper and a Deepening Dispute",
+      "score": "97"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12573981",
+      "title": "My love-hate relationship with LuaJIT (2015)",
+      "score": "90"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54bnvq/a_rubiks_cube_solver_written_in_python_that_uses/",
+      "title": "A Rubik's Cube solver written in Python that uses webcam input (through OpenCV) to read the starting configuration of a shuffled cube and then guides you through the solution",
+      "score": "894"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54ahny/postgresql_96_to_be_released_on_29th_of_september/",
+      "title": "PostgreSQL 9.6 to be released on 29th of September",
+      "score": "473"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54dk6t/kotlin_in_production_what_works_whats_broken/",
+      "title": "Kotlin in Production - What works, Whats broken",
+      "score": "114"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54bv6u/i_wrote_a_brief_guide_to_c_template/",
+      "title": "I wrote a brief guide to C++ template metaprogramming!",
+      "score": "63"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54dclx/cppcon_2016_jason_turner_rich_code_for_tiny/",
+      "title": "CppCon 2016: Jason Turner “Rich Code for Tiny Computers: A Simple Commodor 64 Game in C++17”",
+      "score": "57"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54b74j/analysis_of_github_data_with_google_bigquery/",
+      "title": "Analysis of Github data with Google BigQuery",
+      "score": "48"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54c9vi/g9js_automatically_interactive_graphics/",
+      "title": "g9.js - Automatically Interactive Graphics",
+      "score": "43"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54de33/intellij_idea_20163_eap_polyglot_maven_grails/",
+      "title": "IntelliJ IDEA 2016.3 EAP: Polyglot Maven, Grails View, Inspections and More",
+      "score": "28"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54bhqv/a_detailed_breakdown_of_the_rendering_of/",
+      "title": "A detailed breakdown of the rendering of Playdead's Inside (from GDC 2016)",
+      "score": "26"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54e4xk/my_lovehate_relationship_with_luajit/",
+      "title": "My love-hate relationship with LuaJIT",
+      "score": "23"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Redesigning Chrome desktop",
+      "score": "974",
+      "url": "https://medium.com/p/redesigning-chrome-desktop-769aeb5ab987"
+    },
+    {
+      "title": "Week 3 NFL Picks: The Dawn of the Next Great QB",
+      "score": "60",
+      "url": "https://medium.com/p/week-3-nfl-picks-carson-wentz-eagles-23d774c3b913"
+    },
+    {
+      "title": "Presidential Debates Are Not on the Level",
+      "score": "417",
+      "url": "https://medium.com/p/presidential-debates-are-not-on-the-level-b85266ea53fa"
+    },
+    {
+      "title": "10 Career Mistakes I Wish I Had Never Made",
+      "score": "2047",
+      "url": "https://medium.com/p/10-career-mistakes-i-wish-i-had-never-made-5c42dab36b6e"
+    },
+    {
+      "title": "An Open Letter from a Black Man to His White Family in a Moment of Violence",
+      "score": "485",
+      "url": "https://medium.com/p/an-open-letter-from-a-black-man-to-his-white-family-in-a-moment-of-violence-488a457f24db"
+    },
+    {
+      "title": "Emails From A CEO Who’s Making The Presentation Himself This Time",
+      "score": "740",
+      "url": "https://medium.com/p/emails-from-a-ceo-whos-making-the-presentation-himself-this-time-64c42eb00b79"
+    },
+    {
+      "title": "How Much Is Your Sleep Worth?",
+      "score": "254",
+      "url": "https://medium.com/p/how-much-is-your-sleep-worth-1b311d0d6ea4"
+    },
+    {
+      "title": "Life is a Classroom. Here’s How to Master *YOUR* Curriculum.",
+      "score": "422",
+      "url": "https://medium.com/p/life-is-a-teacher-but-are-you-a-student-4adcf716ec81"
+    },
+    {
+      "title": "The Fascist Bogeyman",
+      "score": "192",
+      "url": "https://medium.com/p/the-fascist-bogeyman-137b8c8b4c0e"
+    },
+    {
+      "title": "It’s Not About Race!",
+      "score": "2084",
+      "url": "https://medium.com/p/its-not-about-race-fb140bac8f1"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/instant-translate-for-imessage",
+      "title": "Instant Translate for iMessage: Chat in any language without knowing it!",
+      "score": "115"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/apimint",
+      "title": "Apimint: Rapidly prototype API frameworks.",
+      "score": "74"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/nyc-subway-stickers",
+      "title": "NYC Subway Stickers: iOS 10 iMessage stickers for the NYC Subway",
+      "score": "70"
+    },
+    {
+      "url": "https://www.producthunt.com/games/virginia",
+      "title": "Virginia: A thriller set in a small town with a secret",
+      "score": "37"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/planme",
+      "title": "planme: Create, manage and update your social life in real-time",
+      "score": "39"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/tech-in-chicago-sparking-conversations-one-shoe-at-a-time",
+      "title": "Tech In Chicago - Sparking Conversations One Shoe at a Time: A chat with Raaja Nemani / Co-Founder of Bucketfeet",
+      "score": "1"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/selfskie",
+      "title": "Selfskie: Attach your smartphone or GoPro to any stick",
+      "score": "22"
+    },
+    {
+      "url": "https://www.producthunt.com/books/learning-android-application-development",
+      "title": "Learning Android Application Development: Build Android N applications using modern techniques",
+      "score": "29"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/popeye-the-sailor-stickers",
+      "title": "Popeye the Sailor Stickers: Popeye in iMessage",
+      "score": "31"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/silly-taco-sticker-pack",
+      "title": "Silly Taco sticker pack: Give your friends something to taco-bout",
+      "score": "16"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/Tencent/tinker",
+      "title": "Tencent/tinker: Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.",
+      "score": "486"
+    },
+    {
+      "url": "https://github.com/davecheney/httpstat",
+      "title": "davecheney/httpstat: It's like curl -v, with colours.",
+      "score": "445"
+    },
+    {
+      "url": "https://github.com/ajbrock/Neural-Photo-Editor",
+      "title": "ajbrock/Neural-Photo-Editor: A simple interface for editing natural photos with generative neural networks.",
+      "score": "384"
+    },
+    {
+      "url": "https://github.com/BurntSushi/ripgrep",
+      "title": "BurntSushi/ripgrep: ripgrep combines the usability of The Silver Searcher with the raw speed of grep.",
+      "score": "343"
+    },
+    {
+      "url": "https://github.com/dripcap/dripcap",
+      "title": "dripcap/dripcap:  Caffeinated Packet Analyzer",
+      "score": "339"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "295"
+    },
+    {
+      "url": "https://github.com/Aufree/awesome-wechat-weapp",
+      "title": "Aufree/awesome-wechat-weapp: 微信小程序资源汇总整理， Awesome WeChat WeApp，涵括微信 Web 开发者工具收集，WeApp 教程收集，站点收集和代码实例",
+      "score": "208"
+    },
+    {
+      "url": "https://github.com/justjavac/awesome-wechat-weapp",
+      "title": "justjavac/awesome-wechat-weapp: 微信小程序开发资源汇总 wechat weapp",
+      "score": "178"
+    },
+    {
+      "url": "https://github.com/bijection/g9",
+      "title": "bijection/g9: Automatically interactive graphics for the web.",
+      "score": "191"
+    },
+    {
+      "url": "https://github.com/fogleman/primitive",
+      "title": "fogleman/primitive: Reproducing images with geometric primitives.",
+      "score": "166"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/308775#reply84",
+      "title": "晒卓照。淘宝上买了个简单的桌子，整理一下，觉得很爽，",
+      "score": "84"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308776#reply64",
+      "title": "2017 届 offer 选择咨询(医院/银行/互联网)",
+      "score": "64"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308824#reply56",
+      "title": "一个问题，博客需不需要 Redis？",
+      "score": "56"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308800#reply53",
+      "title": "目测 Google Pixel 买不起，那我到底是买个魅族还是华为？",
+      "score": "53"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308790#reply39",
+      "title": "也来晒桌面，暂时心满意足了",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308827#reply36",
+      "title": "一个简单的网文推荐系统，解决书荒",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308850#reply34",
+      "title": "你们现在还能写红黑树， b 树的各种操作吗？",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308805#reply30",
+      "title": "美剧本周开始陆续回归，有啥热门新剧啊",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308845#reply29",
+      "title": "Hackintosh 10.11 直升 10.12 Sierra 记录 (多图流量预警!!!)",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308781#reply24",
+      "title": "手上有小程序全拼域名有用吗？",
+      "score": "24"
+    }
+  ]
+}
