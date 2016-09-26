@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12577787",
+      "title": "UnGoogled Chromium: Chromium with enhanced privacy, control and transparency",
+      "score": "616"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12579879",
+      "title": "Sweden Wants to Fight Disposable Culture with Tax Breaks for Repairing Old Stuff",
+      "score": "298"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12579382",
+      "title": "Project Shield",
+      "score": "178"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12580158",
+      "title": "I stopped contributing to stackoverflow, but it's not declining",
+      "score": "159"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12579936",
+      "title": "Japanese Can Soon Pay Their Utility Bills with Bitcoin",
+      "score": "154"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12581250",
+      "title": "IBM says Swift is ready for the enterprise",
+      "score": "128"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12579924",
+      "title": "Go tooling essentials",
+      "score": "107"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12579859",
+      "title": "Major features of PostgreSQL 9.6 [pdf]",
+      "score": "102"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12580929",
+      "title": "Canvas Gauges",
+      "score": "96"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12581427",
+      "title": "V86 – An x86-compatible CPU and hardware emulator",
+      "score": "92"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54jsok/i_stopped_contributing_to_stackoverflow_but_its/",
+      "title": "I Stopped Contributing To Stackoverflow, But It's Not Declining",
+      "score": "641"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54iseg/wander_1974_a_lost_mainframe_game_is_found/",
+      "title": "Wander (1974) — a lost mainframe game is found!",
+      "score": "77"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54i873/how_git_stash_works/",
+      "title": "How git stash works",
+      "score": "56"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54kg6v/numeric_age_for_d_mir_glas_is_faster_than/",
+      "title": "Numeric age for D: Mir GLAS is faster than OpenBLAS and Eigen",
+      "score": "37"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54ix55/writing_a_text_editor_from_scratch_by_gary/",
+      "title": "Writing a text editor from scratch by Gary Bernhardt",
+      "score": "23"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54fxkp/toward_a_practical_perceptual_video_quality_metric/",
+      "title": "Toward A Practical Perceptual Video Quality Metric",
+      "score": "15"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54k4n8/major_features_of_postgres_96_pdf/",
+      "title": "Major Features of Postgres 9.6 [pdf]",
+      "score": "13"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54gudi/a_kotlin_implementation_of_the_pair_adjacent/",
+      "title": "A Kotlin implementation of the Pair Adjacent Violators algorithm for isotonic regression",
+      "score": "13"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54jm6z/cppcon_2016_herb_sutter_leakfreedom_in_c_by/",
+      "title": "CppCon 2016: Herb Sutter “Leak-Freedom in C++... By Default.”",
+      "score": "15"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54h4j8/proprietary_versus_open_instruction_sets_pdf/",
+      "title": "Proprietary versus open instruction sets [pdf]",
+      "score": "14"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Redesigning Chrome desktop",
+      "score": "1192",
+      "url": "https://medium.com/p/redesigning-chrome-desktop-769aeb5ab987"
+    },
+    {
+      "title": "Week 3 NFL Picks: The Dawn of the Next Great QB",
+      "score": "68",
+      "url": "https://medium.com/p/week-3-nfl-picks-carson-wentz-eagles-23d774c3b913"
+    },
+    {
+      "title": "Presidential Debates Are Not on the Level",
+      "score": "602",
+      "url": "https://medium.com/p/presidential-debates-are-not-on-the-level-b85266ea53fa"
+    },
+    {
+      "title": "10 Career Mistakes I Wish I Had Never Made",
+      "score": "2267",
+      "url": "https://medium.com/p/10-career-mistakes-i-wish-i-had-never-made-5c42dab36b6e"
+    },
+    {
+      "title": "An Open Letter from a Black Man to His White Family in a Moment of Violence",
+      "score": "585",
+      "url": "https://medium.com/p/an-open-letter-from-a-black-man-to-his-white-family-in-a-moment-of-violence-488a457f24db"
+    },
+    {
+      "title": "Emails From A CEO Who’s Making The Presentation Himself This Time",
+      "score": "862",
+      "url": "https://medium.com/p/emails-from-a-ceo-whos-making-the-presentation-himself-this-time-64c42eb00b79"
+    },
+    {
+      "title": "How Much Is Your Sleep Worth?",
+      "score": "281",
+      "url": "https://medium.com/p/how-much-is-your-sleep-worth-1b311d0d6ea4"
+    },
+    {
+      "title": "Life is a Classroom. Here’s How to Master *YOUR* Curriculum.",
+      "score": "567",
+      "url": "https://medium.com/p/life-is-a-teacher-but-are-you-a-student-4adcf716ec81"
+    },
+    {
+      "title": "The Fascist Bogeyman",
+      "score": "227",
+      "url": "https://medium.com/p/the-fascist-bogeyman-137b8c8b4c0e"
+    },
+    {
+      "title": "It’s Not About Race!",
+      "score": "2212",
+      "url": "https://medium.com/p/its-not-about-race-fb140bac8f1"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/ui-movement-2-0",
+      "title": "UI Movement 2.0: The best UI design inspiration, daily",
+      "score": "301"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/iris-ai-2-0",
+      "title": "Iris AI 2.0: Artificial Intelligence that reads science",
+      "score": "147"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/24hdone",
+      "title": "24hDone: Simple 24 hours to-do list",
+      "score": "100"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/help-scout-2-0",
+      "title": "Help Scout 2.0: Help desk software for a more human &amp; helpful experience",
+      "score": "141"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/friendswipe-for-tinder",
+      "title": "FriendSwipe for Tinder: Browse your Facebook friends Tinder profiles and swipe",
+      "score": "85"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/break",
+      "title": "Break: Reminders to take short breaks from your computer",
+      "score": "77"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/bricklane-com",
+      "title": "Bricklane.com: A home for your savings",
+      "score": "67"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/pun-finder",
+      "title": "Pun Finder: Enter any word and get &#x27;hilarious&#x27; puns to share",
+      "score": "61"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/rain-parrot",
+      "title": "Rain Parrot: Know exactly when it&#x27;s going to rain",
+      "score": "45"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/beard-bib-2-0",
+      "title": "Beard Bib 2.0: Hair clippings catcher from Beard King",
+      "score": "41"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/Tencent/tinker",
+      "title": "Tencent/tinker: Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.",
+      "score": "1293"
+    },
+    {
+      "url": "https://github.com/Eloston/ungoogled-chromium",
+      "title": "Eloston/ungoogled-chromium: A Google Chromium variant for removing Google integration and enhancing privacy, control, and transparency",
+      "score": "867"
+    },
+    {
+      "url": "https://github.com/davecheney/httpstat",
+      "title": "davecheney/httpstat: It's like curl -v, with colours.",
+      "score": "613"
+    },
+    {
+      "url": "https://github.com/Aufree/awesome-wechat-weapp",
+      "title": "Aufree/awesome-wechat-weapp: 微信小程序资源汇总整理， Awesome WeChat WeApp，涵括微信 Web 开发者工具收集，WeApp 教程收集，站点收集和代码实例",
+      "score": "452"
+    },
+    {
+      "url": "https://github.com/junyanz/iGAN",
+      "title": "junyanz/iGAN: iGAN: a deep learning software that easily generates images with a few brushstrokes (from UC Berkeley and Adobe CTL)",
+      "score": "450"
+    },
+    {
+      "url": "https://github.com/justjavac/awesome-wechat-weapp",
+      "title": "justjavac/awesome-wechat-weapp: 微信小程序开发资源汇总 wechat weapp",
+      "score": "355"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "353"
+    },
+    {
+      "url": "https://github.com/gavinkwoe/weapp-ide-crack",
+      "title": "gavinkwoe/weapp-ide-crack: 【应用号】IDE + 破解 + Demo",
+      "score": "292"
+    },
+    {
+      "url": "https://github.com/xmuSistone/android-page-transition",
+      "title": "xmuSistone/android-page-transition: viewpager with vertical sliding effects and activity transition",
+      "score": "301"
+    },
+    {
+      "url": "https://github.com/bijection/g9",
+      "title": "bijection/g9: Automatically interactive graphics for the web. 🖼",
+      "score": "288"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/309031#reply169",
+      "title": "今天我们老师说编程是吃青春饭！！我课后私信他…",
+      "score": "169"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308940#reply110",
+      "title": "v2 的老司机们谈谈这波房市的看法",
+      "score": "110"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309000#reply95",
+      "title": "亲戚关系计算器求找 bug",
+      "score": "95"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308937#reply94",
+      "title": "丈母娘指定 400 元 左右 安卓手机 5 寸屏幕, 请推荐, 谢谢",
+      "score": "94"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308956#reply83",
+      "title": "大家是如何午睡的？",
+      "score": "83"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309114#reply62",
+      "title": "本来想学 Python 的，无奈不得已放弃",
+      "score": "62"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308930#reply54",
+      "title": "大家怎么看西祠全员降薪啊？",
+      "score": "54"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308949#reply49",
+      "title": "问 V 友：魔都宽带入哪家坑？",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308997#reply45",
+      "title": "各位 v 友，飞利浦的显示器靠谱不？",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/308948#reply41",
+      "title": "有哪些 U 盘是质量比较好，长时间使用也不怎么老化的？求推荐。",
+      "score": "41"
+    }
+  ]
+}
