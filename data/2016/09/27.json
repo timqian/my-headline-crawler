@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12588449",
+      "title": "Facebook Ordered to Stop Collecting Data on WhatsApp Users in Germany",
+      "score": "329"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12588202",
+      "title": "Is developer compensation becoming bimodal?",
+      "score": "190"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12589447",
+      "title": "Leaflet 1.0 – A JavaScript library for mobile-friendly interactive maps",
+      "score": "176"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12588297",
+      "title": "Mozilla has stopped all commercial development on Firefox OS",
+      "score": "169"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12588893",
+      "title": "What HP Must Do to Make Amends for Its Self-Destructing Printers",
+      "score": "146"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12586917",
+      "title": "A novel brewing process via controlled hydrodynamic cavitation",
+      "score": "108"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12587491",
+      "title": "People who can’t afford Teslas are using car-sharing networks to pay for them",
+      "score": "102"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12587207",
+      "title": "Computer Vision: Algorithms and Applications (2010)",
+      "score": "99"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12589426",
+      "title": "Realm Mobile Platform – Realtime Sync Plus Fully Open Source Database",
+      "score": "94"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12587870",
+      "title": "Mercury found to be tectonically active",
+      "score": "92"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54pjed/a_very_interesting_explanation_of_the_origin_of/",
+      "title": "A very interesting explanation of the origin of terms &quot;foo&quot; and &quot;bar&quot; in programming",
+      "score": "607"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54l7bf/try_return_finally/",
+      "title": "try { return } finally {}",
+      "score": "313"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54lntp/introducing_net_standard/",
+      "title": "Introducing .NET Standard",
+      "score": "231"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54mozg/cppcon_2016_jason_turner_rich_code_for_tiny/",
+      "title": "CppCon 2016: Jason Turner “Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17”",
+      "score": "103"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54liy7/why_is_software_engineering_research_so/",
+      "title": "Why is Software Engineering Research So Irrelevant for Practitioners?",
+      "score": "65"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54mxao/how_convolutional_neural_networks_work/",
+      "title": "How Convolutional Neural Networks Work",
+      "score": "62"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54n62f/kubernetes_14_gets_released/",
+      "title": "Kubernetes 1.4 gets released",
+      "score": "53"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54n5ya/lenses_a_way_to_uncouple_shared_state/",
+      "title": "Lenses: A way to uncouple shared state",
+      "score": "36"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54pr20/when_a_disk_cache_performs_better_than_an/",
+      "title": "When a disk cache performs better than an in-memory cache (befriending the .net GC)",
+      "score": "32"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54lzfe/coffeescript_1110_released_with_support_for_es6/",
+      "title": "CoffeeScript 1.11.0 released with support for ES6 modules",
+      "score": "25"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Redesigning Chrome desktop",
+      "score": "1374",
+      "url": "https://medium.com/p/redesigning-chrome-desktop-769aeb5ab987"
+    },
+    {
+      "title": "Week 3 NFL Picks: The Dawn of the Next Great QB",
+      "score": "72",
+      "url": "https://medium.com/p/week-3-nfl-picks-carson-wentz-eagles-23d774c3b913"
+    },
+    {
+      "title": "Presidential Debates Are Not on the Level",
+      "score": "719",
+      "url": "https://medium.com/p/presidential-debates-are-not-on-the-level-b85266ea53fa"
+    },
+    {
+      "title": "10 Career Mistakes I Wish I Had Never Made",
+      "score": "2413",
+      "url": "https://medium.com/p/10-career-mistakes-i-wish-i-had-never-made-5c42dab36b6e"
+    },
+    {
+      "title": "An Open Letter from a Black Man to His White Family in a Moment of Violence",
+      "score": "647",
+      "url": "https://medium.com/p/an-open-letter-from-a-black-man-to-his-white-family-in-a-moment-of-violence-488a457f24db"
+    },
+    {
+      "title": "Emails From A CEO Who’s Making The Presentation Himself This Time",
+      "score": "953",
+      "url": "https://medium.com/p/emails-from-a-ceo-whos-making-the-presentation-himself-this-time-64c42eb00b79"
+    },
+    {
+      "title": "How Much Is Your Sleep Worth?",
+      "score": "299",
+      "url": "https://medium.com/p/how-much-is-your-sleep-worth-1b311d0d6ea4"
+    },
+    {
+      "title": "Life is a Classroom. Here’s How to Master *YOUR* Curriculum.",
+      "score": "687",
+      "url": "https://medium.com/p/life-is-a-teacher-but-are-you-a-student-4adcf716ec81"
+    },
+    {
+      "title": "The Fascist Bogeyman",
+      "score": "245",
+      "url": "https://medium.com/p/the-fascist-bogeyman-137b8c8b4c0e"
+    },
+    {
+      "title": "It’s Not About Race!",
+      "score": "2278",
+      "url": "https://medium.com/p/its-not-about-race-fb140bac8f1"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/startup-patterns",
+      "title": "Startup Patterns: Bite-sized startup lessons for busy founders",
+      "score": "301"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/spotify-daily-mix",
+      "title": "Spotify Daily Mix: Daily generated playlists of music you&#x27;ll love",
+      "score": "154"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/product-dark-3-0",
+      "title": "Product Dark 3.0: Turn Product Hunt dark for nighttime hunting 🌚",
+      "score": "161"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/askjelly",
+      "title": "#AskJelly: Add #askjelly to a Tweet and get your answer on Twitter.",
+      "score": "120"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/raindrop-io-4-0",
+      "title": "Raindrop.io 4.0: All in one bookmark manager become even better",
+      "score": "224"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/intercom-shopify-integration",
+      "title": "Intercom Shopify integration: Track, engage and convert your Shopify store visitors",
+      "score": "91"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/littleplane-2",
+      "title": "LittlePlane: Find &amp; download stencils for your wireframes",
+      "score": "126"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/journy",
+      "title": "Journy: Tastemaker-driven concierge to plan your perfect trip",
+      "score": "129"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/messengerchimp",
+      "title": "MessengerChimp: Personalized Newsletters directly in Facebook Messenger",
+      "score": "75"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/realm-mobile-platform",
+      "title": "Realm Mobile Platform: A platform for creating reactive mobile apps effortlessly.",
+      "score": "46"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/Tencent/tinker",
+      "title": "Tencent/tinker: Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.",
+      "score": "590"
+    },
+    {
+      "url": "https://github.com/Eloston/ungoogled-chromium",
+      "title": "Eloston/ungoogled-chromium: A Google Chromium variant for removing Google integration and enhancing privacy, control, and transparency",
+      "score": "548"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "414"
+    },
+    {
+      "url": "https://github.com/Aufree/awesome-wechat-weapp",
+      "title": "Aufree/awesome-wechat-weapp: 微信小程序资源汇总整理， Awesome WeChat WeApp，涵括微信 Web 开发者工具收集，WeApp 教程收集，站点收集和代码实例",
+      "score": "346"
+    },
+    {
+      "url": "https://github.com/junyanz/iGAN",
+      "title": "junyanz/iGAN: A deep learning software that easily generates images with a few brushstrokes (from UC Berkeley and Adobe CTL)",
+      "score": "345"
+    },
+    {
+      "url": "https://github.com/davecheney/httpstat",
+      "title": "davecheney/httpstat: It's like curl -v, with colours.",
+      "score": "338"
+    },
+    {
+      "url": "https://github.com/ssloy/tinyrenderer",
+      "title": "ssloy/tinyrenderer: Support c++ code for a short computer graphics course",
+      "score": "277"
+    },
+    {
+      "url": "https://github.com/zo7/facegen",
+      "title": "zo7/facegen: Generating faces with deconvolution networks",
+      "score": "266"
+    },
+    {
+      "url": "https://github.com/facebookresearch/CommAI-env",
+      "title": "facebookresearch/CommAI-env: A platform for developing AI systems as described in A Roadmap towards Machine Intelligence - ",
+      "score": "253"
+    },
+    {
+      "url": "https://github.com/Mikhus/canvas-gauges",
+      "title": "Mikhus/canvas-gauges: HTML5 Canvas Gauge",
+      "score": "253"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/309265#reply156",
+      "title": "公司的商城 App 被人一分钱下单，不知道他是怎么办到的",
+      "score": "156"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309249#reply101",
+      "title": "昨天和今天，公司来了 2 个面试 iOS 开发的，他们有个共同话题：“我在某峰化三万培训的”。。可是连 git clone 的基本命令都不知道，是我不按套路出牌嘛",
+      "score": "101"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309242#reply90",
+      "title": "电信工作人员老是拿 360 测速来压我，怎么破？",
+      "score": "90"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309319#reply62",
+      "title": "我的博客终于完成了，欢迎来访，一起学习",
+      "score": "62"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309266#reply48",
+      "title": "公司要新加网络行为监控系统，如果规避？",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309201#reply42",
+      "title": "想 DIY 一个安卓版的煮蛋器，各位有没有思路可以推荐",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309231#reply39",
+      "title": "大家来看看这是啥字体，感觉好好看",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309350#reply38",
+      "title": "今天才发现我不会读 main 和 null 的读音",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309273#reply37",
+      "title": "请教一下使用 Python 做 web 开发的问题",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309345#reply33",
+      "title": "为什么就造不出一款像样的手机呢？？？为什么！",
+      "score": "33"
+    }
+  ]
+}
