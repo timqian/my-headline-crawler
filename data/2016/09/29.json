@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12601471",
+      "title": "Facebook, Amazon, Google, IBM and Microsoft Create Partnership on AI",
+      "score": "519"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12604855",
+      "title": "PostgreSQL 9.6 Released",
+      "score": "251"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12603885",
+      "title": "An AWS Region is coming to France",
+      "score": "118"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12603748",
+      "title": "How Anxiety Warps Your Perception",
+      "score": "115"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12604544",
+      "title": "Why you should avoid using document.write, specifically for scripts injection",
+      "score": "105"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12604414",
+      "title": "A Commodore 64 Is Still Being Used to Run an Auto Shop in Poland",
+      "score": "104"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12604767",
+      "title": "Modern Functional Programming: The Onion Architecture",
+      "score": "96"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12604417",
+      "title": "Qubes OS 3.2 has been released",
+      "score": "81"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12602706",
+      "title": "Google, Red Hat Work on a Way for Kubernetes to Run Containers Without Docker",
+      "score": "72"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12604592",
+      "title": "A third of the homeless people in America are over 50 and I’m one of them",
+      "score": "69"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54yvv1/facebook_amazon_google_ibm_and_microsoft_come/",
+      "title": "Facebook, Amazon, Google, IBM, and Microsoft come together to create historic Partnership on AI",
+      "score": "1115"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54y5by/what_i_wish_i_had_known_before_scaling_uber_to/",
+      "title": "What I Wish I Had Known Before Scaling Uber to 1000 Services • Matt Ranney",
+      "score": "296"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55232e/postgresql_postgresql_96_released/",
+      "title": "PostgreSQL: PostgreSQL 9.6 Released!",
+      "score": "123"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54x44a/unity_3d_editor_updated_to_mono_460_finally/",
+      "title": "Unity 3D Editor updated to mono 4.6.0 finally",
+      "score": "67"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54xnbg/herb_sutters_experimental_deferred_and_unordered/",
+      "title": "Herb Sutter's &quot;Experimental deferred and unordered destruction library for C++&quot;",
+      "score": "64"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54x5d5/learning_through_goals_in_computer_science/",
+      "title": "Learning Through Goals in Computer Science",
+      "score": "45"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54ylnk/pixel_desktop_for_pi/",
+      "title": "Pixel desktop for Pi",
+      "score": "37"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/550cii/the_technology_behind_a_low_latency_cloud_gaming/",
+      "title": "The Technology Behind A Low Latency Cloud Gaming Service",
+      "score": "30"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/551zyi/collection_of_cheat_sheets_for_programmers/",
+      "title": "Collection of cheat sheets for programmers",
+      "score": "47"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54ztjt/concurrency_in_ruby_3_with_guilds/",
+      "title": "Concurrency in Ruby 3 with Guilds",
+      "score": "20"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Why an Exotic Dancer Is (Financially) Just Like Your Hairdresser",
+      "score": "255",
+      "url": "https://medium.com/p/why-an-exotic-dancer-is-financially-just-like-your-hairdresser-d4fe85a52291"
+    },
+    {
+      "title": "The Straight Men Who Want Nothing to Do With Women",
+      "score": "152",
+      "url": "https://medium.com/p/the-straight-men-who-want-nothing-to-do-with-women-2653920a42e8"
+    },
+    {
+      "title": "Your 2016 MLB Award Picks",
+      "score": "34",
+      "url": "https://medium.com/p/the-lineup-2016-mlb-award-picks-380e28643aff"
+    },
+    {
+      "title": "Pixels and voxels, the long answer",
+      "score": "382",
+      "url": "https://medium.com/p/pixels-and-voxels-the-long-answer-5889ecc18190"
+    },
+    {
+      "title": "The NFL Standings Are Lying to You",
+      "score": "50",
+      "url": "https://medium.com/p/the-nfl-standings-are-lying-to-you-d7672fdcc903"
+    },
+    {
+      "title": "‘Big’ Is Secretly a Horror Movie",
+      "score": "273",
+      "url": "https://medium.com/p/big-is-secretly-a-horror-movie-95d766715a7b"
+    },
+    {
+      "title": "Make Trump Great Again",
+      "score": "312",
+      "url": "https://medium.com/p/make-trump-great-again-72a9b11df017"
+    },
+    {
+      "title": "The Battle vs. The War",
+      "score": "217",
+      "url": "https://medium.com/p/the-battle-vs-the-war-b87697e45e11"
+    },
+    {
+      "title": "Klay Thompson’s Imaginary Sacrifice",
+      "score": "53",
+      "url": "https://medium.com/p/klay-thompsons-imaginary-sacrifice-de28a7a4e056"
+    },
+    {
+      "title": "10 Lessons I Learned From Jewel",
+      "score": "269",
+      "url": "https://medium.com/p/10-lessons-i-learned-from-jewel-a58dbf6f40c"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/openvid-2-0",
+      "title": "Openvid 2.0: One-click desktop, cam, &amp; mic recording tool for Chrome 🎥",
+      "score": "301"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/the-wall-farm-by-click-grow",
+      "title": "The Wall Farm by Click &amp; Grow: The easiest way to grow fresh food indoors sustainably",
+      "score": "528"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/meetup-for-ios-and-android",
+      "title": "Meetup for iOS and Android: Discover groups that are all about the things you love",
+      "score": "236"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/atomic-io-2-0",
+      "title": "Atomic.io 2.0: Ultra fast, scalable and fully collaborative prototyping",
+      "score": "227"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/undeveloped-2",
+      "title": "Undeveloped: Domains you never thought were available",
+      "score": "170"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/heek-2",
+      "title": "Heek: The first conversational website builder",
+      "score": "134"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/phoneys",
+      "title": "Phoneys: Troll your friends by putting words in other people&#x27;s texts",
+      "score": "108"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/thread-genius-1",
+      "title": "Thread Genius: Reverse image search for patterns, clothing, and outfits",
+      "score": "96"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/anchor-for-android",
+      "title": "Anchor for Android: Record your own bite-sized podcasts, now on Android",
+      "score": "97"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/robinhood-gold",
+      "title": "Robinhood Gold: A premium collection of powerful, advanced trading features",
+      "score": "38"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/gravitational/teleport",
+      "title": "gravitational/teleport: Modern SSH server for clusters and teams.",
+      "score": "764"
+    },
+    {
+      "url": "https://github.com/justjavac/awesome-wechat-weapp",
+      "title": "justjavac/awesome-wechat-weapp: 微信小程序开发资源汇总 wechat weapp",
+      "score": "367"
+    },
+    {
+      "url": "https://github.com/facebook/react",
+      "title": "facebook/react: A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+      "score": "386"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "363"
+    },
+    {
+      "url": "https://github.com/Tencent/tinker",
+      "title": "Tencent/tinker: Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.",
+      "score": "271"
+    },
+    {
+      "url": "https://github.com/kootenpv/whereami",
+      "title": "kootenpv/whereami: Uses WiFi signals  and machine learning to predict where you are",
+      "score": "282"
+    },
+    {
+      "url": "https://github.com/labstack/armor",
+      "title": "labstack/armor: Simple HTTP server, supports HTTP/2 and auto TLS",
+      "score": "281"
+    },
+    {
+      "url": "https://github.com/yeun/open-color",
+      "title": "yeun/open-color: Color scheme for UI design.",
+      "score": "279"
+    },
+    {
+      "url": "https://github.com/Leaflet/Leaflet",
+      "title": "Leaflet/Leaflet:  JavaScript library for mobile-friendly interactive maps",
+      "score": "268"
+    },
+    {
+      "url": "https://github.com/cpmech/gosl",
+      "title": "cpmech/gosl: Go scientific library",
+      "score": "240"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/309719#reply131",
+      "title": "突然想到一个人生终极问题，人为什么要努力工作，我不努力工作也能活",
+      "score": "131"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309682#reply109",
+      "title": "QQ 疑似将直接对传的文件进行了转存",
+      "score": "109"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309681#reply92",
+      "title": "[分享] 我也来丢一下自己的博客",
+      "score": "92"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309708#reply91",
+      "title": "今天才发现，联通的半年 1G 流量包简直业界良心！",
+      "score": "91"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309764#reply71",
+      "title": "请求安卓手机推荐",
+      "score": "71"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309666#reply60",
+      "title": "联通有木有零月租卡？",
+      "score": "60"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309711#reply48",
+      "title": "BT 天堂站长被刑拘~",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309717#reply47",
+      "title": "你说以后会不会人手一台服务器",
+      "score": "47"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309780#reply46",
+      "title": "看到帝都无限上涨的房价，我无助了",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309787#reply45",
+      "title": "最应该入手的其实是 iPhone SE",
+      "score": "45"
+    }
+  ]
+}
