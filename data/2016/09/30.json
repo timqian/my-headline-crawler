@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12606995",
+      "title": "Bringing Pokémon GO to life on Google Cloud",
+      "score": "455"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12609752",
+      "title": "DNS-over-HTTPS",
+      "score": "288"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12612246",
+      "title": "Show HN: Wave function collapse algorithm",
+      "score": "287"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12611479",
+      "title": "Rosetta ends its mission",
+      "score": "184"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12610415",
+      "title": "Infrastructure Mistakes Companies Should Avoid",
+      "score": "170"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12609822",
+      "title": "Machine Learning 101: An Intro to Utilizing Decision Trees",
+      "score": "157"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12610804",
+      "title": "New P2 Instance Type for Amazon EC2 – Up to 16 GPUs",
+      "score": "148"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12611377",
+      "title": "Best practice examples of data journalism and visualization projects",
+      "score": "146"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12611155",
+      "title": "Hacker fakes German minister's fingerprints using photos of her hands",
+      "score": "132"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12610338",
+      "title": "Applying machine learning to the freight industry",
+      "score": "109"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/553l16/i_made_a_windows_10_html_replica_looking_for/",
+      "title": "I made a Windows 10 HTML replica (looking for feedback)",
+      "score": "343"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/553ifj/announcing_rust_112/",
+      "title": "Announcing Rust 1.12",
+      "score": "323"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5544tj/how_codingame_survived_a_reddit_hug_of_death/",
+      "title": "How CodinGame survived a Reddit Hug of Death",
+      "score": "128"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/557lrt/wave_function_collapse_algorithm_bitmap_tilemap/",
+      "title": "Wave function collapse algorithm: bitmap &amp; tilemap generation from a single example with the help of ideas from quantum mechanics",
+      "score": "167"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/555sei/jai_programming_language_cllvm_backend_telemetry/",
+      "title": "Jai programming language: C/LLVM backend, Telemetry",
+      "score": "104"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/554wvr/javascript_in_2016_isnt_horrible_its_just_going/",
+      "title": "JavaScript in 2016 isn't horrible, it's just going through a phase",
+      "score": "74"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/554ac0/data_denormalization_is_broken/",
+      "title": "Data denormalization is broken",
+      "score": "61"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/552vw0/programming_is_hard/",
+      "title": "Programming is Hard",
+      "score": "61"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/557p6w/howto_find_a_developer_job_without_your_boss/",
+      "title": "How-to: find a developer job without your boss finding out",
+      "score": "55"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/552mfb/lesser_known_git_commands/",
+      "title": "Lesser known Git commands",
+      "score": "48"
+    }
+  ],
+  "medium": [
+    {
+      "title": "The Straight Men Who Want Nothing to Do With Women",
+      "score": "297",
+      "url": "https://medium.com/p/the-straight-men-who-want-nothing-to-do-with-women-2653920a42e8"
+    },
+    {
+      "title": "Make Trump Great Again",
+      "score": "633",
+      "url": "https://medium.com/p/make-trump-great-again-72a9b11df017"
+    },
+    {
+      "title": "The Five-on-Five NFL Challenge",
+      "score": "75",
+      "url": "https://medium.com/p/the-five-on-five-nfl-challenge-79cb7b2e6e9"
+    },
+    {
+      "title": "The Unfairness of Feeling",
+      "score": "513",
+      "url": "https://medium.com/p/the-unfairness-of-feeling-1c1b6c7b4176"
+    },
+    {
+      "title": "If you want to learn Data Science, start with one of these programming classes",
+      "score": "451",
+      "url": "https://medium.com/p/if-you-want-to-learn-data-science-start-with-one-of-these-programming-classes-fb694ffe780c"
+    },
+    {
+      "title": "Why an Exotic Dancer Is (Financially) Just Like Your Hairdresser",
+      "score": "316",
+      "url": "https://medium.com/p/why-an-exotic-dancer-is-financially-just-like-your-hairdresser-d4fe85a52291"
+    },
+    {
+      "title": "You Too Can Become a Machine Learning Rock Star! No PhD Necessary.",
+      "score": "786",
+      "url": "https://medium.com/p/you-too-can-become-a-machine-learning-rock-star-no-phd-necessary-107a1624d96b"
+    },
+    {
+      "title": "The Magic of Watching Regular-Season Steph Curry",
+      "score": "116",
+      "url": "https://medium.com/p/nba-preview-warriors-week-regular-season-steph-curry-120eb66dc2d2"
+    },
+    {
+      "title": "Jeffrey Tambor, Coming Out, and “The Most Important Time To Be An Artist”",
+      "score": "131",
+      "url": "https://medium.com/p/jeffrey-tambor-coming-out-and-the-most-important-time-to-be-an-artist-eed9a1579ab7"
+    },
+    {
+      "title": "He’s Trying to Lose",
+      "score": "356",
+      "url": "https://medium.com/p/hes-trying-to-lose-9f0c174fb9aa"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/rathernice",
+      "title": "RatherNice: Brighten up your day, from your browser.",
+      "score": "233"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/front-for-ios",
+      "title": "Front for iOS: The first inbox for teams",
+      "score": "154"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/life-calendar",
+      "title": "Life Calendar: Your life in weeks",
+      "score": "163"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/sharechat",
+      "title": "Sharechat: File sharing with chat &amp; storage",
+      "score": "115"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/chipmunk",
+      "title": "Chipmunk: WP theme to create your own curated resources website",
+      "score": "46"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/telepat-io-cloud",
+      "title": "Telepat.io Cloud: Open source, real time API platform",
+      "score": "75"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/officehours-teams",
+      "title": "Officehours Teams: The platform for your organizations’ office hours",
+      "score": "45"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/distractagone",
+      "title": "DistractaGone: Work distraction-free with your phone locked up.",
+      "score": "66"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/health-gorilla-2",
+      "title": "Health Gorilla: Get a complete picture of patient health history",
+      "score": "65"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/tmetric",
+      "title": "TMetric: User-friendly timetracker for freelancers and teams",
+      "score": "50"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/gravitational/teleport",
+      "title": "gravitational/teleport: Modern SSH server for clusters and teams.",
+      "score": "475"
+    },
+    {
+      "url": "https://github.com/future-architect/vuls",
+      "title": "future-architect/vuls: Vulnerability scanner for Linux/FreeBSD, agentless, written in Go",
+      "score": "425"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "393"
+    },
+    {
+      "url": "https://github.com/spotify/HubFramework",
+      "title": "spotify/HubFramework: Spotify’s component-driven UI framework for iOS",
+      "score": "332"
+    },
+    {
+      "url": "https://github.com/labstack/armor",
+      "title": "labstack/armor: Simple HTTP server, supports HTTP/2 and auto TLS",
+      "score": "331"
+    },
+    {
+      "url": "https://github.com/iview/iview",
+      "title": "iview/iview: UI Components with Vue.js",
+      "score": "248"
+    },
+    {
+      "url": "https://github.com/justjavac/awesome-wechat-weapp",
+      "title": "justjavac/awesome-wechat-weapp: 微信小程序开发资源汇总 wechat weapp",
+      "score": "207"
+    },
+    {
+      "url": "https://github.com/kootenpv/whereami",
+      "title": "kootenpv/whereami: Uses WiFi signals  and machine learning to predict where you are",
+      "score": "223"
+    },
+    {
+      "url": "https://github.com/wbkd/awesome-interactive-journalism",
+      "title": "wbkd/awesome-interactive-journalism: A list of awesome interactive journalism projects.",
+      "score": "215"
+    },
+    {
+      "url": "https://github.com/cpmech/gosl",
+      "title": "cpmech/gosl: Go scientific library",
+      "score": "197"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/309909#reply896",
+      "title": "不知道为什么又想送点东西给大家！",
+      "score": "896"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309916#reply68",
+      "title": "女朋友从小养大的小狗今早过世了,该怎么安慰",
+      "score": "68"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309913#reply65",
+      "title": "有没有折腾过安卓 nfc 的 v 友，最近想用 nfc 模拟门禁卡，饭卡等，有好用便宜的安卓手机推荐么",
+      "score": "65"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309978#reply57",
+      "title": "知乎看到篇文章“程序员 3 年月薪还没到 2 万，干脆考虑转行吧”（文章背景坐标 帝都）",
+      "score": "57"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309903#reply55",
+      "title": "停电的时候，怎么打发时间？",
+      "score": "55"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309937#reply41",
+      "title": "求 javascript 和 C++的入门书籍",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310025#reply37",
+      "title": "想养一只猫，需要哪些硬件设施？",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309946#reply36",
+      "title": "android 手机上你们的影梭还能用么？",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309934#reply32",
+      "title": "Bash on Ubuntu on Window 好用到飞起",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/309948#reply32",
+      "title": "URL2io — 提供简单、强大的网页正文提取服务",
+      "score": "32"
+    }
+  ]
+}
