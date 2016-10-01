@@ -1,1 +1,314 @@
- 
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12612246",
+      "title": "Show HN: Wave function collapse algorithm",
+      "score": "1137"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12612564",
+      "title": "90 Cents of Every 'Pay-For-Performance' Dollar for CEOs Are Paid for Luck",
+      "score": "489"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12614193",
+      "title": "Open Sourcing a Deep Learning Solution for Detecting NSFW Images",
+      "score": "420"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12616746",
+      "title": "Ranking the Most Beloved TV Shows That Got Canceled",
+      "score": "207"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12616426",
+      "title": "Practice Doesn't Make Perfect",
+      "score": "174"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12616934",
+      "title": "‘Do Not Resist': A look at the normalization of warrior cops",
+      "score": "134"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12617081",
+      "title": "Neural-redis – Neural networks module for Redis",
+      "score": "122"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12616432",
+      "title": "Driverless, Electric Shuttles Now Operating in Lyon, France",
+      "score": "109"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12617990",
+      "title": "Implication of sabotage adds intrigue to SpaceX investigation",
+      "score": "104"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12616118",
+      "title": "A six-part story of a PTA-president mother, framed for drug possession",
+      "score": "100"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55anc2/vue_20_is_here_the_vue_point/",
+      "title": "Vue 2.0 is Here! – The Vue Point",
+      "score": "148"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55at67/nim_programming_language_v0150_released/",
+      "title": "Nim Programming Language v0.15.0 released",
+      "score": "116"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55cou4/medium_way_of_loading_image_progressively/",
+      "title": "Medium way of loading image progressively",
+      "score": "134"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55af8c/the_magic_of_the_3_flag_in_python_2/",
+      "title": "The Magic of the -3 Flag in Python 2",
+      "score": "66"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/559sxw/firefox_announce_project_mortar/",
+      "title": "Firefox Announce Project Mortar",
+      "score": "57"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55abyw/the_mysterious_fiber_bomb_problem_a_debugging/",
+      "title": "The Mysterious Fiber Bomb Problem: A Debugging Story",
+      "score": "35"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/559imy/sonarqubecom_is_now_open_to_anyone/",
+      "title": "SonarQube.com is now open to anyone!",
+      "score": "38"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/559kg4/c_hypertext_library_a_library_for_writing_web/",
+      "title": "C Hypertext Library - A library for writing web applications in C",
+      "score": "29"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/558utp/purposes_concepts_misfits_and_a_redesign_of_git/",
+      "title": "Purposes, Concepts, Misfits, and a Redesign of Git",
+      "score": "30"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55b5cq/500_lines_or_less_a_python_bytecode_interpreter/",
+      "title": "500 Lines or Less | A Python Bytecode Interpreter Written in Python",
+      "score": "28"
+    }
+  ],
+  "medium": [
+    {
+      "title": "The Unfairness of Feeling",
+      "score": "1075",
+      "url": "https://medium.com/p/the-unfairness-of-feeling-1c1b6c7b4176"
+    },
+    {
+      "title": "Week 4 NFL Picks: Twerk Responsibly",
+      "score": "46",
+      "url": "https://medium.com/p/week-4-nfl-picks-twerk-responsibly-c3bfc62a8b44"
+    },
+    {
+      "title": "When Roman “Barbarians” Met the Asian Enlightenment",
+      "score": "292",
+      "url": "https://medium.com/p/when-roman-barbarians-met-the-asian-enlightenment-2be064d7af9b"
+    },
+    {
+      "title": "One Year Ago, I Rebooted My Life. Is It Working?",
+      "score": "471",
+      "url": "https://medium.com/p/one-year-ago-i-rebooted-my-life-is-it-working-5fd0b8eae187"
+    },
+    {
+      "title": "The Straight Men Who Want Nothing to Do With Women",
+      "score": "350",
+      "url": "https://medium.com/p/the-straight-men-who-want-nothing-to-do-with-women-2653920a42e8"
+    },
+    {
+      "title": "Vue 2.0 is Here!",
+      "score": "440",
+      "url": "https://medium.com/p/vue-2-0-is-here-ef1f26acf4b8"
+    },
+    {
+      "title": "Figma VS Sketch",
+      "score": "347",
+      "url": "https://medium.com/p/figma-vs-sketch-c01e5e74eddd"
+    },
+    {
+      "title": "Two Isolated Americas",
+      "score": "426",
+      "url": "https://medium.com/p/two-isolated-americas-fae2720fb48"
+    },
+    {
+      "title": "If you want to learn Data Science, start with one of these programming classes",
+      "score": "646",
+      "url": "https://medium.com/p/if-you-want-to-learn-data-science-start-with-one-of-these-programming-classes-fb694ffe780c"
+    },
+    {
+      "title": "He’s Trying to Lose",
+      "score": "558",
+      "url": "https://medium.com/p/hes-trying-to-lose-9f0c174fb9aa"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/w-chair",
+      "title": "W Chair: The truly ergonomic desk chair",
+      "score": "74"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/eardial",
+      "title": "EarDial: The invisible smart earplugs for live music",
+      "score": "63"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/play-for-medium",
+      "title": "Play (for Medium): Listen to Medium articles with a Chrome Extension",
+      "score": "65"
+    },
+    {
+      "url": "https://www.producthunt.com/games/osiris-new-dawn",
+      "title": "Osiris: New Dawn: Discover, fight, and tame indigenous alien creatures",
+      "score": "17"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/episode-2-sales-a-i-with-salesflare",
+      "title": "Episode 2: Sales A.I. With Salesflare: Talking about the future of sales with Salesflare",
+      "score": "1"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/turtleneck-3",
+      "title": "Turtleneck: Quirky stickers for iMessage with art by Emma Rytoft",
+      "score": "25"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/yuppi-spaces",
+      "title": "Yuppi Spaces: Colloborative group spaces for friends &amp; fans",
+      "score": "24"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/onething",
+      "title": "OneThing: An SMS chatbot to help you set and complete daily goals",
+      "score": "11"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/uttam",
+      "title": "Uttam: A perfectly crafted wallpaper for your Android, every day",
+      "score": "22"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/oh-my-goats",
+      "title": "Oh My Goats!: iMessage Goat Stickers",
+      "score": "18"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/mxgmn/WaveFunctionCollapse",
+      "title": "mxgmn/WaveFunctionCollapse: Bitmap &amp; tilemap generation from a single example with the help of ideas from quantum mechanics.",
+      "score": "3027"
+    },
+    {
+      "url": "https://github.com/yahoo/open_nsfw",
+      "title": "yahoo/open_nsfw: code for running Model and code for Not Suitable for Work (NSFW) classification using deep neural network Caffe models",
+      "score": "602"
+    },
+    {
+      "url": "https://github.com/wbkd/awesome-interactive-journalism",
+      "title": "wbkd/awesome-interactive-journalism: A list of awesome interactive journalism projects.",
+      "score": "591"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "310"
+    },
+    {
+      "url": "https://github.com/antirez/neural-redis",
+      "title": "antirez/neural-redis: Neural networks module for Redis",
+      "score": "316"
+    },
+    {
+      "url": "https://github.com/openimages/dataset",
+      "title": "openimages/dataset: The Open Images dataset",
+      "score": "287"
+    },
+    {
+      "url": "https://github.com/spotify/HubFramework",
+      "title": "spotify/HubFramework: Spotify’s component-driven UI framework for iOS",
+      "score": "292"
+    },
+    {
+      "url": "https://github.com/gravitational/teleport",
+      "title": "gravitational/teleport: Modern SSH server for clusters and teams.",
+      "score": "231"
+    },
+    {
+      "url": "https://github.com/detailyang/awesome-cheatsheet",
+      "title": "detailyang/awesome-cheatsheet:  awesome cheatsheet",
+      "score": "194"
+    },
+    {
+      "url": "https://github.com/vuejs/vue",
+      "title": "vuejs/vue: Simple yet powerful library for building modern web interfaces.",
+      "score": "170"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/310157#reply50",
+      "title": "在杭小码农：现在应不应该买房？求老司机建议",
+      "score": "50"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310141#reply47",
+      "title": "为什么红绿灯不改进一下让色盲的人也能看懂?",
+      "score": "47"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310110#reply37",
+      "title": "帝都真的买不起房了，不仅房价涨，首付也涨了，最低 35%",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310143#reply33",
+      "title": "AES-128 加密的 ts 视频文件如何合并",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310194#reply31",
+      "title": "为什么现在的人都喜欢用各种表情包？",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310135#reply30",
+      "title": "升级了上海电信 200M 的宽带，现在问题来了",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310156#reply30",
+      "title": "在旧金山排队买了个 iPhone7 plus 256g 版，用作备用机",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310175#reply30",
+      "title": "Apple blocked trust for WoSign CA Free SSL Certificate G2",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310109#reply28",
+      "title": "阿里云香港 为何超一千多块流量？",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310132#reply25",
+      "title": "诚意满满，联通十一取消漫游费",
+      "score": "25"
+    }
+  ]
+}
