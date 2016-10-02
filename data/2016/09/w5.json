@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12591617",
+      "title": "Making Humans a Multiplanetary Species [video]",
+      "score": 2109
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12612246",
+      "title": "Show HN: Wave function collapse algorithm",
+      "score": 1188
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12577787",
+      "title": "UnGoogled Chromium: Chromium with enhanced privacy, control and transparency",
+      "score": 687
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12588449",
+      "title": "Facebook Ordered to Stop Collecting Data on WhatsApp Users in Germany",
+      "score": 653
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12589447",
+      "title": "Leaflet 1.0 – A JavaScript library for mobile-friendly interactive maps",
+      "score": 626
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12601471",
+      "title": "Facebook, Amazon, Google, IBM and Microsoft Create Partnership on AI",
+      "score": 571
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12604855",
+      "title": "PostgreSQL 9.6 Released",
+      "score": 549
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12579879",
+      "title": "Sweden Wants to Fight Disposable Culture with Tax Breaks for Repairing Old Stuff",
+      "score": 546
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12612564",
+      "title": "90 Cents of Every 'Pay-For-Performance' Dollar for CEOs Are Paid for Luck",
+      "score": 500
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12597232",
+      "title": "What I Wish I Had Known Before Scaling Uber to 1000 Services [video]",
+      "score": 495
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54jsok/i_stopped_contributing_to_stackoverflow_but_its/",
+      "title": "I Stopped Contributing To Stackoverflow, But It's Not Declining",
+      "score": 1761
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54pjed/a_very_interesting_explanation_of_the_origin_of/",
+      "title": "A very interesting explanation of the origin of terms &quot;foo&quot; and &quot;bar&quot; in programming",
+      "score": 1531
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/557lrt/wave_function_collapse_algorithm_bitmap_tilemap/",
+      "title": "Wave function collapse algorithm: bitmap &amp; tilemap generation from a single example with the help of ideas from quantum mechanics",
+      "score": 1263
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54yvv1/facebook_amazon_google_ibm_and_microsoft_come/",
+      "title": "Facebook, Amazon, Google, IBM, and Microsoft come together to create historic Partnership on AI",
+      "score": 1242
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54bnvq/a_rubiks_cube_solver_written_in_python_that_uses/",
+      "title": "A Rubik's Cube solver written in Python that uses webcam input (through OpenCV) to read the starting configuration of a shuffled cube and then guides you through the solution",
+      "score": 979
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/551zyi/collection_of_cheat_sheets_for_programmers/",
+      "title": "Collection of cheat sheets for programmers",
+      "score": 862
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55232e/postgresql_postgresql_96_released/",
+      "title": "PostgreSQL: PostgreSQL 9.6 Released!",
+      "score": 725
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55cou4/medium_way_of_loading_image_progressively/",
+      "title": "Medium way of loading image progressively",
+      "score": 507
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54ahny/postgresql_96_to_be_released_on_29th_of_september/",
+      "title": "PostgreSQL 9.6 to be released on 29th of September",
+      "score": 505
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/54vcq6/introducing_deliberate_protocol_errors_langleys/",
+      "title": "Introducing Deliberate Protocol Errors: Langley’s Law",
+      "score": 473
+    }
+  ],
+  "medium": [
+    {
+      "title": "10 Career Mistakes I Wish I Had Never Made",
+      "score": 2702,
+      "url": "https://medium.com/p/10-career-mistakes-i-wish-i-had-never-made-5c42dab36b6e"
+    },
+    {
+      "title": "AG [ESTUPRO] Como foi “me relacionar” com uma vítima de estupro",
+      "score": 2540,
+      "url": "https://medium.com/p/como-foi-transar-com-uma-vitima-de-estupro-9210eea52090"
+    },
+    {
+      "title": "It’s Not About Race!",
+      "score": 2378,
+      "url": "https://medium.com/p/its-not-about-race-fb140bac8f1"
+    },
+    {
+      "title": "Redesigning Chrome desktop",
+      "score": 1681,
+      "url": "https://medium.com/p/redesigning-chrome-desktop-769aeb5ab987"
+    },
+    {
+      "title": "An open letter to Donald Trump",
+      "score": 1595,
+      "url": "https://medium.com/p/an-open-letter-to-donald-trump-42b932f02362"
+    },
+    {
+      "title": "This Meditation Exercise Builds Mental Muscle and Cures Procrastination",
+      "score": 1534,
+      "url": "https://medium.com/p/this-meditation-exercise-builds-mental-muscle-and-cures-procrastination-2f15faade9f3"
+    },
+    {
+      "title": "The Unfairness of Feeling",
+      "score": 1295,
+      "url": "https://medium.com/p/the-unfairness-of-feeling-1c1b6c7b4176"
+    },
+    {
+      "title": "Emails From A CEO Who’s Making The Presentation Himself This Time",
+      "score": 1192,
+      "url": "https://medium.com/p/emails-from-a-ceo-whos-making-the-presentation-himself-this-time-64c42eb00b79"
+    },
+    {
+      "title": "You Too Can Become a Machine Learning Rock Star! No PhD Necessary.",
+      "score": 1012,
+      "url": "https://medium.com/p/you-too-can-become-a-machine-learning-rock-star-no-phd-necessary-107a1624d96b"
+    },
+    {
+      "title": "Life is a Classroom. Here’s How to Master *YOUR* Curriculum.",
+      "score": 965,
+      "url": "https://medium.com/p/life-is-a-teacher-but-are-you-a-student-4adcf716ec81"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/309909#reply896",
+      "title": "不知道为什么又想送点东西给大家！",
+      "score": 989
+    },
+    {
+      "url": "https://www.v2ex.com/t/309265#reply156",
+      "title": "公司的商城 App 被人一分钱下单，不知道他是怎么办到的",
+      "score": 187
+    },
+    {
+      "url": "https://www.v2ex.com/t/309249#reply101",
+      "title": "昨天和今天，公司来了 2 个面试 iOS 开发的，他们有个共同话题：“我在某峰化三万培训的”。。可是连 git clone 的基本命令都不知道，是我不按套路出牌嘛",
+      "score": 174
+    },
+    {
+      "url": "https://www.v2ex.com/t/309719#reply131",
+      "title": "突然想到一个人生终极问题，人为什么要努力工作，我不努力工作也能活",
+      "score": 167
+    },
+    {
+      "url": "https://www.v2ex.com/t/309460#reply110",
+      "title": "昨天面试了个心机 boy",
+      "score": 157
+    },
+    {
+      "url": "https://www.v2ex.com/t/309780#reply46",
+      "title": "看到帝都无限上涨的房价，我无助了",
+      "score": 154
+    },
+    {
+      "url": "https://www.v2ex.com/t/309682#reply109",
+      "title": "QQ 疑似将直接对传的文件进行了转存",
+      "score": 150
+    },
+    {
+      "url": "https://www.v2ex.com/t/309242#reply90",
+      "title": "电信工作人员老是拿 360 测速来压我，怎么破？",
+      "score": 137
+    },
+    {
+      "url": "https://www.v2ex.com/t/309000#reply95",
+      "title": "亲戚关系计算器求找 bug",
+      "score": 132
+    },
+    {
+      "url": "https://www.v2ex.com/t/309764#reply71",
+      "title": "请求安卓手机推荐",
+      "score": 127
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/houseparty-4",
+      "title": "Houseparty: If FaceTime was built as a social network 🏠🎉",
+      "score": 1323
+    },
+    {
+      "url": "https://www.producthunt.com/tech/the-wall-farm-by-click-grow",
+      "title": "The Wall Farm by Click &amp; Grow: The easiest way to grow fresh food indoors sustainably",
+      "score": 1279
+    },
+    {
+      "url": "https://www.producthunt.com/tech/ui-movement-2-0",
+      "title": "UI Movement 2.0: The best UI design inspiration, daily",
+      "score": 1118
+    },
+    {
+      "url": "https://www.producthunt.com/tech/startup-patterns",
+      "title": "Startup Patterns: Bite-sized startup lessons for busy founders",
+      "score": 983
+    },
+    {
+      "url": "https://www.producthunt.com/tech/spotify-daily-mix",
+      "title": "Spotify Daily Mix: Daily generated playlists of music you&#x27;ll love",
+      "score": 971
+    },
+    {
+      "url": "https://www.producthunt.com/tech/openvid-2-0",
+      "title": "Openvid 2.0: One-click desktop, cam, &amp; mic recording tool for Chrome 🎥",
+      "score": 961
+    },
+    {
+      "url": "https://www.producthunt.com/tech/figma-1-0",
+      "title": "Figma 1.0: The first interface design tool with real-time collaboration",
+      "score": 866
+    },
+    {
+      "url": "https://www.producthunt.com/tech/instant-translate-for-imessage",
+      "title": "Instant Translate for iMessage: Chat in any language without knowing it!",
+      "score": 692
+    },
+    {
+      "url": "https://www.producthunt.com/tech/undeveloped-2",
+      "title": "Undeveloped: Domains you never thought were available",
+      "score": 675
+    },
+    {
+      "url": "https://www.producthunt.com/tech/tunnello-vpn",
+      "title": "Tunnello VPN: Fast VPN that unblocks internet and protects your privacy",
+      "score": 590
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/mxgmn/WaveFunctionCollapse",
+      "title": "mxgmn/WaveFunctionCollapse: Bitmap &amp; tilemap generation from a single example with the help of ideas from quantum mechanics.",
+      "score": "772"
+    },
+    {
+      "url": "https://github.com/Tencent/tinker",
+      "title": "Tencent/tinker: Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.",
+      "score": "717"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "528"
+    },
+    {
+      "url": "https://github.com/Eloston/ungoogled-chromium",
+      "title": "Eloston/ungoogled-chromium: A Google Chromium variant for removing Google integration and enhancing privacy, control, and transparency",
+      "score": "949"
+    },
+    {
+      "url": "https://github.com/gravitational/teleport",
+      "title": "gravitational/teleport: Modern SSH server for clusters and teams.",
+      "score": "576"
+    },
+    {
+      "url": "https://github.com/justjavac/awesome-wechat-weapp",
+      "title": "justjavac/awesome-wechat-weapp: 微信小程序开发资源汇总 wechat weapp",
+      "score": "403"
+    },
+    {
+      "url": "https://github.com/davecheney/httpstat",
+      "title": "davecheney/httpstat: It's like curl -v, with colours.",
+      "score": "472"
+    },
+    {
+      "url": "https://github.com/Aufree/awesome-wechat-weapp",
+      "title": "Aufree/awesome-wechat-weapp: 此项目已不再维护，若有需要，请前往该兄弟项目进行查看",
+      "score": "115"
+    },
+    {
+      "url": "https://github.com/facebook/react",
+      "title": "facebook/react: A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+      "score": "144"
+    },
+    {
+      "url": "https://github.com/junyanz/iGAN",
+      "title": "junyanz/iGAN: A deep learning software that easily generates images with a few brushstrokes (from UC Berkeley and Adobe CTL)",
+      "score": "031"
+    }
+  ]
+}
