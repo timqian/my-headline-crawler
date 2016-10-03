@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12624309",
+      "title": "Deep-Fried Data",
+      "score": "469"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12621837",
+      "title": "Gitless: a version control system",
+      "score": "465"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12624112",
+      "title": "Never accept a counter-offer",
+      "score": "361"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12625642",
+      "title": "Sam Altman’s Manifest Destiny",
+      "score": "275"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12626314",
+      "title": "Why's that company so big? I could do that in a weekend",
+      "score": "261"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12626045",
+      "title": "The Deletion of gcj",
+      "score": "208"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12624022",
+      "title": "Our Part of the Milky Way Is Bigger Than Previously Thought",
+      "score": "147"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12624459",
+      "title": "The Future of Data Analysis [video]",
+      "score": "145"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12627372",
+      "title": "Introducing Marketplace: Buy and Sell with Your Local Community",
+      "score": "127"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12625015",
+      "title": "A list of all Android permissions",
+      "score": "123"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55ilym/dolphin_progress_report_september_2016/",
+      "title": "Dolphin Progress Report: September 2016",
+      "score": "661"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55lnlk/an_automation_tool_i_wrote_to_improve_our/",
+      "title": "An automation tool I wrote to improve our programming productivity. With this you can spend more time thinking and less time typing/clicking while programming.",
+      "score": "467"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55lxcl/this_guys_arrogance_takes_your_breath_away/",
+      "title": "“This guy’s arrogance takes your breath away” Letters between John Backus and Edsger Dijkstra, 1979",
+      "score": "238"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55lsy4/the_unix_operating_system_making_computers_more/",
+      "title": "The UNIX Operating System: Making Computers More Productive!",
+      "score": "131"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55iroc/zulip_server_open_source_group_chat/",
+      "title": "Zulip server - open source group chat",
+      "score": "51"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55iq6v/practice_doesnt_make_perfect_computer_science_is/",
+      "title": "Practice doesn't make perfect - Computer Science is specifically mentioned",
+      "score": "39"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55nn0f/guess_the_programming_language/",
+      "title": "Guess the Programming Language",
+      "score": "54"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55itts/weekly_digest_6_x64dbg/",
+      "title": "Weekly digest 6 · x64dbg",
+      "score": "26"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55kre8/powernex_the_userspace_update_also_first_birthday/",
+      "title": "PowerNex - The Userspace update! (also first birthday)",
+      "score": "24"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55k69c/ribosome_a_simple_generic_code_generation_tool/",
+      "title": "Ribosome - A simple generic code generation tool",
+      "score": "20"
+    }
+  ],
+  "medium": [
+    {
+      "title": "A Letter to my Father, The Man Who Chose Donald Trump Over Every Woman in His Life",
+      "score": "673",
+      "url": "https://medium.com/p/a-letter-to-my-father-the-man-who-chose-donald-trump-over-every-woman-in-his-life-85125feeee57"
+    },
+    {
+      "title": "Angular 2 vs React: The Ultimate Dance Off",
+      "score": "349",
+      "url": "https://medium.com/p/angular-2-vs-react-the-ultimate-dance-off-60e7dfbc379c"
+    },
+    {
+      "title": "When Roman “Barbarians” Met the Asian Enlightenment",
+      "score": "810",
+      "url": "https://medium.com/p/when-roman-barbarians-met-the-asian-enlightenment-2be064d7af9b"
+    },
+    {
+      "title": "The Winners and Losers From NFL Week 4",
+      "score": "37",
+      "url": "https://medium.com/p/the-winners-and-losers-from-nfl-week-4-c767ca08fbea"
+    },
+    {
+      "title": "Figma VS Sketch",
+      "score": "790",
+      "url": "https://medium.com/p/figma-vs-sketch-c01e5e74eddd"
+    },
+    {
+      "title": "7 tweets by Trump about taxes that are very awkward now",
+      "score": "329",
+      "url": "https://medium.com/p/7-tweets-by-trump-about-taxes-that-are-very-awkward-now-75b500ea4f45"
+    },
+    {
+      "title": "The Unfairness of Feeling",
+      "score": "1451",
+      "url": "https://medium.com/p/the-unfairness-of-feeling-1c1b6c7b4176"
+    },
+    {
+      "title": "One Year Ago, I Rebooted My Life. Is It Working?",
+      "score": "755",
+      "url": "https://medium.com/p/one-year-ago-i-rebooted-my-life-is-it-working-5fd0b8eae187"
+    },
+    {
+      "title": "Your Body Text Is Too Small",
+      "score": "683",
+      "url": "https://medium.com/p/your-body-text-is-too-small-5e02d36dc902"
+    },
+    {
+      "title": "The Problem with Women in Tech isn’t the Women — it’s the Men",
+      "score": "598",
+      "url": "https://medium.com/p/the-problem-with-women-in-tech-isnt-the-women-it-s-the-men-7bc25ce96dc6"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/facebook-marketplace",
+      "title": "Facebook Marketplace: Buy and sell with your local community. A Craigslist killer.",
+      "score": "232"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/messenger-lite",
+      "title": "Messenger Lite: Lite version of Facebook Messenger",
+      "score": "211"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/cross-platform-analytics-by-facebook",
+      "title": "Cross-platform analytics by Facebook: Measure your entire business all in one place",
+      "score": "164"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/github-audio",
+      "title": "GitHub Audio: Tracks events across GitHub to generate calming work music",
+      "score": "122"
+    },
+    {
+      "url": "https://www.producthunt.com/books/the-subtle-art-of-not-giving-a-f-ck",
+      "title": "The Subtle Art of Not Giving a F*ck: A counterintuitive approach to living a good life",
+      "score": "67"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/beaspectacle",
+      "title": "BeASpectacle: Try on Snapchat Spectacles without buying them",
+      "score": "79"
+    },
+    {
+      "url": "https://www.producthunt.com/games/burly-men-at-sea",
+      "title": "Burly Men at Sea: A beautifully illustrated folktale adventure",
+      "score": "63"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/pacemaker-2-0",
+      "title": "Pacemaker 2.0: Create and share mixtapes with friends",
+      "score": "73"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/business-systems-explored-016-nathan-kontny-highrise",
+      "title": "Business Systems Explored #016: Nathan Kontny, Highrise: Managing a busy software team",
+      "score": "35"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/optimal-block",
+      "title": "Optimal BLOCK: Block ads and tracking across all mobile browsers and apps",
+      "score": "55"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/mxgmn/WaveFunctionCollapse",
+      "title": "mxgmn/WaveFunctionCollapse: Bitmap &amp; tilemap generation from a single example with the help of ideas from quantum mechanics.",
+      "score": "575"
+    },
+    {
+      "url": "https://github.com/dennybritz/reinforcement-learning",
+      "title": "dennybritz/reinforcement-learning: Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.",
+      "score": "353"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "325"
+    },
+    {
+      "url": "https://github.com/noffle/art-of-readme",
+      "title": "noffle/art-of-readme:  Learn the art of writing quality READMEs.",
+      "score": "308"
+    },
+    {
+      "url": "https://github.com/Tetrachrome/subpixel",
+      "title": "Tetrachrome/subpixel: subpixel: A subpixel convnet for super resolution with Tensorflow",
+      "score": "292"
+    },
+    {
+      "url": "https://github.com/sdg-mit/gitless",
+      "title": "sdg-mit/gitless: A version control system built on top of Git",
+      "score": "268"
+    },
+    {
+      "url": "https://github.com/antirez/neural-redis",
+      "title": "antirez/neural-redis: Neural networks module for Redis",
+      "score": "248"
+    },
+    {
+      "url": "https://github.com/detailyang/awesome-cheatsheet",
+      "title": "detailyang/awesome-cheatsheet:  awesome cheatsheet",
+      "score": "239"
+    },
+    {
+      "url": "https://github.com/yahoo/open_nsfw",
+      "title": "yahoo/open_nsfw: code for running Model and code for Not Suitable for Work (NSFW) classification using deep neural network Caffe models",
+      "score": "228"
+    },
+    {
+      "url": "https://github.com/tawian/text-spinners",
+      "title": "tawian/text-spinners: Pure text, CSS only, font independent, inline loading indicators",
+      "score": "195"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/310426#reply84",
+      "title": "问个情感问题，遇到这样的事情算是什么？",
+      "score": "84"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310348#reply57",
+      "title": "大家有没有觉得， thinkPHP 是世界上最臃肿难用的框架？",
+      "score": "57"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310343#reply41",
+      "title": "各位有没有看《湄公河行动》？",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310345#reply40",
+      "title": "广州电信无耻的取消了 40 元包月上行提速 4M 的服务，唉。。。",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310408#reply40",
+      "title": "求推荐 windows 的拼音输入法",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310382#reply38",
+      "title": "Pixel 手机被英国零售商提前曝光了 吻合之前的曝光 （内心拒绝）",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310393#reply26",
+      "title": "macOS Sierra 值得升级么？",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310360#reply25",
+      "title": "看到一道题，觉得挺莫名其妙的",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310403#reply25",
+      "title": "大家的 iPhone 7 有 zi zi 的电流声吗？应该退换吗？",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310391#reply22",
+      "title": "京东时不时放出来的黑色 iPhone7 都是别人退回来的，包装也不是原厂塑包。",
+      "score": "22"
+    }
+  ]
+}
