@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12634590",
+      "title": "I'm choosing euthanasia etd 1pm. I have no last words.",
+      "score": "672"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12633837",
+      "title": "Police complaints drop over 90% after deploying body cameras",
+      "score": "439"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12634577",
+      "title": "How it feels to learn JavaScript in 2016",
+      "score": "416"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12634447",
+      "title": "Amazon flipped a default and made me thousands of dollars",
+      "score": "332"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12633191",
+      "title": "Too Many Tools and Frameworks (2015)",
+      "score": "245"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12635247",
+      "title": "GitHub Audio",
+      "score": "205"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12635848",
+      "title": "Grand jury subpoena for Signal user data",
+      "score": "148"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12632849",
+      "title": "OpenBSC: 3G Voice Works",
+      "score": "136"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12632493",
+      "title": "How Robots Can Acquire New Skills from Their Shared Experience",
+      "score": "133"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12634363",
+      "title": "The 2016 Nobel Prize in Physics",
+      "score": "125"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55okik/how_it_feels_to_learn_javascript_in_2016_xpost/",
+      "title": "How it feels to learn Javascript in 2016 [x-post from /r/javascript]",
+      "score": "2789"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55pdm7/regex101com_after_spending_more_time_than_i_care/",
+      "title": "regex101.com: After spending more time than I care to admit I have finally released my new version. Thoughts?",
+      "score": "475"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55tazm/tetros_tetris_that_fits_into_the_boot_sector/",
+      "title": "Tetros - Tetris that fits into the boot sector.",
+      "score": "173"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55socb/til_when_c_computes_sin_it_actually_applies/",
+      "title": "TIL When C computes sin it actually applies different formulas depending on which region the input value resides",
+      "score": "121"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55t12r/learn_the_unreal_engine_c_api_for_free/",
+      "title": "Learn the Unreal Engine C++ API for free",
+      "score": "110"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55oli3/language_server_protocol_a_microsoft_authored/",
+      "title": "Language Server Protocol: a Microsoft authored standard to unify the protocol between IDE's and language tools",
+      "score": "70"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55ps37/the_deletion_of_gcj_from_the_gcc_repository/",
+      "title": "The Deletion of gcj (from the gcc repository)",
+      "score": "52"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55tg83/say_goodbye_to_open_source_legend_pieter_hintjens/",
+      "title": "Say goodbye to open source legend Pieter Hintjens",
+      "score": "95"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55snqn/naming_things_the_hardest_thing_in_computer/",
+      "title": "Naming things - the hardest thing in computer science",
+      "score": "60"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55pp32/a_brief_history_of_2d_programming_languages/",
+      "title": "A brief history of 2d programming languages",
+      "score": "43"
+    }
+  ],
+  "medium": [
+    {
+      "title": "How it feels to learn JavaScript in 2016",
+      "score": "3881",
+      "url": "https://medium.com/p/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f"
+    },
+    {
+      "title": "A Letter to my Father, The Man Who Chose Donald Trump Over Every Woman in His Life",
+      "score": "1053",
+      "url": "https://medium.com/p/a-letter-to-my-father-the-man-who-chose-donald-trump-over-every-woman-in-his-life-85125feeee57"
+    },
+    {
+      "title": "The Winners and Losers From NFL Week 4",
+      "score": "67",
+      "url": "https://medium.com/p/the-winners-and-losers-from-nfl-week-4-c767ca08fbea"
+    },
+    {
+      "title": "‘Friday Night Lights’: The Post-TV Years",
+      "score": "186",
+      "url": "https://medium.com/p/friday-night-lights-10-year-anniversary-54f55152ab3a"
+    },
+    {
+      "title": "The ill-fated tale of Phoneys, the stupid little sticker pack that went #1 on the App Store",
+      "score": "268",
+      "url": "https://medium.com/p/the-ill-fated-tale-of-phoneys-the-stupid-little-sticker-pack-that-went-1-on-the-app-store-4934d4372352"
+    },
+    {
+      "title": "The Final Stretch of LeBron’s Race Toward Greatness",
+      "score": "116",
+      "url": "https://medium.com/p/lebron-james-cavaliers-endurance-age-9748647f6bce"
+    },
+    {
+      "title": "Angular 2 vs React: The Ultimate Dance Off",
+      "score": "464",
+      "url": "https://medium.com/p/angular-2-vs-react-the-ultimate-dance-off-60e7dfbc379c"
+    },
+    {
+      "title": "7 tweets by Trump about taxes that are very awkward now",
+      "score": "527",
+      "url": "https://medium.com/p/7-tweets-by-trump-about-taxes-that-are-very-awkward-now-75b500ea4f45"
+    },
+    {
+      "title": "NFL Week 4 Recap: The Steelers Offense Goes Scorched Earth",
+      "score": "45",
+      "url": "https://medium.com/p/nfl-week-4-recap-pittsburgh-steelers-ben-roethlisberger-bd5e78da8daf"
+    },
+    {
+      "title": "When Roman “Barbarians” Met the Asian Enlightenment",
+      "score": "899",
+      "url": "https://medium.com/p/when-roman-barbarians-met-the-asian-enlightenment-2be064d7af9b"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/new-mac-smell-candle",
+      "title": "&quot;New Mac Smell&quot; Candle: Enjoy the new Mac smell for 45-55 hours 🕯👃",
+      "score": "215"
+    },
+    {
+      "url": "https://www.producthunt.com/games/disrupt-cards",
+      "title": "Disrupt Cards: The funniest card game to hit Silicon Valley",
+      "score": "191"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/motion-ai-smooch-io",
+      "title": "Motion AI + Smooch.io: Build bots in minutes without code, deploy them anywhere",
+      "score": "100"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/one-x-sensor",
+      "title": "One X Sensor: Monitor the impact of your diet and lifestyle on your body",
+      "score": "161"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/publicize-zero",
+      "title": "Publicize Zero: Opening PR to the 99%",
+      "score": "99"
+    },
+    {
+      "url": "https://www.producthunt.com/books/create-or-hate-successful-people-make-things",
+      "title": "Create Or Hate: Successful People Make Things: We are all creative — there is a creator in you.",
+      "score": "100"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/subform",
+      "title": "Subform: A CAD-inspired design tool for UX/UI design.",
+      "score": "121"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/transparent-startups-2",
+      "title": "Transparent Startups: Discover startups with transparent revenue numbers",
+      "score": "236"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/freakonomics-why-are-we-still-using-cash",
+      "title": "Freakonomics: Why Are We Still Using Cash?: What do robbery, tax evasion &amp; drug dealing have in common?",
+      "score": "59"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/westworld-bot",
+      "title": "Westworld Bot: Plan your trip to Westworld and live without limits",
+      "score": "70"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/noffle/art-of-readme",
+      "title": "noffle/art-of-readme:  Learn the art of writing quality READMEs.",
+      "score": "744"
+    },
+    {
+      "url": "https://github.com/mxgmn/WaveFunctionCollapse",
+      "title": "mxgmn/WaveFunctionCollapse: Bitmap &amp; tilemap generation from a single example with the help of ideas from quantum mechanics.",
+      "score": "468"
+    },
+    {
+      "url": "https://github.com/tawian/text-spinners",
+      "title": "tawian/text-spinners: Pure text, CSS only, font independent, inline loading indicators",
+      "score": "410"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "383"
+    },
+    {
+      "url": "https://github.com/dennybritz/reinforcement-learning",
+      "title": "dennybritz/reinforcement-learning: Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.",
+      "score": "351"
+    },
+    {
+      "url": "https://github.com/jgamblin/Mirai-Source-Code",
+      "title": "jgamblin/Mirai-Source-Code: Leaked Mirai Source Code for Research/IoC Development Purposes",
+      "score": "228"
+    },
+    {
+      "url": "https://github.com/debugger22/github-audio",
+      "title": "debugger22/github-audio: Listen to music generated by events happening across GitHub ",
+      "score": "257"
+    },
+    {
+      "url": "https://github.com/postlight/awesome-cms",
+      "title": "postlight/awesome-cms:  A collection of open and closed source Content Management Systems (CMS) for your perusal.",
+      "score": "222"
+    },
+    {
+      "url": "https://github.com/yahoo/open_nsfw",
+      "title": "yahoo/open_nsfw: code for running Model and code for Not Suitable for Work (NSFW) classification using deep neural network Caffe models",
+      "score": "190"
+    },
+    {
+      "url": "https://github.com/detailyang/awesome-cheatsheet",
+      "title": "detailyang/awesome-cheatsheet:  awesome cheatsheet",
+      "score": "182"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/310538#reply54",
+      "title": "iOS 提醒事项+ ，快速的添加提醒事项 / Todos，送几个码。",
+      "score": "54"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310474#reply43",
+      "title": "Nexus 6 的 Android 7.0 终于来了",
+      "score": "43"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310522#reply42",
+      "title": "纠结于语言的选择，犹豫在编程路口，求打醒",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310543#reply41",
+      "title": "有人了解韩国的防火长城吗",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310505#reply39",
+      "title": "联通：尊敬的用户你好，我是你爹。",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310481#reply30",
+      "title": "假设 VG 选手 Diya 真的使用了外挂，原理应该是什么样子的？",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310490#reply28",
+      "title": "个人对 CS： GO 的偏见",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310509#reply26",
+      "title": "指针应该叫做标识符变量",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310471#reply24",
+      "title": "阿里云美西和青岛之间有内网了？",
+      "score": "24"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310510#reply24",
+      "title": "GitHub 怎么了?_?",
+      "score": "24"
+    }
+  ]
+}
