@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12637126",
+      "title": "Yahoo scanned customer emails for US intelligence",
+      "score": "1221"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12641273",
+      "title": "The eye of hurricane Matthew passes directly over a weather buoy",
+      "score": "338"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12641880",
+      "title": "Industry Concerns about TLS 1.3",
+      "score": "280"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12642824",
+      "title": "MailChimp’s founders built the company slowly by anticipating customers’ needs",
+      "score": "201"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12641155",
+      "title": "Understanding /proc",
+      "score": "190"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12642901",
+      "title": "Pixel smartphone camera review: At the top",
+      "score": "144"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12643887",
+      "title": "Vim Anti-Patterns",
+      "score": "85"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12641092",
+      "title": "Security things in Linux v4.8",
+      "score": "81"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12643373",
+      "title": "uWebSockets 0.10.0",
+      "score": "75"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12643871",
+      "title": "Twitter Is Expected to Field Bids This Week",
+      "score": "66"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55uv9z/the_end_may_be_in_sight_for_software_patentswhich/",
+      "title": "The end may be in sight for software patents—which have long been highly controversial in the tech industry—in the wake of a remarkable appeals court ruling that described such patents as a “deadweight loss on the nation’s economy” and a threat to the First Amendment’s free speech protections.",
+      "score": "1481"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55xjlp/things_i_learned_about_fonts_while_making_a_java/",
+      "title": "Things I learned About Fonts While Making a Java Font Library (that you didn’t want to know)",
+      "score": "148"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55u414/the_cost_of_forsaking_c/",
+      "title": "The cost of forsaking C",
+      "score": "116"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55y3ik/true_managerial_intentions_why_the_boss_wants_you/",
+      "title": "True Managerial Intentions: Why the Boss wants you to build that software in-house?",
+      "score": "73"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55yz0a/another_experiment_and_there_is_no_evidence_that/",
+      "title": "Another experiment and there is no evidence that TDD differs from a TLD in terms of testing effort, external code quality, and developers’ productivity.",
+      "score": "99"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55ueci/summarizing_garbage_collection/",
+      "title": "Summarizing Garbage Collection",
+      "score": "56"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55yhwb/rethinkdb_the_company_is_shutting_down/",
+      "title": "RethinkDB the company is shutting down.",
+      "score": "57"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55vge5/rustconf_2016_videos/",
+      "title": "RustConf 2016 Videos",
+      "score": "32"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55ucl7/github_dumps_rest_calls_for_facebooks_graphql_the/",
+      "title": "GitHub Dumps REST Calls for Facebook's GraphQL - The New Stack",
+      "score": "32"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/55yc6u/searching_a_million_lines_of_lisp/",
+      "title": "Searching a million lines of Lisp",
+      "score": "28"
+    }
+  ],
+  "medium": [
+    {
+      "title": "How it feels to learn JavaScript in 2016",
+      "score": "6687",
+      "url": "https://medium.com/p/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f"
+    },
+    {
+      "title": "The Prostate Cancer Test That Saved My Life",
+      "score": "868",
+      "url": "https://medium.com/p/the-prostate-cancer-test-that-saved-my-life-613feb3f7c00"
+    },
+    {
+      "title": "9 Tricks to Appear Smart in Brainstorming Meetings",
+      "score": "778",
+      "url": "https://medium.com/p/9-tricks-to-appear-smart-in-brainstorming-meetings-5371dd1a1628"
+    },
+    {
+      "title": "The Ballad of the Banana Boat Brotherhood",
+      "score": "88",
+      "url": "https://medium.com/p/the-ballad-of-the-banana-boat-brotherhood-6bc824ff2868"
+    },
+    {
+      "title": "When Roman “Barbarians” Met the Asian Enlightenment",
+      "score": "1030",
+      "url": "https://medium.com/p/when-roman-barbarians-met-the-asian-enlightenment-2be064d7af9b"
+    },
+    {
+      "title": "A Letter to my Father, The Man Who Chose Donald Trump Over Every Woman in His Life",
+      "score": "1213",
+      "url": "https://medium.com/p/a-letter-to-my-father-the-man-who-chose-donald-trump-over-every-woman-in-his-life-85125feeee57"
+    },
+    {
+      "title": "The Purpose Of Life Is Not Happiness: It’s Usefulness",
+      "score": "1082",
+      "url": "https://medium.com/p/the-purpose-of-life-is-not-happiness-its-usefulness-65064d0cdd59"
+    },
+    {
+      "title": "Millennials: Someone You Love May Be Alive Because of Hillary Clinton",
+      "score": "521",
+      "url": "https://medium.com/p/millennials-someone-you-love-is-alive-because-of-hillary-clinton-b338219e9108"
+    },
+    {
+      "title": "Silicon Valley Etiquette",
+      "score": "613",
+      "url": "https://medium.com/p/silicon-valley-etiquette-6934cf6f8f73"
+    },
+    {
+      "title": "I test-drove a Google X self-driving car and ended up in jail.",
+      "score": "262",
+      "url": "https://medium.com/p/i-test-drove-a-google-x-self-driving-car-and-ended-up-in-jail-f7e272db9060"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/serpstat-2",
+      "title": "Serpstat: Content ideas from autocomplete suggestions",
+      "score": "486"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/kap",
+      "title": "Kap: Capture your screen",
+      "score": "191"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/stash-ai-2",
+      "title": "Stash.ai: Cross-device bookmarking powered by artificial intelligence",
+      "score": "101"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/claire",
+      "title": "Claire: A new intuitive way to compare and book flights",
+      "score": "155"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/leafboard",
+      "title": "Leafboard: $299 Electric skateboard",
+      "score": "110"
+    },
+    {
+      "url": "https://www.producthunt.com/books/chatbots",
+      "title": "Chatbots: Conversational UI and the future of online interaction",
+      "score": "94"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/que-bottle-2",
+      "title": "que Bottle: The collapsible, fashionable travel bottle",
+      "score": "78"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/shop-in-messenger-by-shopify",
+      "title": "Shop in Messenger by Shopify: Browse and buy products all in Facebook Messenger.",
+      "score": "60"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/stickymappers",
+      "title": "Stickymappers: The sexiest green stickers on the iMessage store.",
+      "score": "77"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/aura-frame",
+      "title": "Aura Frame: A smart picture frame for your family",
+      "score": "44"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/noffle/art-of-readme",
+      "title": "noffle/art-of-readme:  Learn the art of writing quality READMEs.",
+      "score": "610"
+    },
+    {
+      "url": "https://github.com/debugger22/github-audio",
+      "title": "debugger22/github-audio: Listen to music generated by events happening across GitHub ",
+      "score": "420"
+    },
+    {
+      "url": "https://github.com/tawian/text-spinners",
+      "title": "tawian/text-spinners: Pure text, CSS only, font independent, inline loading indicators",
+      "score": "409"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "381"
+    },
+    {
+      "url": "https://github.com/docker/infrakit",
+      "title": "docker/infrakit: A toolkit for creating and managing declarative, self-healing infrastructure.",
+      "score": "370"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "345"
+    },
+    {
+      "url": "https://github.com/jcjohnson/fast-neural-style",
+      "title": "jcjohnson/fast-neural-style: Feedforward style transfer",
+      "score": "299"
+    },
+    {
+      "url": "https://github.com/mxgmn/WaveFunctionCollapse",
+      "title": "mxgmn/WaveFunctionCollapse: Bitmap &amp; tilemap generation from a single example with the help of ideas from quantum mechanics.",
+      "score": "274"
+    },
+    {
+      "url": "https://github.com/daniel-e/tetros",
+      "title": "daniel-e/tetros: Tetris that fits into the boot sector.",
+      "score": "270"
+    },
+    {
+      "url": "https://github.com/ceteri/pytextrank",
+      "title": "ceteri/pytextrank: A pure Python impl of TextRank for document summarization",
+      "score": "220"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/310685#reply67",
+      "title": "完美的 Android 手机就不存在吗",
+      "score": "67"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310614#reply46",
+      "title": "有公网 IP，但是外网无法访问是怎么回事？",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310631#reply45",
+      "title": "定了 Pixel 然后退了买 Moto Z",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310684#reply45",
+      "title": "华为荣耀 8 还是一加 3 ？",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310666#reply40",
+      "title": "想买一台开发本，现在入 Surface 或 MacBook 靠谱吗?",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310726#reply39",
+      "title": "你们怎么把安卓上的一个 url 发到台式机浏览器的",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310645#reply34",
+      "title": "前端把查询插入写成这样是要闹哪样！",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310615#reply33",
+      "title": "各位前端，大家现在用的是 gulp 还是 grunt",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310630#reply25",
+      "title": "如何禁止 windows 版本 QQ 自带的应用宝功能通过 USB 调试模式访问安卓手机",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310721#reply25",
+      "title": "通信工程专业的研究生学 java 是不是一点用没有？",
+      "score": "25"
+    }
+  ]
+}
