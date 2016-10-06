@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12649414",
+      "title": "RethinkDB is shutting down",
+      "score": "1302"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12645661",
+      "title": "Epiphany-V: A 1024-core 64-bit RISC processor",
+      "score": "404"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12643978",
+      "title": "A bot crawled thousands of studies looking for simple math errors",
+      "score": "394"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12646083",
+      "title": "Show HN: A new decentralized microblogging platform",
+      "score": "333"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12646511",
+      "title": "Typora – A cross platform markdown editor",
+      "score": "308"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12649484",
+      "title": "Twitter Shares Slump After Report Says Google Won’t Make a Bid",
+      "score": "222"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12648740",
+      "title": "Samsung acquires Viv, a next-gen AI assistant built by creators of Apple’s Siri",
+      "score": "214"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12649734",
+      "title": "Designing a SaaS Database for Scale with Postgres",
+      "score": "193"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12649311",
+      "title": "Udacity open-sources additional driving data",
+      "score": "185"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12648443",
+      "title": "Cartographer – A real-time simultaneous localization and mapping library",
+      "score": "169"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56024d/linus_torvalds_admits_buggy_crap_made_it_into/",
+      "title": "Linus Torvalds admits 'buggy crap' made it into Linux 4.8 - A rant about Assert in kernel code",
+      "score": "1705"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/563h7g/rethinkdb_is_shutting_down/",
+      "title": "RethinkDB is shutting down",
+      "score": "108"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5612y3/announcing_visual_studio_15_preview_5/",
+      "title": "Announcing Visual Studio “15” Preview 5",
+      "score": "89"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/560f7d/why_i_believe_graphql_will_come_to_replace_rest/",
+      "title": "Why I believe GraphQL will come to replace REST",
+      "score": "81"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5652tc/unix_as_an_ide/",
+      "title": "Unix as an IDE",
+      "score": "92"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5617au/epiphanyv_a_1024core_64bit_risc_processor/",
+      "title": "Epiphany-V: A 1024-core 64-bit RISC processor",
+      "score": "54"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/564iax/visualvm_139_released_at_github/",
+      "title": "VisualVM 1.3.9 released at GitHub!",
+      "score": "59"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5606w0/webassembly_high_speed_at_low_cost_for_everyone/",
+      "title": "WebAssembly: high speed at low cost for everyone",
+      "score": "48"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/565966/armv7_emulator_written_in_rust/",
+      "title": "ARMv7 emulator written in Rust",
+      "score": "46"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/561xwk/data_mining_in_python_a_guide_contains_useful/",
+      "title": "Data Mining in Python: A Guide (contains useful examples and code snippets)",
+      "score": "22"
+    }
+  ],
+  "medium": [
+    {
+      "title": "How it feels to learn JavaScript in 2016",
+      "score": "8032",
+      "url": "https://medium.com/p/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f"
+    },
+    {
+      "title": "9 Tricks to Appear Smart in Brainstorming Meetings",
+      "score": "1391",
+      "url": "https://medium.com/p/9-tricks-to-appear-smart-in-brainstorming-meetings-5371dd1a1628"
+    },
+    {
+      "title": "The Prostate Cancer Test That Saved My Life",
+      "score": "1144",
+      "url": "https://medium.com/p/the-prostate-cancer-test-that-saved-my-life-613feb3f7c00"
+    },
+    {
+      "title": "Zuckerberg in Africa",
+      "score": "254",
+      "url": "https://medium.com/p/zuckerberg-in-africa-da3dabf74276"
+    },
+    {
+      "title": "The Hive is the New Network",
+      "score": "400",
+      "url": "https://medium.com/p/the-hive-is-the-new-network-260b432a6720"
+    },
+    {
+      "title": "I test-drove a Google X self-driving car and ended up in jail.",
+      "score": "362",
+      "url": "https://medium.com/p/i-test-drove-a-google-x-self-driving-car-and-ended-up-in-jail-f7e272db9060"
+    },
+    {
+      "title": "Why Conservatives Shouldn’t Vote Trump",
+      "score": "250",
+      "url": "https://medium.com/p/why-conservatives-shouldnt-vote-trump-ed7141a6392e"
+    },
+    {
+      "title": "The Purpose Of Life Is Not Happiness: It’s Usefulness",
+      "score": "1459",
+      "url": "https://medium.com/p/the-purpose-of-life-is-not-happiness-its-usefulness-65064d0cdd59"
+    },
+    {
+      "title": "How to Live ON PURPOSE and Maximize Every Freaking Day",
+      "score": "471",
+      "url": "https://medium.com/p/the-secret-to-making-the-most-of-today-953e472b5b25"
+    },
+    {
+      "title": "Five Ways to Lose an NFL Season",
+      "score": "47",
+      "url": "https://medium.com/p/five-ways-to-lose-an-nfl-season-841060ec7e08"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/push-by-zapier",
+      "title": "Push by Zapier: A Chrome extension to automate 500+ apps, powered by Zapier",
+      "score": "170"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/calendarx",
+      "title": "CalendarX: Get a calendar  your audience can follow",
+      "score": "176"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/shyp-label-printing",
+      "title": "Shyp Label Printing: Upload bulk addresses, batch process &amp; print shipping labels",
+      "score": "45"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/duolingo-bots",
+      "title": "Duolingo Bots: AI-powered characters to teach language conversation",
+      "score": "38"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/pokemasks",
+      "title": "PokéMasks: Highly-detailed and lifelike, 3D Pokémon Masks",
+      "score": "130"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/botframe",
+      "title": "Botframe: A playground to design &amp; validate bots",
+      "score": "76"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/inkhunter-for-android",
+      "title": "INKHUNTER for Android: Tattoos in real-time with augmented reality",
+      "score": "50"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/miniplay-for-spotify-and-itunes",
+      "title": "MiniPlay for Spotify and iTunes: What&#x27;s currently playing in your favorite music app",
+      "score": "92"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/hooks-chats",
+      "title": "Hooks Chats: Push notifications meet real time conversations",
+      "score": "79"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/mastodon",
+      "title": "Mastodon: Open-source decentralized microblogging platform",
+      "score": "73"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "1478"
+    },
+    {
+      "url": "https://github.com/uWebSockets/uWebSockets",
+      "title": "uWebSockets/uWebSockets: Highly scalable WebSocket server &amp; client library",
+      "score": "523"
+    },
+    {
+      "url": "https://github.com/wulkano/kap",
+      "title": "wulkano/kap: An open-source screen recorder built with web technology",
+      "score": "494"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "405"
+    },
+    {
+      "url": "https://github.com/noffle/art-of-readme",
+      "title": "noffle/art-of-readme:  Learn the art of writing quality READMEs.",
+      "score": "390"
+    },
+    {
+      "url": "https://github.com/Gargron/mastodon",
+      "title": "Gargron/mastodon: A GNU Social-compatible microblogging server",
+      "score": "365"
+    },
+    {
+      "url": "https://github.com/googlecartographer/cartographer",
+      "title": "googlecartographer/cartographer: Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.",
+      "score": "287"
+    },
+    {
+      "url": "https://github.com/dempfi/ayu",
+      "title": "dempfi/ayu: Modern Sublime Text 3 and 2 theme",
+      "score": "299"
+    },
+    {
+      "url": "https://github.com/tawian/text-spinners",
+      "title": "tawian/text-spinners: Pure text, CSS only, font independent, inline loading indicators",
+      "score": "285"
+    },
+    {
+      "url": "https://github.com/udacity/self-driving-car",
+      "title": "udacity/self-driving-car: Information about the Udacity open source self-driving car project",
+      "score": "271"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/310791#reply63",
+      "title": "7 年老程序猿想转行画画，可行么？",
+      "score": "63"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310873#reply49",
+      "title": "长期内推 Booking.com，坐标荷兰，只推社招",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310809#reply38",
+      "title": "买内存条千万不能贪便宜！",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310820#reply30",
+      "title": "开车的时候一般都会听些什么？",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310783#reply30",
+      "title": "怎么给猫称体重, 两个半月猫一般多重",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310788#reply26",
+      "title": "各位写代码或打字的时候都是用哪个手指按 ( ) - = delete 等键的？",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310867#reply24",
+      "title": "完美获取 Google 全家桶的方式是什么？",
+      "score": "24"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310775#reply24",
+      "title": "请教哪一款手机视频聊天软件清晰度最好",
+      "score": "24"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310807#reply23",
+      "title": "全栈工程师 真的好吗？",
+      "score": "23"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310871#reply22",
+      "title": "跑步时听的音乐？",
+      "score": "22"
+    }
+  ]
+}
