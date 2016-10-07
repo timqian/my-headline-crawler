@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12649414",
+      "title": "RethinkDB is shutting down",
+      "score": "1597"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12654499",
+      "title": "Google Noto Fonts",
+      "score": "1032"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12657522",
+      "title": "First farm to grow vegetables in a desert using only sun and seawater",
+      "score": "426"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12656426",
+      "title": "Reflections of an “Old” Programmer",
+      "score": "379"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12657618",
+      "title": "Hurricane Matthew Visualization",
+      "score": "249"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12659141",
+      "title": "Foundations of Data Science [pdf]",
+      "score": "246"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12657162",
+      "title": "Mark Zuckerberg's virtual reality demo [video]",
+      "score": "242"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12658764",
+      "title": "Tim Berners-Lee just gave us an opening to stop DRM in Web standards",
+      "score": "186"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12657872",
+      "title": "Backpage Raided, CEO Arrested on Sex-Trafficking Charges",
+      "score": "167"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12657249",
+      "title": "Netflix and Ch-Ch-Chilly",
+      "score": "138"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5687dg/why_i_hate_ios_as_a_developer/",
+      "title": "Why I hate iOS as a developer",
+      "score": "2432"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/565uwo/shenzhen_io_zachtronics_latest_embedded/",
+      "title": "SHENZHEN I/O - Zachtronics latest embedded programming game releases in 1 hour on Steam",
+      "score": "258"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56a18d/programmer_never_base_your_income_on_appstore/",
+      "title": "Programmer: Never base your income on AppStore, they can nuke your account on a whim",
+      "score": "247"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/567jf3/is_it_dangerous_to_compile_arbitrary_c/",
+      "title": "Is it dangerous to compile arbitrary C?",
+      "score": "61"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56arda/netbeans_82_released/",
+      "title": "Netbeans 8.2 Released",
+      "score": "32"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/569igb/smallsize_optimization_in_c/",
+      "title": "Small-Size Optimization in C",
+      "score": "28"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/568o34/typesafe_unions_in_c_and_rust/",
+      "title": "Type-safe unions in C++ and Rust",
+      "score": "18"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/567ifk/new_free_book_from_al_sweigart_scratch/",
+      "title": "New, free book from Al Sweigart: &quot;Scratch Programming Playground&quot;",
+      "score": "14"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/566stc/google_music_terminal_client_written_in_python/",
+      "title": "Google Music terminal client written in python",
+      "score": "14"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/566a6r/windowing_systems_by_example_8_getting_dirty/",
+      "title": "Windowing Systems by Example: 8 - Getting Dirty",
+      "score": "14"
+    }
+  ],
+  "medium": [
+    {
+      "title": "How it feels to learn JavaScript in 2016",
+      "score": "8974",
+      "url": "https://medium.com/p/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f"
+    },
+    {
+      "title": "The Hive is the New Network",
+      "score": "875",
+      "url": "https://medium.com/p/the-hive-is-the-new-network-260b432a6720"
+    },
+    {
+      "title": "Zuckerberg in Africa",
+      "score": "541",
+      "url": "https://medium.com/p/zuckerberg-in-africa-da3dabf74276"
+    },
+    {
+      "title": "Six Reasons Conservatives Should Not Vote for Donald Trump",
+      "score": "262",
+      "url": "https://medium.com/p/six-reasons-conservatives-should-not-vote-for-donald-trump-df1df2a9f8c5"
+    },
+    {
+      "title": "Semantics — What does data science reveal about Clinton and Trump ?",
+      "score": "417",
+      "url": "https://medium.com/p/semantics-what-does-data-science-reveal-about-clinton-and-trump-afdf427e833b"
+    },
+    {
+      "title": "Could This Be the Year That Chris Paul Falls Off?",
+      "score": "169",
+      "url": "https://medium.com/p/chris-paul-future-f9df1b483c0a"
+    },
+    {
+      "title": "How to Live ON PURPOSE and Maximize Every Freaking Day",
+      "score": "850",
+      "url": "https://medium.com/p/the-secret-to-making-the-most-of-today-953e472b5b25"
+    },
+    {
+      "title": "9 Tricks to Appear Smart in Brainstorming Meetings",
+      "score": "1760",
+      "url": "https://medium.com/p/9-tricks-to-appear-smart-in-brainstorming-meetings-5371dd1a1628"
+    },
+    {
+      "title": "You Can Make the Next Great TV Show — Here’s How",
+      "score": "63",
+      "url": "https://medium.com/p/you-can-make-the-next-great-tv-show-heres-how-ad9c56e14ef1"
+    },
+    {
+      "title": "Angular 2 vs React: The Ultimate Dance Off",
+      "score": "659",
+      "url": "https://medium.com/p/angular-2-vs-react-the-ultimate-dance-off-60e7dfbc379c"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/prisma-video",
+      "title": "Prisma Video: Turn your videos into artwork with Prisma",
+      "score": "279"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/fend",
+      "title": "FEND: The collapsible bicycle helmet",
+      "score": "241"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/driftbot",
+      "title": "DriftBot: A chatbot for your knowledge base",
+      "score": "169"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/the-flip-wallet",
+      "title": "The Flip Wallet: A wallet that&#x27;s about more than just storage.",
+      "score": "141"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/live-beacon-2",
+      "title": "Live Beacon: The world&#x27;s simplest iBeacon",
+      "score": "85"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/speedify-4-0",
+      "title": "Speedify 4.0: Combine your WiFi and cell connections for increased speed",
+      "score": "68"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/fllike",
+      "title": "Fllike: A beautiful way to score and share your flight experience",
+      "score": "76"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/sun",
+      "title": "Sun: Beautiful weather forecast powered by Dark Sky",
+      "score": "39"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/livemessage-from-salesforce",
+      "title": "LiveMessage from Salesforce: Make mobile messaging a cornerstone of customer service",
+      "score": "62"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/eric-cartman-chatbot",
+      "title": "Eric Cartman Chatbot: Deep learning, deep fried. The unofficial Eric Cartman bot",
+      "score": "53"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "4663"
+    },
+    {
+      "url": "https://github.com/wulkano/kap",
+      "title": "wulkano/kap: An open-source screen recorder built with web technology",
+      "score": "449"
+    },
+    {
+      "url": "https://github.com/natefinch/gorram",
+      "title": "natefinch/gorram: It's like go run for any go function",
+      "score": "421"
+    },
+    {
+      "url": "https://github.com/googlecartographer/cartographer",
+      "title": "googlecartographer/cartographer: Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.",
+      "score": "371"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "371"
+    },
+    {
+      "url": "https://github.com/appbaseio/mirage",
+      "title": "appbaseio/mirage:  GUI for writing Elasticsearch queries",
+      "score": "294"
+    },
+    {
+      "url": "https://github.com/jaspervdj/patat",
+      "title": "jaspervdj/patat: Terminal-based presentations using Pandoc",
+      "score": "295"
+    },
+    {
+      "url": "https://github.com/noffle/art-of-readme",
+      "title": "noffle/art-of-readme:  Learn the art of writing quality READMEs.",
+      "score": "289"
+    },
+    {
+      "url": "https://github.com/udacity/self-driving-car",
+      "title": "udacity/self-driving-car: Information about the Udacity open source self-driving car project",
+      "score": "272"
+    },
+    {
+      "url": "https://github.com/dempfi/ayu",
+      "title": "dempfi/ayu: Modern Sublime Text 3 and 2 theme",
+      "score": "273"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/310944#reply59",
+      "title": "计算机本科二本，读研还是去工作？",
+      "score": "59"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310966#reply59",
+      "title": "有几个 icons8 的授权，需要的 V 友可以联系",
+      "score": "59"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310921#reply49",
+      "title": "打算入一台 NAS，看了群晖 DS216j 跟 DS216+Ⅱ，差价有 1000 多，主要是放家自己用，不知道怎么选了，之前没使用 NAS 的经验，大伙给看看？",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310976#reply48",
+      "title": "如果你的已婚伴侣办理了信用卡，欠款逾期了还在欺瞒你，该怎么办？",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310920#reply47",
+      "title": "一款适合 IT 人士日常交际的随手礼盒",
+      "score": "47"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310975#reply33",
+      "title": "“调休”这种蛋疼的设定大概没几个国家有吧？",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310969#reply32",
+      "title": "高铁实名制验证漏洞",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310987#reply32",
+      "title": "请问哪里注册便宜的域名，做域名邮箱长期使用，品相不限，短点就行",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310988#reply31",
+      "title": "特别讨厌前端那些工具命令怎么办？",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/310924#reply30",
+      "title": "再给大家推荐个美剧《西部世界》！！！",
+      "score": "30"
+    }
+  ]
+}
