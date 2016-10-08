@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12654499",
+      "title": "Google Noto Fonts",
+      "score": "1145"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12660803",
+      "title": "Brain training exercises might just make you better at brain training exercises",
+      "score": "464"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12661227",
+      "title": "IP Spoofing",
+      "score": "418"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12660468",
+      "title": "A Brief History of Who Ruined Burning Man",
+      "score": "395"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12660253",
+      "title": "Shenzhen I/O",
+      "score": "377"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12662749",
+      "title": "Graph-Powered Machine Learning at Google",
+      "score": "311"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12665496",
+      "title": "Just shut up and let your devs concentrate, advises Joel Spolsky",
+      "score": "230"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12664721",
+      "title": "Paul Erdős: a life that added up to something (1996)",
+      "score": "227"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12660123",
+      "title": "How We Built the World’s Prettiest Auto-Generated Transit Maps",
+      "score": "224"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12666361",
+      "title": "A Javascript journey with only six characters",
+      "score": "202"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56ddkd/nexedi_suing_apple_for_better_html5_support_in_ios/",
+      "title": "Nexedi suing Apple for better HTML5 support in iOS",
+      "score": "271"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56ckrv/should_math_be_a_prerequisite_for_programming/",
+      "title": "Should Math be a Prerequisite for Programming?",
+      "score": "236"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56e8r4/cmake_support_in_visual_studio/",
+      "title": "CMake support in Visual Studio",
+      "score": "143"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56etl1/hipsterize_your_dog_with_deep_learning/",
+      "title": "Hipsterize Your Dog With Deep Learning",
+      "score": "148"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56elc2/nodejs_vs_swift_serverside_frameworks_benchmarks/",
+      "title": "Node.js vs Swift Server-Side frameworks Benchmarks (Ubuntu)",
+      "score": "131"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56ennw/new_series_learn_python_for_data_science_1/",
+      "title": "New Series: Learn Python for Data Science #1",
+      "score": "137"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56ggr7/swagger_aint_rest/",
+      "title": "Swagger Ain't REST",
+      "score": "153"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56cgn0/how_microsoft_lost_the_api_war/",
+      "title": "How Microsoft Lost the API War",
+      "score": "84"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56ecnu/zachtronics_shenzhen_io/",
+      "title": "Zachtronics | SHENZHEN I/O",
+      "score": "71"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56gm72/we_had_a_post_about_whether_you_need_maths_to/",
+      "title": "We had a post about whether you need maths to program. My answer: You need this kind. (Link to full video lecture series on discrete maths)",
+      "score": "80"
+    }
+  ],
+  "medium": [
+    {
+      "title": "How it feels to learn JavaScript in 2016",
+      "score": "9551",
+      "url": "https://medium.com/p/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f"
+    },
+    {
+      "title": "The Hive is the New Network",
+      "score": "1140",
+      "url": "https://medium.com/p/the-hive-is-the-new-network-260b432a6720"
+    },
+    {
+      "title": "Zuckerberg in Africa",
+      "score": "714",
+      "url": "https://medium.com/p/zuckerberg-in-africa-da3dabf74276"
+    },
+    {
+      "title": "Week 5 NFL Picks: Tom Terrific to the Rescue",
+      "score": "37",
+      "url": "https://medium.com/p/week-5-nfl-picks-tom-brady-back-4d889c1d9981"
+    },
+    {
+      "title": "Dwight Howard’s Last Stand",
+      "score": "58",
+      "url": "https://medium.com/p/dwight-howards-last-stand-5b4347669a1e"
+    },
+    {
+      "title": "9 Tricks to Appear Smart in Brainstorming Meetings",
+      "score": "1996",
+      "url": "https://medium.com/p/9-tricks-to-appear-smart-in-brainstorming-meetings-5371dd1a1628"
+    },
+    {
+      "title": "JavaScript Fatigue Fatigue",
+      "score": "601",
+      "url": "https://medium.com/p/javascript-fatigue-fatigue-66ffb619f6ce"
+    },
+    {
+      "title": "Why I Think I Should Marry a Rich Man",
+      "score": "219",
+      "url": "https://medium.com/p/why-i-think-i-should-marry-a-rich-man-7dbeb4ebcbb"
+    },
+    {
+      "title": "How to Live ON PURPOSE and Maximize Every Freaking Day",
+      "score": "1100",
+      "url": "https://medium.com/p/the-secret-to-making-the-most-of-today-953e472b5b25"
+    },
+    {
+      "title": "I’m Done Pretending SF Tech Is Visionary",
+      "score": "486",
+      "url": "https://medium.com/p/im-done-pretending-sf-tech-is-visionary-9d0e91bfacfb"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/hero-patterns",
+      "title": "Hero Patterns: A collection of repeatable SVG background patterns",
+      "score": "182"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/flinto-2-0-for-mac",
+      "title": "Flinto 2.0 for Mac: Prototyping tool for Mac",
+      "score": "118"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/ventusky",
+      "title": "Ventusky: Real-time weather mapping",
+      "score": "85"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/product-hunt-profile-cards",
+      "title": "Product Hunt Profile Cards: Hover cards for user profiles on Product Hunt",
+      "score": "110"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/fireflies-1",
+      "title": "Fireflies: A personal assistant for your daily tasks",
+      "score": "23"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/clasp",
+      "title": "Clasp: Subscription service for handbags",
+      "score": "33"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/cat-ipsum",
+      "title": "Cat Ipsum: Litter your copy with more kitty",
+      "score": "29"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/tech-in-chigaco-building-a-marketplace-business",
+      "title": "Tech in Chigaco - Building a Marketplace Business: A chat with Mark Lawrence / Co-Founder of SpotHero",
+      "score": "2"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/iband",
+      "title": "iBand+: EEG headband that aims to help you sleep and dream",
+      "score": "14"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/health-stickers-for-imessage",
+      "title": "Health Stickers for iMessage: Easy dynamic stickers to share workouts, activity, health",
+      "score": "31"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "1658"
+    },
+    {
+      "url": "https://github.com/googlecartographer/cartographer",
+      "title": "googlecartographer/cartographer: Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.",
+      "score": "349"
+    },
+    {
+      "url": "https://github.com/soimort/you-get",
+      "title": "soimort/you-get:  Dumb downloader that scrapes the web",
+      "score": "355"
+    },
+    {
+      "url": "https://github.com/kendricktan/suiron",
+      "title": "kendricktan/suiron: Machine Learning for RC Cars",
+      "score": "361"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "353"
+    },
+    {
+      "url": "https://github.com/wulkano/kap",
+      "title": "wulkano/kap: An open-source screen recorder built with web technology",
+      "score": "275"
+    },
+    {
+      "url": "https://github.com/noffle/art-of-readme",
+      "title": "noffle/art-of-readme:  Learn the art of writing quality READMEs.",
+      "score": "248"
+    },
+    {
+      "url": "https://github.com/appbaseio/mirage",
+      "title": "appbaseio/mirage:  GUI for writing Elasticsearch queries",
+      "score": "237"
+    },
+    {
+      "url": "https://github.com/web-pal/DBGlass",
+      "title": "web-pal/DBGlass: PostgreSQL client built with Electron.",
+      "score": "234"
+    },
+    {
+      "url": "https://github.com/dudu90/FreshDownloadView",
+      "title": "dudu90/FreshDownloadView: A download progressbar with cool animation",
+      "score": "197"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/311116#reply119",
+      "title": "15w 左右，最近选车选迷茫了！",
+      "score": "119"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311098#reply103",
+      "title": "如果面试的时候， hr 或者是 cto（总监）要看你的浏览器收藏夹，你会给看吗？",
+      "score": "103"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311090#reply52",
+      "title": "用树莓派+阿里云解析 api 自制 NAS 系统",
+      "score": "52"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311071#reply49",
+      "title": "iOS 开发程序媛，想在深圳学车，去哪报名比较好？坐标南山",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311133#reply45",
+      "title": "那款赛车游戏可以当考驾照练习开车???",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311113#reply33",
+      "title": "使用了 5 年安卓手机的感受和体会",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311074#reply32",
+      "title": "前天春雨的张锐又猝死了 今年是一个接一个呀",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311095#reply30",
+      "title": "360 CDN 又回来了！",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311155#reply27",
+      "title": "公司封杀了 Teamviewer",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311068#reply26",
+      "title": "最近老是收到这个邀请，有什么办法屏蔽掉吗",
+      "score": "26"
+    }
+  ]
+}
