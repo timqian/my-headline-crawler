@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12670560",
+      "title": "Dropbox, Google Drive and Microsoft OneDrive blocked in Turkey following leaks",
+      "score": "208"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12670958",
+      "title": "A decentralized web would give power back to the people online",
+      "score": "167"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12670731",
+      "title": "Ask HN: Those making over $1K/month on side projects, what did you make?",
+      "score": "146"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12670316",
+      "title": "EC2's most dangerous feature",
+      "score": "139"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12669920",
+      "title": "Manic Digger – A multiplayer block-building voxel game, Minecraft clone",
+      "score": "120"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12671063",
+      "title": "IRC v3",
+      "score": "116"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12670310",
+      "title": "Minetest – A free, open-source voxel game engine and game",
+      "score": "106"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12669591",
+      "title": "Converting atmospheric carbon dioxide into carbon nanotubes for use in batteries",
+      "score": "103"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12669349",
+      "title": "Send Your Brain Back in Time",
+      "score": "78"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12671290",
+      "title": "Developer hiring and the market for lemons",
+      "score": "54"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56l781/understanding_caching_in_postgres_an_indepth_guide/",
+      "title": "Understanding caching in Postgres - An in-depth guide",
+      "score": "75"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56m2sk/ec2s_most_dangerous_feature/",
+      "title": "EC2's most dangerous feature",
+      "score": "63"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56kazx/cppcon_chandler_carruth_garbage_in_garbage_out/",
+      "title": "CppCon: Chandler Carruth &quot;Garbage In, Garbage Out: Arguing about Undefined Behavior&quot;",
+      "score": "36"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56lj21/a_beginners_guide_to_websockets_in_elm_and_crystal/",
+      "title": "A beginner’s guide to Websockets in Elm and Crystal",
+      "score": "28"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56lbpz/git_flow_vs_continuous_delivery/",
+      "title": "Git Flow vs. Continuous Delivery",
+      "score": "23"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56hntm/szl_a_tclinspired_embeddable_language/",
+      "title": "Szl, a Tcl-inspired embeddable language",
+      "score": "15"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56j95z/javascript_leads_to_browser_hijacking/",
+      "title": "Javascript Leads to Browser Hijacking",
+      "score": "16"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56iuwv/type_a_foss_clone_of_typingio/",
+      "title": "Type: A FOSS clone of typing.io",
+      "score": "9"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56hc9r/handmade_hero_chat_undefined_behavior_topic/",
+      "title": "Handmade Hero Chat - Undefined Behavior (topic starts at 4:00)",
+      "score": "11"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56iu6y/cutting_through_to_what_matters/",
+      "title": "Cutting through to what matters",
+      "score": "9"
+    }
+  ],
+  "medium": [
+    {
+      "title": "How it feels to learn JavaScript in 2016",
+      "score": "9985",
+      "url": "https://medium.com/p/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f"
+    },
+    {
+      "title": "Why I Think I Should Marry a Rich Man",
+      "score": "391",
+      "url": "https://medium.com/p/why-i-think-i-should-marry-a-rich-man-7dbeb4ebcbb"
+    },
+    {
+      "title": "The Hive is the New Network",
+      "score": "1316",
+      "url": "https://medium.com/p/the-hive-is-the-new-network-260b432a6720"
+    },
+    {
+      "title": "A Technical Follow-Up: How We Built the World’s Prettiest Auto-Generated Transit Maps",
+      "score": "531",
+      "url": "https://medium.com/p/how-we-built-the-worlds-prettiest-auto-generated-transit-maps-12d0c6fa502f"
+    },
+    {
+      "title": "What I learned from reviewing 50 portfolios on Reddit in 3 crazy days.",
+      "score": "247",
+      "url": "https://medium.com/p/i-reviewed-fifty-portfolios-on-reddit-and-this-is-what-i-learned-e5d2b43150bc"
+    },
+    {
+      "title": "Meet the Ishmaels, America’s ‘worst’ family",
+      "score": "186",
+      "url": "https://medium.com/p/ishmaels-americas-worst-family-1bacd94969b5"
+    },
+    {
+      "title": "Zuckerberg in Africa",
+      "score": "815",
+      "url": "https://medium.com/p/zuckerberg-in-africa-da3dabf74276"
+    },
+    {
+      "title": "How to Live ON PURPOSE and Maximize Every Freaking Day",
+      "score": "1316",
+      "url": "https://medium.com/p/the-secret-to-making-the-most-of-today-953e472b5b25"
+    },
+    {
+      "title": "I’m Done Pretending SF Tech Is Visionary",
+      "score": "692",
+      "url": "https://medium.com/p/im-done-pretending-sf-tech-is-visionary-9d0e91bfacfb"
+    },
+    {
+      "title": "I want to quit. Right now.",
+      "score": "500",
+      "url": "https://medium.com/p/i-want-to-quit-right-now-1e59c4a6828a"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/paperworks",
+      "title": "Paperworks: All your receipts, invoices, and payments in one place.",
+      "score": "109"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/spelling-police",
+      "title": "Spelling Police: A collection of commonly misspelled words as stickers",
+      "score": "46"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/color-library",
+      "title": "Color Library: Automated color separation",
+      "score": "49"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/tech-in-chicago-the-future-of-food-tech-how-to-raise-100k-in-your-first-day-on-kickstarter",
+      "title": "Tech in Chicago - The Future Of Food Tech &amp; How To Raise $100k In Your First Day On Kickstarter: A chat with David Rabie / Founder of Tovala",
+      "score": "5"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/meetingplanner-io",
+      "title": "MeetingPlanner.io: Simple online scheduling tool for group meetings",
+      "score": "30"
+    },
+    {
+      "url": "https://www.producthunt.com/games/bushido-smash",
+      "title": "Bushido Smash: Test your focus ability",
+      "score": "2"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/whisky16",
+      "title": "Whisky16: Apply artistic styles to your photos and videos Live",
+      "score": "16"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/toca-tv",
+      "title": "Toca TV: Playful ad-free streaming video service for kids",
+      "score": "15"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/interq",
+      "title": "InterQ: Easily break the ice in a job interview with this iOS app",
+      "score": "4"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/foundersgyan-episode-60-feat-bigmygig-founders",
+      "title": "FoundersGyan Episode 60 - feat. BigMyGig Founders: Making your gigs memorable with BigMyGig.com",
+      "score": "4"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "809"
+    },
+    {
+      "url": "https://github.com/jeasonlzy/okhttp-OkGo",
+      "title": "jeasonlzy/okhttp-OkGo: OkHttpUtils-2.0.0 升级后改名 OkGo，全新完美支持RxJava，比Retrofit更简单易用。该库是封装了okhttp的网络框架，支持大文件上传下载，上传进度回调，下载进度回调，表单上传（多文件和多参数一起上传），链式调用，可以自定义返回对象，支持Https和自签名证书，支持cookie的持久化和自动管理，支持四种缓存模式缓存网络数据，支持301和302重定向，扩展了统一的上传管理和下载管理功能",
+      "score": "348"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "363"
+    },
+    {
+      "url": "https://github.com/soimort/you-get",
+      "title": "soimort/you-get:  Dumb downloader that scrapes the web",
+      "score": "313"
+    },
+    {
+      "url": "https://github.com/leolin310148/ShortcutBadger",
+      "title": "leolin310148/ShortcutBadger: An Android library supports badge notification like iOS in Samsung, LG, Sony and HTC launchers.",
+      "score": "217"
+    },
+    {
+      "url": "https://github.com/noffle/art-of-readme",
+      "title": "noffle/art-of-readme:  Learn the art of writing quality READMEs.",
+      "score": "183"
+    },
+    {
+      "url": "https://github.com/vuejs/vue",
+      "title": "vuejs/vue: Simple yet powerful library for building modern web interfaces.",
+      "score": "177"
+    },
+    {
+      "url": "https://github.com/googlecartographer/cartographer",
+      "title": "googlecartographer/cartographer: Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.",
+      "score": "162"
+    },
+    {
+      "url": "https://github.com/justjavac/awesome-wechat-weapp",
+      "title": "justjavac/awesome-wechat-weapp: 微信小程序开发资源汇总 wechat weapp",
+      "score": "161"
+    },
+    {
+      "url": "https://github.com/jiahaog/nativefier",
+      "title": "jiahaog/nativefier: Make any web page a desktop application",
+      "score": "169"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/311343#reply96",
+      "title": "调查：你会为什么样的网络服务付费？",
+      "score": "96"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311347#reply71",
+      "title": "Apple Pay 真是好用：）",
+      "score": "71"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311314#reply68",
+      "title": "心情低估该怎么度过？",
+      "score": "68"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311295#reply68",
+      "title": "V2 程序员 朋友喜欢 玩大排量摩托吗。我先来一个，哄哄的，很有逼格，哈哈",
+      "score": "68"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311441#reply62",
+      "title": "12306 这么大的 js 文件,怎么想的...",
+      "score": "62"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311394#reply48",
+      "title": "阿里云价格差不多涨了一倍",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311308#reply45",
+      "title": "13 寸的 macbook pro 能否用 15 寸的电源适配器",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311310#reply37",
+      "title": "有没有好的笔记本外接开机键方案",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311290#reply37",
+      "title": "我捡到一个身份证、驾驶证，怎么快速找到失主？还未联系到失主（常德人）",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311490#reply34",
+      "title": "云南大学开源中心的 Gitlab 上线了",
+      "score": "34"
+    }
+  ]
+}
