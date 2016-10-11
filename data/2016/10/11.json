@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12677279",
+      "title": "Suspicious court cases, missing defendants, aim to get webpages taken down",
+      "score": "786"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12682797",
+      "title": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone",
+      "score": "236"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12683334",
+      "title": "Poll on macOS 10.12 is broken",
+      "score": "211"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12684980",
+      "title": "Yarn: Fast, reliable, and secure dependency management for JavaScript",
+      "score": "146"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12684254",
+      "title": "The Myers-Briggs Personality Test Is Pretty Much Meaningless",
+      "score": "134"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12684066",
+      "title": "Barack Obama: America Will Take the Giant Leap to Mars",
+      "score": "130"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12683902",
+      "title": "OpenAI is Using Reddit to Teach An Artificial Intelligence How to Speak",
+      "score": "119"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12683290",
+      "title": "Data Mining Hacker News: Front vs. Back",
+      "score": "109"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12683924",
+      "title": "Say Cheese: a snapshot of the massive DDoS attacks coming from IoT cameras",
+      "score": "90"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12683853",
+      "title": "NSA could put undetectable “trapdoors” in crypto keys",
+      "score": "79"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56u6v5/visual_studio_code_september_2016_16/",
+      "title": "Visual Studio Code September 2016 1.6",
+      "score": "513"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56uwbu/gdb_712_released_debugging_programs_written_in/",
+      "title": "GDB 7.1.2 released: &quot;Debugging programs written in Rust is now supported&quot; (x-post /r/rust)",
+      "score": "273"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56wyrd/arxiv_paper_claiming_np_pspace_any_immediate_red/",
+      "title": "arxiv paper claiming &quot;NP = PSPACE&quot;. Any immediate red flags for experts? • /r/compsci",
+      "score": "166"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56sxv7/taxpayerfunded_zachtronics_games/",
+      "title": "Taxpayer-funded Zachtronics games",
+      "score": "62"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56t76l/aws_latency_comparison_api_gateway_vs_lambda_vs/",
+      "title": "AWS latency comparison: API Gateway vs Lambda vs Bare EC2",
+      "score": "38"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56x392/ada_lovelace_day_who_she_was_and_why_we_should/",
+      "title": "Ada Lovelace Day: Who she was - and why we should remember her",
+      "score": "67"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56tb0l/freebsd_110release_now_available/",
+      "title": "FreeBSD 11.0-RELEASE Now Available",
+      "score": "37"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56thwj/random_net_fact_stringjoin_throws_a_fake/",
+      "title": "Random .NET fact: String.Join() throws a &quot;fake&quot; OutOfMemoryException",
+      "score": "36"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56v4uh/sourcedotnet_indexed_corefx_and_coreclr/",
+      "title": "Source.Dot.Net Indexed CoreFX and CoreCLR",
+      "score": "23"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56tx0i/the_accidental_dba/",
+      "title": "The Accidental DBA",
+      "score": "20"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Here’s How I Got Fat",
+      "score": "645",
+      "url": "https://medium.com/p/heres-how-i-got-fat-715fbf58834c"
+    },
+    {
+      "title": "The way ahead",
+      "score": "1259",
+      "url": "https://medium.com/p/the-way-ahead-65b73e3801fb"
+    },
+    {
+      "title": "The Only Thing Powerful Enough To Overcome Everything Holding You Back",
+      "score": "386",
+      "url": "https://medium.com/p/the-only-thing-powerful-enough-to-overcome-everything-holding-you-back-e4a56c14e47e"
+    },
+    {
+      "title": "How it feels to learn JavaScript in 2016",
+      "score": "10761",
+      "url": "https://medium.com/p/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f"
+    },
+    {
+      "title": "The Worst Part of the Trump Tapes",
+      "score": "668",
+      "url": "https://medium.com/p/the-worst-part-of-the-trump-tapes-bfd61c75462f"
+    },
+    {
+      "title": "Always Invest In Your Education",
+      "score": "372",
+      "url": "https://medium.com/p/always-invest-in-your-education-8d36273e7ec1"
+    },
+    {
+      "title": "I want to quit. Right now.",
+      "score": "1156",
+      "url": "https://medium.com/p/i-want-to-quit-right-now-1e59c4a6828a"
+    },
+    {
+      "title": "Why don’t you want to get shit done?",
+      "score": "327",
+      "url": "https://medium.com/p/why-dont-you-want-to-get-shit-done-80100120ad3d"
+    },
+    {
+      "title": "This Election Day: What’s the worst that could happen?",
+      "score": "257",
+      "url": "https://medium.com/p/this-election-day-whats-the-worst-that-could-happen-8b501fef5a2"
+    },
+    {
+      "title": "JavaScript Fatigue Fatigue",
+      "score": "1160",
+      "url": "https://medium.com/p/javascript-fatigue-fatigue-66ffb619f6ce"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/is-invisible",
+      "title": "Is Invisible: Hard to find, beautifully designed products",
+      "score": "251"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/teeny-recipes",
+      "title": "Teeny Recipes: Search and filter Facebook recipe videos in one place 🍳🍔🍪",
+      "score": "209"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/technically-sentient",
+      "title": "Technically Sentient: An in-depth newsletter about AI, written by Rob May",
+      "score": "158"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/flix-2",
+      "title": "FLIX: Create professional looking business videos from your iPhone",
+      "score": "116"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/fold-4",
+      "title": "FOLD: What wacky things would you do if the price was just right?",
+      "score": "87"
+    },
+    {
+      "url": "https://www.producthunt.com/books/design-for-business",
+      "title": "Design for Business: User-friendly way to profits",
+      "score": "73"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/who-runs-this",
+      "title": "Who Runs This: Easily find the parent company owning a site",
+      "score": "94"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/viewedit",
+      "title": "ViewedIt: Record your screen, share &amp; know instantly when people watch",
+      "score": "53"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/how-i-built-this-vice-founder-suroosh-alvi",
+      "title": "How I Built This: VICE Founder, Suroosh Alvi: Recovering addict to underground magazine to VICE media",
+      "score": "61"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/bypass",
+      "title": "Bypass: Finding the safest route from A to B",
+      "score": "83"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "1303"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "533"
+    },
+    {
+      "url": "https://github.com/jiahaog/nativefier",
+      "title": "jiahaog/nativefier: Make any web page a desktop application",
+      "score": "472"
+    },
+    {
+      "url": "https://github.com/guyzmo/git-repo",
+      "title": "guyzmo/git-repo: Git-Repo: CLI utility to manage git services from your workspace",
+      "score": "308"
+    },
+    {
+      "url": "https://github.com/oakes/Nightlight",
+      "title": "oakes/Nightlight: An embedded editor for Clojure",
+      "score": "301"
+    },
+    {
+      "url": "https://github.com/FreeCodeCampChina/freecodecamp.cn",
+      "title": "FreeCodeCampChina/freecodecamp.cn: 看源码请到Code，提问请到Issues，提交代码请到Pull requests，看学习心得请到Wiki。多谢合作，么么哒，^_^。",
+      "score": "250"
+    },
+    {
+      "url": "https://github.com/Famolus/awesome-scss",
+      "title": "Famolus/awesome-scss:  A curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",
+      "score": "239"
+    },
+    {
+      "url": "https://github.com/spf13/hugo",
+      "title": "spf13/hugo: A Fast and Flexible Static Site Generator built with love in GoLang",
+      "score": "199"
+    },
+    {
+      "url": "https://github.com/BruceDone/awesome-crawler",
+      "title": "BruceDone/awesome-crawler: A collection of awesome web crawler,spider in different language",
+      "score": "193"
+    },
+    {
+      "url": "https://github.com/jgamblin/Mirai-Source-Code",
+      "title": "jgamblin/Mirai-Source-Code: Leaked Mirai Source Code for Research/IoC Development Purposes",
+      "score": "133"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/311867#reply95",
+      "title": "文科妹纸自学编程中，征个学伴（男女不限），有一起的么？",
+      "score": "95"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311789#reply74",
+      "title": "联通作恶? kcptun, finalspeed 每次拨号后最多存活几分钟，怎么办？",
+      "score": "74"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311806#reply64",
+      "title": "视频网站到底哪家是真正盈利了的？",
+      "score": "64"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311965#reply63",
+      "title": "公司都在用 py2.7，同事非要用 py3.6，怎么破",
+      "score": "63"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311773#reply59",
+      "title": "Dash 被封杀的最新进展",
+      "score": "59"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311775#reply55",
+      "title": "鼠须管真的好快啊",
+      "score": "55"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311831#reply46",
+      "title": "15 年的 macbook air， 4G，升级 sierra 后巨卡",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311930#reply46",
+      "title": "Samsung Note 7 选择退货，接下来的问题是换什么手机？",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311859#reply41",
+      "title": "日活跃终于要突破 2 万了",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/311816#reply38",
+      "title": "大家用什么编辑器！",
+      "score": "38"
+    }
+  ]
+}
