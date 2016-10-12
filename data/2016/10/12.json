@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12686763",
+      "title": "Open Guide to Amazon Web Services",
+      "score": "1232"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12690842",
+      "title": "You might not need JavaScript",
+      "score": "450"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12691597",
+      "title": "Windows 93 (2014)",
+      "score": "405"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12690362",
+      "title": "CHIP Pro",
+      "score": "389"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12692215",
+      "title": "Netflix Now Only Has 31 Movies from IMDB's Top 250 List",
+      "score": "282"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12692552",
+      "title": "Facebook React.js License",
+      "score": "196"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12692190",
+      "title": "Show HN: Your Social Media Fingerprint (maybe NSFW)",
+      "score": "179"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12691733",
+      "title": "Alpine Edge has switched to libressl",
+      "score": "136"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12690853",
+      "title": "Microsoft SQL Server 2016 Express",
+      "score": "122"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12690432",
+      "title": "Tyson Foods Invests in Startup Beyond Meat",
+      "score": "99"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/572xbj/f_you_startup_world/",
+      "title": "F--- You Startup World",
+      "score": "1727"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56z78z/you_might_not_need_javascript/",
+      "title": "You Might Not Need JavaScript",
+      "score": "635"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56yffd/yarn_a_new_package_manager_for_javascript/",
+      "title": "Yarn: a new package manager for JavaScript",
+      "score": "189"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/570du2/amazon_web_services_a_practical_guide/",
+      "title": "Amazon Web Services — a practical guide",
+      "score": "87"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56yheb/increasing_the_performance_of_d_math_code/",
+      "title": "Increasing the performance of D math code",
+      "score": "59"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56zg7w/julia_05_comes_with_a_lot_of_improvements_julia/",
+      "title": "Julia 0.5 comes with a lot of improvements (Julia is a High performance language with a focus on numeric computation)",
+      "score": "49"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5708s7/a_practical_relational_query_compiler_in_500/",
+      "title": "A practical relational query compiler in 500 lines of code",
+      "score": "34"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56ytxm/facebook_partners_with_google_others_to_launch_a/",
+      "title": "Facebook partners with Google, others to launch a new JavaScript package manager",
+      "score": "27"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/573ngw/windows93/",
+      "title": "WINDOWS93",
+      "score": "34"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/572sxl/leakfreedom_in_c/",
+      "title": "Leak-Freedom in C++",
+      "score": "28"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Fuck You Startup World",
+      "score": "4322",
+      "url": "https://medium.com/p/fuck-you-startup-world-ab6cc72fad0e"
+    },
+    {
+      "title": "The Only Thing Powerful Enough To Overcome Everything Holding You Back",
+      "score": "809",
+      "url": "https://medium.com/p/the-only-thing-powerful-enough-to-overcome-everything-holding-you-back-e4a56c14e47e"
+    },
+    {
+      "title": "Why I’m Voting for Trump",
+      "score": "345",
+      "url": "https://medium.com/p/why-im-voting-for-trump-d86b1786fbbe"
+    },
+    {
+      "title": "Here’s How I Got Fat",
+      "score": "1216",
+      "url": "https://medium.com/p/heres-how-i-got-fat-715fbf58834c"
+    },
+    {
+      "title": "The way ahead",
+      "score": "1584",
+      "url": "https://medium.com/p/the-way-ahead-65b73e3801fb"
+    },
+    {
+      "title": "I want to quit. Right now.",
+      "score": "1419",
+      "url": "https://medium.com/p/i-want-to-quit-right-now-1e59c4a6828a"
+    },
+    {
+      "title": "The Worst Part of the Trump Tapes",
+      "score": "955",
+      "url": "https://medium.com/p/the-worst-part-of-the-trump-tapes-bfd61c75462f"
+    },
+    {
+      "title": "Why don’t you want to get shit done?",
+      "score": "553",
+      "url": "https://medium.com/p/why-dont-you-want-to-get-shit-done-80100120ad3d"
+    },
+    {
+      "title": "The Venture Capitalist Who Is Both a Man and a Woman",
+      "score": "246",
+      "url": "https://medium.com/p/the-venture-capitalist-who-is-both-a-man-and-a-woman-8d57a2565dfe"
+    },
+    {
+      "title": "How it feels to learn JavaScript in 2016",
+      "score": "11005",
+      "url": "https://medium.com/p/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/tribe-2-0",
+      "title": "Tribe 2.0: Introducing Augmented Messaging™",
+      "score": "756"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/baremetrics-forecast",
+      "title": "Baremetrics Forecast: Predict the future w/ cash flow, MRR &amp; customer forecasting",
+      "score": "97"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/automatic-gif-creator",
+      "title": "Automatic GIF Creator: Over a million gifs made with Computer Vision 🤖",
+      "score": "175"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/lighthouse-5",
+      "title": "Lighthouse: Software that makes better managers",
+      "score": "134"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/datazar",
+      "title": "Datazar: A data library for everyone",
+      "score": "71"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/serverless-framework-v1-0",
+      "title": "Serverless Framework v1.0: Build auto-scaling, pay per execution apps on AWS Lambda",
+      "score": "200"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/retro-wave-generator",
+      "title": "Retro Wave Generator: Bring back the 80s with this image creator",
+      "score": "80"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/digest-ai",
+      "title": "Digest.AI: AI-automated digest for your team&#x27;s Slack",
+      "score": "69"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/keegan-by-regaind",
+      "title": "Keegan by Regaind: AI-powered photo coach",
+      "score": "69"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/ozlo-2-0",
+      "title": "Ozlo 2.0: The friendly assistant who can help you get things done",
+      "score": "61"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/yarnpkg/yarn",
+      "title": "yarnpkg/yarn:  Fast, reliable, and secure dependency management for JavaScript.",
+      "score": "8606"
+    },
+    {
+      "url": "https://github.com/open-guides/og-aws",
+      "title": "open-guides/og-aws:  Amazon Web Services — a practical guide",
+      "score": "6762"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "1246"
+    },
+    {
+      "url": "https://github.com/Instagram/IGListKit",
+      "title": "Instagram/IGListKit: A data-driven UICollectionView framework for building fast and flexible lists.",
+      "score": "977"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "463"
+    },
+    {
+      "url": "https://github.com/airen/DemoHouse",
+      "title": "airen/DemoHouse: Collection best of Web Demos",
+      "score": "380"
+    },
+    {
+      "url": "https://github.com/BruceDone/awesome-crawler",
+      "title": "BruceDone/awesome-crawler: A collection of awesome web crawler,spider in different language",
+      "score": "356"
+    },
+    {
+      "url": "https://github.com/jiahaog/nativefier",
+      "title": "jiahaog/nativefier: Make any web page a desktop application",
+      "score": "334"
+    },
+    {
+      "url": "https://github.com/una/YouMightNotNeedJS",
+      "title": "una/YouMightNotNeedJS: o",
+      "score": "263"
+    },
+    {
+      "url": "https://github.com/Famolus/awesome-scss",
+      "title": "Famolus/awesome-scss:  A curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",
+      "score": "216"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/312125#reply96",
+      "title": "IOS 你们用什么浏览器？",
+      "score": "96"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312098#reply81",
+      "title": "阿里云服务器宕机 5 个小时，只字未提赔偿的事， 100 倍故障时长赔偿忽悠人？",
+      "score": "81"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312195#reply61",
+      "title": "一个朋友有个私活项目需要找个靠谱前端一起完成，有小 demo 进行考核，完成给 180 红包",
+      "score": "61"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312124#reply59",
+      "title": "跪求 mac 下好用的截图工具。QQ 的 jietu.APP 已经拉黑。。。",
+      "score": "59"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312187#reply54",
+      "title": "技术猿除了开发类书籍，还喜欢什么样的书？",
+      "score": "54"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312217#reply51",
+      "title": "无心工作无心学习",
+      "score": "51"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312090#reply50",
+      "title": "硕士在读，想退学，求一份前端/python 开发工作。",
+      "score": "50"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312177#reply43",
+      "title": "职场新人求助，被创业公司恶心到了",
+      "score": "43"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312174#reply35",
+      "title": "2do 好用不？",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312284#reply35",
+      "title": "朋友来骂我了，求相对省钱靠谱的方案",
+      "score": "35"
+    }
+  ]
+}
