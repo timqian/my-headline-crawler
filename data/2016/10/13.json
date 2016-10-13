@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12692190",
+      "title": "Show HN: Your Social Media Fingerprint (maybe NSFW)",
+      "score": "868"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12694004",
+      "title": "Show HN: Tesseract.js – Pure JavaScript OCR for 60 Languages",
+      "score": "662"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12697561",
+      "title": "It’s Been Real, Android: Why I’m Retiring from Android",
+      "score": "411"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12699834",
+      "title": "The Nobel Prize in Literature 2016 to Bob Dylan",
+      "score": "398"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12698090",
+      "title": "Facebook Has Repeatedly Trended Fake News Since Firing Its Human Editors",
+      "score": "315"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12691985",
+      "title": "Barack Obama on A.I., Autonomous Cars, and the Future of Humanity",
+      "score": "280"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12698872",
+      "title": "Differentiable Neural Computers",
+      "score": "187"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12699412",
+      "title": "Netherlands parliament makes open standards mandatory",
+      "score": "122"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12697996",
+      "title": "America’s Dazzling Tech Boom Has a Downside: Not Enough Jobs",
+      "score": "118"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12699767",
+      "title": "Show HN: Styled-components – Use the best of ES6 to style React apps",
+      "score": "117"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/578hfq/whys_that_company_so_big_i_could_do_that_in_a/",
+      "title": "Why's that company so big? I could do that in a weekend",
+      "score": "283"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/574vhk/tesseractjs_pure_javascript_ocr_for_62_languages/",
+      "title": "Tesseract.js: Pure Javascript OCR for 62 Languages",
+      "score": "94"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/576rzx/its_unix_new_years_eve_tomorrow_the_hexadecimal/",
+      "title": "It's UNIX New Year's Eve: tomorrow the hexadecimal unix epoch will end in six zeros. Let's bring out the champagne and make this a thing!",
+      "score": "94"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/575pqu/compiling_to_the_web_with_rust_and_emscripten/",
+      "title": "Compiling to the web with Rust and emscripten",
+      "score": "69"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5760kg/can_you_create_recursion_using_only_anonymous/",
+      "title": "Can you create recursion using only anonymous functions?",
+      "score": "47"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/579ktu/using_git_as_a_nosql_database/",
+      "title": "Using Git as a NoSQL database",
+      "score": "54"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/574xqr/20_years_of_java_deprecation_azul_systems_inc/",
+      "title": "20 Years Of Java Deprecation - Azul Systems, Inc.",
+      "score": "37"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/579vo9/an_argument_for_automation_why_it_can_be_worth/",
+      "title": "An Argument for Automation. Why it can be worth spending 1 hour automating a 10 second task.",
+      "score": "52"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5751db/bitbucket_shares_uptime_numbers_makes_pipelines/",
+      "title": "Bitbucket shares uptime numbers, makes Pipelines available for all users",
+      "score": "22"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/579b1j/building_a_shop_with_subsecond_page_loads_lessons/",
+      "title": "Building a Shop with Sub-Second Page Loads: Lessons Learned",
+      "score": "22"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Fuck You Startup World",
+      "score": "7942",
+      "url": "https://medium.com/p/fuck-you-startup-world-ab6cc72fad0e"
+    },
+    {
+      "title": "Why I’m Voting for Trump",
+      "score": "1307",
+      "url": "https://medium.com/p/why-im-voting-for-trump-d86b1786fbbe"
+    },
+    {
+      "title": "The Ugly Truth About Being an Entrepreneur",
+      "score": "332",
+      "url": "https://medium.com/p/the-ugly-truth-about-being-an-entrepreneur-68c34d51e36e"
+    },
+    {
+      "title": "Come Again? Orgasm privilege, casual sex, and female pleasure",
+      "score": "268",
+      "url": "https://medium.com/p/come-again-orgasm-privilege-casual-sex-and-female-pleasure-98dab59cfe7d"
+    },
+    {
+      "title": "The Only Thing Powerful Enough To Overcome Everything Holding You Back",
+      "score": "1109",
+      "url": "https://medium.com/p/the-only-thing-powerful-enough-to-overcome-everything-holding-you-back-e4a56c14e47e"
+    },
+    {
+      "title": "How to disappear completely",
+      "score": "193",
+      "url": "https://medium.com/p/how-to-disappear-completely-2f23ddb14835"
+    },
+    {
+      "title": "Always Invest In Your Education",
+      "score": "843",
+      "url": "https://medium.com/p/always-invest-in-your-education-8d36273e7ec1"
+    },
+    {
+      "title": "Yes, Petty Black Feminists ruined Birth of a Nation",
+      "score": "209",
+      "url": "https://medium.com/p/yes-petty-black-feminists-ruined-birth-of-a-nation-4e98431f07c"
+    },
+    {
+      "title": "<rant>",
+      "score": "151",
+      "url": "https://medium.com/p/rant-efbc8f4bb3bc"
+    },
+    {
+      "title": "Why don’t you want to get shit done?",
+      "score": "764",
+      "url": "https://medium.com/p/why-dont-you-want-to-get-shit-done-80100120ad3d"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/sprayscape",
+      "title": "Sprayscape: A perfectly imperfect VR-ish camera experiment, by Google",
+      "score": "297"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/the-electron-wheel",
+      "title": "The Electron Wheel: Turn your standard bicycle into an electric bike.",
+      "score": "135"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/ulli",
+      "title": "Ulli: Self-driving Internet. The first AI-powered mobile browser.",
+      "score": "149"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/modal-vr",
+      "title": "Modal VR: The creator of Atari has launched a new VR company",
+      "score": "108"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/visualify",
+      "title": "Visualify: Visualize your top artists on Spotify",
+      "score": "108"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/lattice-reviews",
+      "title": "Lattice Reviews: 360 degree feedback and performance reviews",
+      "score": "94"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/ask-gary-vee",
+      "title": "Ask Gary Vee: The unofficial Gary Vee persona chatbot on Messenger!",
+      "score": "77"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/soundhop",
+      "title": "SoundHop: Throwback with a Spotify playlist of hits 🎧⏰",
+      "score": "69"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/stack-match",
+      "title": "Stack Match: Find engineering jobs that match your tech stack",
+      "score": "53"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/picsart-7-0",
+      "title": "PicsArt 7.0: A social photo-editor for making pictures awesome",
+      "score": "66"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/naptha/tesseract.js",
+      "title": "naptha/tesseract.js: Pure Javascript OCR for 62 Languages ",
+      "score": "3666"
+    },
+    {
+      "url": "https://github.com/yarnpkg/yarn",
+      "title": "yarnpkg/yarn:  Fast, reliable, and secure dependency management.",
+      "score": "3292"
+    },
+    {
+      "url": "https://github.com/open-guides/og-aws",
+      "title": "open-guides/og-aws:  Amazon Web Services — a practical guide",
+      "score": "2582"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "879"
+    },
+    {
+      "url": "https://github.com/FormidableLabs/nodejs-dashboard",
+      "title": "FormidableLabs/nodejs-dashboard: Telemetry dashboard for node.js apps from the terminal!",
+      "score": "914"
+    },
+    {
+      "url": "https://github.com/Instagram/IGListKit",
+      "title": "Instagram/IGListKit: A data-driven UICollectionView framework for building fast and flexible lists.",
+      "score": "505"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "423"
+    },
+    {
+      "url": "https://github.com/airen/DemoHouse",
+      "title": "airen/DemoHouse: Collection best of Web Demos",
+      "score": "373"
+    },
+    {
+      "url": "https://github.com/una/YouMightNotNeedJS",
+      "title": "una/YouMightNotNeedJS: o",
+      "score": "392"
+    },
+    {
+      "url": "https://github.com/verekia/js-stack-from-scratch",
+      "title": "verekia/js-stack-from-scratch: Step-by-step tutorial to build a modern JavaScript stack from scratch",
+      "score": "290"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/312422#reply108",
+      "title": "有什么好的背包推荐么？",
+      "score": "108"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312441#reply102",
+      "title": "(,,•́ . •̀,,)想问一下有没有程序猿是单身汪…",
+      "score": "102"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312419#reply86",
+      "title": "大家在 osx 下都用什么视频播放器",
+      "score": "86"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312466#reply71",
+      "title": "招聘：你为什么要来熊猫直播写代码 （地点 北京望京 soho）",
+      "score": "71"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312397#reply64",
+      "title": "各位的 python 开发工具用的是什么?",
+      "score": "64"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312549#reply60",
+      "title": "大家对 Linux 发行版都有什么样的期待？",
+      "score": "60"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312388#reply51",
+      "title": "如何在中國以外的地方為 Apple Pay 添加工行的信用卡",
+      "score": "51"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312412#reply42",
+      "title": "被诈骗了 5 万多，怎么处理，大家接外包的要注意，过来看看",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312393#reply39",
+      "title": "有玩过树莓派的朋友么？有几个问题请教哈",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312481#reply38",
+      "title": "百度网盘的离线下载是个纸老虎",
+      "score": "38"
+    }
+  ]
+}
