@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12699834",
+      "title": "The Nobel Prize in Literature 2016 awarded to Bob Dylan",
+      "score": "704"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12703751",
+      "title": "Taking PHP Seriously",
+      "score": "628"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12707606",
+      "title": "Be Kind",
+      "score": "528"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12703008",
+      "title": "Static types in Python",
+      "score": "405"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12703121",
+      "title": "An Open Source, Self-Hosted Heroku",
+      "score": "401"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12705546",
+      "title": "Maslow CNC",
+      "score": "323"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12704511",
+      "title": "PHP 7 deployment at Dailymotion",
+      "score": "316"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12705816",
+      "title": "Flynn: open source PaaS",
+      "score": "215"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12706531",
+      "title": "KDE Project releases KDE 1",
+      "score": "210"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12705851",
+      "title": "A Study of 4chan’s Politically Incorrect Forum and its Effect on the Web",
+      "score": "137"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57b1ye/googles_director_of_engineering_hiring_test/",
+      "title": "Google's &quot;Director of Engineering&quot; Hiring Test",
+      "score": "3060"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57g3x7/mentoring_junior_devs_be_kind/",
+      "title": "Mentoring Junior Devs: Be Kind",
+      "score": "164"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57bxnw/static_types_in_python_oh_mypy/",
+      "title": "Static types in Python, oh my(py)!",
+      "score": "75"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57f9fv/how_to_speed_up_the_rust_compiler/",
+      "title": "How to speed up the Rust compiler",
+      "score": "55"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57bm07/taking_php_seriously/",
+      "title": "Taking PHP Seriously",
+      "score": "49"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57c5c6/the_new_google_adsense_user_interface_built_with/",
+      "title": "The new Google AdSense user interface: built with AngularDart",
+      "score": "35"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57fnyk/kde_project_releases_kde_1/",
+      "title": "KDE Project releases KDE 1",
+      "score": "49"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57fp6c/20_years_of_kde/",
+      "title": "20 Years of KDE",
+      "score": "33"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57d4y7/intro_to_rxjava/",
+      "title": "Intro to RxJava",
+      "score": "18"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57bh0m/how_kafkas_storage_internals_work/",
+      "title": "How Kafka’s Storage Internals Work",
+      "score": "18"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Fuck You Startup World",
+      "score": "9828",
+      "url": "https://medium.com/p/fuck-you-startup-world-ab6cc72fad0e"
+    },
+    {
+      "title": "Taking PHP Seriously",
+      "score": "572",
+      "url": "https://medium.com/p/taking-php-seriously-cf7a60065329"
+    },
+    {
+      "title": "Why I’m Voting for Trump",
+      "score": "2099",
+      "url": "https://medium.com/p/why-im-voting-for-trump-d86b1786fbbe"
+    },
+    {
+      "title": "The Ugly Truth About Being an Entrepreneur",
+      "score": "706",
+      "url": "https://medium.com/p/the-ugly-truth-about-being-an-entrepreneur-68c34d51e36e"
+    },
+    {
+      "title": "23 Productivity Hacks That Will Actually Make You Happy",
+      "score": "513",
+      "url": "https://medium.com/p/23-productivity-hacks-that-will-actually-make-you-happy-498a60a1eee0"
+    },
+    {
+      "title": "I want to quit. Right now.",
+      "score": "1847",
+      "url": "https://medium.com/p/i-want-to-quit-right-now-1e59c4a6828a"
+    },
+    {
+      "title": "The Only Thing Powerful Enough To Overcome Everything Holding You Back",
+      "score": "1340",
+      "url": "https://medium.com/p/the-only-thing-powerful-enough-to-overcome-everything-holding-you-back-e4a56c14e47e"
+    },
+    {
+      "title": "Always Invest In Your Education",
+      "score": "1069",
+      "url": "https://medium.com/p/always-invest-in-your-education-8d36273e7ec1"
+    },
+    {
+      "title": "Why do you want to be in a relationship?",
+      "score": "153",
+      "url": "https://medium.com/p/why-do-you-want-to-be-in-a-relationship-384902857ec0"
+    },
+    {
+      "title": "How to Read 100 Books in a Year",
+      "score": "212",
+      "url": "https://medium.com/p/how-to-read-100-books-in-a-year-d7b35660ebd1"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/sketch-viewer",
+      "title": "Sketch Viewer: View, version, and share your .sketch files on the web",
+      "score": "276"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/spoil-for-ios",
+      "title": "Spoil for iOS: Simple, beautiful gifts delivered same-day, anywhere in US.",
+      "score": "261"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/bonfire-3",
+      "title": "Bonfire: Design and sell your next favorite shirt",
+      "score": "110"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/instagram-for-windows-10",
+      "title": "Instagram for Windows 10: The official Instagram app for Windows PC and tablets",
+      "score": "152"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/countup-3",
+      "title": "CountUp: Accountants for startups",
+      "score": "85"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/nold-open",
+      "title": "Nold Open: Smartphone controlled garage door &amp; gate opener device",
+      "score": "115"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/startup-season-4-2-you-can-t-wear-a-suit-here",
+      "title": "StartUp Season 4, #2: You Can&#x27;t Wear a Suit Here: The tensions that Gimlet’s growth spurt is creating",
+      "score": "94"
+    },
+    {
+      "url": "https://www.producthunt.com/games/flappy-golf-2",
+      "title": "Flappy Golf 2: Sequel to the &#x27;insanely addicting&#x27; Flappy Golf",
+      "score": "87"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/pandora-imessage-app",
+      "title": "Pandora iMessage App: Say it with Pandora — Send and receive songs in iMessage",
+      "score": "86"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/takeaim",
+      "title": "TakeAim: Everything your team is trying to achieve today",
+      "score": "86"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/naptha/tesseract.js",
+      "title": "naptha/tesseract.js: Pure Javascript OCR for 62 Languages ",
+      "score": "1764"
+    },
+    {
+      "url": "https://github.com/yarnpkg/yarn",
+      "title": "yarnpkg/yarn:  Fast, reliable, and secure dependency management.",
+      "score": "1470"
+    },
+    {
+      "url": "https://github.com/open-guides/og-aws",
+      "title": "open-guides/og-aws:  Amazon Web Services — a practical guide",
+      "score": "1055"
+    },
+    {
+      "url": "https://github.com/styled-components/styled-components",
+      "title": "styled-components/styled-components: Visual primitives for the component age ",
+      "score": "980"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "785"
+    },
+    {
+      "url": "https://github.com/transcranial/keras-js",
+      "title": "transcranial/keras-js: Run trained Keras models in the browser, with GPU support",
+      "score": "631"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "423"
+    },
+    {
+      "url": "https://github.com/FormidableLabs/nodejs-dashboard",
+      "title": "FormidableLabs/nodejs-dashboard: Telemetry dashboard for node.js apps from the terminal!",
+      "score": "429"
+    },
+    {
+      "url": "https://github.com/sentsin/layui",
+      "title": "sentsin/layui: 经典模块化前端框架",
+      "score": "319"
+    },
+    {
+      "url": "https://github.com/detailyang/awesome-cheatsheet",
+      "title": "detailyang/awesome-cheatsheet:  awesome cheatsheet",
+      "score": "316"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/312757#reply57",
+      "title": "每周双休的两天自己决定，你会选哪两天不上班？",
+      "score": "57"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312747#reply53",
+      "title": "在 2016 年做 Java 开发是一种什么样的体验？",
+      "score": "53"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312752#reply53",
+      "title": "你们的个人项目有赚钱的吗？",
+      "score": "53"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312768#reply47",
+      "title": "如果近期要买个安卓电视的话，大家有什么推荐的？",
+      "score": "47"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312818#reply44",
+      "title": "亚马逊 Kindle 人民邮电出版社畅销好书 ￥ 1.99",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312796#reply43",
+      "title": "几千块收购个人小项目，欢迎来勾搭",
+      "score": "43"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312710#reply38",
+      "title": "家里老人常去社区组织的“10 块钱一日游”，怎么办？",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312873#reply34",
+      "title": "比较受欢迎的 Android 优化软件冰箱 IceBox 升级到 2.0 了，所以发一点兑换码",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312784#reply34",
+      "title": "有没有靠谱的云盘！",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/312799#reply33",
+      "title": "人类已经建立了第一个太空国家，全球第一批居民招募中，大家怎么看？",
+      "score": "33"
+    }
+  ]
+}
