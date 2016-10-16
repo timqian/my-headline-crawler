@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12707606",
+      "title": "Be Kind",
+      "score": 2362
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12684980",
+      "title": "Yarn: Fast, reliable, and secure dependency management for JavaScript",
+      "score": 1709
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12686763",
+      "title": "Open Guide to Amazon Web Services",
+      "score": 1357
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12674533",
+      "title": "The Dutch Reach: Clever Workaround to Keep Cyclists from Getting “Doored”",
+      "score": 1146
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12692190",
+      "title": "Show HN: Your Social Media Fingerprint (maybe NSFW)",
+      "score": 909
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12677279",
+      "title": "Suspicious court cases, missing defendants, aim to get webpages taken down",
+      "score": 819
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12703751",
+      "title": "Taking PHP Seriously",
+      "score": 794
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12691597",
+      "title": "Windows 93 (2014)",
+      "score": 788
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12713056",
+      "title": "Ask HN: How to get started with machine learning?",
+      "score": 767
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12699834",
+      "title": "The Nobel Prize in Literature 2016 to Bob Dylan",
+      "score": 727
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56n1gb/just_shut_up_and_let_your_devs_concentrate/",
+      "title": "Just shut up and let your devs concentrate, advises Stack Overflow CEO Joel Spolsky",
+      "score": 3422
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57b1ye/googles_director_of_engineering_hiring_test/",
+      "title": "Google's &quot;Director of Engineering&quot; Hiring Test",
+      "score": 3197
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/572xbj/f_you_startup_world/",
+      "title": "F--- You Startup World",
+      "score": 1972
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57g3x7/mentoring_junior_devs_be_kind/",
+      "title": "Mentoring Junior Devs: Be Kind",
+      "score": 1773
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56reoo/turkey_blocked_github/",
+      "title": "Turkey blocked Github",
+      "score": 1479
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57lcrt/60_years_ago_today_the_fortran_automatic_coding/",
+      "title": "60 years ago today The Fortran Automatic Coding System for the IBM 704 was released, the first Programmer's Reference Manual for Fortran",
+      "score": 1119
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56z78z/you_might_not_need_javascript/",
+      "title": "You Might Not Need JavaScript",
+      "score": 692
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/56u6v5/visual_studio_code_september_2016_16/",
+      "title": "Visual Studio Code September 2016 1.6",
+      "score": 559
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/578hfq/whys_that_company_so_big_i_could_do_that_in_a/",
+      "title": "Why's that company so big? I could do that in a weekend",
+      "score": 480
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/579vo9/an_argument_for_automation_why_it_can_be_worth/",
+      "title": "An Argument for Automation. Why it can be worth spending 1 hour automating a 10 second task.",
+      "score": 422
+    }
+  ],
+  "medium": [
+    {
+      "title": "How it feels to learn JavaScript in 2016",
+      "score": 11609,
+      "url": "https://medium.com/p/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f"
+    },
+    {
+      "title": "Fuck You Startup World",
+      "score": 11608,
+      "url": "https://medium.com/p/fuck-you-startup-world-ab6cc72fad0e"
+    },
+    {
+      "title": "Why I’m Voting for Trump",
+      "score": 2628,
+      "url": "https://medium.com/p/why-im-voting-for-trump-d86b1786fbbe"
+    },
+    {
+      "title": "The way ahead",
+      "score": 2077,
+      "url": "https://medium.com/p/the-way-ahead-65b73e3801fb"
+    },
+    {
+      "title": "I want to quit. Right now.",
+      "score": 2055,
+      "url": "https://medium.com/p/i-want-to-quit-right-now-1e59c4a6828a"
+    },
+    {
+      "title": "How to Live ON PURPOSE and Maximize Every Freaking Day",
+      "score": 2036,
+      "url": "https://medium.com/p/the-secret-to-making-the-most-of-today-953e472b5b25"
+    },
+    {
+      "title": "The Hive is the New Network",
+      "score": 1748,
+      "url": "https://medium.com/p/the-hive-is-the-new-network-260b432a6720"
+    },
+    {
+      "title": "JavaScript Fatigue Fatigue",
+      "score": 1664,
+      "url": "https://medium.com/p/javascript-fatigue-fatigue-66ffb619f6ce"
+    },
+    {
+      "title": "The Only Thing Powerful Enough To Overcome Everything Holding You Back",
+      "score": 1652,
+      "url": "https://medium.com/p/the-only-thing-powerful-enough-to-overcome-everything-holding-you-back-e4a56c14e47e"
+    },
+    {
+      "title": "I’m Done Pretending SF Tech Is Visionary",
+      "score": 1644,
+      "url": "https://medium.com/p/im-done-pretending-sf-tech-is-visionary-9d0e91bfacfb"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/311555#reply243",
+      "title": "数人云|赠书，从容器的全世界路过",
+      "score": 329
+    },
+    {
+      "url": "https://www.v2ex.com/t/311710#reply63",
+      "title": "你用的哪个编辑器， ST/Atom/VSC？",
+      "score": 174
+    },
+    {
+      "url": "https://www.v2ex.com/t/311604#reply113",
+      "title": "今天在实体店体验了半小时的 note7，手感真 tmd 好啊",
+      "score": 156
+    },
+    {
+      "url": "https://www.v2ex.com/t/312422#reply108",
+      "title": "有什么好的背包推荐么？",
+      "score": 138
+    },
+    {
+      "url": "https://www.v2ex.com/t/311930#reply46",
+      "title": "Samsung Note 7 选择退货，接下来的问题是换什么手机？",
+      "score": 128
+    },
+    {
+      "url": "https://www.v2ex.com/t/313019#reply47",
+      "title": "感觉微信 PC 版好脑残。",
+      "score": 118
+    },
+    {
+      "url": "https://www.v2ex.com/t/311965#reply63",
+      "title": "公司都在用 py2.7，同事非要用 py3.6，怎么破",
+      "score": 116
+    },
+    {
+      "url": "https://www.v2ex.com/t/312419#reply86",
+      "title": "大家在 osx 下都用什么视频播放器",
+      "score": 116
+    },
+    {
+      "url": "https://www.v2ex.com/t/311441#reply62",
+      "title": "12306 这么大的 js 文件,怎么想的...",
+      "score": 111
+    },
+    {
+      "url": "https://www.v2ex.com/t/312549#reply60",
+      "title": "大家对 Linux 发行版都有什么样的期待？",
+      "score": 109
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/tribe-2-0",
+      "title": "Tribe 2.0: Introducing Augmented Messaging™",
+      "score": 2093
+    },
+    {
+      "url": "https://www.producthunt.com/tech/is-invisible",
+      "title": "Is Invisible: Hard to find, beautifully designed products",
+      "score": 991
+    },
+    {
+      "url": "https://www.producthunt.com/tech/paperworks",
+      "title": "Paperworks: All your receipts, invoices, and payments in one place.",
+      "score": 863
+    },
+    {
+      "url": "https://www.producthunt.com/tech/spoil-for-ios",
+      "title": "Spoil for iOS: Simple, beautiful gifts delivered same-day, anywhere in US.",
+      "score": 770
+    },
+    {
+      "url": "https://www.producthunt.com/tech/ulli",
+      "title": "Ulli: Self-driving Internet. The first AI-powered mobile browser.",
+      "score": 666
+    },
+    {
+      "url": "https://www.producthunt.com/tech/sprayscape",
+      "title": "Sprayscape: A perfectly imperfect VR-ish camera experiment, by Google",
+      "score": 642
+    },
+    {
+      "url": "https://www.producthunt.com/tech/teeny-recipes",
+      "title": "Teeny Recipes: Search and filter Facebook recipe videos in one place 🍳🍔🍪",
+      "score": 544
+    },
+    {
+      "url": "https://www.producthunt.com/tech/sketch-viewer",
+      "title": "Sketch Viewer: View, version, and share your .sketch files on the web",
+      "score": 510
+    },
+    {
+      "url": "https://www.producthunt.com/tech/rocumentaries",
+      "title": "Rocumentaries: Curated links to the best documentaries",
+      "score": 504
+    },
+    {
+      "url": "https://www.producthunt.com/tech/viewedit",
+      "title": "ViewedIt: Record your screen, share &amp; know instantly when people watch",
+      "score": 503
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/yarnpkg/yarn",
+      "title": "yarnpkg/yarn:  Fast, reliable, and secure dependency management.",
+      "score": "299"
+    },
+    {
+      "url": "https://github.com/open-guides/og-aws",
+      "title": "open-guides/og-aws:  Amazon Web Services — a practical guide",
+      "score": "403"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "673"
+    },
+    {
+      "url": "https://github.com/naptha/tesseract.js",
+      "title": "naptha/tesseract.js: Pure Javascript OCR for 62 Languages ",
+      "score": "696"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "964"
+    },
+    {
+      "url": "https://github.com/Instagram/IGListKit",
+      "title": "Instagram/IGListKit: A data-driven UICollectionView framework for building fast and flexible lists.",
+      "score": "890"
+    },
+    {
+      "url": "https://github.com/FormidableLabs/nodejs-dashboard",
+      "title": "FormidableLabs/nodejs-dashboard: Telemetry dashboard for node.js apps from the terminal!",
+      "score": "692"
+    },
+    {
+      "url": "https://github.com/styled-components/styled-components",
+      "title": "styled-components/styled-components: Visual primitives for the component age ",
+      "score": "484"
+    },
+    {
+      "url": "https://github.com/airen/DemoHouse",
+      "title": "airen/DemoHouse: Collection best of Web Demos",
+      "score": "292"
+    },
+    {
+      "url": "https://github.com/jiahaog/nativefier",
+      "title": "jiahaog/nativefier: Make any web page a desktop application",
+      "score": "326"
+    }
+  ]
+}

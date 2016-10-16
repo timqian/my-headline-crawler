@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12707606",
+      "title": "Be Kind",
+      "score": "2362"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12713056",
+      "title": "Ask HN: How to get started with machine learning?",
+      "score": "765"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12715473",
+      "title": "GitLab reinstates list of servers that have malware",
+      "score": "427"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12716825",
+      "title": "Peter Thiel to Donate $1.25M in Support of Donald Trump",
+      "score": "389"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12716254",
+      "title": "Noms – A versioned, forkable, syncable database",
+      "score": "354"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12718102",
+      "title": "Programming books you might want to consider reading",
+      "score": "224"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12714448",
+      "title": "Using GPUs to Speed Through the 1.2B Record Taxi Dataset",
+      "score": "189"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12716215",
+      "title": "A toy Mathematica interpreter in Haskell",
+      "score": "169"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12717553",
+      "title": "Peter Higgs: I wouldn't be productive enough for today's academic system (2013)",
+      "score": "165"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12718270",
+      "title": "Modern Software Over-Engineering Mistakes",
+      "score": "155"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57mrq8/the_windows_shutdown_crapfest/",
+      "title": "The Windows Shutdown crapfest",
+      "score": "361"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57r38l/programming_books_you_might_want_to_consider/",
+      "title": "Programming books you might want to consider reading",
+      "score": "297"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57psx6/gun_a_realtime_decentralized_offlinefirst_graph/",
+      "title": "GUN - A realtime, decentralized, offline-first, graph database engine.",
+      "score": "156"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57oxvt/a_toy_mathematica_interpreter_in_haskell/",
+      "title": "A toy Mathematica interpreter in Haskell",
+      "score": "143"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57nlx4/how_the_textsecure_protocol_signal_whatsapp/",
+      "title": "How the Textsecure Protocol (Signal, WhatsApp, Facebook, Allo) Works",
+      "score": "112"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57mh72/a_data_point_for_msvc_vs_clang_code_generation/",
+      "title": "A Data Point for MSVC vs Clang Code Generation",
+      "score": "40"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57mluq/alenka_gpu_based_database_engine/",
+      "title": "Alenka: GPU based database engine",
+      "score": "29"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57ps5e/a_versioned_database/",
+      "title": "A versioned database",
+      "score": "20"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57p0xw/remove_in_java_in_on_time_instead_of_on2/",
+      "title": "Remove in Java in O(n) time instead of O(N^2)",
+      "score": "11"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57o09z/martin_fowler_what_does_tech_excellence_look_like/",
+      "title": "Martin Fowler – What Does Tech Excellence Look Like? | TW Live Australia 2016",
+      "score": "7"
+    }
+  ],
+  "medium": [
+    {
+      "title": "[Day 0] Cancer",
+      "score": "703",
+      "url": "https://medium.com/p/day-0-cancer-a3f1515f62bf"
+    },
+    {
+      "title": "Fuck You Startup World",
+      "score": "11607",
+      "url": "https://medium.com/p/fuck-you-startup-world-ab6cc72fad0e"
+    },
+    {
+      "title": "My NerdCon Stories Talk about Mental Illness and Creativity",
+      "score": "278",
+      "url": "https://medium.com/p/my-nerdcon-stories-talk-about-mental-illness-and-creativity-bfac9c29387e"
+    },
+    {
+      "title": "An open letter to the police officer who helped my autistic son",
+      "score": "314",
+      "url": "https://medium.com/p/an-open-letter-to-the-police-officer-who-helped-my-autistic-son-5ebb51478cc0"
+    },
+    {
+      "title": "10 Modern Software Over-Engineering Mistakes",
+      "score": "696",
+      "url": "https://medium.com/p/10-modern-software-engineering-mistakes-bc67fbef4fc8"
+    },
+    {
+      "title": "You Can Do More Good Than You Think",
+      "score": "351",
+      "url": "https://medium.com/p/you-can-do-more-good-than-you-think-6b1cda5547f0"
+    },
+    {
+      "title": "9 Books That Will Make You a Better Person",
+      "score": "534",
+      "url": "https://medium.com/p/9-books-that-will-make-you-a-better-person-595d4559f389"
+    },
+    {
+      "title": "It’s Not Okay to Hate Hillary Clinton",
+      "score": "162",
+      "url": "https://medium.com/p/its-not-okay-to-hate-hillary-clinton-26774ef5d672"
+    },
+    {
+      "title": "Why do you want to be in a relationship?",
+      "score": "799",
+      "url": "https://medium.com/p/why-do-you-want-to-be-in-a-relationship-384902857ec0"
+    },
+    {
+      "title": "How I Promise You One of the Most Meaningful Days of Your Life",
+      "score": "129",
+      "url": "https://medium.com/p/how-i-promise-you-one-of-the-most-meaningful-days-of-your-life-b6466ce0ae8b"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/serial-box-2",
+      "title": "Serial Box: Read or listen to weekly episodes by bestselling writers.",
+      "score": "76"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/modi",
+      "title": "MODI: Create anything you want with robotics of things",
+      "score": "86"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/materialette",
+      "title": "Materialette: A color palette for material design on OSX",
+      "score": "71"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/falcon-io",
+      "title": "Falcon.io: Cross channel campaign planner.",
+      "score": "62"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/chatlike-me",
+      "title": "ChatLike.me: Create a Twitter Bot that tweets like you",
+      "score": "57"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/slack-538",
+      "title": "Slack 538: Get latest presidential polling forecasts in Slack",
+      "score": "54"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/tandem-2-0",
+      "title": "Tandem 2.0: Get fluent together. Practice languages, anytime, anywhere.",
+      "score": "28"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/go-watch-it",
+      "title": "Go Watch It: A comprehensive movie recommendation engine",
+      "score": "53"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/kindly-care",
+      "title": "Kindly Care: Uber for caregivers",
+      "score": "52"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/georgebot",
+      "title": "GeorgeBot: AI version of George Takei, actor and social media star",
+      "score": "34"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/channelcat/sanic",
+      "title": "channelcat/sanic: Python 3.5+ web server that's written to go fast",
+      "score": "785"
+    },
+    {
+      "url": "https://github.com/attic-labs/noms",
+      "title": "attic-labs/noms: The versioned, forkable, syncable database",
+      "score": "617"
+    },
+    {
+      "url": "https://github.com/naptha/tesseract.js",
+      "title": "naptha/tesseract.js: Pure Javascript OCR for 62 Languages ",
+      "score": "501"
+    },
+    {
+      "url": "https://github.com/yarnpkg/yarn",
+      "title": "yarnpkg/yarn:  Fast, reliable, and secure dependency management.",
+      "score": "359"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "328"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "290"
+    },
+    {
+      "url": "https://github.com/open-guides/og-aws",
+      "title": "open-guides/og-aws:  Amazon Web Services — a practical guide",
+      "score": "304"
+    },
+    {
+      "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+      "title": "ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.",
+      "score": "277"
+    },
+    {
+      "url": "https://github.com/alibaba/AliSQL",
+      "title": "alibaba/AliSQL: AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.",
+      "score": "160"
+    },
+    {
+      "url": "https://github.com/Microsoft/LightGBM",
+      "title": "Microsoft/LightGBM: LightGBM is a fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",
+      "score": "139"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/313105#reply119",
+      "title": "94 大叔带领上海初创团队，坚持改变世界，现觅更多有志者，已有 9 位志同道合者，含 3 位漂亮妹子。",
+      "score": "119"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313109#reply49",
+      "title": "清华 EE 博士，华为 40W？",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313097#reply41",
+      "title": "同花顺和恒生电子 offer 怎么选？",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313099#reply31",
+      "title": "从 iphone6PLUS 转到安卓，不知道有什么可以推荐的？",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313191#reply27",
+      "title": "美团点评和 ThoughtWorks 的校招 offer 怎么选？",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313091#reply25",
+      "title": "怎么没人说新款 pro 的信仰灯是粉色的？",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313146#reply21",
+      "title": "阿里云你明显在涨价！低配不卖！只卖高配！",
+      "score": "21"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313174#reply21",
+      "title": "关于阿里小号的危险性",
+      "score": "21"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313185#reply21",
+      "title": "吐槽下手机号注册",
+      "score": "21"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313110#reply20",
+      "title": "关于联通 4G 沃派套餐，有用过的吗？",
+      "score": "20"
+    }
+  ]
+}
