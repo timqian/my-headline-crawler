@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12722590",
+      "title": "Google May Be Stealing Mobile Traffic",
+      "score": "401"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12722586",
+      "title": "WTF is a container?",
+      "score": "290"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12725427",
+      "title": "Wikileaks: Julian Assange's internet access 'cut'",
+      "score": "205"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12722465",
+      "title": "A Tour of Python’s Data Visualization Landscape, Including Ggplot and Altair",
+      "score": "178"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12722242",
+      "title": "Virus stole poison genes from black widow spider",
+      "score": "173"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12722689",
+      "title": ".NET on Linux – bye, Windows 10",
+      "score": "155"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12723281",
+      "title": "Show HN: CSS ICON, an icon set crafted by pure CSS",
+      "score": "138"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12722248",
+      "title": "Cheran: A town that threw out police, politicians and gangsters",
+      "score": "110"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12721602",
+      "title": "Why We're Living in the Age of Fear",
+      "score": "105"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12722179",
+      "title": "LightGBM – A fast, distributed, gradient boosting framework",
+      "score": "95"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57vkho/net_on_linux_bye_windows_10/",
+      "title": ".NET on Linux – bye, Windows 10.",
+      "score": "841"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57rw8f/the_birkana_hexadecimal_number_symbols/",
+      "title": "The Birkana hexadecimal number symbols",
+      "score": "102"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57wall/the_linux_kernel_hidden_inside_windows_10/",
+      "title": "&quot;The Linux Kernel Hidden Inside Windows 10&quot; techtalk by Alex Ionescu",
+      "score": "84"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57ubbi/why_mutation_testing_is_better_than_code_coverage/",
+      "title": "Why &quot;mutation testing&quot; is better than code coverage to evaluate unit tests, and my experience using it with the JVM",
+      "score": "75"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57uwq2/stop_writing_bad_tests_write_only_the_tests_that/",
+      "title": "Stop writing bad tests. Write only the tests that you can do great.",
+      "score": "45"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57spgm/jake_wharton_exploring_javas_hidden_costs/",
+      "title": "Jake Wharton: Exploring Java's Hidden Costs",
+      "score": "42"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57w463/the_inconvenient_truth_about_dynamic_vs_static/",
+      "title": "The Inconvenient Truth About Dynamic vs. Static Typing",
+      "score": "27"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57tevj/dos_and_donts_of_aws_lambda/",
+      "title": "Do’s and Don’ts of AWS Lambda",
+      "score": "17"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57wzga/kdevelop_502_for_windows_and_linux/",
+      "title": "KDevelop 5.0.2 for Windows and Linux",
+      "score": "18"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57ubmq/debugging_go_code_generation/",
+      "title": "Debugging Go code generation",
+      "score": "16"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Fuck You Startup World",
+      "score": "12399",
+      "url": "https://medium.com/p/fuck-you-startup-world-ab6cc72fad0e"
+    },
+    {
+      "title": "It’s Not Okay to Hate Hillary Clinton",
+      "score": "901",
+      "url": "https://medium.com/p/its-not-okay-to-hate-hillary-clinton-26774ef5d672"
+    },
+    {
+      "title": "44 New Cool Websites and Apps to Learn Something New",
+      "score": "536",
+      "url": "https://medium.com/p/44-new-cool-websites-and-apps-to-learn-something-new-7b82beab1139"
+    },
+    {
+      "title": "The Bar That Saved Me",
+      "score": "329",
+      "url": "https://medium.com/p/the-bar-that-saved-me-70bde3547186"
+    },
+    {
+      "title": "My NerdCon Stories Talk about Mental Illness and Creativity",
+      "score": "731",
+      "url": "https://medium.com/p/my-nerdcon-stories-talk-about-mental-illness-and-creativity-bfac9c29387e"
+    },
+    {
+      "title": "[Day 0] Cancer",
+      "score": "1201",
+      "url": "https://medium.com/p/day-0-cancer-a3f1515f62bf"
+    },
+    {
+      "title": "An open letter to the police officer who helped my autistic son",
+      "score": "804",
+      "url": "https://medium.com/p/an-open-letter-to-the-police-officer-who-helped-my-autistic-son-5ebb51478cc0"
+    },
+    {
+      "title": "10 Modern Software Over-Engineering Mistakes",
+      "score": "1101",
+      "url": "https://medium.com/p/10-modern-software-engineering-mistakes-bc67fbef4fc8"
+    },
+    {
+      "title": "9 Books That Will Make You a Better Person",
+      "score": "807",
+      "url": "https://medium.com/p/9-books-that-will-make-you-a-better-person-595d4559f389"
+    },
+    {
+      "title": "Interaction Design is dead. What now?",
+      "score": "647",
+      "url": "https://medium.com/p/interaction-design-is-dead-what-now-db09d77cadae"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/distractoff",
+      "title": "DistractOff: Stops impulsive procrastination with this Chrome extension",
+      "score": "152"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/roll-call",
+      "title": "Roll Call: Free and reliable audio calls for everyone",
+      "score": "128"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/jack-5",
+      "title": "Jack: Business insurance on a first name basis",
+      "score": "84"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/agent-ai",
+      "title": "Agent.ai: AI-enhanced customer service",
+      "score": "68"
+    },
+    {
+      "url": "https://www.producthunt.com/books/emoji-book",
+      "title": "Emoji Book: A collection of artist interpretations of Emoji",
+      "score": "63"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/curated-theme",
+      "title": "Curated Theme: A WordPress theme to easily make your own curated directory.",
+      "score": "58"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/how-i-built-this-airbnb-joe-gebbia",
+      "title": "How I Built This - Airbnb: Joe Gebbia: A chance encounter with a stranger",
+      "score": "46"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/ghostlab",
+      "title": "GhostLab: Synchronized web development, inspection and testing",
+      "score": "68"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/slice-2",
+      "title": "Slice: Easily order from authentic local pizzerias",
+      "score": "90"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/mont-blanc-augmented-paper",
+      "title": "Mont Blanc Augmented Paper: Fine writing for the digital world",
+      "score": "17"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/naptha/tesseract.js",
+      "title": "naptha/tesseract.js: Pure Javascript OCR for 62 Languages ",
+      "score": "729"
+    },
+    {
+      "url": "https://github.com/yarnpkg/yarn",
+      "title": "yarnpkg/yarn:  Fast, reliable, and secure dependency management.",
+      "score": "577"
+    },
+    {
+      "url": "https://github.com/channelcat/sanic",
+      "title": "channelcat/sanic: Python 3.5+ web server that's written to go fast",
+      "score": "551"
+    },
+    {
+      "url": "https://github.com/Microsoft/LightGBM",
+      "title": "Microsoft/LightGBM: LightGBM is a fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",
+      "score": "455"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "428"
+    },
+    {
+      "url": "https://github.com/open-guides/og-aws",
+      "title": "open-guides/og-aws:  Amazon Web Services — a practical guide",
+      "score": "453"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "445"
+    },
+    {
+      "url": "https://github.com/attic-labs/noms",
+      "title": "attic-labs/noms: The versioned, forkable, syncable database",
+      "score": "398"
+    },
+    {
+      "url": "https://github.com/florent37/DiagonalLayout",
+      "title": "florent37/DiagonalLayout: With Diagonal Layout explore new styles and approaches on material design",
+      "score": "319"
+    },
+    {
+      "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+      "title": "ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.",
+      "score": "313"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/313225#reply960",
+      "title": "赠送几本《Python Web 开发实战》",
+      "score": "960"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313275#reply120",
+      "title": "应届生，百度和小米的 offer 怎么选",
+      "score": "120"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313295#reply78",
+      "title": "晒晒你的 zsh_stats……",
+      "score": "78"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313338#reply67",
+      "title": "日常内存使用,16G 表示不够用",
+      "score": "67"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313267#reply56",
+      "title": "录了几个有关 Github 的视频，我觉得你也应该知道这些...",
+      "score": "56"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313307#reply54",
+      "title": "有知道明天京东要干嘛吗？隐约感觉要开金条了？",
+      "score": "54"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313262#reply50",
+      "title": "作为程序员，你做过最牛逼 or 最苦逼的事儿是什么？",
+      "score": "50"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313235#reply47",
+      "title": "大屏水果手机求推荐",
+      "score": "47"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313373#reply41",
+      "title": "坐标深圳，有单身的男程序员吗？求脱单",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313260#reply33",
+      "title": "XCode 8 的 Sotryboard 是不是基本用不了了？",
+      "score": "33"
+    }
+  ]
+}
