@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12729493",
+      "title": "Disney Open Source",
+      "score": "500"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12733024",
+      "title": "Shame on Y Combinator",
+      "score": "419"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12731311",
+      "title": "Response from Google Tech Lead, Re: “Google May Be Stealing Your Mobile Traffic”",
+      "score": "323"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12731839",
+      "title": "How breakpoints are set",
+      "score": "303"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12730566",
+      "title": "Don’t let your anger persist",
+      "score": "275"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12731387",
+      "title": "Leo Beranek, an engineer who helped build Arpanet, has died",
+      "score": "245"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12733445",
+      "title": "The Linux Foundation Unites the JavaScript Community for Open Web Development",
+      "score": "176"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12731971",
+      "title": "Dropping Linux capabilities to improve container security",
+      "score": "154"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12732473",
+      "title": "Doudou Linux – For children from 2 to 12 years old",
+      "score": "121"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12732118",
+      "title": "Postgres Count Performance",
+      "score": "111"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/582ldh/disney_has_established_an_open_source_program/",
+      "title": "Disney has established an Open Source Program. Explore their projects and contribute.",
+      "score": "768"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57zvt8/no_mans_sky_procedural_content/",
+      "title": "No Man’s Sky – Procedural Content",
+      "score": "593"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57zvwo/announcing_the_aws_us_east_ohio_region/",
+      "title": "Announcing the AWS US East (Ohio) Region",
+      "score": "58"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/581ldw/the_unsound_playground_breaking_javas_and_scalas/",
+      "title": "The Unsound Playground - Breaking Java's and Scala's Type Systems",
+      "score": "51"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57ybj8/open_source_ideas_initiative/",
+      "title": "Open Source Ideas Initiative",
+      "score": "44"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57zbzi/zero_downtime_deployment_with_warp_xpost_from/",
+      "title": "Zero Downtime Deployment with Warp (xpost from r/haskell)",
+      "score": "34"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57xt86/watchexec_rustbased_file_watcher_for_os_x_windows/",
+      "title": "watchexec: Rust-based file watcher for OS X, Windows, Linux",
+      "score": "32"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5815u9/reducing_checkerboard_artifacts_in/",
+      "title": "Reducing Checkerboard Artifacts in Deconvolutional Generative Neural Networks",
+      "score": "26"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57xsy8/postmortem_analysis_stale_pointer_detection/",
+      "title": "Post-Mortem Analysis: Stale Pointer Detection",
+      "score": "26"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5810qv/whiley_an_open_source_programming_language_with/",
+      "title": "Whiley: an Open Source Programming Language with Extended Static Checking",
+      "score": "26"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Peter Thiel, YC, and hard decisions",
+      "score": "1246",
+      "url": "https://medium.com/p/peter-thiel-yc-and-hard-decisions-2b91bab83764"
+    },
+    {
+      "title": "44 New Cool Websites and Apps to Learn Something New",
+      "score": "1055",
+      "url": "https://medium.com/p/44-new-cool-websites-and-apps-to-learn-something-new-7b82beab1139"
+    },
+    {
+      "title": "Fuck You Startup World",
+      "score": "13024",
+      "url": "https://medium.com/p/fuck-you-startup-world-ab6cc72fad0e"
+    },
+    {
+      "title": "How do we respond to threats after our endorsement? This is how",
+      "score": "422",
+      "url": "https://medium.com/p/how-do-we-respond-to-threats-after-our-endorsement-this-is-how-4eb66642d0cf"
+    },
+    {
+      "title": "The Science of Making Bold Decisions and Avoiding Regrets in Life",
+      "score": "341",
+      "url": "https://medium.com/p/how-to-put-yourself-on-a-powerful-path-and-avoid-regrets-in-life-a7e5a4be3c88"
+    },
+    {
+      "title": "It’s Not Okay to Hate Hillary Clinton",
+      "score": "1427",
+      "url": "https://medium.com/p/its-not-okay-to-hate-hillary-clinton-26774ef5d672"
+    },
+    {
+      "title": "A style guide for writing on Medium",
+      "score": "307",
+      "url": "https://medium.com/p/a-style-guide-for-writing-on-medium-fcbad27492ea"
+    },
+    {
+      "title": "Giving Back to the Design Community",
+      "score": "427",
+      "url": "https://medium.com/p/giving-back-to-the-design-community-2c0b4cbb091f"
+    },
+    {
+      "title": "The Bar That Saved Me",
+      "score": "820",
+      "url": "https://medium.com/p/the-bar-that-saved-me-70bde3547186"
+    },
+    {
+      "title": "Secrets about freelancing — I lied about my career.",
+      "score": "245",
+      "url": "https://medium.com/p/secrets-about-freelancing-i-lied-about-my-career-8ce3eb83f5b"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/nuage-2",
+      "title": "Nuage: Domain names with no hassle.",
+      "score": "511"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/disney-open-source",
+      "title": "Disney Open Source: Explore Disney&#x27;s Open Source projects",
+      "score": "170"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/survicate-2-0",
+      "title": "Survicate 2.0: The fastest way to collect feedback from customers",
+      "score": "300"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/bot-builder-by-recast-ai",
+      "title": "Bot Builder by Recast.AI: Create the most advanced bots in the simplest way",
+      "score": "198"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/weekdone-3",
+      "title": "Weekdone 3: Turning you into a superhero at work",
+      "score": "132"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/squarespace-start",
+      "title": "Squarespace Start: Build a simple website right from your mobile phone.",
+      "score": "132"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/electric-objects-eo2-digital-art-display",
+      "title": "Electric Objects EO2 Digital Art Display: EO2 is our most beautiful display for art, ever",
+      "score": "61"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/funnster",
+      "title": "Funnster: The best way to get together with your friends and family",
+      "score": "138"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/simpsons-cardboard",
+      "title": "Simpsons Cardboard: The Simpsons and Google have come together to create VR",
+      "score": "89"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/archer-pencil-by-baron-fig",
+      "title": "Archer Pencil by Baron Fig: Ultralight minimal pencil",
+      "score": "54"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/naptha/tesseract.js",
+      "title": "naptha/tesseract.js: Pure Javascript OCR for 62 Languages ",
+      "score": "657"
+    },
+    {
+      "url": "https://github.com/yarnpkg/yarn",
+      "title": "yarnpkg/yarn:  Fast, reliable, and secure dependency management.",
+      "score": "571"
+    },
+    {
+      "url": "https://github.com/wentin/cssicon",
+      "title": "wentin/cssicon: icon set made with pure css code, no dependencies, \"grab and go\" icons",
+      "score": "559"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "405"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "342"
+    },
+    {
+      "url": "https://github.com/open-guides/og-aws",
+      "title": "open-guides/og-aws:  Amazon Web Services — a practical guide",
+      "score": "365"
+    },
+    {
+      "url": "https://github.com/Microsoft/LightGBM",
+      "title": "Microsoft/LightGBM: LightGBM is a fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",
+      "score": "345"
+    },
+    {
+      "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+      "title": "ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.",
+      "score": "339"
+    },
+    {
+      "url": "https://github.com/airen/DemoHouse",
+      "title": "airen/DemoHouse: Collection best of Web Demos",
+      "score": "310"
+    },
+    {
+      "url": "https://github.com/channelcat/sanic",
+      "title": "channelcat/sanic: Python 3.5+ web server that's written to go fast",
+      "score": "272"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/313482#reply158",
+      "title": "2016 年做前端开发是什么体验？混乱+开倒车，这是我的体验",
+      "score": "158"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313543#reply107",
+      "title": "不愿意换系统是老了吗？",
+      "score": "107"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313490#reply84",
+      "title": "持币 1000 块钱，想买个东西玩玩， v 友们有什么推荐的么？",
+      "score": "84"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313593#reply81",
+      "title": "锤子科技 2016 发布会吹水专用贴！",
+      "score": "81"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313627#reply71",
+      "title": "女朋友快过生日了，想写一个 android app 给她作为惊喜",
+      "score": "71"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313604#reply68",
+      "title": "游戏公司程序员为服务器开光 法师保其永不宕机",
+      "score": "68"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313471#reply65",
+      "title": "不用不知道，原来 Retina MacBook Pro 那么卡",
+      "score": "65"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313693#reply41",
+      "title": "Smartisan M1/M1L 值得买吗",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313550#reply41",
+      "title": "V 友们有什么耳机推荐吗",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313618#reply39",
+      "title": "现在做色魔张大妈之类的网站是否还有搞头？",
+      "score": "39"
+    }
+  ]
+}
