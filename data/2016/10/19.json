@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12740456",
+      "title": "An External Replication on the Effects of Test-driven Development [pdf]",
+      "score": "384"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12740080",
+      "title": "Why Are America's Most Innovative Companies Still Stuck in 1950s Suburbia?",
+      "score": "175"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12742395",
+      "title": "Show HN: Get encrypted data from people that don’t know how to encrypt",
+      "score": "165"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12741134",
+      "title": "Astronauts enter China's space station",
+      "score": "160"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12740530",
+      "title": "Introducing Google Cloud Shell’s new code editor",
+      "score": "141"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12743628",
+      "title": "How the Web Became Unreadable",
+      "score": "137"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12740795",
+      "title": "Final – A credit card built for the 21st century",
+      "score": "132"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12741037",
+      "title": "Donald Knuth used an Erlang-like notation",
+      "score": "117"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12740421",
+      "title": "Virus and Two Types of Bacteria as Major Causes of Alzheimer’s",
+      "score": "117"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12742978",
+      "title": "Minimal Raspberry Pi VPU firmware",
+      "score": "97"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58694l/historic_achievement_microsoft_researchers_reach/",
+      "title": "Historic Achievement: Microsoft researchers reach human parity in conversational speech recognition",
+      "score": "859"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/589n1t/introducing_rust_language_server/",
+      "title": "Introducing Rust Language Server",
+      "score": "173"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5890np/microsoft_msdos_early_source_code/",
+      "title": "Microsoft MS-DOS early source code",
+      "score": "133"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/587e48/introducing_github_community_guidelines/",
+      "title": "Introducing GitHub Community Guidelines",
+      "score": "57"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/584oj6/what_every_programmer_should_know_about_memory_pdf/",
+      "title": "What Every Programmer Should Know About Memory [pdf]",
+      "score": "47"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58972o/google_open_sources_the_code_that_powers_its/",
+      "title": "Google open sources the code that powers its domain registry",
+      "score": "50"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/585zb4/dissecting_the_react_lifecycle_and_related_methods/",
+      "title": "Dissecting the React Lifecycle and Related Methods",
+      "score": "30"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/588yuz/a_great_article_explaining_processes_in_linux_and/",
+      "title": "A great article explaining processes in Linux and Windows.",
+      "score": "23"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/587dmq/tidy_fridy_a_plan_for_ongoing_code_care/",
+      "title": "Tidy Fridy — a plan for ongoing code care",
+      "score": "16"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5899ln/teavm_java_bytecode_to_js_adds_experimental/",
+      "title": "TeaVM (Java bytecode to JS) adds experimental support for WebAssembly",
+      "score": "18"
+    }
+  ],
+  "medium": [
+    {
+      "title": "A style guide for writing on Medium",
+      "score": "770",
+      "url": "https://medium.com/p/a-style-guide-for-writing-on-medium-fcbad27492ea"
+    },
+    {
+      "title": "44 New Cool Websites and Apps to Learn Something New",
+      "score": "1502",
+      "url": "https://medium.com/p/44-new-cool-websites-and-apps-to-learn-something-new-7b82beab1139"
+    },
+    {
+      "title": "What I Have Learned From Photographing 400 Towns in Iowa",
+      "score": "347",
+      "url": "https://medium.com/p/what-i-have-learned-from-photographing-400-and-counting-iowan-towns-f399f5ffbfd5"
+    },
+    {
+      "title": "14 Habits of Exceptionally Likable People",
+      "score": "535",
+      "url": "https://medium.com/p/14-habits-of-exceptionally-likable-people-5e8103392a67"
+    },
+    {
+      "title": "Fuck You Startup World",
+      "score": "13434",
+      "url": "https://medium.com/p/fuck-you-startup-world-ab6cc72fad0e"
+    },
+    {
+      "title": "The 40 Books That Saved My Life",
+      "score": "229",
+      "url": "https://medium.com/p/the-40-books-that-saved-my-life-25f830c16e5"
+    },
+    {
+      "title": "64 People You Should Know in Design",
+      "score": "293",
+      "url": "https://medium.com/p/64-people-you-should-know-in-design-f28cf3c2cfaa"
+    },
+    {
+      "title": "Peter Thiel, YC, and hard decisions",
+      "score": "1759",
+      "url": "https://medium.com/p/peter-thiel-yc-and-hard-decisions-2b91bab83764"
+    },
+    {
+      "title": "How Music Affects Your Brain (Plus 11 Artists To Listen To At Work)",
+      "score": "530",
+      "url": "https://medium.com/p/how-music-affects-your-brain-plus-11-artists-to-listen-to-at-work-4f0a5081d9e9"
+    },
+    {
+      "title": "The Science of Making Bold Decisions and Avoiding Regrets in Life",
+      "score": "617",
+      "url": "https://medium.com/p/how-to-put-yourself-on-a-powerful-path-and-avoid-regrets-in-life-a7e5a4be3c88"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/brand-hunt",
+      "title": "Brand Hunt: Check domains and social media accounts for your startup",
+      "score": "205"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/black-3",
+      "title": "Black: A wallpaper series using shapes and lights.",
+      "score": "98"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/slik-prospector",
+      "title": "Slik Prospector: Find anyone&#x27;s email. No bounces.",
+      "score": "68"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/botsify-2-0",
+      "title": "Botsify 2.0: Build AI based chatbots for Messenger with ML - No coding",
+      "score": "85"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/slash-webtask",
+      "title": "Slash Webtask: Create serverless Slack bots &amp; commands in seconds",
+      "score": "119"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/tiny-bank-1",
+      "title": "Tiny Bank: A financial app for people with crazy money",
+      "score": "39"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/clickky-s-self-serve-platform",
+      "title": "Clickky&#x27;s Self-Serve Platform: A self-serve platform to make mobile app promotion easy",
+      "score": "183"
+    },
+    {
+      "url": "https://www.producthunt.com/books/principia-mathematica",
+      "title": "Principia Mathematica: Isaac Newton&#x27;s Principia Mathematica re-issue",
+      "score": "26"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/note-anywhere",
+      "title": "Note Anywhere: Leave sticky notes on tabs in Chrome",
+      "score": "47"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/endorser",
+      "title": "Endorser: Promote your business by posting on your team&#x27;s social media",
+      "score": "62"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/airen/DemoHouse",
+      "title": "airen/DemoHouse: Collection best of Web Demos",
+      "score": "698"
+    },
+    {
+      "url": "https://github.com/quozd/awesome-dotnet",
+      "title": "quozd/awesome-dotnet: A collection of awesome .NET libraries, tools, frameworks and software",
+      "score": "622"
+    },
+    {
+      "url": "https://github.com/paulsonnentag/swip",
+      "title": "paulsonnentag/swip: a library to create multi device experiments",
+      "score": "470"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "454"
+    },
+    {
+      "url": "https://github.com/yarnpkg/yarn",
+      "title": "yarnpkg/yarn:  Fast, reliable, and secure dependency management.",
+      "score": "451"
+    },
+    {
+      "url": "https://github.com/google/nomulus",
+      "title": "google/nomulus: Top-level domain name registry service on Google App Engine",
+      "score": "439"
+    },
+    {
+      "url": "https://github.com/naptha/tesseract.js",
+      "title": "naptha/tesseract.js: Pure Javascript OCR for 62 Languages ",
+      "score": "440"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "304"
+    },
+    {
+      "url": "https://github.com/wentin/cssicon",
+      "title": "wentin/cssicon: icon set made with pure css code, no dependencies, \"grab and go\" icons",
+      "score": "336"
+    },
+    {
+      "url": "https://github.com/kdeldycke/awesome-falsehood",
+      "title": "kdeldycke/awesome-falsehood:  Curated list of falsehoods programmers believe in.",
+      "score": "307"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/313897#reply103",
+      "title": "请 V 友老司机推荐稳定可靠价格适中的梯子",
+      "score": "103"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313767#reply81",
+      "title": "你们会及时更新 app 吗？",
+      "score": "81"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313836#reply77",
+      "title": "想问一下大家的一周工作时长。60 小时算不算多？",
+      "score": "77"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313772#reply62",
+      "title": "一周面试感受和吐槽……",
+      "score": "62"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313770#reply46",
+      "title": "作为程序员犯了严重错误会是什么感受啊",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313757#reply44",
+      "title": "2017 年不能实现空气治理就提头来见",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313815#reply44",
+      "title": "上海电信本月发布千兆家庭宽带",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313845#reply40",
+      "title": "别人叫你 “大神” 时应该怎么推辞？",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313874#reply39",
+      "title": "老罗捐钱的 OpenBSD 还有啥选择？",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/313755#reply38",
+      "title": "图床神器 iPic 全『芯』上架 macOS App Store",
+      "score": "38"
+    }
+  ]
+}
