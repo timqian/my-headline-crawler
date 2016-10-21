@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12748863",
+      "title": "All Tesla Cars Being Produced Now Have Full Self-Driving Hardware",
+      "score": "1304"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12756462",
+      "title": "Image Synthesis from Yahoo's open_nsfw",
+      "score": "765"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12755299",
+      "title": "Adding a phone number to your Google account can make it less secure",
+      "score": "547"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12757946",
+      "title": "Why we chose Vue.js",
+      "score": "445"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12756006",
+      "title": "“Most serious” Linux privilege-escalation bug ever is under active exploit",
+      "score": "440"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12759697",
+      "title": "DDoS Attack Against Dyn Managed DNS",
+      "score": "345"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12757964",
+      "title": "Deep learning papers reading roadmap",
+      "score": "293"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12760235",
+      "title": "Samsung 'blocks' exploding Note 7 parody videos",
+      "score": "187"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12760003",
+      "title": "Google Has Dropped Ban on Personally Identifiable Web Tracking",
+      "score": "183"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12758176",
+      "title": "Dictionary of Algorithms and Data Structures (1998)",
+      "score": "158"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58jvkv/announcing_rust_1121_the_rust_programming/",
+      "title": "Announcing Rust 1.12.1 - The Rust Programming Language Blog",
+      "score": "94"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58jizo/interactive_analytics_redshift_vs_snowflake_vs/",
+      "title": "Interactive Analytics: Redshift vs Snowflake vs BigQuery",
+      "score": "37"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58lzsc/hashlink_a_virtual_machine_for_haxe/",
+      "title": "HashLink, a virtual machine for Haxe",
+      "score": "40"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58lo3k/soulless/",
+      "title": "Soulless",
+      "score": "45"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58j152/lazarus_overview_of_a_cross_platform_ide/",
+      "title": "Lazarus: Overview of a Cross Platform IDE",
+      "score": "28"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58hctm/50_million_instructions_per_second_design_and/",
+      "title": "&quot;50 million instructions per second: design and implementation of a 256-Core BrainFuck computer&quot;",
+      "score": "27"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58i7z8/cache_coherency_primer/",
+      "title": "Cache coherency primer",
+      "score": "26"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58m2el/angular_1x_banned_from_firefox_addons/",
+      "title": "Angular 1.x Banned from Firefox Addons",
+      "score": "13"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58kubq/5_git_fundamentals/",
+      "title": "5 Git Fundamentals",
+      "score": "11"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58hwut/the_importance_of_crossteam_communication_in/",
+      "title": "The Importance of Cross-Team Communication in Quality Assurance: A Developer's Perspective",
+      "score": "12"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Fuck You, Trump. My baby was “ripped out of my womb” because I was going to die.",
+      "score": "964",
+      "url": "https://medium.com/p/fuck-you-trump-my-baby-was-ripped-out-of-my-womb-because-i-was-going-to-die-2f9799f52db7"
+    },
+    {
+      "title": "Global App Power Consumption Report 2016, H1",
+      "score": "366",
+      "url": "https://medium.com/p/global-app-power-consumption-report-2016-h1-e7f9b845bed"
+    },
+    {
+      "title": "How the Web Became Unreadable",
+      "score": "1321",
+      "url": "https://medium.com/p/how-the-web-became-unreadable-a781ddc711b6"
+    },
+    {
+      "title": "44 New Cool Websites and Apps to Learn Something New",
+      "score": "2145",
+      "url": "https://medium.com/p/44-new-cool-websites-and-apps-to-learn-something-new-7b82beab1139"
+    },
+    {
+      "title": "A style guide for writing on Medium",
+      "score": "1414",
+      "url": "https://medium.com/p/a-style-guide-for-writing-on-medium-fcbad27492ea"
+    },
+    {
+      "title": "Meet the Perennials",
+      "score": "349",
+      "url": "https://medium.com/p/meet-the-perennials-e91a7cd9f65f"
+    },
+    {
+      "title": "The 40 Books That Saved My Life",
+      "score": "670",
+      "url": "https://medium.com/p/the-40-books-that-saved-my-life-25f830c16e5"
+    },
+    {
+      "title": "14 Habits of Exceptionally Likable People",
+      "score": "1065",
+      "url": "https://medium.com/p/14-habits-of-exceptionally-likable-people-5e8103392a67"
+    },
+    {
+      "title": "Notes on Love Days Before Marriage",
+      "score": "294",
+      "url": "https://medium.com/p/notes-on-love-days-before-marriage-c63228c7667d"
+    },
+    {
+      "title": "Feminism Should Come With a Warning Label",
+      "score": "922",
+      "url": "https://medium.com/p/feminism-should-come-with-a-warning-label-d5fb23fbfdd0"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/kodak-ektra",
+      "title": "Kodak Ektra: Kodak&#x27;s professional-quality, photography-first smartphone.",
+      "score": "169"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/felix-gray-computer-glasses",
+      "title": "Felix Gray Computer Glasses: Non-perscription glasses for people who stare at screens.",
+      "score": "136"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/owlie",
+      "title": "Owlie: A beautiful app for quick decision making with friends",
+      "score": "157"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/startup-funding",
+      "title": "Startup Funding: A curated list of essential tools for your funding journey",
+      "score": "58"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/bottr-me",
+      "title": "BOTTR.me: Get your personal chat bot in one click!",
+      "score": "124"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/priime-collections",
+      "title": "Priime Collections: Beautiful, easy photo publishing for modern photography",
+      "score": "95"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/names-generators",
+      "title": "Names Generators: Instant name generator can generate millions of unique names",
+      "score": "98"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/paperoll-io",
+      "title": "Paperoll.io: Print your social photos on a roll",
+      "score": "82"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/yala-2",
+      "title": "Yala: A bot that knows the best time to share your content",
+      "score": "71"
+    },
+    {
+      "url": "https://www.producthunt.com/games/osmo-pizza-co",
+      "title": "Osmo Pizza Co.: A lemonade stand reinvented through augmented reality",
+      "score": "73"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap",
+      "title": "songrotek/Deep-Learning-Papers-Reading-Roadmap: Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+      "score": "1970"
+    },
+    {
+      "url": "https://github.com/McFrankline/Blockchain-stuff",
+      "title": "McFrankline/Blockchain-stuff: Blockchain and Crytocurrency Resources",
+      "score": "526"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "514"
+    },
+    {
+      "url": "https://github.com/guerrerocarlos/CacheP2P",
+      "title": "guerrerocarlos/CacheP2P: \"More users = More capacity\"",
+      "score": "336"
+    },
+    {
+      "url": "https://github.com/Netflix/chaosmonkey",
+      "title": "Netflix/chaosmonkey: Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.",
+      "score": "328"
+    },
+    {
+      "url": "https://github.com/dirtycow/dirtycow.github.io",
+      "title": "dirtycow/dirtycow.github.io: Dirty COW",
+      "score": "255"
+    },
+    {
+      "url": "https://github.com/baoyongzhang/BigBang",
+      "title": "baoyongzhang/BigBang: 模仿 Smartisan OS 的 BigBang 功能",
+      "score": "292"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "250"
+    },
+    {
+      "url": "https://github.com/yarnpkg/yarn",
+      "title": "yarnpkg/yarn:  Fast, reliable, and secure dependency management.",
+      "score": "249"
+    },
+    {
+      "url": "https://github.com/Yalantis/Multi-Selection",
+      "title": "Yalantis/Multi-Selection: Multiselection Solution for Android in Kotlin",
+      "score": "249"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/314425#reply82",
+      "title": "为什么感觉国内音乐后继无人了？现在写代码很少听国语歌了，该用什么药？",
+      "score": "82"
+    },
+    {
+      "url": "https://www.v2ex.com/t/314302#reply76",
+      "title": "日经问题：刚毕业去大公司还是小公司好？",
+      "score": "76"
+    },
+    {
+      "url": "https://www.v2ex.com/t/314321#reply73",
+      "title": "国内的网盘为什么做不下去？",
+      "score": "73"
+    },
+    {
+      "url": "https://www.v2ex.com/t/314480#reply66",
+      "title": "定制版充电宝任性送，请各位大神笑纳~",
+      "score": "66"
+    },
+    {
+      "url": "https://www.v2ex.com/t/314375#reply65",
+      "title": "给你个机会，开好车住好房去卖煎饼果子，你还会选择现在职业吗",
+      "score": "65"
+    },
+    {
+      "url": "https://www.v2ex.com/t/314444#reply57",
+      "title": "while(true){system.out.println(&quot;不想再简历造假了...&quot;)}",
+      "score": "57"
+    },
+    {
+      "url": "https://www.v2ex.com/t/314390#reply56",
+      "title": "安卓下令人震惊的 APP 关联启动方式",
+      "score": "56"
+    },
+    {
+      "url": "https://www.v2ex.com/t/314493#reply52",
+      "title": "想为我岳母构建一个 Android 系统，只能运行微信，不知道是否可行？",
+      "score": "52"
+    },
+    {
+      "url": "https://www.v2ex.com/t/314303#reply52",
+      "title": "你们今天上班么？",
+      "score": "52"
+    },
+    {
+      "url": "https://www.v2ex.com/t/314338#reply50",
+      "title": "创业公司（ 300 人左右）办公网络慢，有啥比较好的解决方案吗？",
+      "score": "50"
+    }
+  ]
+}
