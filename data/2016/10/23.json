@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12769819",
+      "title": "Exposing high-end poker cheating devices",
+      "score": "554"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12773282",
+      "title": "Why you should never use Upwork",
+      "score": "352"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12772181",
+      "title": "PayPal 2FA Bypass",
+      "score": "313"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12771406",
+      "title": "The Best Way to Not Get Tenure",
+      "score": "298"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12772925",
+      "title": "HN comments are underrated",
+      "score": "296"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12772093",
+      "title": "IPFS is the distributed web",
+      "score": "229"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12771576",
+      "title": "The Open Steno Project",
+      "score": "126"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12772732",
+      "title": "Apple Adds ARM Support to MacOS Sierra Kernel",
+      "score": "112"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12771447",
+      "title": "NPM v4.0.0",
+      "score": "90"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12772851",
+      "title": "A Little-Known Company That Enables Mass Surveillance",
+      "score": "82"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58tjoc/following_the_dyn_attack_short_dns_record_ttl_and/",
+      "title": "Following the Dyn attack: Short DNS Record TTL And Centralization Are Serious Risks For The Internet",
+      "score": "1106"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58u0nk/steve_wozniaks_assembly_didnt_need_no_stinking/",
+      "title": "Steve Wozniak's assembly didn't need no stinking wide screen.",
+      "score": "620"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58tkgf/the_winding_path_of_being_a_developer_too_real/",
+      "title": "The winding path of being a developer (too real!)",
+      "score": "239"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58tn3y/this_summer_in_redox_the_rust_operating_system/",
+      "title": "This Summer in Redox - The Rust Operating System",
+      "score": "124"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58x7dr/what_happens_when_your_laptop_screen_breaks_at/",
+      "title": "What happens when your laptop screen breaks at the Himalayas",
+      "score": "97"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58tjsw/strangecpu_a_slightly_different_kind_of_a_cpu/",
+      "title": "StrangeCPU - a slightly different kind of a CPU featuring a novel token machine",
+      "score": "62"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58xlsm/deep_learning_papers_reading_roadmap/",
+      "title": "Deep Learning papers reading roadmap",
+      "score": "63"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58vcth/analysis_of_mirai_source_code_the_iot_malware/",
+      "title": "Analysis of Mirai source code, the IoT malware used in DDos attack on Dyn",
+      "score": "45"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58vwli/testcafe_automated_browser_testing_for_the_modern/",
+      "title": "testcafe - Automated browser testing for the modern web development stack",
+      "score": "41"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58xtdo/dyn_post_mortem/",
+      "title": "Dyn post mortem",
+      "score": "40"
+    }
+  ],
+  "medium": [
+    {
+      "title": "I’m Interested In You. That Doesn’t Mean I’m Trying To Have Sex With You.",
+      "score": "883",
+      "url": "https://medium.com/p/im-interested-in-you-that-doesn-t-mean-i-m-trying-to-have-sex-with-you-e37ece8dd8f9"
+    },
+    {
+      "title": "The Night it Happened",
+      "score": "421",
+      "url": "https://medium.com/p/the-night-it-happened-7772cf4916e3"
+    },
+    {
+      "title": "One Piece of Content Can Change Your Life",
+      "score": "1542",
+      "url": "https://medium.com/p/one-piece-of-content-can-change-your-life-232d310a5672"
+    },
+    {
+      "title": "Apple Strategy 2017. Very important change to iPhone coming.",
+      "score": "293",
+      "url": "https://medium.com/p/im-inside-tim-cook-s-head-but-i-really-wonder-what-s-going-on-inside-mark-zuckerberg-s-head-5babf01c5713"
+    },
+    {
+      "title": "What happens when you take full responsibility of your life",
+      "score": "245",
+      "url": "https://medium.com/p/what-happens-when-you-take-full-responsibility-of-your-life-b72999a03d4e"
+    },
+    {
+      "title": "Why I’m a Christian (And Continue to Suck at Being One)",
+      "score": "757",
+      "url": "https://medium.com/p/why-im-a-christian-and-continue-to-suck-at-being-one-5d7cb730e3a2"
+    },
+    {
+      "title": "How the Web Became Unreadable",
+      "score": "1858",
+      "url": "https://medium.com/p/how-the-web-became-unreadable-a781ddc711b6"
+    },
+    {
+      "title": "My First Virtual Reality Groping",
+      "score": "203",
+      "url": "https://medium.com/p/my-first-virtual-reality-sexual-assault-2330410b62ee"
+    },
+    {
+      "title": "A style guide for writing on Medium",
+      "score": "1864",
+      "url": "https://medium.com/p/a-style-guide-for-writing-on-medium-fcbad27492ea"
+    },
+    {
+      "title": "Admit It. The Clinton Email Controversy Bothers You, Yet You Don’t Actually Know What the Clinton…",
+      "score": "277",
+      "url": "https://medium.com/p/admit-it-the-clinton-email-controversy-bothers-you-yet-you-dont-actually-know-what-the-clinton-511dc1659eda"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/the-beginnings",
+      "title": "The Beginnings: Beginnings of billion dollar companies",
+      "score": "174"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/sotu",
+      "title": "SOTU: Slack tool that gives a snapshot of all your team&#x27;s projects",
+      "score": "20"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/aran-blocks",
+      "title": "Aran Blocks: Build usable furniture with just building blocks (Legos).",
+      "score": "28"
+    },
+    {
+      "url": "https://www.producthunt.com/podcasts/real-talk-with-carlos-gil-episode-2-connor-blakley-on-generation-z-marketing",
+      "title": "Real Talk With Carlos Gil Episode 2 – Connor Blakley on Generation Z Marketing: Interview with a Forbes 30 Under 30 CEO",
+      "score": "1"
+    },
+    {
+      "url": "https://www.producthunt.com/games/blocky-basketball",
+      "title": "Blocky Basketball: Endless arcade dunker",
+      "score": "3"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/comindware-tracker",
+      "title": "Comindware Tracker: Workflow management software for modelling and automation.",
+      "score": "26"
+    },
+    {
+      "url": "https://www.producthunt.com/books/sketching-user-experiences-getting-the-design-right-and-the-right-design",
+      "title": "Sketching User Experiences: Getting the Design Right and the Right Design: Sketching and early prototyping design methods",
+      "score": "8"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/dali-katch",
+      "title": "DALI KATCH: Rich sound from a small, bluetooth speaker made in Denmark 🔊",
+      "score": "19"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/hexa",
+      "title": "HEXA: An all-terrain hexapod robot",
+      "score": "36"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/let-s-meetup",
+      "title": "Let&#x27;s Meetup: An easy way to share POIs and addresses in iMessage",
+      "score": "15"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap",
+      "title": "songrotek/Deep-Learning-Papers-Reading-Roadmap: Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+      "score": "612"
+    },
+    {
+      "url": "https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System",
+      "title": "SamyPesse/How-to-Make-a-Computer-Operating-System: How to Make a Computer Operating System in C++",
+      "score": "488"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "377"
+    },
+    {
+      "url": "https://github.com/jgamblin/Mirai-Source-Code",
+      "title": "jgamblin/Mirai-Source-Code: Leaked Mirai Source Code for Research/IoC Development Purposes",
+      "score": "310"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "214"
+    },
+    {
+      "url": "https://github.com/quiet/org.quietmodem.Quiet",
+      "title": "quiet/org.quietmodem.Quiet: Quiet for Android - TCP over sound",
+      "score": "166"
+    },
+    {
+      "url": "https://github.com/vuejs/vue",
+      "title": "vuejs/vue: Simple yet powerful library for building modern web interfaces.",
+      "score": "149"
+    },
+    {
+      "url": "https://github.com/dirtycow/dirtycow.github.io",
+      "title": "dirtycow/dirtycow.github.io: Dirty COW",
+      "score": "142"
+    },
+    {
+      "url": "https://github.com/yarnpkg/yarn",
+      "title": "yarnpkg/yarn:  Fast, reliable, and secure dependency management.",
+      "score": "142"
+    },
+    {
+      "url": "https://github.com/FreeCodeCampChina/freecodecamp.cn",
+      "title": "FreeCodeCampChina/freecodecamp.cn: 看源码请到Code，提问请到Issues，提交代码请到Pull requests，看学习心得请到Wiki。多谢合作，么么哒，^_^。",
+      "score": "126"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/314814#reply80",
+      "title": "我来微软这半年",
+      "score": "80"
+    },
+    {
+      "url": "https://www.v2ex.com/t/314786#reply65",
+      "title": "Linux 下我是这么聊 QQ 的！",
+      "score": "65"
+    },
+    {
+      "url": "https://www.v2ex.com/t/314792#reply52",
+      "title": "火绒防护软件怎么样？",
+      "score": "52"
+    },
+    {
+      "url": "https://www.v2ex.com/t/314789#reply42",
+      "title": "请问有什么神器级别的 chrome 扩展推荐",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/314748#reply41",
+      "title": "晚上手机剩一半电量，充还是不充？",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/314757#reply34",
+      "title": "深圳哪里有 按摩好点的地方？（脖子，肩膀，腰）",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/314771#reply33",
+      "title": "32GB iPhone 7 的存储性能只有 128GB 版本的八分之一",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/314783#reply30",
+      "title": "自己想弄一个域名邮箱，有什么免费服务可以推荐吗？",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/314846#reply30",
+      "title": "闲鱼真的水太深了, 遇到专业骗子了",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/314764#reply28",
+      "title": "魔都，自由工作的码农，有什么地方适合写点东西，就是想人少点，感觉到处都是人，尤其是周末",
+      "score": "28"
+    }
+  ]
+}

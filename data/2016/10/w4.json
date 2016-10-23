@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12707606",
+      "title": "Be Kind",
+      "score": 2473
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12759697",
+      "title": "DDoS Attack Against Dyn Managed DNS",
+      "score": 1549
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12748863",
+      "title": "All Tesla Cars Being Produced Now Have Full Self-Driving Hardware",
+      "score": 1453
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12733024",
+      "title": "Shame on Y Combinator",
+      "score": 1277
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12748208",
+      "title": "Thank HN: From Google form to $1k in revenue in one month",
+      "score": 1052
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12718102",
+      "title": "Programming books you might want to consider reading",
+      "score": 1013
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12752248",
+      "title": "Nintendo Switch",
+      "score": 934
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12713056",
+      "title": "Ask HN: How to get started with machine learning?",
+      "score": 933
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12756462",
+      "title": "Image Synthesis from Yahoo's open_nsfw",
+      "score": 830
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12725427",
+      "title": "Wikileaks: Julian Assange's internet access 'cut'",
+      "score": 782
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58b00l/oracle_denied_new_trial_in_copyright_dispute_with/",
+      "title": "Oracle denied new trial in copyright dispute with Google over Java",
+      "score": 2777
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57r38l/programming_books_you_might_want_to_consider/",
+      "title": "Programming books you might want to consider reading",
+      "score": 2049
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/582ldh/disney_has_established_an_open_source_program/",
+      "title": "Disney has established an Open Source Program. Explore their projects and contribute.",
+      "score": 1832
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57vkho/net_on_linux_bye_windows_10/",
+      "title": ".NET on Linux – bye, Windows 10.",
+      "score": 1752
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58694l/historic_achievement_microsoft_researchers_reach/",
+      "title": "Historic Achievement: Microsoft researchers reach human parity in conversational speech recognition",
+      "score": 971
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58ptz0/linux_kernel_fix_for_privilege_escalation/",
+      "title": "Linux kernel fix for privilege escalation vulnerability due to copy on write race condition",
+      "score": 832
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/58s87q/hacked_iot_devices_powered_internet_outage/",
+      "title": "Hacked IoT devices powered Internet outage",
+      "score": 689
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57zvt8/no_mans_sky_procedural_content/",
+      "title": "No Man’s Sky – Procedural Content",
+      "score": 674
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/589n1t/introducing_rust_language_server/",
+      "title": "Introducing Rust Language Server",
+      "score": 512
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/57mrq8/the_windows_shutdown_crapfest/",
+      "title": "The Windows Shutdown crapfest",
+      "score": 424
+    }
+  ],
+  "medium": [
+    {
+      "title": "Fuck You Startup World",
+      "score": 14096,
+      "url": "https://medium.com/p/fuck-you-startup-world-ab6cc72fad0e"
+    },
+    {
+      "title": "44 New Cool Websites and Apps to Learn Something New",
+      "score": 2584,
+      "url": "https://medium.com/p/44-new-cool-websites-and-apps-to-learn-something-new-7b82beab1139"
+    },
+    {
+      "title": "Peter Thiel, YC, and hard decisions",
+      "score": 2209,
+      "url": "https://medium.com/p/peter-thiel-yc-and-hard-decisions-2b91bab83764"
+    },
+    {
+      "title": "A style guide for writing on Medium",
+      "score": 1864,
+      "url": "https://medium.com/p/a-style-guide-for-writing-on-medium-fcbad27492ea"
+    },
+    {
+      "title": "How the Web Became Unreadable",
+      "score": 1860,
+      "url": "https://medium.com/p/how-the-web-became-unreadable-a781ddc711b6"
+    },
+    {
+      "title": "Fuck You, Trump. My baby was “ripped out of my womb” because I was going to die.",
+      "score": 1821,
+      "url": "https://medium.com/p/fuck-you-trump-my-baby-was-ripped-out-of-my-womb-because-i-was-going-to-die-2f9799f52db7"
+    },
+    {
+      "title": "It’s Not Okay to Hate Hillary Clinton",
+      "score": 1812,
+      "url": "https://medium.com/p/its-not-okay-to-hate-hillary-clinton-26774ef5d672"
+    },
+    {
+      "title": "[Day 0] Cancer",
+      "score": 1642,
+      "url": "https://medium.com/p/day-0-cancer-a3f1515f62bf"
+    },
+    {
+      "title": "10 Modern Software Over-Engineering Mistakes",
+      "score": 1510,
+      "url": "https://medium.com/p/10-modern-software-engineering-mistakes-bc67fbef4fc8"
+    },
+    {
+      "title": "9 Books That Will Make You a Better Person",
+      "score": 1494,
+      "url": "https://medium.com/p/9-books-that-will-make-you-a-better-person-595d4559f389"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/313225#reply960",
+      "title": "赠送几本《Python Web 开发实战》",
+      "score": 1093
+    },
+    {
+      "url": "https://www.v2ex.com/t/313627#reply71",
+      "title": "女朋友快过生日了，想写一个 android app 给她作为惊喜",
+      "score": 222
+    },
+    {
+      "url": "https://www.v2ex.com/t/313482#reply158",
+      "title": "2016 年做前端开发是什么体验？混乱+开倒车，这是我的体验",
+      "score": 173
+    },
+    {
+      "url": "https://www.v2ex.com/t/314425#reply82",
+      "title": "为什么感觉国内音乐后继无人了？现在写代码很少听国语歌了，该用什么药？",
+      "score": 153
+    },
+    {
+      "url": "https://www.v2ex.com/t/313105#reply119",
+      "title": "94 大叔带领上海初创团队，坚持改变世界，现觅更多有志者，已有 9 位志同道合者，含 3 位漂亮妹子。",
+      "score": 152
+    },
+    {
+      "url": "https://www.v2ex.com/t/314480#reply66",
+      "title": "定制版充电宝任性送，请各位大神笑纳~",
+      "score": 140
+    },
+    {
+      "url": "https://www.v2ex.com/t/313693#reply41",
+      "title": "Smartisan M1/M1L 值得买吗",
+      "score": 137
+    },
+    {
+      "url": "https://www.v2ex.com/t/313275#reply120",
+      "title": "应届生，百度和小米的 offer 怎么选",
+      "score": 133
+    },
+    {
+      "url": "https://www.v2ex.com/t/313543#reply107",
+      "title": "不愿意换系统是老了吗？",
+      "score": 130
+    },
+    {
+      "url": "https://www.v2ex.com/t/314493#reply52",
+      "title": "想为我岳母构建一个 Android 系统，只能运行微信，不知道是否可行？",
+      "score": 126
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/nuage-2",
+      "title": "Nuage: Domain names with no hassle.",
+      "score": 1569
+    },
+    {
+      "url": "https://www.producthunt.com/tech/nintendo-switch",
+      "title": "Nintendo Switch: Nintendo&#x27;s new console for the home and your hands 👾",
+      "score": 1531
+    },
+    {
+      "url": "https://www.producthunt.com/tech/notion-7",
+      "title": "Notion: Artificial intelligence-powered email",
+      "score": 1006
+    },
+    {
+      "url": "https://www.producthunt.com/tech/black-3",
+      "title": "Black: A wallpaper series using shapes and lights.",
+      "score": 637
+    },
+    {
+      "url": "https://www.producthunt.com/tech/roll-call",
+      "title": "Roll Call: Free and reliable audio calls for everyone",
+      "score": 624
+    },
+    {
+      "url": "https://www.producthunt.com/tech/brand-hunt",
+      "title": "Brand Hunt: Check domains and social media accounts for your startup",
+      "score": 621
+    },
+    {
+      "url": "https://www.producthunt.com/tech/bot-builder-by-recast-ai",
+      "title": "Bot Builder by Recast.AI: Create the most advanced bots in the simplest way",
+      "score": 620
+    },
+    {
+      "url": "https://www.producthunt.com/tech/startup-funding",
+      "title": "Startup Funding: A curated list of essential tools for your funding journey",
+      "score": 553
+    },
+    {
+      "url": "https://www.producthunt.com/tech/felix-gray-computer-glasses",
+      "title": "Felix Gray Computer Glasses: Non-perscription glasses for people who stare at screens.",
+      "score": 548
+    },
+    {
+      "url": "https://www.producthunt.com/tech/modi",
+      "title": "MODI: Create anything you want with robotics of things",
+      "score": 542
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap",
+      "title": "songrotek/Deep-Learning-Papers-Reading-Roadmap: Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+      "score": "163"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "992"
+    },
+    {
+      "url": "https://github.com/naptha/tesseract.js",
+      "title": "naptha/tesseract.js: Pure Javascript OCR for 62 Languages ",
+      "score": "542"
+    },
+    {
+      "url": "https://github.com/yarnpkg/yarn",
+      "title": "yarnpkg/yarn:  Fast, reliable, and secure dependency management.",
+      "score": "459"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "998"
+    },
+    {
+      "url": "https://github.com/open-guides/og-aws",
+      "title": "open-guides/og-aws:  Amazon Web Services — a practical guide",
+      "score": "848"
+    },
+    {
+      "url": "https://github.com/wentin/cssicon",
+      "title": "wentin/cssicon: icon set made with pure css code, no dependencies, \"grab and go\" icons",
+      "score": "372"
+    },
+    {
+      "url": "https://github.com/channelcat/sanic",
+      "title": "channelcat/sanic: Python 3.5+ web server that's written to go fast",
+      "score": "292"
+    },
+    {
+      "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+      "title": "ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.",
+      "score": "206"
+    },
+    {
+      "url": "https://github.com/Microsoft/LightGBM",
+      "title": "Microsoft/LightGBM: LightGBM is a fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. It is under the umbrella of the DMTK() project of Microsoft.",
+      "score": "161"
+    }
+  ]
+}
