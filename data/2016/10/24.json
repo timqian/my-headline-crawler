@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12775983",
+      "title": "The Remote Freelancer: A list of remote work alternatives to Upwork",
+      "score": "356"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12776340",
+      "title": "Building a Bank with Kubernetes [slides]",
+      "score": "341"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12778470",
+      "title": "Why Tim Cook Is Steve Ballmer and Why He Still Has His Job at Apple",
+      "score": "256"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12778869",
+      "title": "Webcams used to attack Reddit and Twitter recalled",
+      "score": "228"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12778836",
+      "title": "Ask HN: What is your favorite internet rabbit hole?",
+      "score": "186"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12778395",
+      "title": "Overview of JavaScript ES6 features",
+      "score": "165"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12777896",
+      "title": "Is Your Site Leaking Password Reset Links?",
+      "score": "141"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12779622",
+      "title": "How Snowden's Disclosures Made All Our Data Safer",
+      "score": "110"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12778824",
+      "title": "Anti-patterns and Malpractices in Modern Software Development",
+      "score": "109"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12779571",
+      "title": "Introducing Initialized Capital",
+      "score": "97"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/590yh4/picat_the_programming_language_youve_never_heard/",
+      "title": "Picat, the programming language you've never heard about, wins 10K prize at Media Lab Summit",
+      "score": "333"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/593ud7/a_taste_of_haskell/",
+      "title": "A Taste of Haskell",
+      "score": "98"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/590ggp/understanding_a_strange_precision_loss_in_webgl/",
+      "title": "Understanding a strange precision loss in WebGL",
+      "score": "68"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5900z2/my_contribution_to_lede_openwrt_a_hacktoberfest/",
+      "title": "My Contribution to LEDE (OpenWrt): A Hacktoberfest Adventure",
+      "score": "53"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/593c3w/gwt_280_released/",
+      "title": "GWT 2.8.0 Released",
+      "score": "40"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/592z5y/linux_gurus_fancy_a_vnc_client_for_your_character/",
+      "title": "Linux gurus, fancy a VNC client for your character terminal (VT/Xterm/etc)?",
+      "score": "35"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5902f9/how_to_design_apis_that_dont_suck/",
+      "title": "How to design APIs that don’t suck",
+      "score": "28"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/593wj2/the_ecmascript_2016_change_about_use_strict_you/",
+      "title": "The ECMAScript 2016 change about &quot;use strict&quot; you probably don't know",
+      "score": "20"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/593ca8/practical_proofs_proof_approximations_for/",
+      "title": "Practical Proofs: Proof Approximations for Practical Code",
+      "score": "15"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5949qi/sql_vs_nosql_for_mogs/",
+      "title": "SQL vs NoSQL for MOGs",
+      "score": "12"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Why you should never use Upwork, ever.",
+      "score": "830",
+      "url": "https://medium.com/p/why-you-should-never-use-upwork-ever-5c62848bdf46"
+    },
+    {
+      "title": "My First Virtual Reality Groping",
+      "score": "665",
+      "url": "https://medium.com/p/my-first-virtual-reality-sexual-assault-2330410b62ee"
+    },
+    {
+      "title": "What happens when you take full responsibility of your life",
+      "score": "710",
+      "url": "https://medium.com/p/what-happens-when-you-take-full-responsibility-of-your-life-b72999a03d4e"
+    },
+    {
+      "title": "Please be kind on launch day 😊",
+      "score": "315",
+      "url": "https://medium.com/p/please-be-kind-on-launch-day-a147eb1cbf30"
+    },
+    {
+      "title": "The Night it Happened",
+      "score": "978",
+      "url": "https://medium.com/p/the-night-it-happened-7772cf4916e3"
+    },
+    {
+      "title": "Admit It. The Clinton Email Controversy Bothers You, Yet You Don’t Actually Know What the Clinton…",
+      "score": "697",
+      "url": "https://medium.com/p/admit-it-the-clinton-email-controversy-bothers-you-yet-you-dont-actually-know-what-the-clinton-511dc1659eda"
+    },
+    {
+      "title": "Stop telling each other it’s alright. Sometimes, it’s just not.",
+      "score": "279",
+      "url": "https://medium.com/p/stop-telling-each-other-its-alright-sometimes-it-s-just-not-7b3180298257"
+    },
+    {
+      "title": "Rich, it shouldn’t take a post like this for you (Upwork) to give someone special treatment.",
+      "score": "282",
+      "url": "https://medium.com/p/shadi-i-work-at-upwork-and-your-post-about-your-experience-makes-us-feel-terrible-abc9e6741efa"
+    },
+    {
+      "title": "Shadi, I work at Upwork and your post about your experience makes us feel terrible.",
+      "score": "45",
+      "url": "https://medium.com/p/shadi-i-work-at-upwork-and-your-post-about-your-experience-makes-us-feel-terrible-abc9e6741efa"
+    },
+    {
+      "title": "How the Web Became Unreadable",
+      "score": "2225",
+      "url": "https://medium.com/p/how-the-web-became-unreadable-a781ddc711b6"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/tech/simple-contacts-2",
+      "title": "Simple Contacts: Contact lens prescriptions from home",
+      "score": "240"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/vaultedge-2",
+      "title": "Vaultedge: Access all your documents in one place.",
+      "score": "407"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/herman-miller-aeron",
+      "title": "Herman Miller Aeron: The iconic office chair, remastered",
+      "score": "129"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/programming-posters",
+      "title": "Programming Posters: Posters to decorate the walls of any developer&#x27;s workspace.",
+      "score": "122"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/largerio",
+      "title": "Largerio: Uncovers the technologies used on websites",
+      "score": "110"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/city-map-retro-posters",
+      "title": "City Map Retro Posters: Simple yet stunning posters with city maps.",
+      "score": "116"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/sharkle-3",
+      "title": "Sharkle: Generator of random awesomeness",
+      "score": "90"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/cocal",
+      "title": "Cocal: A calendar for all coliving and coworking retreats",
+      "score": "34"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/identity",
+      "title": "Identity: Personal assistant to update credit card &amp; address info",
+      "score": "59"
+    },
+    {
+      "url": "https://www.producthunt.com/tech/toonie-alarm",
+      "title": "Toonie Alarm: Bright alarm app with funny stickers",
+      "score": "63"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/leereilly/games",
+      "title": "leereilly/games:  A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.",
+      "score": "1140"
+    },
+    {
+      "url": "https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap",
+      "title": "songrotek/Deep-Learning-Papers-Reading-Roadmap: Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+      "score": "774"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "454"
+    },
+    {
+      "url": "https://github.com/jgamblin/Mirai-Source-Code",
+      "title": "jgamblin/Mirai-Source-Code: Leaked Mirai Source Code for Research/IoC Development Purposes",
+      "score": "310"
+    },
+    {
+      "url": "https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System",
+      "title": "SamyPesse/How-to-Make-a-Computer-Operating-System: How to Make a Computer Operating System in C++",
+      "score": "371"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "262"
+    },
+    {
+      "url": "https://github.com/romandanylyk/PageIndicatorView",
+      "title": "romandanylyk/PageIndicatorView: An page indicator for Android ViewPager",
+      "score": "269"
+    },
+    {
+      "url": "https://github.com/jtoy/awesome-tensorflow",
+      "title": "jtoy/awesome-tensorflow: TensorFlow - A curated list of dedicated resources ",
+      "score": "251"
+    },
+    {
+      "url": "https://github.com/docker/labs",
+      "title": "docker/labs: This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.",
+      "score": "242"
+    },
+    {
+      "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+      "title": "ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.",
+      "score": "230"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/314959#reply417",
+      "title": "青云 QingCloud 祝大家节日快乐（必须有礼物、有愿望）",
+      "score": "417"
+    },
+    {
+      "url": "https://www.v2ex.com/t/314960#reply359",
+      "title": "过节啦，领取好书一起 1024",
+      "score": "359"
+    },
+    {
+      "url": "https://www.v2ex.com/t/314956#reply290",
+      "title": "送几本《CSS 实战手册（第四版）》",
+      "score": "290"
+    },
+    {
+      "url": "https://www.v2ex.com/t/314955#reply85",
+      "title": "1024 了，当初为啥要当一名程序猿？",
+      "score": "85"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315024#reply77",
+      "title": "阿里双 11 这个宣传页做的简直炫酷",
+      "score": "77"
+    },
+    {
+      "url": "https://www.v2ex.com/t/314935#reply69",
+      "title": "1024，稀土掘金差点把我吓尿",
+      "score": "69"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315118#reply63",
+      "title": "送 10 张苹果开发者大会门票，给过节的 V 友们开心一下！",
+      "score": "63"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315066#reply50",
+      "title": "Google 相关产品服务在国内 1000 万云上被严重监视？",
+      "score": "50"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315021#reply48",
+      "title": "忍不住又来吐槽阿里云，你们阿里云信用卡支付以后退款居然是退到余额的？！而风险更大的是，余额还可以提现？！这特么不是一个巨牛 13 的信用卡套现渠道吗？",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315054#reply48",
+      "title": "1024 野狗给大家发点福利~~！！！！！！顺便欢迎报名参加野狗 meetup 沙龙第四期 [小程序与微信开发实战专场]",
+      "score": "48"
+    }
+  ]
+}
