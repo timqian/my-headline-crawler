@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12784274",
+      "title": "Twitter Plans Hundreds More Job Cuts as Soon as This Week",
+      "score": "415"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12785320",
+      "title": "Concorde",
+      "score": "234"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12787462",
+      "title": "CPP: A Standardized Alternative to AMP",
+      "score": "173"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12784295",
+      "title": "Chrome Requiring Certificate Transparency in 2017",
+      "score": "171"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12786545",
+      "title": "Introduction to Cyber Security",
+      "score": "166"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12786427",
+      "title": "Baidu File System – A distributed file system for real-time applications",
+      "score": "166"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12783898",
+      "title": "Web Bloat Score Calculator",
+      "score": "162"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12785814",
+      "title": "Ask HN: What cool development languages/tools changed your career?",
+      "score": "160"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12784121",
+      "title": "JsonLogic – Build complex rules, serialize them as JSON",
+      "score": "140"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12786935",
+      "title": "Show HN: Killing Procrastination by Making Everything Fit",
+      "score": "120"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5972ev/android_can_be_rooted_using_recently_discovered/",
+      "title": "Android can be rooted using recently discovered Linux vulnerability",
+      "score": "1165"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/595i2r/why_tdding_your_frontend_feels_pointless/",
+      "title": "Why TDD’ing your frontend feels pointless",
+      "score": "231"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/596yvk/mainprintfunix021six0120_unixhavefun0x60/",
+      "title": "main(){printf(&amp;unix[&quot;\\021%six\\012\\0&quot;], (unix)[&quot;have&quot;]+&quot;fun&quot;-0x60);}",
+      "score": "215"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5979a6/high_dpi_scaling_improvements_for_desktop/",
+      "title": "High DPI Scaling Improvements for Desktop Applications and “Mixed Mode” DPI Scaling in the Windows 10 Anniversary Update",
+      "score": "90"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/596sh0/group_chat_sucks_for_programmers_so_im_fixing_the/",
+      "title": "Group chat sucks for programmers, so I'm fixing the problem",
+      "score": "85"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5958bb/maintainers_guide_to_staying_positive/",
+      "title": "Maintainers Guide to Staying Positive",
+      "score": "52"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/5981p8/living_in_the_age_of_software_fuckery/",
+      "title": "Living in the age of software fuckery",
+      "score": "27"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/599mh1/crafting_reliable_c_code_a_summary/",
+      "title": "Crafting reliable C++ code: a summary",
+      "score": "28"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/59a8jq/allinone_api_documentation_browser_with_offline/",
+      "title": "All-in-one API documentation browser with offline mode and instant search",
+      "score": "27"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/59a10z/deep_learning_for_fashion_similarity/",
+      "title": "Deep learning for fashion similarity",
+      "score": "6"
+    }
+  ],
+  "medium": [
+    {
+      "title": "How to make a logo, for free, in about 5 minutes.",
+      "score": "453",
+      "url": "https://medium.com/p/how-to-make-a-logo-for-free-in-about-5-minutes-a4f409176a8e"
+    },
+    {
+      "title": "What happens when you take full responsibility of your life",
+      "score": "1067",
+      "url": "https://medium.com/p/what-happens-when-you-take-full-responsibility-of-your-life-b72999a03d4e"
+    },
+    {
+      "title": "LeBron Is Still Painting His Masterpiece",
+      "score": "258",
+      "url": "https://medium.com/p/lebron-is-still-painting-his-masterpiece-bdad85037eb0"
+    },
+    {
+      "title": "My First Virtual Reality Groping",
+      "score": "1069",
+      "url": "https://medium.com/p/my-first-virtual-reality-sexual-assault-2330410b62ee"
+    },
+    {
+      "title": "Why you should never use Upwork, ever.",
+      "score": "1211",
+      "url": "https://medium.com/p/why-you-should-never-use-upwork-ever-5c62848bdf46"
+    },
+    {
+      "title": "I meditate. So I don’t turn into an asshole.",
+      "score": "195",
+      "url": "https://medium.com/p/i-meditate-so-i-dont-turn-into-an-asshole-164b77bd04b8"
+    },
+    {
+      "title": "The Leftist Case for Clinton",
+      "score": "501",
+      "url": "https://medium.com/p/the-leftist-case-for-clinton-c5de3dfd8a67"
+    },
+    {
+      "title": "The 40 Books That Saved My Life",
+      "score": "1239",
+      "url": "https://medium.com/p/the-40-books-that-saved-my-life-25f830c16e5"
+    },
+    {
+      "title": "5 Amazing Ways Productive People Master Their Time",
+      "score": "179",
+      "url": "https://medium.com/p/5-amazing-ways-productive-people-master-their-time-4eb5db40076d"
+    },
+    {
+      "title": "Stop telling each other it’s alright. Sometimes, it’s just not.",
+      "score": "502",
+      "url": "https://medium.com/p/stop-telling-each-other-its-alright-sometimes-it-s-just-not-7b3180298257"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/product-hunt-cards",
+      "title": "Product Hunt Cards: Embed products and comments across the web 🌐",
+      "score": "286"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/slack-for-mac",
+      "title": "Slack for Mac: A new, improved Slack desktop app for Mac",
+      "score": "196"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/findo-4",
+      "title": "Findo: Your smart search assistant",
+      "score": "544"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/coworking-coffee",
+      "title": "Coworking.Coffee: The best coworking spaces all around the world",
+      "score": "246"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/the-saas-cto-security-checklist",
+      "title": "The SaaS CTO Security Checklist: The security checklist all CTOs should follow",
+      "score": "167"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/photolemur-2",
+      "title": "Photolemur: Photo enhancement on autopilot",
+      "score": "189"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/peck-2",
+      "title": "Peck: Get the information you want...fast",
+      "score": "166"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/ascii-prints",
+      "title": "ASCII Prints: ASCII art on your wall ¯\\_(ツ)_/¯",
+      "score": "130"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/arlo-pro",
+      "title": "Arlo Pro: Wireless smart home security with audio and 130° viewing",
+      "score": "137"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/pdf-viewer",
+      "title": "PDF Viewer: Read, review, and annotate PDFs with ease",
+      "score": "115"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/engineerapart/TheRemoteFreelancer",
+      "title": "engineerapart/TheRemoteFreelancer: Listing of community-curated resources to find topical remote freelance &amp; contract work for software developers, web designers, and more!",
+      "score": "1350"
+    },
+    {
+      "url": "https://github.com/leereilly/games",
+      "title": "leereilly/games:  A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.",
+      "score": "869"
+    },
+    {
+      "url": "https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap",
+      "title": "songrotek/Deep-Learning-Papers-Reading-Roadmap: Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+      "score": "625"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "533"
+    },
+    {
+      "url": "https://github.com/baidu/bfs",
+      "title": "baidu/bfs: The Baidu File System.",
+      "score": "365"
+    },
+    {
+      "url": "https://github.com/jgamblin/Mirai-Source-Code",
+      "title": "jgamblin/Mirai-Source-Code: Leaked Mirai Source Code for Research/IoC Development Purposes",
+      "score": "304"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "284"
+    },
+    {
+      "url": "https://github.com/clarus/redux-ship",
+      "title": "clarus/redux-ship: Scalable, testable and typable side effects for Redux",
+      "score": "269"
+    },
+    {
+      "url": "https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System",
+      "title": "SamyPesse/How-to-Make-a-Computer-Operating-System: How to Make a Computer Operating System in C++",
+      "score": "252"
+    },
+    {
+      "url": "https://github.com/yarnpkg/yarn",
+      "title": "yarnpkg/yarn:  Fast, reliable, and secure dependency management.",
+      "score": "246"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/315212#reply123",
+      "title": "已经决定用 Windows 了……求靠谱好用 Shell",
+      "score": "123"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315228#reply110",
+      "title": "经常自言自语，这是什么毛病？",
+      "score": "110"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315367#reply104",
+      "title": "只有我觉得小米 MIX 好看吗",
+      "score": "104"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315258#reply66",
+      "title": "怎么不见 V 站有人讨论《西部世界》《Westworld》？",
+      "score": "66"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315241#reply52",
+      "title": "针对 Macbook Pro 要不要购买 AppleCare",
+      "score": "52"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315401#reply47",
+      "title": "分享一下站着办公",
+      "score": "47"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315222#reply40",
+      "title": "leader 一定要我用 array()不让我用[]怎么办？",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315216#reply39",
+      "title": "你用软件或者操作系统，会考虑中文还是英文版的？",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315215#reply33",
+      "title": "Ubuntu 下有没有什么管理 MySQL 的好软件？",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315392#reply31",
+      "title": "15 寸的低配 MacBook Pro 是一种什么体验？",
+      "score": "31"
+    }
+  ]
+}
