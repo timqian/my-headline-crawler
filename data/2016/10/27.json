@@ -1,0 +1,314 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12800119",
+      "title": "Tesla reports first quarterly profit in more than three years",
+      "score": "636"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12798767",
+      "title": "Instapainting – From $4k in debt to $32k/mo in passive revenue with no employees",
+      "score": "540"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12796556",
+      "title": "Parsing JSON is a Minefield",
+      "score": "476"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12796590",
+      "title": "Google Fiber Cutting Jobs and Halting Rollout",
+      "score": "429"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12801070",
+      "title": "Wikipedia and Internet Archive partner to fix 1M broken links on Wikipedia",
+      "score": "353"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12798130",
+      "title": "Supercharging Style Transfer",
+      "score": "276"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12797932",
+      "title": "Noisy Coworkers And Other Sounds Are A Distraction In Workplace",
+      "score": "215"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12802949",
+      "title": "Git from the inside out",
+      "score": "208"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12800532",
+      "title": "Groupon Buys LivingSocial, a Rival Once Valued at $6B",
+      "score": "178"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12800019",
+      "title": "Isaac Asimov on How to Be Prolific",
+      "score": "175"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.reddit.com/r/programming/comments/59hubc/happiness_is_a_boring_stack/",
+      "title": "Happiness is a Boring Stack",
+      "score": "1036"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/59htn7/parsing_json_is_a_minefield/",
+      "title": "Parsing JSON is a Minefield 💣",
+      "score": "609"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/59gp89/googles_dart_programming_language_returns_to_the/",
+      "title": "Google’s Dart programming language returns to the spotlight",
+      "score": "149"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/59kjgd/trick_or_treat_programs_runnable_in_two_different/",
+      "title": "Trick OR Treat: programs runnable in two different languages and that print &quot;Trick&quot; in one language and &quot;Treat&quot; in the other",
+      "score": "142"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/59hsjo/librsvg_gets_rusty/",
+      "title": "Librsvg gets Rusty",
+      "score": "84"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/59lhok/a_comprehensive_guide_to_debugging_optimized_x64/",
+      "title": "A Comprehensive Guide to Debugging Optimized x64 Assembly",
+      "score": "35"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/59k9bd/seven_pillars_of_pretty_code/",
+      "title": "Seven Pillars of Pretty Code",
+      "score": "18"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/59jir5/julia_reda_european_parliament_votes_to_extend/",
+      "title": "Julia Reda – European Parliament votes to extend Free Software security audits",
+      "score": "18"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/59hbp6/interesting_article_on_effective_testing/",
+      "title": "Interesting article on effective testing techniques",
+      "score": "15"
+    },
+    {
+      "url": "https://www.reddit.com/r/programming/comments/59ingy/c_weekly_ep_34_reading_assembly_language_part_1/",
+      "title": "C++ Weekly - Ep 34 - Reading Assembly Language - Part 1",
+      "score": "14"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Applying the Linus Torvalds “Good Taste” Coding Requirement",
+      "score": "984",
+      "url": "https://medium.com/p/applying-the-linus-tarvolds-good-taste-coding-requirement-99749f37684a"
+    },
+    {
+      "title": "Self-Driving Trucks Are Going to Hit Us Like a Human-Driven Truck",
+      "score": "1919",
+      "url": "https://medium.com/p/self-driving-trucks-are-going-to-hit-us-like-a-human-driven-truck-b8507d9c5961"
+    },
+    {
+      "title": "The New Tom Thibodeau Is a Lot Like the Old One",
+      "score": "133",
+      "url": "https://medium.com/p/tom-thibodeau-minnesota-timberwolves-nba-preview-feature-30fbb1ab7f95"
+    },
+    {
+      "title": "Electing Hillary Isn’t Enough",
+      "score": "273",
+      "url": "https://medium.com/p/electing-hillary-isnt-enough-9f4651f0f852"
+    },
+    {
+      "title": "LeBron Is Still Painting His Masterpiece",
+      "score": "832",
+      "url": "https://medium.com/p/lebron-is-still-painting-his-masterpiece-bdad85037eb0"
+    },
+    {
+      "title": "The Warriors Have 81 Games to Address Their Achilles’ Heel",
+      "score": "106",
+      "url": "https://medium.com/p/warriors-spurs-2017-season-opener-center-518990244675"
+    },
+    {
+      "title": "How to make a logo, for free, in about 5 minutes.",
+      "score": "1714",
+      "url": "https://medium.com/p/how-to-make-a-logo-for-free-in-about-5-minutes-a4f409176a8e"
+    },
+    {
+      "title": "Rob Gronkowski’s 69th Touchdown Will Destroy Us All",
+      "score": "201",
+      "url": "https://medium.com/p/rob-gronkowskis-69th-touchdown-will-destroy-us-all-b3550062e57b"
+    },
+    {
+      "title": "Kawhi Leonard Keeps the Spurs Looking Scary",
+      "score": "88",
+      "url": "https://medium.com/p/spurs-warriors-kawhi-leonard-lamarcus-aldridge-5639e743c32a"
+    },
+    {
+      "title": "Google: Our Assistant Will Trigger the Next Era of AI",
+      "score": "271",
+      "url": "https://medium.com/p/google-our-assistant-will-trigger-the-next-era-of-ai-3c72a4d7bc75"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/the-new-twitter-developers",
+      "title": "The New Twitter Developers: An entirely new experience for docs and developer resources",
+      "score": "56"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/eclipse-4",
+      "title": "ECLIPSE: Say goodbye to messy cables",
+      "score": "44"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/super-flip",
+      "title": "Super Flip: An addictive match shapes and colors game",
+      "score": "28"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/toneden-lasso",
+      "title": "ToneDen Lasso: Put fan and customer acquisition on autopilot",
+      "score": "34"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/mailytics",
+      "title": "Mailytics: Monitor &amp; Analyze competitor Email campaigns",
+      "score": "17"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/clara-labs",
+      "title": "Clara Labs: A scheduling assistant you can trust.",
+      "score": "30"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/neverbounce",
+      "title": "NeverBounce: Real-time email verification and email cleaning services",
+      "score": "22"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/social-speaker",
+      "title": "Social Speaker: Siri reads tweets.",
+      "score": "21"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/chat-with-traders-nico-inefficientmrkt",
+      "title": "Chat With Traders · Nico, @InefficientMrkt: An 8 year overnight success story and a thirst for momentum.",
+      "score": "11"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/toyji",
+      "title": "Toyji: World&#x27;s first smart toy platform",
+      "score": "14"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/zeit/next.js",
+      "title": "zeit/next.js: A minimalistic framework for server-rendered React applications",
+      "score": "1353"
+    },
+    {
+      "url": "https://github.com/Bilibili/flv.js",
+      "title": "Bilibili/flv.js: HTML5 FLV Player",
+      "score": "1064"
+    },
+    {
+      "url": "https://github.com/lukasz-madon/awesome-remote-job",
+      "title": "lukasz-madon/awesome-remote-job: A curated list of awesome remote jobs and resources. Inspired by ",
+      "score": "704"
+    },
+    {
+      "url": "https://github.com/engineerapart/TheRemoteFreelancer",
+      "title": "engineerapart/TheRemoteFreelancer: Listing of community-curated resources to find topical remote freelance &amp; contract work for software developers, web designers, and more!",
+      "score": "544"
+    },
+    {
+      "url": "https://github.com/Microsoft/CNTK",
+      "title": "Microsoft/CNTK: Microsoft Cognition Toolkit (CNTK)",
+      "score": "437"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "426"
+    },
+    {
+      "url": "https://github.com/jtoy/awesome-tensorflow",
+      "title": "jtoy/awesome-tensorflow: TensorFlow - A curated list of dedicated resources ",
+      "score": "290"
+    },
+    {
+      "url": "https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap",
+      "title": "songrotek/Deep-Learning-Papers-Reading-Roadmap: Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+      "score": "284"
+    },
+    {
+      "url": "https://github.com/mjavascript/practical-es6",
+      "title": "mjavascript/practical-es6:  A practical dive into ES6 and maintainable JavaScript modules",
+      "score": "294"
+    },
+    {
+      "url": "https://github.com/jgamblin/Mirai-Source-Code",
+      "title": "jgamblin/Mirai-Source-Code: Leaked Mirai Source Code for Research/IoC Development Purposes",
+      "score": "206"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/315784#reply116",
+      "title": "iMac 的竞争对手出现了啊！",
+      "score": "116"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315844#reply69",
+      "title": "隐形眼镜连续戴了 7 年...",
+      "score": "69"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315795#reply41",
+      "title": "被腾讯的免费体验给耍了",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315785#reply38",
+      "title": "小米 note 现在只要 999 了呢",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315852#reply33",
+      "title": "hexo 搞了个博客，大家提提意见。",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315843#reply32",
+      "title": "招商银行美国运通 Blue 全币种国际信用卡",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315836#reply23",
+      "title": "关于昨天发的 iTumblr 测试邀请",
+      "score": "23"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315802#reply22",
+      "title": "双十一想入手一个小型台式主机，预算 5000 以内",
+      "score": "22"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315840#reply22",
+      "title": "地铁音乐分享软件的设想",
+      "score": "22"
+    },
+    {
+      "url": "https://www.v2ex.com/t/315819#reply20",
+      "title": "打开浏览器发现被加了一个双 11 的书签",
+      "score": "20"
+    }
+  ]
+}
