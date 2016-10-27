@@ -10,5 +10,5 @@ export default async function getDailyHeadline() {
     getHN(),  getMedium(), getGithub(), getProductHunt(), getV2()
   ])
 
-  return {HN, reddit, medium, productHunt, github, v2ex}
+  return {HN,  medium, productHunt, github, v2ex}
 }
