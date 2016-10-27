@@ -10,6 +10,7 @@ import getGithubWeekly from './src/getGithubWeekly';
 
   // generate daily headline json file
   const dailyHeadline = await getDailyHeadline()
+  console.log('hi')
   fs.writeFileSync(`./data/${moment().format('YYYY/MM/DD')}.json`, JSON.stringify(dailyHeadline, null, 2), 'utf8')
   console.log('write dailyHeadline succeed!')
 
