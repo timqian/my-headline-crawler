@@ -1,0 +1,262 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12817468",
+      "title": "Eve: Programming designed for humans",
+      "score": "935"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12822018",
+      "title": "Powerwall 2 and Integrated Solar",
+      "score": "414"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12821586",
+      "title": "Sub-millisecond GC pauses in Go 1.8",
+      "score": "323"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12822148",
+      "title": "Neural Enhance – Super Resolution for images using deep learning",
+      "score": "169"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12822220",
+      "title": "Robert Elder Software Linux Operating System",
+      "score": "87"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12821637",
+      "title": "A Map of the World Won Japan’s Prestigious Design Award",
+      "score": "81"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12815514",
+      "title": "Why It Took So Long to Invent the Wheel (2012)",
+      "score": "75"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12823271",
+      "title": "Casual Introduction to Low-Level Graphics Programming",
+      "score": "68"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12822742",
+      "title": "Liskov's Reading List for Computer Scientists",
+      "score": "67"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12822946",
+      "title": "GC Pauses and Safe Points in the CLR",
+      "score": "60"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Apple just told the world it has no idea who the Mac is for",
+      "score": "1315",
+      "url": "https://medium.com/p/apple-just-told-the-world-it-has-no-idea-who-the-mac-is-for-722a2438389b"
+    },
+    {
+      "title": "Apple to developers: There is no escape.",
+      "score": "1238",
+      "url": "https://medium.com/p/apple-to-developers-there-is-no-escape-298b63c2a1d8"
+    },
+    {
+      "title": "Week 8 NFL Picks: Let’s Fix Football’s Fun Problem",
+      "score": "40",
+      "url": "https://medium.com/p/week-8-nfl-picks-lets-fix-football-s-fun-problem-76a5ece6ab6b"
+    },
+    {
+      "title": "New MacBook Pro is not a Laptop for Developers Anymore",
+      "score": "315",
+      "url": "https://medium.com/p/new-macbook-pro-is-not-a-laptop-for-developers-anymore-d0d4b1b8b7de"
+    },
+    {
+      "title": "What the FBI Director’s letter about the Clinton emails really says",
+      "score": "158",
+      "url": "https://medium.com/p/the-fbi-directors-letter-about-the-clinton-emails-says-a-lot-less-than-the-media-wants-you-to-aa61e81e5a97"
+    },
+    {
+      "title": "An Email History of the 2001 iPod Launch",
+      "score": "240",
+      "url": "https://medium.com/p/an-email-history-of-the-2001-ipod-launch-709b3ac4ea03"
+    },
+    {
+      "title": "Microsoft, I forgive you!",
+      "score": "1451",
+      "url": "https://medium.com/p/microsoft-i-forgive-you-2fb6d6061a2c"
+    },
+    {
+      "title": "100 Intimate Moments",
+      "score": "274",
+      "url": "https://medium.com/p/100-intimate-moments-27ee427477e4"
+    },
+    {
+      "title": "No Escape? Microsoft is About to Eat Apple for Lunch",
+      "score": "222",
+      "url": "https://medium.com/p/no-escape-microsoft-is-about-to-eat-apple-for-lunch-1fbef5048086"
+    },
+    {
+      "title": "How Meetup Ditched Its Boys Club",
+      "score": "313",
+      "url": "https://medium.com/p/how-meetup-ditched-its-boys-club-4a3a3084e72f"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/one-click-battle",
+      "title": "One Click Battle: Simple realtime voting system",
+      "score": "67"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/shift-8",
+      "title": "Shift: Drone with a one-handed controller",
+      "score": "47"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/primetime",
+      "title": "Primetime: New programming experiment by YouTube Gaming",
+      "score": "42"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/emoji-engine",
+      "title": "Emoji Engine: A search engine for emoji 🔎",
+      "score": "42"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/sb",
+      "title": "SB: Tool to develop UI components easily",
+      "score": "44"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/startup-growth-chatbot",
+      "title": "Startup Growth Chatbot: Find hand picked articles on startup growth via Messenger",
+      "score": "30"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/quiver-pumpkins",
+      "title": "Quiver Pumpkins: Carve an Augmented Reality Jack-O-Lantern using Quiver",
+      "score": "6"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/smart-kitchen-show-the-kitchen-operating-system",
+      "title": "Smart Kitchen Show: The Kitchen Operating System: Can all this new tech in the kitchen work together?",
+      "score": "1"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/air-rating",
+      "title": "Air Rating: Airline customer rating based on twitter mentiones",
+      "score": "22"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/pewdiepie-s-tuber-simulator-2",
+      "title": "PewDiePie&#x27;s Tuber Simulator: Become a famous streamer, virtually",
+      "score": "1"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/witheve/Eve",
+      "title": "witheve/Eve: Better tools for thought",
+      "score": "1104"
+    },
+    {
+      "url": "https://github.com/alexjc/neural-enhance",
+      "title": "alexjc/neural-enhance: Super Resolution for images using deep learning.",
+      "score": "386"
+    },
+    {
+      "url": "https://github.com/verekia/js-stack-from-scratch",
+      "title": "verekia/js-stack-from-scratch: Step-by-step tutorial to build a modern JavaScript stack from scratch",
+      "score": "354"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "321"
+    },
+    {
+      "url": "https://github.com/mas-cli/mas",
+      "title": "mas-cli/mas:  Mac App Store command line interface",
+      "score": "287"
+    },
+    {
+      "url": "https://github.com/zeit/next.js",
+      "title": "zeit/next.js: A minimalistic framework for server-rendered React applications",
+      "score": "237"
+    },
+    {
+      "url": "https://github.com/exyte/Macaw",
+      "title": "exyte/Macaw: Powerful and easy-to-use vector graphics Swift library with SVG support",
+      "score": "195"
+    },
+    {
+      "url": "https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap",
+      "title": "songrotek/Deep-Learning-Papers-Reading-Roadmap: Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+      "score": "163"
+    },
+    {
+      "url": "https://github.com/engineerapart/TheRemoteFreelancer",
+      "title": "engineerapart/TheRemoteFreelancer: Listing of community-curated resources to find topical remote freelance &amp; contract work for software developers, web designers, and more!",
+      "score": "165"
+    },
+    {
+      "url": "https://github.com/Bilibili/flv.js",
+      "title": "Bilibili/flv.js: HTML5 FLV Player",
+      "score": "156"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/316407#reply90",
+      "title": "我发现，新 MBP 遭到广大自家果粉猛喷的真正原因在于",
+      "score": "90"
+    },
+    {
+      "url": "https://www.v2ex.com/t/316421#reply54",
+      "title": "深圳電信 1000M 也就這樣子了",
+      "score": "54"
+    },
+    {
+      "url": "https://www.v2ex.com/t/316472#reply40",
+      "title": "你在用哪款装机工具",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/316422#reply31",
+      "title": "我也来个阿里云日常（亲爱的儿子， XXXXX）",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/316416#reply26",
+      "title": "求助关于路由 DDNS 和 WOL 之类的问题",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/316379#reply24",
+      "title": "戴尔的 xps 系列有什么坑么？",
+      "score": "24"
+    },
+    {
+      "url": "https://www.v2ex.com/t/316390#reply23",
+      "title": "日常阿里云(亲爱的用户,我是你爹.)",
+      "score": "23"
+    },
+    {
+      "url": "https://www.v2ex.com/t/316384#reply22",
+      "title": "看了详细的评测才知道, touch bar 真的是一个超级创新的黑科技",
+      "score": "22"
+    },
+    {
+      "url": "https://www.v2ex.com/t/316417#reply20",
+      "title": "双十一签到送机顶盒不知道还能不能用脚本去刷",
+      "score": "20"
+    },
+    {
+      "url": "https://www.v2ex.com/t/316471#reply20",
+      "title": "新 rmbp 一个重要的细节:logo 不发光",
+      "score": "20"
+    }
+  ]
+}
