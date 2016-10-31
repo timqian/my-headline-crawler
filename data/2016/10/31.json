@@ -1,0 +1,262 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12830206",
+      "title": "Buttery Smooth Emacs",
+      "score": "605"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12830761",
+      "title": "Elementary OS",
+      "score": "524"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12831430",
+      "title": "The No More Ransom Project",
+      "score": "491"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12833797",
+      "title": "How 2K Killed Irrational Games",
+      "score": "304"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12834907",
+      "title": "Microsoft is now a braver, more innovative company than Apple",
+      "score": "303"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12834327",
+      "title": "Show HN: Touch ID Support for `sudo` in MacOS Terminal",
+      "score": "270"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12833481",
+      "title": "CTO Mentor Network – A virtual peer-to-peer network of CTOs",
+      "score": "216"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12836038",
+      "title": "What the Heck Is Happening at Apple?",
+      "score": "214"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12835826",
+      "title": "CenturyLink to Buy Level 3 for $34B",
+      "score": "180"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12834804",
+      "title": "Things I will tell my kids if they become entrepreneurs [slides]",
+      "score": "153"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Apple just told the world it has no idea who the Mac is for",
+      "score": "3371",
+      "url": "https://medium.com/p/apple-just-told-the-world-it-has-no-idea-who-the-mac-is-for-722a2438389b"
+    },
+    {
+      "title": "Apple to developers: There is no escape.",
+      "score": "1909",
+      "url": "https://medium.com/p/apple-to-developers-there-is-no-escape-298b63c2a1d8"
+    },
+    {
+      "title": "My Summer with the Donald: An Investigation of Trump’s Strategy",
+      "score": "164",
+      "url": "https://medium.com/p/my-summer-with-the-donald-an-investigation-of-trumps-strategy-f083329a3680"
+    },
+    {
+      "title": "How to Transform Your Stress Into Insane Productivity, According to Harvard Psychologists",
+      "score": "656",
+      "url": "https://medium.com/p/how-to-transform-your-stress-into-insane-productivity-according-to-harvard-psychologists-28f95074ce21"
+    },
+    {
+      "title": "The Winners and Losers from NFL Week 8",
+      "score": "39",
+      "url": "https://medium.com/p/nfl-week-8-losers-winners-bengals-redskins-tie-london-7784712ce1c6"
+    },
+    {
+      "title": "What I learned from writing six functions that all did the same thing",
+      "score": "324",
+      "url": "https://medium.com/p/what-i-learned-from-writing-six-functions-that-all-did-the-same-thing-b38fd48f0d55"
+    },
+    {
+      "title": "Stop Selling Math For Its Usefulness",
+      "score": "426",
+      "url": "https://medium.com/p/stop-selling-math-for-its-usefulness-d9143e80d78d"
+    },
+    {
+      "title": "No Escape? Microsoft is About to Eat Apple for Lunch",
+      "score": "429",
+      "url": "https://medium.com/p/no-escape-microsoft-is-about-to-eat-apple-for-lunch-1fbef5048086"
+    },
+    {
+      "title": "Admit It. The Clinton Email Controversy Bothers You, Yet You Don’t Actually Know What the Clinton…",
+      "score": "1554",
+      "url": "https://medium.com/p/admit-it-the-clinton-email-controversy-bothers-you-yet-you-dont-actually-know-what-the-clinton-511dc1659eda"
+    },
+    {
+      "title": "My 24-Hour Sleepover With a Sex Therapist at Her Ape-Inspired Commune",
+      "score": "25",
+      "url": "https://medium.com/p/welcome-to-bonoboville-216100f66117"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/whale-2",
+      "title": "Whale: Video Q&amp;A with influencers and experts 🐳",
+      "score": "163"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/brain-fm-for-ios",
+      "title": "Brain.fm for iOS: Music for the brain: improve focus, meditation, and sleep",
+      "score": "205"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/promorepublic-2-0",
+      "title": "PromoRepublic 2.0: Social media calendar with 6000 post ideas",
+      "score": "350"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/giphy-vine",
+      "title": "GIPHY ❤ Vine: Convert all your Vines into GIFs!",
+      "score": "186"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/app-screenshot-maker-2",
+      "title": "App Screenshot Maker: Design marketing screenshots for your app in minutes",
+      "score": "240"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/vue-5",
+      "title": "Vue: Your everyday smart glasses",
+      "score": "140"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/ecomo",
+      "title": "Ecomo: Water bottle that tests and filters the water",
+      "score": "53"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/hacker-news-for-messenger",
+      "title": "Hacker News for Messenger: Interact, search and follow the latest HN posts on Messenger",
+      "score": "50"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/join-my-playlist",
+      "title": "Join My Playlist: Listen to music live together with your friends",
+      "score": "16"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/business-sidekick-16-business-and-technology-how-it-s-changing-the-world-we-re-living-in",
+      "title": "Business Sidekick #16 &quot;Business and technology - how it&#x27;s changing the world we&#x27;re living in&quot;: &quot;We build faster computers to build faster computers.&quot;",
+      "score": "5"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/VoLuong/Begin-Latex-in-minutes",
+      "title": "VoLuong/Begin-Latex-in-minutes: ",
+      "score": "1026"
+    },
+    {
+      "url": "https://github.com/verekia/js-stack-from-scratch",
+      "title": "verekia/js-stack-from-scratch: Step-by-step tutorial to build a modern JavaScript stack from scratch",
+      "score": "1025"
+    },
+    {
+      "url": "https://github.com/alexjc/neural-enhance",
+      "title": "alexjc/neural-enhance: Super Resolution for images using deep learning.",
+      "score": "792"
+    },
+    {
+      "url": "https://github.com/blue-yonder/tsfresh",
+      "title": "blue-yonder/tsfresh: Automatic extraction of relevant features from time series:",
+      "score": "608"
+    },
+    {
+      "url": "https://github.com/Bilibili/flv.js",
+      "title": "Bilibili/flv.js: HTML5 FLV Player",
+      "score": "457"
+    },
+    {
+      "url": "https://github.com/jobbole/awesome-programming-books",
+      "title": "jobbole/awesome-programming-books: 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等",
+      "score": "378"
+    },
+    {
+      "url": "https://github.com/nenadg/traquer",
+      "title": "nenadg/traquer: Records and reproduces user's in-page behavior",
+      "score": "398"
+    },
+    {
+      "url": "https://github.com/witheve/Eve",
+      "title": "witheve/Eve: Better tools for thought",
+      "score": "395"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "355"
+    },
+    {
+      "url": "https://github.com/GoogleChrome/lighthouse",
+      "title": "GoogleChrome/lighthouse: auditing and performance metrics for Progressive Web Apps",
+      "score": "334"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/316762#reply106",
+      "title": "讲真，你们为什么要买 macbook？",
+      "score": "106"
+    },
+    {
+      "url": "https://www.v2ex.com/t/316811#reply96",
+      "title": "需要买一个 3000 左右的笔记本电脑，女孩子用的。刚上大学，计算机相关专业，求推荐。",
+      "score": "96"
+    },
+    {
+      "url": "https://www.v2ex.com/t/316692#reply81",
+      "title": "双拼的小伙伴们都用的什么方案啊",
+      "score": "81"
+    },
+    {
+      "url": "https://www.v2ex.com/t/316739#reply60",
+      "title": "搞了一个帮朋友换新 iPhone 的网站",
+      "score": "60"
+    },
+    {
+      "url": "https://www.v2ex.com/t/316687#reply54",
+      "title": "双十一 Kindle 阅读器会降价吗",
+      "score": "54"
+    },
+    {
+      "url": "https://www.v2ex.com/t/316831#reply51",
+      "title": "我的博客又改版了，求友情链接~",
+      "score": "51"
+    },
+    {
+      "url": "https://www.v2ex.com/t/316738#reply48",
+      "title": "忍不住要吐槽下 新 RMBP",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/316691#reply47",
+      "title": "除了药店医院，网上能买药吗？",
+      "score": "47"
+    },
+    {
+      "url": "https://www.v2ex.com/t/316890#reply44",
+      "title": "想让程序猿花钱真的还挺难！！！",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/316764#reply39",
+      "title": "WINDOWS 下有没有这样一款小软件：自动访问某个指定网址的",
+      "score": "39"
+    }
+  ]
+}
