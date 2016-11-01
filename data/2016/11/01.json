@@ -1,1 +1,262 @@
- 
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12838335",
+      "title": "WebAssembly Browser Preview",
+      "score": "718"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12844434",
+      "title": "Music for Programming",
+      "score": "318"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12843590",
+      "title": "Ask HN: How to make a career working remotely?",
+      "score": "281"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12843466",
+      "title": "Show HN: My first web app – PDF memo creator",
+      "score": "280"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12844973",
+      "title": "Guide to Remote Work",
+      "score": "252"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12844539",
+      "title": "This Summer in Redox: A Complete Rewrite of the Kernel",
+      "score": "115"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12842797",
+      "title": "Show HN: KQ – Simple Job Queue for Python Using Kafka",
+      "score": "101"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12844173",
+      "title": "Wordpress on AWS: smooth and pain free",
+      "score": "100"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12843221",
+      "title": "Show HN: Physics-based CAD",
+      "score": "90"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12846216",
+      "title": "Ask HN: Who is hiring? (November 2016)",
+      "score": "83"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Apple just told the world it has no idea who the Mac is for",
+      "score": "4083",
+      "url": "https://medium.com/p/apple-just-told-the-world-it-has-no-idea-who-the-mac-is-for-722a2438389b"
+    },
+    {
+      "title": "My 24-Hour Sleepover With a Sex Therapist at Her Ape-Inspired Commune",
+      "score": "46",
+      "url": "https://medium.com/p/welcome-to-bonoboville-216100f66117"
+    },
+    {
+      "title": "A Study Plan To Cure JavaScript Fatigue",
+      "score": "641",
+      "url": "https://medium.com/p/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1"
+    },
+    {
+      "title": "Russell Westbrook’s Liberation Tour Is Everything We’d Hoped It’d Be",
+      "score": "89",
+      "url": "https://medium.com/p/russell-westbrooks-liberation-tour-is-everything-we-d-hoped-it-d-be-6c35a6c0c5b5"
+    },
+    {
+      "title": "My Uncle Sends Me a Box of Trash Every Year for My Birthday — Here’s What He Sent This Year",
+      "score": "414",
+      "url": "https://medium.com/p/my-uncle-sends-me-a-box-of-trash-every-year-for-my-birthday-heres-what-he-sent-this-year-2eceeb9304dc"
+    },
+    {
+      "title": "Apple to developers: There is no escape.",
+      "score": "2160",
+      "url": "https://medium.com/p/apple-to-developers-there-is-no-escape-298b63c2a1d8"
+    },
+    {
+      "title": "NFL Week 8 Recap: The Midseason MVP Favorite Has Played Only Four Games",
+      "score": "48",
+      "url": "https://medium.com/p/nfl-week-8-recap-tom-brady-patriots-mvp-race-993eee6a2e1"
+    },
+    {
+      "title": "The Winners and Losers from NFL Week 8",
+      "score": "54",
+      "url": "https://medium.com/p/nfl-week-8-losers-winners-bengals-redskins-tie-london-7784712ce1c6"
+    },
+    {
+      "title": "How to Transform Your Stress Into Insane Productivity, According to Harvard Psychologists",
+      "score": "980",
+      "url": "https://medium.com/p/how-to-transform-your-stress-into-insane-productivity-according-to-harvard-psychologists-28f95074ce21"
+    },
+    {
+      "title": "How to Make Immediate Behavior Changes",
+      "score": "419",
+      "url": "https://medium.com/p/how-to-make-immediate-behavior-changes-afd3f381693f"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/waltr-2",
+      "title": "WALTR 2: Transfer any content to your iOS device without iTunes",
+      "score": "373"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/kickstarter-live",
+      "title": "Kickstarter Live: Livestreaming with Kickstarter creators",
+      "score": "141"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/atlas-recall",
+      "title": "Atlas Recall: A searchable photographic memory for your digital life",
+      "score": "209"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/metaverse",
+      "title": "Metaverse: Democratized augmented reality platform: AR for everyone!",
+      "score": "146"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/wolfprint-3d",
+      "title": "Wolfprint 3D: A 3D scanner to create realistic avatars of people for VR",
+      "score": "152"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/helpdocs",
+      "title": "HelpDocs: Create a beautiful knowledge base and keep it up to date",
+      "score": "88"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/algolia-for-shopify",
+      "title": "Algolia for Shopify: Bringing instant search results to 300K+ store owners",
+      "score": "114"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/webdesignrepo-v2",
+      "title": "webdesignrepo V2: A curation of the best webdesign tools and resources",
+      "score": "62"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/brewpublik",
+      "title": "BREWPUBLIK: Beer selected by robots, delivered by humans (for now)",
+      "score": "184"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/elemeno",
+      "title": "Elemeno: A modern API based content management platform",
+      "score": "54"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/lengstrom/fast-style-transfer",
+      "title": "lengstrom/fast-style-transfer: Fast Style Transfer in TensorFlow ⚡",
+      "score": "914"
+    },
+    {
+      "url": "https://github.com/verekia/js-stack-from-scratch",
+      "title": "verekia/js-stack-from-scratch: Step-by-step tutorial to build a modern JavaScript stack from scratch",
+      "score": "897"
+    },
+    {
+      "url": "https://github.com/alexjc/neural-enhance",
+      "title": "alexjc/neural-enhance: Super Resolution for images using deep learning.",
+      "score": "698"
+    },
+    {
+      "url": "https://github.com/minoca/os",
+      "title": "minoca/os: Minoca operating system",
+      "score": "657"
+    },
+    {
+      "url": "https://github.com/sqreen/awesome-nodejs-projects",
+      "title": "sqreen/awesome-nodejs-projects: Curated list of awesome open-source applications made with Node.js",
+      "score": "612"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "445"
+    },
+    {
+      "url": "https://github.com/witheve/Eve",
+      "title": "witheve/Eve: Better tools for thought",
+      "score": "408"
+    },
+    {
+      "url": "https://github.com/mattrajca/sudo-touchid",
+      "title": "mattrajca/sudo-touchid: A fork of `sudo` with Touch ID support.",
+      "score": "370"
+    },
+    {
+      "url": "https://github.com/the-control-group/voyager",
+      "title": "the-control-group/voyager: Voyager - The Missing Laravel Admin",
+      "score": "341"
+    },
+    {
+      "url": "https://github.com/blue-yonder/tsfresh",
+      "title": "blue-yonder/tsfresh: Automatic extraction of relevant features from time series:",
+      "score": "342"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/316975#reply84",
+      "title": "楼上一直扰民，多次提醒没有多大效果，怎么办",
+      "score": "84"
+    },
+    {
+      "url": "https://www.v2ex.com/t/317002#reply84",
+      "title": "双 11 狂送开始，没有预先涨价，实实在在的。抢楼有豪礼",
+      "score": "84"
+    },
+    {
+      "url": "https://www.v2ex.com/t/316997#reply75",
+      "title": "一封非常诚恳的求职信， Python 相关。",
+      "score": "75"
+    },
+    {
+      "url": "https://www.v2ex.com/t/317014#reply68",
+      "title": "想问问程序猿真的会关注双 11 去买买买么？是不是都是妹纸关注？",
+      "score": "68"
+    },
+    {
+      "url": "https://www.v2ex.com/t/316969#reply54",
+      "title": "京东 4T 红盘叠加各种优惠券可以做到 900 以下了",
+      "score": "54"
+    },
+    {
+      "url": "https://www.v2ex.com/t/317051#reply49",
+      "title": "支付宝这个脑残强制使用花呗作为首选支付方式。",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/317001#reply46",
+      "title": "为什么大家很讨厌知乎体？",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/317116#reply45",
+      "title": "我就想问一句，招前端的公司到底希望在简历上看到什么？？？？？？",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/316972#reply44",
+      "title": "新 mbp 的 type-c 接口简直强迫症福利",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/317044#reply42",
+      "title": "[故事会]四六级算什么? Linux 才是最能检验人品的手段",
+      "score": "42"
+    }
+  ]
+}
