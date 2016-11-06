@@ -1,217 +1,262 @@
 {
   "HN": [
     {
-      "url": "https://news.ycombinator.com/item?id=12883047",
-      "title": "Nyancat on the touchbar",
-      "score": "335"
+      "url": "https://news.ycombinator.com/item?id=12887007",
+      "title": "Time to Dump Time Zones",
+      "score": "499"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=12882696",
-      "title": "Every Version of Voxel Quest",
-      "score": "226"
+      "url": "https://news.ycombinator.com/item?id=12885980",
+      "title": "Intercooler.js – Making AJAX as easy as anchor tags",
+      "score": "411"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=12884055",
-      "title": "Canada’s federal court rules intelligence service bulk data collection illegal",
-      "score": "199"
+      "url": "https://news.ycombinator.com/item?id=12884762",
+      "title": "Nvidia  adds telemetry to latest drivers",
+      "score": "365"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=12882816",
-      "title": "Ask HN: Overwhelmed with learning front-end, how do I proceed?",
-      "score": "192"
+      "url": "https://news.ycombinator.com/item?id=12885356",
+      "title": "Negative Emotions Are Key to Well-Being",
+      "score": "229"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=12883231",
-      "title": "Fighting Loneliness with Public Living Rooms",
-      "score": "146"
+      "url": "https://news.ycombinator.com/item?id=12888382",
+      "title": "Some thoughts on asynchronous Python API design in a post-async/await world",
+      "score": "220"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=12883356",
-      "title": "Cylance Discloses Voting Machine Vulnerability",
-      "score": "126"
+      "url": "https://news.ycombinator.com/item?id=12887211",
+      "title": "Freeing my tablet: Android hacking, software and hardware",
+      "score": "166"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=12884144",
-      "title": "Berlin Is Bringing Back Subway Trains from the 1950s",
-      "score": "114"
+      "url": "https://news.ycombinator.com/item?id=12889807",
+      "title": "LessPass: sync-less open source password manager",
+      "score": "161"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=12884793",
-      "title": "Employees are faster and more creative when solving other people's problems",
-      "score": "62"
+      "url": "https://news.ycombinator.com/item?id=12888287",
+      "title": "Twitter Could Have Become a Protocol",
+      "score": "150"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=12884393",
-      "title": "How a Gift from Schoolchildren Let the Soviets Spy on the U.S. For 7 Years",
-      "score": "60"
+      "url": "https://news.ycombinator.com/item?id=12889053",
+      "title": "Pencil: open-source GUI prototyping tool",
+      "score": "150"
     },
     {
-      "url": "https://news.ycombinator.com/item?id=12884030",
-      "title": "Reservoirs are contributing 1.5% of global greenhouse gas emissions",
-      "score": "43"
+      "url": "https://news.ycombinator.com/item?id=12887659",
+      "title": "Energy Giant Shell Says Oil Demand Could Peak in Just Five Years",
+      "score": "138"
     }
   ],
   "medium": [
     {
       "title": "What programming language should you learn first?",
-      "score": "2983",
+      "score": "3390",
       "url": "https://medium.com/p/what-programming-language-should-i-learn-first-ʇdıɹɔsɐʌɐɾ-ɹǝʍsuɐ-19a33b0a467d"
     },
     {
       "title": "A Study Plan To Cure JavaScript Fatigue",
-      "score": "1961",
+      "score": "2348",
       "url": "https://medium.com/p/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1"
     },
     {
+      "title": "10 principles for smooth web animations",
+      "score": "1110",
+      "url": "https://medium.com/p/smooth-css-animations-7d8ffc2c1d29"
+    },
+    {
+      "title": "What I’ve Learned from 5 Years On Reddit",
+      "score": "143",
+      "url": "https://medium.com/p/what-ive-learned-from-5-years-on-reddit-e278e9bb2ae5"
+    },
+    {
       "title": "What I learned from visualizing Hillary Clinton’s emails",
-      "score": "410",
+      "score": "547",
       "url": "https://medium.com/p/what-i-learned-from-visualizing-hillary-clintons-leaked-emails-d13a0908e05e"
     },
     {
-      "title": "50 Shades of #FAFAFA",
-      "score": "799",
-      "url": "https://medium.com/p/fifty-shades-of-fafafa-eaa903e36b9c"
+      "title": "Exit Strategy",
+      "score": "299",
+      "url": "https://medium.com/p/exit-strategy-18e37de170db"
     },
     {
-      "title": "One week with the Google Pixel",
-      "score": "302",
-      "url": "https://medium.com/p/one-week-with-the-google-pixel-f43e6647906f"
+      "title": "It’s Time to Stop Claiming “Judeo-Christian Values”",
+      "score": "243",
+      "url": "https://medium.com/p/its-time-to-stop-claiming-judeo-christian-values-8bde85fa6063"
     },
     {
-      "title": "Movies Aren’t Dead, but They’ll Never Be the Same",
-      "score": "178",
-      "url": "https://medium.com/p/movie-industry-shifts-peak-tv-arrival-moonlight-f0a5ddd85384"
-    },
-    {
-      "title": "4 Ways to Start Conversations with a Stranger",
-      "score": "925",
-      "url": "https://medium.com/p/4-ways-to-start-conversations-with-a-stranger-ed6df6ca6a5f"
+      "title": "The Winners and Losers From NFL Week 9",
+      "score": "28",
+      "url": "https://medium.com/p/nfl-winners-losers-week-9-jason-witten-ryan-fitzpatrick-ffe53e884ae"
     },
     {
       "title": "These Skills Are Hard To Learn But Pay Off For The Rest of Your Life",
-      "score": "1408",
+      "score": "1667",
       "url": "https://medium.com/p/these-skills-are-hard-to-learn-but-pay-off-for-the-rest-of-your-life-b31e2d9e2268"
     },
     {
-      "title": "How do you like your eggs?",
-      "score": "182",
-      "url": "https://medium.com/p/how-do-you-like-your-eggs-929b923d4c0d"
-    },
-    {
-      "title": "My Message To Young Women",
-      "score": "488",
-      "url": "https://medium.com/p/my-message-to-young-women-90098d9af5de"
+      "title": "50 Shades of #FAFAFA",
+      "score": "962",
+      "url": "https://medium.com/p/fifty-shades-of-fafafa-eaa903e36b9c"
     }
   ],
   "productHunt": [
     {
-      "url": "https://www.producthunt.com/posts/best-of-themes",
-      "title": "Best Of Themes: The simplest way to browse thousands of website themes",
-      "score": "121"
+      "url": "https://www.producthunt.com/posts/lifetracker",
+      "title": "LifeTracker: AI-based to-do tool to do the right things at the right time",
+      "score": "362"
     },
     {
-      "url": "https://www.producthunt.com/posts/gaddr-feeds",
-      "title": "Gaddr Feeds: One hub for all of your social media feeds",
+      "url": "https://www.producthunt.com/posts/callmaker-for-slack",
+      "title": "Callmaker for Slack: AI-powered tool to immediately get more inbound sales",
+      "score": "92"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/wrights-notes",
+      "title": "Wrights Notes: Customised notebooks.",
+      "score": "55"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/travello",
+      "title": "Travello: A social network for travellers",
+      "score": "78"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/acton-blink-3",
+      "title": "Acton Blink: The most advanced eBoard ever",
+      "score": "51"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/presidential-selfie",
+      "title": "Presidential Selfie: Get a selfie with your favorite presidential candidate",
       "score": "52"
     },
     {
-      "url": "https://www.producthunt.com/posts/andy-english-bot",
-      "title": "Andy English Bot: Learn and practice English with exercises, grammar and games",
-      "score": "43"
-    },
-    {
-      "url": "https://www.producthunt.com/posts/jaxx",
-      "title": "Jaxx: Your blockchain interface",
-      "score": "43"
-    },
-    {
-      "url": "https://www.producthunt.com/posts/apollo-5",
-      "title": "Apollo: Reliable, all-in-one project management",
-      "score": "34"
-    },
-    {
-      "url": "https://www.producthunt.com/posts/flippy-flip",
-      "title": "Flippy Flip: Memorise, calculate, timing &amp; reflexes",
-      "score": "4"
-    },
-    {
-      "url": "https://www.producthunt.com/posts/trump-roll",
-      "title": "Trump-Roll: Prank call friends as Trump or Hillary, hear their response",
-      "score": "28"
-    },
-    {
-      "url": "https://www.producthunt.com/posts/tic-humor-chatbots-sharks-diversity-liberal-arts-massage-chairs-and-networking",
-      "title": "TIC - Humor, Chatbots, Sharks, Diversity, Liberal Arts, Massage Chairs, and Networking: A chat with Amanda Lannert / CEO of Jellyvision",
-      "score": "1"
-    },
-    {
-      "url": "https://www.producthunt.com/posts/irispr",
-      "title": "IrisPR: Improve results, gain insight, prove value.",
-      "score": "10"
-    },
-    {
-      "url": "https://www.producthunt.com/posts/autoviva-ai",
-      "title": "Autoviva.ai: Curated content &amp; bot updates about your favorite cars",
+      "url": "https://www.producthunt.com/posts/business-systems-explored-021-chris-lavigne-wistia",
+      "title": "Business Systems Explored #021: Chris Lavigne, Wistia: How to create videos that customers will actually watch",
       "score": "19"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/luna-launcher",
+      "title": "Luna Launcher: A home screen for kids, a parental control tools for parents",
+      "score": "31"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/line-escape-2-2",
+      "title": "Line Escape 2: Keep the line going to stay alive",
+      "score": "16"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/headswitch",
+      "title": "Headswitch: Put any head into any video",
+      "score": "24"
     }
   ],
   "github": [
     {
-      "url": "https://github.com/th0r/webpack-bundle-analyzer",
-      "title": "th0r/webpack-bundle-analyzer: Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap",
-      "score": "680"
+      "url": "https://github.com/LeadDyno/intercooler-js",
+      "title": "LeadDyno/intercooler-js: Making AJAX as easy as anchor tags",
+      "score": "965"
+    },
+    {
+      "url": "https://github.com/Jasonette/JASONETTE-iOS",
+      "title": "Jasonette/JASONETTE-iOS:  Native App over HTTP",
+      "score": "759"
+    },
+    {
+      "url": "https://github.com/avatsaev/touchbar_nyancat",
+      "title": "avatsaev/touchbar_nyancat: Stupid nyancat animation on your +$2k MacBook Pro's Touchbar",
+      "score": "511"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "478"
+    },
+    {
+      "url": "https://github.com/zaqqaz/ng2-rest-api",
+      "title": "zaqqaz/ng2-rest-api:  Rest API provider for angular 2.",
+      "score": "411"
+    },
+    {
+      "url": "https://github.com/bikkelbroeders/TouchBarDemoApp",
+      "title": "bikkelbroeders/TouchBarDemoApp: Allows you to use your macOS Touch Bar from an iPad (through USB connection) or on-screen by pressing the Fn-key.",
+      "score": "301"
+    },
+    {
+      "url": "https://github.com/mifi/lossless-cut",
+      "title": "mifi/lossless-cut: Cross platform GUI tool for lossless trimming / cutting of videos using ffmpeg",
+      "score": "289"
+    },
+    {
+      "url": "https://github.com/turbo/js",
+      "title": "turbo/js: turbo.js - perform massive parallel computations in your browser with GPGPU.",
+      "score": "280"
+    },
+    {
+      "url": "https://github.com/CISOfy/lynis",
+      "title": "CISOfy/lynis: Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",
+      "score": "270"
+    },
+    {
+      "url": "https://github.com/aserg-ufmg/JSCity",
+      "title": "aserg-ufmg/JSCity: Visualizing JavaScript source code as navigable 3D cities",
+      "score": "265"
     }
   ],
   "v2ex": [
     {
-      "url": "https://www.v2ex.com/t/318460#reply106",
-      "title": "应聘者放我飞机了，还要给他一次机会吗？",
-      "score": "106"
+      "url": "https://www.v2ex.com/t/318644#reply96",
+      "title": "双 11 淘宝爆款清单商品，费劲终于上线了啊，庆祝上线送几本书",
+      "score": "96"
     },
     {
-      "url": "https://www.v2ex.com/t/318435#reply43",
-      "title": "有没有好的战棋游戏推荐",
-      "score": "43"
+      "url": "https://www.v2ex.com/t/318630#reply94",
+      "title": "昨天去苹果店，原来这届 iPhone 都不行",
+      "score": "94"
     },
     {
-      "url": "https://www.v2ex.com/t/318466#reply35",
-      "title": "苏州电信居然私自在我家光纤猫上开放免费的“aWifi”",
-      "score": "35"
+      "url": "https://www.v2ex.com/t/318626#reply74",
+      "title": "陌生电话你们加“你好”么？",
+      "score": "74"
     },
     {
-      "url": "https://www.v2ex.com/t/318470#reply34",
-      "title": "求大神配一台老人用的台式电脑",
-      "score": "34"
+      "url": "https://www.v2ex.com/t/318708#reply71",
+      "title": "2016 年 11 月麻烦推荐一款手机吧。",
+      "score": "71"
     },
     {
-      "url": "https://www.v2ex.com/t/318427#reply32",
-      "title": "鹅厂新出的翻译君,有没试过的,体验怎么样?",
-      "score": "32"
+      "url": "https://www.v2ex.com/t/318681#reply67",
+      "title": "小孩打字练习，什么软件靠谱",
+      "score": "67"
     },
     {
-      "url": "https://www.v2ex.com/t/318526#reply30",
-      "title": "程序员接单是否违反职业道德？",
-      "score": "30"
+      "url": "https://www.v2ex.com/t/318609#reply63",
+      "title": "求大家推荐 rss 阅读 app",
+      "score": "63"
     },
     {
-      "url": "https://www.v2ex.com/t/318502#reply29",
-      "title": "PHP 现在市场行情怎么样",
-      "score": "29"
+      "url": "https://www.v2ex.com/t/318709#reply55",
+      "title": "我快被搞疯了，求推荐一个第三方推送服务",
+      "score": "55"
     },
     {
-      "url": "https://www.v2ex.com/t/318492#reply28",
-      "title": "关于生日的问题，还是再来问一回。",
-      "score": "28"
+      "url": "https://www.v2ex.com/t/318741#reply50",
+      "title": "#双 11 啦#你挑书我来送，顺便解决解决单身汪~",
+      "score": "50"
     },
     {
-      "url": "https://www.v2ex.com/t/318467#reply26",
-      "title": "一种让网盘能够用来同步代码的方法（顺便安利一个文件同步、备份软件）",
-      "score": "26"
+      "url": "https://www.v2ex.com/t/318613#reply47",
+      "title": "给程序员男票买什么礼物好？（耳机， ps4，机械手表，球衣...）",
+      "score": "47"
     },
     {
-      "url": "https://www.v2ex.com/t/318478#reply25",
-      "title": "有在 linux 下做 asp.net 开发的 v 友不？",
-      "score": "25"
+      "url": "https://www.v2ex.com/t/318696#reply47",
+      "title": "想在北京找个前端的工作，可是各种被拒， way？",
+      "score": "47"
     }
   ]
 }
