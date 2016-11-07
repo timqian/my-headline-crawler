@@ -7,22 +7,15 @@ async function getHN() {
   const linkArray = [];
   const res = await axios.get("https://github.com/trending").catch( res => {throw res;} );
   const html = res.data;
-  const regExp = /repo-list-name[\w\W]*?href="\/(.*?)"([\w\W]*?)repo-list-meta[\w\W]*?([,\d]{1,6})\sstars/ig;
+  const regExp = /d\-inline\-block\scol\-9\smb-1[\w|\W]*?href="(.*?)"[\w|\W]*?col-9\sd-inline-block\stext-gray\sm-0\spr-4\"\>([\w|\W]*?)\<\/p\>[\w|\W]*?([,\d]{1,6})\sstars\stoday/ig;
 
   // Finding successive matches. ref: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/exec#Finding_successive_matches
   let regRes;
   while( (regRes = regExp.exec(html)) !== null ) {
 
-    // get description(maybe with other html tags)
-    const descripReg = /repo-list-description">\n\s*?([\w\W]*?)\n\s*?<\/p>/;
-    const descrip = descripReg.exec(regRes[2]) ? descripReg.exec(regRes[2]) : "no description";
-
-    // remove html tags
-    const descrip2 = descrip[1].trim().replace(/<.*>/, '');
-
     linkArray.push({
-      url: `https://github.com/${regRes[1]}`,
-      title: `${regRes[1]}: ${descrip2}`,
+      url: `https://github.com${regRes[1]}`,
+      title: `${regRes[1].slice(1)}: ${regRes[2].trim()}`,
       score: regRes[3].replace(',', '')
     });
   }
