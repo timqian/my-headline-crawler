@@ -155,7 +155,13 @@
       "score": "19"
     }
   ],
-  "github": [],
+  "github": [
+    {
+      "url": "https://github.com/th0r/webpack-bundle-analyzer",
+      "title": "th0r/webpack-bundle-analyzer: Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap",
+      "score": "680"
+    }
+  ],
   "v2ex": [
     {
       "url": "https://www.v2ex.com/t/318460#reply106",
