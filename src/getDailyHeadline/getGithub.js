@@ -15,7 +15,7 @@ async function getHN() {
 
     linkArray.push({
       url: `https://github.com${regRes[1]}`,
-      title: `${regRes[1].slice(1)}: ${regRes[2].trim()}`,
+      title: `${regRes[1].slice(1)}: ${regRes[2].trim().replace(/<.*>/, '')}`,
       score: regRes[3].replace(',', '')
     });
   }
