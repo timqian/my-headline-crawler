@@ -1,4 +1,4 @@
-import axios from '../utils/aaxios.js';
+import axios from './utils/aaxios.js';
 
 /**
 * sample return: [{title:.., url:..},..]
