@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12891889",
+      "title": "Homebrew 1.1.0",
+      "score": "553"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12891584",
+      "title": "Hyper.sh – Effortless Docker Hosting",
+      "score": "503"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12889807",
+      "title": "LessPass: sync-less open source password manager",
+      "score": "391"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12893793",
+      "title": "IoT Goes Nuclear: Creating a ZigBee Chain Reaction",
+      "score": "254"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12897415",
+      "title": "Google Data Studio",
+      "score": "252"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12893956",
+      "title": "C for Python programmers (2011)",
+      "score": "246"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12889719",
+      "title": "Tesco Bank halts online payments after money was taken from 20K accounts",
+      "score": "239"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12894940",
+      "title": "Software Developers: how to get a raise without changing jobs",
+      "score": "228"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12892257",
+      "title": "Inside Magic Leap",
+      "score": "210"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12896859",
+      "title": "Google – My Activity",
+      "score": "180"
+    }
+  ],
+  "medium": [
+    {
+      "title": "What programming language should you learn first?",
+      "score": "3701",
+      "url": "https://medium.com/p/what-programming-language-should-i-learn-first-ʇdıɹɔsɐʌɐɾ-ɹǝʍsuɐ-19a33b0a467d"
+    },
+    {
+      "title": "The NBA Big-Man Boom",
+      "score": "67",
+      "url": "https://medium.com/p/nba-big-man-hybrids-karl-anthony-towns-myles-turner-254a304647c9"
+    },
+    {
+      "title": "The Winners and Losers From NFL Week 9",
+      "score": "69",
+      "url": "https://medium.com/p/nfl-winners-losers-week-9-jason-witten-ryan-fitzpatrick-ffe53e884ae"
+    },
+    {
+      "title": "How Seattle Could Solve America’s Traffic Problem",
+      "score": "118",
+      "url": "https://medium.com/p/seattle-light-rail-ballot-measure-st3-56915860865"
+    },
+    {
+      "title": "A Study Plan To Cure JavaScript Fatigue",
+      "score": "2545",
+      "url": "https://medium.com/p/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1"
+    },
+    {
+      "title": "10 principles for smooth web animations",
+      "score": "1286",
+      "url": "https://medium.com/p/smooth-css-animations-7d8ffc2c1d29"
+    },
+    {
+      "title": "NFL Week 9 Recap: Oakland, and the AFC West, Is for Real",
+      "score": "51",
+      "url": "https://medium.com/p/nfl-week-9-oakland-raiders-denver-broncos-afc-west-4a9e953f5d52"
+    },
+    {
+      "title": "50 Shades of #FAFAFA",
+      "score": "1127",
+      "url": "https://medium.com/p/fifty-shades-of-fafafa-eaa903e36b9c"
+    },
+    {
+      "title": "The 20 Best Superhero Origin Stories of the ’00s",
+      "score": "58",
+      "url": "https://medium.com/p/the-20-best-superhero-origin-stories-of-the-00s-96ca226e50a9"
+    },
+    {
+      "title": "Hamburger menu alternatives for mobile navigation",
+      "score": "902",
+      "url": "https://medium.com/p/hamburger-menu-alternatives-for-mobile-navigation-a3a3beb555b8"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/money-badger-by-stocktwits",
+      "title": "Money Badger by StockTwits: A simple, fun, no-BS beginner’s guide to investing 📈",
+      "score": "29"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/suprella",
+      "title": "Suprella: Umbrella which opens upside down w high tech nano coating ☂️",
+      "score": "17"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/boopy-club",
+      "title": "Boopy Club: A mesmerizing GIF generator 🌀",
+      "score": "17"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/pedal",
+      "title": "Pedal: Workout anywhere with pay-as-you-go access to 400+ gyms",
+      "score": "15"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/global-content-marketing",
+      "title": "Global Content Marketing: A how-to book to scale your content marketing across regions",
+      "score": "3"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/LeadDyno/intercooler-js",
+      "title": "LeadDyno/intercooler-js: Making AJAX as easy as anchor tags",
+      "score": "585"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "530"
+    },
+    {
+      "url": "https://github.com/lesspass/lesspass",
+      "title": "lesspass/lesspass: LessPass open source password manager",
+      "score": "532"
+    },
+    {
+      "url": "https://github.com/Jasonette/JASONETTE-iOS",
+      "title": "Jasonette/JASONETTE-iOS:  Native App over HTTP",
+      "score": "485"
+    },
+    {
+      "url": "https://github.com/avatsaev/touchbar_nyancat",
+      "title": "avatsaev/touchbar_nyancat: Stupid nyancat animation on your +$2k MacBook Pro's Touchbar",
+      "score": "403"
+    },
+    {
+      "url": "https://github.com/bikkelbroeders/TouchBarDemoApp",
+      "title": "bikkelbroeders/TouchBarDemoApp: Allows you to use your macOS Touch Bar from an iPad (through USB connection) or on-screen by pressing the Fn-key.",
+      "score": "284"
+    },
+    {
+      "url": "https://github.com/CISOfy/lynis",
+      "title": "CISOfy/lynis: Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",
+      "score": "263"
+    },
+    {
+      "url": "https://github.com/evolus/pencil",
+      "title": "evolus/pencil: The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.",
+      "score": "241"
+    },
+    {
+      "url": "https://github.com/turbo/js",
+      "title": "turbo/js: turbo.js - perform massive parallel computations in your browser with GPGPU.",
+      "score": "225"
+    },
+    {
+      "url": "https://github.com/mifi/lossless-cut",
+      "title": "mifi/lossless-cut: Cross platform GUI tool for lossless trimming / cutting of videos using ffmpeg",
+      "score": "219"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/318885#reply66",
+      "title": "有了 centos，现在还有多少公司付钱用 Redhat 的发行版？",
+      "score": "66"
+    },
+    {
+      "url": "https://www.v2ex.com/t/318948#reply54",
+      "title": "windows 求一个锁鼠标不锁屏幕的软件，不想按 win+L 让同事觉得我防范/不信任他们。",
+      "score": "54"
+    },
+    {
+      "url": "https://www.v2ex.com/t/318879#reply51",
+      "title": "差点受骗，细思极恐，骗子怎么知道我如此准确的信息？",
+      "score": "51"
+    },
+    {
+      "url": "https://www.v2ex.com/t/318934#reply35",
+      "title": "有没有公司使用阿里钉钉的？谈一下使用感受。",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/318956#reply31",
+      "title": "自动驾驶在突发事故前如何做道德选择？",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/318893#reply30",
+      "title": "360 网盘上的东西怎么弄下来？",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/318935#reply30",
+      "title": "不标题党，分享一个牛逼哄哄的编译器实现过程",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/319008#reply29",
+      "title": "阿里一位 PM 抄教程不留链接，主动要求后竟想销毁证据，这是阿里的价值观吗？",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/318890#reply26",
+      "title": "2000 元以内的耳环求推荐。圣诞节送女友",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/318980#reply25",
+      "title": "怎么教女朋友尽快上手并且“用好”Mac?",
+      "score": "25"
+    }
+  ]
+}
