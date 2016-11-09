@@ -1,0 +1,247 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12907201",
+      "title": "Donald Trump is the president-elect of the United States of America",
+      "score": "765"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12902887",
+      "title": "Benefits of using tmux – streamlining your development environment",
+      "score": "453"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12901139",
+      "title": "A Look at How Traders and Economists Are Using the Julia Programming Language",
+      "score": "354"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12904344",
+      "title": "Walgreen Sues Theranos, Seeks $140 Million in Damages",
+      "score": "347"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12906232",
+      "title": "Canada's immigration website crashes on election night",
+      "score": "333"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12894897",
+      "title": "How to pick startup ideas (2015)",
+      "score": "319"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12894192",
+      "title": "Why is electricity so hard to understand? (1989)",
+      "score": "319"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12902304",
+      "title": "So you think you know C?",
+      "score": "246"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12904216",
+      "title": "Why Twitter Must Be Saved",
+      "score": "195"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12903032",
+      "title": "Kotlin 1.0.5 is here",
+      "score": "176"
+    }
+  ],
+  "medium": [
+    {
+      "title": "An Iconic New Look and More",
+      "score": "767",
+      "url": "https://medium.com/p/an-iconic-new-look-and-more-4191df5ce8d7"
+    },
+    {
+      "title": "How the Church Conspired to Cover Up My Sexual Abuse",
+      "score": "269",
+      "url": "https://medium.com/p/how-the-church-conspired-to-cover-up-my-sexual-abuse-f748638e5c56"
+    },
+    {
+      "title": "What programming language should you learn first?",
+      "score": "3961",
+      "url": "https://medium.com/p/what-programming-language-should-i-learn-first-ʇdıɹɔsɐʌɐɾ-ɹǝʍsuɐ-19a33b0a467d"
+    },
+    {
+      "title": "The 2016 Election Panic Blog",
+      "score": "87",
+      "url": "https://medium.com/p/2016-election-panic-blog-hillary-clinton-donald-trump-3d19ae7a1532"
+    },
+    {
+      "title": "Native Apps are Doomed",
+      "score": "482",
+      "url": "https://medium.com/p/native-apps-are-doomed-ac397148a2c0"
+    },
+    {
+      "title": "How to Gamify Your Life to Quickly Accomplish Big Goals",
+      "score": "588",
+      "url": "https://medium.com/p/how-to-gamify-your-life-to-quickly-accomplish-big-goals-b81721299912"
+    },
+    {
+      "title": "My Syrian Neighbors",
+      "score": "814",
+      "url": "https://medium.com/p/my-syrian-neighbors-9acfd1fe25ee"
+    },
+    {
+      "title": "So you think you know C?",
+      "score": "179",
+      "url": "https://medium.com/p/so-you-think-you-know-c-8d4e2cd6f6a6"
+    },
+    {
+      "title": "One week with the Google Pixel",
+      "score": "502",
+      "url": "https://medium.com/p/one-week-with-the-google-pixel-f43e6647906f"
+    },
+    {
+      "title": "50 Shades of #FAFAFA",
+      "score": "1296",
+      "url": "https://medium.com/p/fifty-shades-of-fafafa-eaa903e36b9c"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/tline",
+      "title": "Tline: Interactive timelines of well-known companies",
+      "score": "48"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/apple-support",
+      "title": "Apple Support: Support for Apple now on iOS",
+      "score": "31"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/rateme",
+      "title": "RateMe: Rate your friends, just like in Black Mirror ⭐️⭐️⭐️⭐️⭐️",
+      "score": "14"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/birch-2-0",
+      "title": "Birch 2.0: Mint.com  for credit card rewards 💰  ✈️",
+      "score": "8"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/getideas-io",
+      "title": "GetIdeas.io: First social platform for idea lists",
+      "score": "5"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/issuevoter",
+      "title": "IssueVoter: The election is over. Now keep tabs on your rep!",
+      "score": "4"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/amberjack-for-ios",
+      "title": "Amberjack for iOS: A community for people who love fishing",
+      "score": "1"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+      "title": "ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.",
+      "score": "2807"
+    },
+    {
+      "url": "https://github.com/dhamaniasad/HeadlessBrowsers",
+      "title": "dhamaniasad/HeadlessBrowsers: A list of (almost) all headless web browsers in existence",
+      "score": "867"
+    },
+    {
+      "url": "https://github.com/lesspass/lesspass",
+      "title": "lesspass/lesspass:  LessPass open source password manager",
+      "score": "498"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "459"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "276"
+    },
+    {
+      "url": "https://github.com/LeadDyno/intercooler-js",
+      "title": "LeadDyno/intercooler-js: Making AJAX as easy as anchor tags",
+      "score": "279"
+    },
+    {
+      "url": "https://github.com/Jasonette/JASONETTE-iOS",
+      "title": "Jasonette/JASONETTE-iOS:  Native App over HTTP",
+      "score": "255"
+    },
+    {
+      "url": "https://github.com/zaqqaz/ng2-rest-api",
+      "title": "zaqqaz/ng2-rest-api:  Rest API provider for angular 2.",
+      "score": "245"
+    },
+    {
+      "url": "https://github.com/Hitomis/ActivitySwitcher",
+      "title": "Hitomis/ActivitySwitcher: ActivitySwitcher is based on the Activity view operation management library, you can achieve any jump between Activity, close any Activity and end applications and other functions.",
+      "score": "224"
+    },
+    {
+      "url": "https://github.com/avatsaev/touchbar_nyancat",
+      "title": "avatsaev/touchbar_nyancat: Stupid nyancat animation on your +$2k MacBook Pro's Touchbar",
+      "score": "226"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/319164#reply68",
+      "title": "新 MBP 还是不打算买了，年轻人第一台 win 笔记本求推荐",
+      "score": "68"
+    },
+    {
+      "url": "https://www.v2ex.com/t/319206#reply52",
+      "title": "不知道京东白条的额度是不是故意来磕碜人的",
+      "score": "52"
+    },
+    {
+      "url": "https://www.v2ex.com/t/319156#reply51",
+      "title": "为什么 dreamweaver 不流行了",
+      "score": "51"
+    },
+    {
+      "url": "https://www.v2ex.com/t/319167#reply49",
+      "title": "虽说阿里云不行，但是有更好的选择吗？",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/319275#reply39",
+      "title": "这次是新浪搞了个大新闻……",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/319221#reply37",
+      "title": "面试中，碰上只跟你谈框架的人，你们通常怎么处理？",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/319170#reply34",
+      "title": "请问有没有专门预装 Linux 系统的笔记本，还是说需要自己购买笔记本手动安装 Linux",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/319285#reply25",
+      "title": "从哪买正版外文书？",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/319180#reply24",
+      "title": "资讯类的应用推荐",
+      "score": "24"
+    },
+    {
+      "url": "https://www.v2ex.com/t/319223#reply22",
+      "title": "APICloud | 双 11 光棍节，盖楼送书，只有学习编程才使我快乐！",
+      "score": "22"
+    }
+  ]
+}
