@@ -1,0 +1,232 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12934089",
+      "title": "Wind Waker Graphics Analysis",
+      "score": "520"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12939232",
+      "title": "Blueprint – A React UI toolkit for the web",
+      "score": "464"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12936511",
+      "title": "A Lost World of Shipwrecks Is Found",
+      "score": "353"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12937818",
+      "title": "Quant Job Interview Questions [pdf]",
+      "score": "299"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12936891",
+      "title": "Why is machine learning ‘hard’?",
+      "score": "284"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12939856",
+      "title": "How We Knew It Was Time to Leave the Cloud",
+      "score": "261"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12941071",
+      "title": "Why 30 is the decade friends disappear",
+      "score": "230"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12940615",
+      "title": "Show HN: Writing an HTTP server in Prolog",
+      "score": "175"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12938636",
+      "title": "Show HN: Gridmaster – A Code School for Learning Spreadsheets",
+      "score": "164"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12938016",
+      "title": "Nvidia on new self-driving system: “basically 5 years ahead and coming in 2017”",
+      "score": "151"
+    }
+  ],
+  "medium": [
+    {
+      "title": "I’m a Muslim, a woman and an immigrant. I voted for Trump",
+      "score": "484",
+      "url": "https://medium.com/p/im-a-muslim-a-woman-and-an-immigrant-i-voted-for-trump-8d53576d804e"
+    },
+    {
+      "title": "8 Things Every Person Should Do Before 8 A.M.",
+      "score": "2029",
+      "url": "https://medium.com/p/8-things-every-person-should-do-before-8-a-m-70cce8f22fe7"
+    },
+    {
+      "title": "How to encrypt your entire life in less than an hour",
+      "score": "2259",
+      "url": "https://medium.com/p/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3"
+    },
+    {
+      "title": "The Pendulum Swings Both Ways",
+      "score": "1733",
+      "url": "https://medium.com/p/the-pendulum-swings-both-ways-61d50f6608d9"
+    },
+    {
+      "title": "President-Elect Donald Trump",
+      "score": "3663",
+      "url": "https://medium.com/p/presidentelecttrump-d93539b06966"
+    },
+    {
+      "title": "Voted for Trump? I have only one plea.",
+      "score": "2634",
+      "url": "https://medium.com/p/voted-for-trump-i-have-only-one-plea-7d5994c7a3d1"
+    },
+    {
+      "title": "History tells us what may happen next with Brexit & Trump",
+      "score": "14215",
+      "url": "https://medium.com/p/history-tells-us-what-will-happen-next-with-brexit-trump-a3fefd154714"
+    },
+    {
+      "title": "On “Woke” White People Advertising their Shock that Racism just won a Presidency",
+      "score": "1857",
+      "url": "https://medium.com/p/on-woke-white-people-advertising-their-shock-that-racism-just-won-a-presidency-68286682047d"
+    },
+    {
+      "title": "Dear Democrats, Read This If You Do Not Understand Why Trump Won",
+      "score": "9065",
+      "url": "https://medium.com/p/dear-democrats-read-this-if-you-do-not-understand-why-trump-won-5a0cdb13c597"
+    },
+    {
+      "title": "Native Apps are Doomed",
+      "score": "1783",
+      "url": "https://medium.com/p/native-apps-are-doomed-ac397148a2c0"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/startup-collections",
+      "title": "FintechStartupsCo:  ",
+      "score": "29"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/public-transport-by-moovel",
+      "title": "Searchin 2.0:  ",
+      "score": "10"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/thinbox",
+      "title": "LawDroid:  ",
+      "score": "3"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/europe-remotely",
+      "title": "Gymi Health and Fitness Bot:  ",
+      "score": "1"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/palantir/blueprint",
+      "title": "palantir/blueprint: A React UI toolkit for the Web",
+      "score": "1157"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "324"
+    },
+    {
+      "url": "https://github.com/GetStream/Winds",
+      "title": "GetStream/Winds: Winds is an open source &amp; beautiful RSS reader built using React/Redux/Sails/Node 7 and Stream (). Try the online demo:",
+      "score": "290"
+    },
+    {
+      "url": "https://github.com/AnthonyCalandra/modern-cpp-features",
+      "title": "AnthonyCalandra/modern-cpp-features: A cheatsheet of modern C++ language and library features.",
+      "score": "276"
+    },
+    {
+      "url": "https://github.com/google/gops",
+      "title": "google/gops: A tool to list and diagnose Go processes currently running on your system",
+      "score": "232"
+    },
+    {
+      "url": "https://github.com/rook/rook",
+      "title": "rook/rook: Open, Cloud Native, and Universal Distributed Storage",
+      "score": "191"
+    },
+    {
+      "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+      "title": "ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.",
+      "score": "152"
+    },
+    {
+      "url": "https://github.com/OfficeDev/office-ui-fabric-react",
+      "title": "OfficeDev/office-ui-fabric-react: React components for building experiences for Office and Office 365.",
+      "score": "142"
+    },
+    {
+      "url": "https://github.com/blinksh/blink",
+      "title": "blinksh/blink: Blink Mobile Shell for iOS (Mosh based)",
+      "score": "137"
+    },
+    {
+      "url": "https://github.com/SKTBrain/awesome-starcraftAI",
+      "title": "SKTBrain/awesome-starcraftAI: A curated list of resources dedicated to StarCraft AI.",
+      "score": "124"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/320149#reply109",
+      "title": "各位有节操的正版软件支持者，你买的最物有所值，最有满意的正版软件是什么？",
+      "score": "109"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320141#reply64",
+      "title": "大家最爱、最实用的 Unix/Linux 发行版本是什么？",
+      "score": "64"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320156#reply55",
+      "title": "有多少程序员安装了黑苹果？",
+      "score": "55"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320153#reply45",
+      "title": "遇到无良天猫店「黑白调」不发货也不肯退款，我该怎么解决？",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320155#reply33",
+      "title": "你习惯微信登录还是微博登录？",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320154#reply27",
+      "title": "独立全端开发的开源小作：简诗 2.0",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320137#reply24",
+      "title": "今年冬天据说贼冷，你们买羽绒服了吗？买的哪家的呢？推荐一下？",
+      "score": "24"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320129#reply22",
+      "title": "怎么看待试用期离职",
+      "score": "22"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320159#reply22",
+      "title": "昨天去天环苹果店体验新 macbook，键程还是太短",
+      "score": "22"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320173#reply19",
+      "title": "对于任何编程语言，数据结构和算法对于一个程序员重要到什么程度？",
+      "score": "19"
+    }
+  ]
+}
