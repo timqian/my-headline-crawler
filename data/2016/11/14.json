@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12944464",
+      "title": "Diamonds Suck (2006)",
+      "score": "1017"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12943243",
+      "title": "New Zealand earthquake: Tsunami follows powerful tremor",
+      "score": "270"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12948043",
+      "title": "Visual Studio for Mac",
+      "score": "269"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12943418",
+      "title": "AdultFriendFinder was hacked",
+      "score": "258"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12945221",
+      "title": "Trigger Happy: An opensource clone of IFTTT",
+      "score": "252"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12945386",
+      "title": "If Prisoners Ran Prisons",
+      "score": "218"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12946976",
+      "title": "You may pay for the cost of parking even if you never drive a car",
+      "score": "162"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12944655",
+      "title": "A guide to using the Facebook Pixel",
+      "score": "135"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12945516",
+      "title": "Learn to Code by Building Projects",
+      "score": "132"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12946673",
+      "title": "How can I avoid my MacBook Pro giving me minor shocks?",
+      "score": "129"
+    }
+  ],
+  "medium": [
+    {
+      "title": "I’ve Been Fat And I’ve Been Skinny. Here’s What I’ve Learned About That.",
+      "score": "514",
+      "url": "https://medium.com/p/ive-been-fat-and-i-ve-been-skinny-here-s-what-i-ve-learned-about-that-21a56c35664f"
+    },
+    {
+      "title": "8 Things Every Person Should Do Before 8 A.M.",
+      "score": "2692",
+      "url": "https://medium.com/p/8-things-every-person-should-do-before-8-a-m-70cce8f22fe7"
+    },
+    {
+      "title": "How to encrypt your entire life in less than an hour",
+      "score": "3015",
+      "url": "https://medium.com/p/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3"
+    },
+    {
+      "title": "History tells us what may happen next with Brexit & Trump",
+      "score": "14726",
+      "url": "https://medium.com/p/history-tells-us-what-will-happen-next-with-brexit-trump-a3fefd154714"
+    },
+    {
+      "title": "How to Easily be a White Ally to Marginalized Communities",
+      "score": "914",
+      "url": "https://medium.com/p/how-to-easily-be-a-white-ally-to-marginalized-communities-fb0ff326e7ac"
+    },
+    {
+      "title": "I’m a Muslim, a woman and an immigrant. I voted for Trump",
+      "score": "654",
+      "url": "https://medium.com/p/im-a-muslim-a-woman-and-an-immigrant-i-voted-for-trump-8d53576d804e"
+    },
+    {
+      "title": "What the Hell Just Happened?",
+      "score": "432",
+      "url": "https://medium.com/p/what-the-hell-just-happened-441c82bb3096"
+    },
+    {
+      "title": "President-Elect Donald Trump",
+      "score": "4099",
+      "url": "https://medium.com/p/presidentelecttrump-d93539b06966"
+    },
+    {
+      "title": "Native Apps are Doomed",
+      "score": "2032",
+      "url": "https://medium.com/p/native-apps-are-doomed-ac397148a2c0"
+    },
+    {
+      "title": "Voted for Trump? I have only one plea.",
+      "score": "3016",
+      "url": "https://medium.com/p/voted-for-trump-i-have-only-one-plea-7d5994c7a3d1"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/pie-4",
+      "title": "Zero:  ",
+      "score": "26"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/travel-stock",
+      "title": "Refly:  ",
+      "score": "27"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/business-systems-explored-022-matt-goldman-churn-buster",
+      "title": "Gitmoji:  ",
+      "score": "6"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/saastr-074-daniel-saks-co-founder-co-ceo-appdirect",
+      "title": "Secrets 2:  ",
+      "score": "4"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/a-conversation-with-andy-budd-perspective-fm",
+      "title": "Chatflow:  ",
+      "score": "2"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/palantir/blueprint",
+      "title": "palantir/blueprint: A React UI toolkit for the Web",
+      "score": "1258"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "506"
+    },
+    {
+      "url": "https://github.com/rushter/MLAlgorithms",
+      "title": "rushter/MLAlgorithms: Minimal and clean examples of machine learning algorithms",
+      "score": "365"
+    },
+    {
+      "url": "https://github.com/AnthonyCalandra/modern-cpp-features",
+      "title": "AnthonyCalandra/modern-cpp-features: A cheatsheet of modern C++ language and library features.",
+      "score": "356"
+    },
+    {
+      "url": "https://github.com/google/gops",
+      "title": "google/gops: A tool to list and diagnose Go processes currently running on your system",
+      "score": "251"
+    },
+    {
+      "url": "https://github.com/FreeCodeCampChina/freecodecamp.cn",
+      "title": "FreeCodeCampChina/freecodecamp.cn: 看源码请到Code，提问请到Issues，提交代码请到Pull requests，看学习心得请到Wiki。多谢合作，么么哒，^_^。",
+      "score": "221"
+    },
+    {
+      "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+      "title": "ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.",
+      "score": "179"
+    },
+    {
+      "url": "https://github.com/viosey/hexo-theme-material",
+      "title": "viosey/hexo-theme-material: Material Design Theme for Hexo.",
+      "score": "175"
+    },
+    {
+      "url": "https://github.com/adam-s/facebook-pixel-guide",
+      "title": "adam-s/facebook-pixel-guide: A guide to using Facebook pixel for efficient ad campaigns",
+      "score": "173"
+    },
+    {
+      "url": "https://github.com/josephyzhou/github-trending",
+      "title": "josephyzhou/github-trending: Tracking the most popular Github repos, updated daily",
+      "score": "175"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/320294#reply87",
+      "title": "在京东买东西， 2 次寄来的都是二手产品，怎么破？",
+      "score": "87"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320311#reply60",
+      "title": "弹性工作是不是加班的意思。",
+      "score": "60"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320285#reply53",
+      "title": "早产的 2016 年终总结",
+      "score": "53"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320338#reply31",
+      "title": "掘金 ╳ 七牛推出开源库前端加速 CDN 服务 Staticfile.org",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320427#reply31",
+      "title": "Visual Studio for Mac",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320286#reply28",
+      "title": "那个，遗产税出来了，现在该知道蓄水池的功效了吧",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320313#reply28",
+      "title": "程序员容易有抑郁症么？",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320401#reply26",
+      "title": "机械键盘中传说的神器？这次是另一个大 F—凤凰 Feenix Autore",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320297#reply25",
+      "title": "请教下 ATX 机箱有稍微小一点的推荐吗？",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320413#reply25",
+      "title": "送爱奇艺周卡充值码！！ [5 折会员网]",
+      "score": "25"
+    }
+  ]
+}
