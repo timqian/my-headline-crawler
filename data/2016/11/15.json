@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12949114",
+      "title": "“I have toyota corola”",
+      "score": "1079"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12951503",
+      "title": "Compromising a Linux desktop using 6502 opcodes on the NES",
+      "score": "322"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12952329",
+      "title": "Wazer introduces the first desktop water-jet cutter",
+      "score": "235"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12953150",
+      "title": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent",
+      "score": "225"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12953172",
+      "title": "Why Chrome 53 Is Rejecting Chase Bank's Symantec Certificate",
+      "score": "199"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12955111",
+      "title": "Amazon RDS now supports PostgreSQL 9.6.1",
+      "score": "193"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12952255",
+      "title": "Internet Freedom Wanes as Governments Target Messaging, Social Apps",
+      "score": "179"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12954540",
+      "title": "Show HN: JavaScript books, free online",
+      "score": "134"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12954626",
+      "title": "A Primer on DarkNet Marketplaces",
+      "score": "128"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12955457",
+      "title": "YouTube has apparently reinstated RSS feeds",
+      "score": "116"
+    }
+  ],
+  "medium": [
+    {
+      "title": "How We Broke Democracy (But Not in the Way You Think)",
+      "score": "1187",
+      "url": "https://medium.com/p/empathy-to-democracy-b7f04ab57eee"
+    },
+    {
+      "title": "8 Things Every Person Should Do Before 8 A.M.",
+      "score": "3349",
+      "url": "https://medium.com/p/8-things-every-person-should-do-before-8-a-m-70cce8f22fe7"
+    },
+    {
+      "title": "The KKK isn’t Reading The New York Times Op-Ed Pages",
+      "score": "728",
+      "url": "https://medium.com/p/the-kkk-isnt-reading-the-new-york-times-op-ed-pages-978f358503be"
+    },
+    {
+      "title": "Voted for Trump? I have only one plea.",
+      "score": "3521",
+      "url": "https://medium.com/p/voted-for-trump-i-have-only-one-plea-7d5994c7a3d1"
+    },
+    {
+      "title": "How to encrypt your entire life in less than an hour",
+      "score": "3614",
+      "url": "https://medium.com/p/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3"
+    },
+    {
+      "title": "Are You Fucking Kidding Me",
+      "score": "774",
+      "url": "https://medium.com/p/are-you-fucking-kidding-me-86bdc2c638d6"
+    },
+    {
+      "title": "The Winners and Losers From NFL Week 10",
+      "score": "48",
+      "url": "https://medium.com/p/nfl-marcus-mariota-jameis-winston-packers-week-10-a704e9dfea35"
+    },
+    {
+      "title": "I’ve Been Fat And I’ve Been Skinny. Here’s What I’ve Learned About That.",
+      "score": "691",
+      "url": "https://medium.com/p/ive-been-fat-and-i-ve-been-skinny-here-s-what-i-ve-learned-about-that-21a56c35664f"
+    },
+    {
+      "title": "The code I’m still ashamed of",
+      "score": "1062",
+      "url": "https://medium.com/p/the-code-im-still-ashamed-of-e4c021dff55e"
+    },
+    {
+      "title": "What the Hell Just Happened?",
+      "score": "639",
+      "url": "https://medium.com/p/what-the-hell-just-happened-441c82bb3096"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/inspect-by-invision",
+      "title": "Hop:  ",
+      "score": "40"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/remote-friendly",
+      "title": "B.S. Detector:  ",
+      "score": "19"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/search-grader-by-algolia",
+      "title": "Cardlife SaaS Directory:  ",
+      "score": "14"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/kill-the-newsletter",
+      "title": "HeadlinesAI:  ",
+      "score": "10"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/hello-tech-pros-the-anxiety-of-failure",
+      "title": "Festival Mapper:  ",
+      "score": "4"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/Kapeli/Dash-iOS",
+      "title": "Kapeli/Dash-iOS: Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets",
+      "score": "1969"
+    },
+    {
+      "url": "https://github.com/palantir/blueprint",
+      "title": "palantir/blueprint: A React UI toolkit for the Web",
+      "score": "928"
+    },
+    {
+      "url": "https://github.com/rushter/MLAlgorithms",
+      "title": "rushter/MLAlgorithms: Minimal and clean examples of machine learning algorithms",
+      "score": "858"
+    },
+    {
+      "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+      "title": "Hack-with-Github/Awesome-Hacking: A collection of various awesome lists for hackers, pentesters and security researchers",
+      "score": "772"
+    },
+    {
+      "url": "https://github.com/AnthonyCalandra/modern-cpp-features",
+      "title": "AnthonyCalandra/modern-cpp-features: A cheatsheet of modern C++ language and library features.",
+      "score": "621"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "464"
+    },
+    {
+      "url": "https://github.com/ryanjay0/miles-deep",
+      "title": "ryanjay0/miles-deep: Deep Learning Porn Video Classifier/Editor with Caffe",
+      "score": "457"
+    },
+    {
+      "url": "https://github.com/ruanyf/jstraining",
+      "title": "ruanyf/jstraining: 全栈工程师培训材料",
+      "score": "420"
+    },
+    {
+      "url": "https://github.com/jakebian/quiver",
+      "title": "jakebian/quiver: Interactive convnet features visualization for Keras",
+      "score": "332"
+    },
+    {
+      "url": "https://github.com/carloscuesta/gitmoji",
+      "title": "carloscuesta/gitmoji: An emoji guide for your commit messages. ",
+      "score": "301"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/320594#reply222",
+      "title": "是时候开启人生的第二乐章了，来立个 FLAG。",
+      "score": "222"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320559#reply64",
+      "title": "写代码老容易分心，不够专注怎么治？",
+      "score": "64"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320644#reply45",
+      "title": "新电脑上手一天感受",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320605#reply43",
+      "title": "iTumblr 已上架",
+      "score": "43"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320625#reply42",
+      "title": "推荐 Android 设备？",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320647#reply41",
+      "title": "该不该入 1TB 新 MBP15 寸，做设计的，求解答！",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320553#reply34",
+      "title": "各位同仁，你们黑眼圈严重吗？",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320563#reply34",
+      "title": "继日历和 iMessage 后， iCloud 照片共享功能被植入小广告，有什么办法可以干死金沙集团？",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320557#reply31",
+      "title": "Mac 上面的 Paste 冰点价 12 了，用了半年还不错安利给大家",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320586#reply30",
+      "title": "招聘：熊猫直播 月薪最多 833K 寻找一流服务端和 主播^^ （北京 望京 soho）",
+      "score": "30"
+    }
+  ]
+}
