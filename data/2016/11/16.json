@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12958445",
+      "title": "Show HN: Primitive for macOS",
+      "score": "691"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12958957",
+      "title": "How We Make Money at Stack Overflow",
+      "score": "494"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12962776",
+      "title": "The Most Effective Weapon on the Modern Battlefield Is Concrete",
+      "score": "420"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12962135",
+      "title": "A.I. Experiments",
+      "score": "285"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12957306",
+      "title": "ICQ: 20 Years Is No Limit",
+      "score": "261"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12961721",
+      "title": "GPUs for Google Cloud Platform",
+      "score": "250"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12961392",
+      "title": "Post Virtual Reality Sadness",
+      "score": "241"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12961333",
+      "title": "Regex 101",
+      "score": "209"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12962241",
+      "title": "Snapchat has reportedly filed confidentially for its massive IPO",
+      "score": "193"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12963231",
+      "title": "Found in translation: More accurate, fluent sentences in Google Translate",
+      "score": "189"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Are You Fucking Kidding Me",
+      "score": "1786",
+      "url": "https://medium.com/p/are-you-fucking-kidding-me-86bdc2c638d6"
+    },
+    {
+      "title": "I’m Sorry Mr. Zuckerberg, But You Are Wrong",
+      "score": "854",
+      "url": "https://medium.com/p/im-sorry-mr-zuckerberg-but-you-are-wrong-65dbf8513424"
+    },
+    {
+      "title": "8 Things Every Person Should Do Before 8 A.M.",
+      "score": "3870",
+      "url": "https://medium.com/p/8-things-every-person-should-do-before-8-a-m-70cce8f22fe7"
+    },
+    {
+      "title": "Dear Trump Supporter who says they love me,",
+      "score": "1190",
+      "url": "https://medium.com/p/dear-trump-supporter-who-says-they-love-me-78c2aab188a9"
+    },
+    {
+      "title": "How We Broke Democracy (But Not in the Way You Think)",
+      "score": "1723",
+      "url": "https://medium.com/p/empathy-to-democracy-b7f04ab57eee"
+    },
+    {
+      "title": "MacBook Pro with Touch Bar Review",
+      "score": "104",
+      "url": "https://medium.com/p/macbook-pro-with-touch-bar-review-2f7f71228b66"
+    },
+    {
+      "title": "What the Hell Just Happened?",
+      "score": "919",
+      "url": "https://medium.com/p/what-the-hell-just-happened-441c82bb3096"
+    },
+    {
+      "title": "How to encrypt your entire life in less than an hour",
+      "score": "4018",
+      "url": "https://medium.com/p/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3"
+    },
+    {
+      "title": "Dear Mark Zuckerberg,",
+      "score": "681",
+      "url": "https://medium.com/p/dear-mark-zuckerberg-588ef521f251"
+    },
+    {
+      "title": "The code I’m still ashamed of",
+      "score": "1443",
+      "url": "https://medium.com/p/the-code-im-still-ashamed-of-e4c021dff55e"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/a-i-experiments-by-google",
+      "title": "Drop:  ",
+      "score": "37"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/twittertats",
+      "title": "Flock:  ",
+      "score": "39"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/fabulist",
+      "title": "Drift Profiles:  ",
+      "score": "20"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/drafted-for-teams",
+      "title": "Fondoodler:  ",
+      "score": "17"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/the-marketer-s-guide-to-cracking-twitter",
+      "title": "SlackCatchup:  ",
+      "score": "3"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/Kapeli/Dash-iOS",
+      "title": "Kapeli/Dash-iOS: Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets",
+      "score": "1471"
+    },
+    {
+      "url": "https://github.com/rushter/MLAlgorithms",
+      "title": "rushter/MLAlgorithms: Minimal and clean examples of machine learning algorithms",
+      "score": "1273"
+    },
+    {
+      "url": "https://github.com/ruanyf/jstraining",
+      "title": "ruanyf/jstraining: 全栈工程师培训材料",
+      "score": "888"
+    },
+    {
+      "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+      "title": "Hack-with-Github/Awesome-Hacking: A collection of various awesome lists for hackers, pentesters and security researchers",
+      "score": "916"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "425"
+    },
+    {
+      "url": "https://github.com/palantir/blueprint",
+      "title": "palantir/blueprint: A React UI toolkit for the web",
+      "score": "400"
+    },
+    {
+      "url": "https://github.com/fogleman/primitive",
+      "title": "fogleman/primitive: Reproducing images with geometric primitives.",
+      "score": "348"
+    },
+    {
+      "url": "https://github.com/kirillstepkin/chartify",
+      "title": "kirillstepkin/chartify: React.js plugin for creating charts. Inspired by kinopoisk.ru chart. Bar chart, line chart, calendar view visualisation. Feel free for contribute.",
+      "score": "322"
+    },
+    {
+      "url": "https://github.com/ForestAdmin/lumber",
+      "title": "ForestAdmin/lumber: Generate the admin microservice of your web application",
+      "score": "288"
+    },
+    {
+      "url": "https://github.com/carloscuesta/gitmoji",
+      "title": "carloscuesta/gitmoji: An emoji guide for your commit messages. ",
+      "score": "234"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/320824#reply97",
+      "title": "你喜欢北上广深的繁华吗",
+      "score": "97"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320818#reply69",
+      "title": "为什么没有那种线性代数半小时快速入门教程",
+      "score": "69"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320855#reply59",
+      "title": "关于 iPhone 6 / 6s 频繁关机问题，中消协会致函苹果",
+      "score": "59"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320835#reply41",
+      "title": "这里没有人遇到 6s 异常关机的情况吗？",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320821#reply37",
+      "title": "做一个接近万人的微信摇一摇抢红包活动程序与服务器需要多少预算",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320948#reply33",
+      "title": "大家玩游戏默认都选什么难度？",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320888#reply29",
+      "title": "发现了一个很无聊的网站，页面是静态的， URL 是动态的，还可以在 URL 里玩游戏-_-",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320851#reply28",
+      "title": "前端开发是不是本身就有问题",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320854#reply28",
+      "title": "双十一买了本书，到货后去确认收货，发现价格比双十一便宜了 10 块钱",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/320938#reply27",
+      "title": "白特么夸二手东售后好了。哔了狗了。",
+      "score": "27"
+    }
+  ]
+}
