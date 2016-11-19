@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12982418",
+      "title": "SpaceX plans worldwide satellite Internet with low latency, gigabit speed",
+      "score": "1007"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12987537",
+      "title": "How to start a company with no free time",
+      "score": "518"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12985644",
+      "title": "A demonstration of browser events used to monitor online behaviour",
+      "score": "506"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12986433",
+      "title": "Gmvault: Backup and restore your Gmail account",
+      "score": "448"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12985074",
+      "title": "Kaspersky OS",
+      "score": "417"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12986649",
+      "title": "The origin story of Google Analytics",
+      "score": "357"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12986759",
+      "title": "How I stopped the RSI pain that almost destroyed my programming career",
+      "score": "319"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12987900",
+      "title": "Google reverses its ‘digital death sentence’ for Pixel phone resellers",
+      "score": "318"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12985768",
+      "title": "The psychology of stress and burnout",
+      "score": "287"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12991986",
+      "title": "Blender Project: Miyazaki Tribute",
+      "score": "263"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Craigslist, Wikipedia, and the Abundance Economy",
+      "score": "1208",
+      "url": "https://medium.com/p/welcome-to-the-abundance-economy-there-are-free-lunches-all-over-the-place-b9d0a417fd1a"
+    },
+    {
+      "title": "10 stocks that had double digit gains on Trump’s win that are terrifying",
+      "score": "296",
+      "url": "https://medium.com/p/10-stocks-that-had-double-digit-gains-on-trumps-win-that-are-terrifying-7421114b3233"
+    },
+    {
+      "title": "Owning Our Shit",
+      "score": "2535",
+      "url": "https://medium.com/p/owning-our-shit-df551475fce7"
+    },
+    {
+      "title": "This isn’t just a photo of Ivanka Trump. It’s a middle finger to democracy.",
+      "score": "333",
+      "url": "https://medium.com/p/this-isnt-just-a-photo-of-ivanka-trump-it-s-a-middle-finger-to-democracy-750e91a3c0c"
+    },
+    {
+      "title": "How to start a company with no free time",
+      "score": "1507",
+      "url": "https://medium.com/p/how-to-start-a-company-with-no-free-time-b70fbe7b918a"
+    },
+    {
+      "title": "How we structure our work and teams at Basecamp",
+      "score": "585",
+      "url": "https://medium.com/p/how-we-set-up-our-work-cbce3d3d9cae"
+    },
+    {
+      "title": "How ‘Saturday Night Live’ Should Handle Donald Trump",
+      "score": "68",
+      "url": "https://medium.com/p/saturday-night-live-donald-trump-kate-mckinnon-226695b1759d"
+    },
+    {
+      "title": "Are You Fucking Kidding Me",
+      "score": "3117",
+      "url": "https://medium.com/p/are-you-fucking-kidding-me-86bdc2c638d6"
+    },
+    {
+      "title": "8 Things Every Person Should Do Before 8 A.M.",
+      "score": "4864",
+      "url": "https://medium.com/p/8-things-every-person-should-do-before-8-a-m-70cce8f22fe7"
+    },
+    {
+      "title": "Urchin Software Corp.",
+      "score": "368",
+      "url": "https://medium.com/p/urchin-software-corp-89a1f5292999"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/freestack",
+      "title": "SnapView:  ",
+      "score": "44"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/poopmoji",
+      "title": "Browser Frame:  ",
+      "score": "14"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/madi",
+      "title": "SubMe:  ",
+      "score": "15"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/dashboard-ui-kit",
+      "title": "Fearless Social Confidence:  ",
+      "score": "5"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/lettersnap",
+      "title": "Cynical Developer Podcast: Ep 1 – Let Them Build With Cake!:  ",
+      "score": "7"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/gaubert/gmvault",
+      "title": "gaubert/gmvault: gmail backup software",
+      "score": "965"
+    },
+    {
+      "url": "https://github.com/samyk/poisontap",
+      "title": "samyk/poisontap: Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero &amp; Node.js.",
+      "score": "534"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "427"
+    },
+    {
+      "url": "https://github.com/ruanyf/jstraining",
+      "title": "ruanyf/jstraining: 全栈工程师培训材料",
+      "score": "244"
+    },
+    {
+      "url": "https://github.com/rushter/MLAlgorithms",
+      "title": "rushter/MLAlgorithms: Minimal and clean examples of machine learning algorithms",
+      "score": "245"
+    },
+    {
+      "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+      "title": "Hack-with-Github/Awesome-Hacking: A collection of various awesome lists for hackers, pentesters and security researchers",
+      "score": "245"
+    },
+    {
+      "url": "https://github.com/palantir/blueprint",
+      "title": "palantir/blueprint: A React UI toolkit for the web",
+      "score": "186"
+    },
+    {
+      "url": "https://github.com/WangCheese/MarketModule",
+      "title": "WangCheese/MarketModule: 这是一个商城的完整代码。MarketModuleBG是该项目的后端。",
+      "score": "188"
+    },
+    {
+      "url": "https://github.com/cramforce/splittable",
+      "title": "cramforce/splittable: Module bundler with support for code splitting, ES6 &amp; CommonJS modules.",
+      "score": "181"
+    },
+    {
+      "url": "https://github.com/amitshekhariitbhu/Android-Debug-Database",
+      "title": "amitshekhariitbhu/Android-Debug-Database: A library for debugging android databases and shared preferences - Make Debugging Great Again",
+      "score": "174"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/321630#reply61",
+      "title": "苹果指出是劣质第三方电源适配器导致 iPhone 6s 自动关机",
+      "score": "61"
+    },
+    {
+      "url": "https://www.v2ex.com/t/321643#reply44",
+      "title": "大家会不会注册自己姓名的域名呢？",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/321669#reply31",
+      "title": "如何婉转的告诉邻居不要让快递把包裹送到我家？",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/321633#reply28",
+      "title": "自动关机的官方回复出来了",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/321706#reply28",
+      "title": "京东百万记录分析中国人罩杯分布",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/321667#reply27",
+      "title": "微信小程序的最终入口疑似曝光，竟然可以放桌面？",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/321640#reply24",
+      "title": "今天逛 segment 发现另一个国人 MVVC 框架， avalon，有同学用过么？如何？",
+      "score": "24"
+    },
+    {
+      "url": "https://www.v2ex.com/t/321649#reply20",
+      "title": "在职硕士都是这么水的吗",
+      "score": "20"
+    },
+    {
+      "url": "https://www.v2ex.com/t/321673#reply19",
+      "title": "招商银行 IT 很渣吗？",
+      "score": "19"
+    },
+    {
+      "url": "https://www.v2ex.com/t/321635#reply18",
+      "title": "没人觉得苹果和三星是一个套路吗？",
+      "score": "18"
+    }
+  ]
+}
