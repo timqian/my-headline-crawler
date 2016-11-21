@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=12998698",
+      "title": "Quit Social Media, Your Career May Depend on It",
+      "score": "1016"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12998395",
+      "title": "Scientist discovers particular seaweed nearly eliminates cow methane emissions",
+      "score": "383"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12999767",
+      "title": "New for AWS Lambda – Environment Variables and Serverless Application Model",
+      "score": "241"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13000445",
+      "title": "Let’s replace Twitter with something much better",
+      "score": "217"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13001068",
+      "title": "CS294: Program Synthesis for Everyone",
+      "score": "209"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13000120",
+      "title": "Show HN: StockDroids.com – A curated list of near-stock Android devices",
+      "score": "202"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13002630",
+      "title": "Ken's Academy Award: Noise and Turbulence",
+      "score": "183"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=12998343",
+      "title": "US launches next-gen weather satellite that will revolutionize forecasting",
+      "score": "169"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13003057",
+      "title": "What is “:-!!” in C code?",
+      "score": "165"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13000145",
+      "title": "Why does it take so long for us to form our first memory?",
+      "score": "155"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Trump poised to violate Constitution his first day in office, George W. Bush’s ethics lawyer says",
+      "score": "460",
+      "url": "https://medium.com/p/trump-poised-to-violate-constitution-his-first-day-in-office-george-w-bushs-ethics-lawyer-says-73e14789a935"
+    },
+    {
+      "title": "Confessions of a Google Spammer",
+      "score": "413",
+      "url": "https://medium.com/p/confessions-of-a-google-spammer-4f2e0c3e9869"
+    },
+    {
+      "title": "The 100% correct way to do CSS breakpoints",
+      "score": "534",
+      "url": "https://medium.com/p/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862"
+    },
+    {
+      "title": "Full-stack development is alive and well. And for good reasons.",
+      "score": "496",
+      "url": "https://medium.com/p/full-stack-between-reality-and-wishful-thinking-43110005f2a2"
+    },
+    {
+      "title": "Surround Yourself with People Who Hold You to a Higher Standard than You Hold Yourself",
+      "score": "1173",
+      "url": "https://medium.com/p/surround-yourself-with-people-who-hold-you-to-a-higher-standard-than-you-hold-yourself-822fc429154f"
+    },
+    {
+      "title": "The Huffington Post Has a Fake News Problem!",
+      "score": "500",
+      "url": "https://medium.com/p/the-huffington-post-has-a-fake-news-problem-f68d8e262cec"
+    },
+    {
+      "title": "These 62 Websites Will Make You Incredibly Smarter",
+      "score": "2425",
+      "url": "https://medium.com/p/these-62-websites-will-make-you-incredibly-smarter-7eb89f122c2e"
+    },
+    {
+      "title": "How to start a company with no free time",
+      "score": "2443",
+      "url": "https://medium.com/p/how-to-start-a-company-with-no-free-time-b70fbe7b918a"
+    },
+    {
+      "title": "Are You Fucking Kidding Me",
+      "score": "3480",
+      "url": "https://medium.com/p/are-you-fucking-kidding-me-86bdc2c638d6"
+    },
+    {
+      "title": "Craigslist, Wikipedia, and the Abundance Economy",
+      "score": "1754",
+      "url": "https://medium.com/p/welcome-to-the-abundance-economy-there-are-free-lunches-all-over-the-place-b9d0a417fd1a"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/blockai-for-instagram",
+      "title": "WakingApp Realities:  ",
+      "score": "21"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/beams-2",
+      "title": "Challky:  ",
+      "score": "11"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/business-systems-explored-023-armando-biondi-adespresso",
+      "title": "Slides by Vocus.io:  ",
+      "score": "6"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/true-link-financial-advisors-2",
+      "title": "Bonjour:  ",
+      "score": "7"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/meetings-podcast-events-value-added-hospitality",
+      "title": "Equity Free Funding Stash:  ",
+      "score": "5"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/Developer-Y/cs-video-courses",
+      "title": "Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.",
+      "score": "1666"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "433"
+    },
+    {
+      "url": "https://github.com/ruanyf/jstraining",
+      "title": "ruanyf/jstraining: 全栈工程师培训材料",
+      "score": "279"
+    },
+    {
+      "url": "https://github.com/andrew--r/channels",
+      "title": "andrew--r/channels: A collection of useful YouTube channels for javascript developers and web designers",
+      "score": "267"
+    },
+    {
+      "url": "https://github.com/samyk/poisontap",
+      "title": "samyk/poisontap: Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero &amp; Node.js.",
+      "score": "231"
+    },
+    {
+      "url": "https://github.com/developer-shivam/Crescento",
+      "title": "developer-shivam/Crescento: Add curve at bottom of image views and relative layouts.",
+      "score": "211"
+    },
+    {
+      "url": "https://github.com/ryanjay0/miles-deep",
+      "title": "ryanjay0/miles-deep: Deep Learning Porn Video Classifier/Editor with Caffe",
+      "score": "196"
+    },
+    {
+      "url": "https://github.com/rushter/MLAlgorithms",
+      "title": "rushter/MLAlgorithms: Minimal and clean examples of machine learning algorithms",
+      "score": "183"
+    },
+    {
+      "url": "https://github.com/codeestX/ENViews",
+      "title": "codeestX/ENViews: A cool dynamic view library",
+      "score": "174"
+    },
+    {
+      "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+      "title": "Hack-with-Github/Awesome-Hacking: A collection of various awesome lists for hackers, pentesters and security researchers",
+      "score": "160"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/322001#reply196",
+      "title": "咨询个问题，你们为什么要坚持买 iPhone ？",
+      "score": "196"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322050#reply82",
+      "title": "数人云互动趴 2.0|你在写代码时听什么歌",
+      "score": "82"
+    },
+    {
+      "url": "https://www.v2ex.com/t/321975#reply81",
+      "title": "4K 显示器真的不好用",
+      "score": "81"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322013#reply72",
+      "title": "6s 自动关机 真正的官方回复来了",
+      "score": "72"
+    },
+    {
+      "url": "https://www.v2ex.com/t/321978#reply63",
+      "title": "话说刷信用卡有哪些实打实省钱场景？能不能异地消费？",
+      "score": "63"
+    },
+    {
+      "url": "https://www.v2ex.com/t/321991#reply38",
+      "title": "求 Steam 国产独立游戏推荐，求 Steam 好友",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322000#reply37",
+      "title": "求解：世界上最难的”简单“几何题",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322079#reply35",
+      "title": "黑 5，大家打算买啥...",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/321977#reply33",
+      "title": "苹果电脑装机推荐配置",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/321974#reply32",
+      "title": "Mac OS 上有哪些程序员必备的软件？",
+      "score": "32"
+    }
+  ]
+}
