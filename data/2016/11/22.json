@@ -1,0 +1,247 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13008408",
+      "title": "4-bit calculator made from cardboard and marbles",
+      "score": "529"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13005211",
+      "title": "Apple Abandons Development of Wireless Routers",
+      "score": "359"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13009417",
+      "title": "Japan issues tsunami warning after magnitude 7.3 earthquake",
+      "score": "288"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13010949",
+      "title": "Amazon S3 and Glacier Price Reductions",
+      "score": "193"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13010016",
+      "title": "Goldman Sachs Drops Out of R3 Blockchain Group",
+      "score": "186"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13008620",
+      "title": "Microsoft planning to enable x86 on ARM64 emulation in Windows 10 by Fall 2017",
+      "score": "180"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13011932",
+      "title": "Pipfile for Python",
+      "score": "172"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13011185",
+      "title": "Bye Bye Emojis: Emacs Hates MacOS",
+      "score": "170"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13010544",
+      "title": "Syscall Auditing at Scale",
+      "score": "156"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13008266",
+      "title": "SVG Line Animation for the Uninitiated",
+      "score": "139"
+    }
+  ],
+  "medium": [
+    {
+      "title": "I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.",
+      "score": "1840",
+      "url": "https://medium.com/p/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331"
+    },
+    {
+      "title": "Surround Yourself with People Who Hold You to a Higher Standard than You Hold Yourself",
+      "score": "1866",
+      "url": "https://medium.com/p/surround-yourself-with-people-who-hold-you-to-a-higher-standard-than-you-hold-yourself-822fc429154f"
+    },
+    {
+      "title": "The Winners and Losers From NFL Week 11",
+      "score": "58",
+      "url": "https://medium.com/p/nfl-week-11-steelers-titans-missed-extra-points-winners-losers-b88f5c74e9d3"
+    },
+    {
+      "title": "Why Native Apps Really are Doomed: Native Apps are Doomed pt 2",
+      "score": "385",
+      "url": "https://medium.com/p/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9"
+    },
+    {
+      "title": "Bulletproof Mind: 6 Secrets of Mental Toughness From the Navy SEALs",
+      "score": "750",
+      "url": "https://medium.com/p/bulletproof-mind-6-secrets-of-mental-toughness-from-the-navy-seals-836154bec989"
+    },
+    {
+      "title": "It’s Time for These NBA Teams to Bottom Out",
+      "score": "51",
+      "url": "https://medium.com/p/nba-teams-that-should-tank-dallas-mavericks-miami-heat-ea5a31095347"
+    },
+    {
+      "title": "The 11 Most Surprising Players of the NBA Season (So Far)",
+      "score": "67",
+      "url": "https://medium.com/p/11-most-surprising-nba-players-demar-derozan-marc-gasol-evan-turner-506a43437d4"
+    },
+    {
+      "title": "NFL Week 11 Recap: The Seahawks Are Still the Scariest Team in Football",
+      "score": "40",
+      "url": "https://medium.com/p/nfl-week-11-recap-seattle-seahawks-russell-wilson-16ed1dea90c7"
+    },
+    {
+      "title": "Breitbart Could Become America’s RT",
+      "score": "214",
+      "url": "https://medium.com/p/breitbart-could-become-americas-rt-d777049c1156"
+    },
+    {
+      "title": "Confessions of a Google Spammer",
+      "score": "491",
+      "url": "https://medium.com/p/confessions-of-a-google-spammer-4f2e0c3e9869"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/nomad-airlines",
+      "title": "RapidAPI Marketplace:  ",
+      "score": "50"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/winnie-photo-sharing",
+      "title": "The Makers:  ",
+      "score": "31"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/airgora",
+      "title": "Irvue 2.0:  ",
+      "score": "25"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/founder-print",
+      "title": "Commerce.js 1.0:  ",
+      "score": "21"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/blingchat-messenger-bot",
+      "title": "Good News Bot:  ",
+      "score": "21"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/i-m-everywhere-and-nowhere-and-i-own-nothing-and-everything",
+      "title": "Copio:  ",
+      "score": "5"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/inside-amazon",
+      "title": "Casey, the UPS Bot:  ",
+      "score": "14"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/Developer-Y/cs-video-courses",
+      "title": "Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.",
+      "score": "1619"
+    },
+    {
+      "url": "https://github.com/googlesamples/md2googleslides",
+      "title": "googlesamples/md2googleslides: Generate Google Slides from markdown",
+      "score": "1245"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "517"
+    },
+    {
+      "url": "https://github.com/j-delaney/easy-application",
+      "title": "j-delaney/easy-application: 345 software engineering companies that are easy to apply to",
+      "score": "492"
+    },
+    {
+      "url": "https://github.com/andrew--r/channels",
+      "title": "andrew--r/channels: A collection of useful YouTube channels for javascript developers and web designers",
+      "score": "422"
+    },
+    {
+      "url": "https://github.com/pypa/pipfile",
+      "title": "pypa/pipfile: ",
+      "score": "248"
+    },
+    {
+      "url": "https://github.com/threepointone/markdown-in-js",
+      "title": "threepointone/markdown-in-js: inline markdown for react/jsx",
+      "score": "257"
+    },
+    {
+      "url": "https://github.com/developer-shivam/Crescento",
+      "title": "developer-shivam/Crescento: Add curve at bottom of image views and relative layouts.",
+      "score": "250"
+    },
+    {
+      "url": "https://github.com/jaywcjlove/awesome-mac",
+      "title": "jaywcjlove/awesome-mac:  This repo is a collection of awesome Mac applications and tools for developers and designers.",
+      "score": "252"
+    },
+    {
+      "url": "https://github.com/ruanyf/jstraining",
+      "title": "ruanyf/jstraining: 全栈工程师培训材料",
+      "score": "220"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/322258#reply64",
+      "title": "服务器快到期了，准备转出阿里云，老司机推荐下用哪家的？",
+      "score": "64"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322308#reply59",
+      "title": "坚持买安卓的各位是怎么避开&quot;间谍门&quot;的?",
+      "score": "59"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322245#reply51",
+      "title": "过年了，想给爸妈配置个能上网最多用下 office 就够了的台式机，求配置推荐",
+      "score": "51"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322260#reply49",
+      "title": "apple 强制明年 1 月使用 https",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322370#reply46",
+      "title": "是什么理由让你彻底抛弃数据库的外键？",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322277#reply43",
+      "title": "公司开启网络白名单 要登陆的网站需要上报到项目经理那边， 再由安全部门添加至白名单",
+      "score": "43"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322272#reply41",
+      "title": "用力过猛，皮条金融（开篇）",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322255#reply40",
+      "title": "现在开始业余学习开发 UWP 有前途吗？",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322302#reply37",
+      "title": "关节炎好痛哦， V 友有什么好办法吗？",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322259#reply35",
+      "title": "Mega Parallels 捆绑包,有入坑的吗？",
+      "score": "35"
+    }
+  ]
+}
