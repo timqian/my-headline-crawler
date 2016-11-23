@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13015944",
+      "title": "Before You Grow",
+      "score": "368"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13015035",
+      "title": "Keyframes: Delivering scalable, high-quality animations to mobile clients",
+      "score": "358"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13016948",
+      "title": "NIST’s new password rules – what you need to know",
+      "score": "347"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13018770",
+      "title": "Facebook Said to Create Censorship Tool to Get Back into China",
+      "score": "297"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13018104",
+      "title": "Show HN: Learn to Code for Free",
+      "score": "263"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13016708",
+      "title": "Machine Learning for Everyday Tasks",
+      "score": "253"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13015544",
+      "title": "Enterprise Ready SaaS Feature Guides",
+      "score": "248"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13019616",
+      "title": "The war on drugs has failed: doctors should lead calls for drug policy reform",
+      "score": "219"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13015537",
+      "title": "Webhooks do’s and dont’s: what we learned after integrating APIs",
+      "score": "198"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13016980",
+      "title": "I, Pencil (1958)",
+      "score": "178"
+    }
+  ],
+  "medium": [
+    {
+      "title": "I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.",
+      "score": "3086",
+      "url": "https://medium.com/p/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331"
+    },
+    {
+      "title": "Why Native Apps Really are Doomed: Native Apps are Doomed pt 2",
+      "score": "742",
+      "url": "https://medium.com/p/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9"
+    },
+    {
+      "title": "This 10-Minute Routine Will Increase Your Clarity And Creativity",
+      "score": "1183",
+      "url": "https://medium.com/p/this-10-minute-routine-will-increase-your-clarity-and-creativity-7ce61b11c2f9"
+    },
+    {
+      "title": "The best compliment I have ever received",
+      "score": "700",
+      "url": "https://medium.com/p/the-best-compliment-i-have-ever-received-2f53dbbc3b9"
+    },
+    {
+      "title": "Bulletproof Mind: 6 Secrets of Mental Toughness From the Navy SEALs",
+      "score": "1031",
+      "url": "https://medium.com/p/bulletproof-mind-6-secrets-of-mental-toughness-from-the-navy-seals-836154bec989"
+    },
+    {
+      "title": "A Guide to NBA Fandom Islands",
+      "score": "85",
+      "url": "https://medium.com/p/a-guide-to-nba-fandom-islands-7389746e1960"
+    },
+    {
+      "title": "Surround Yourself with People Who Hold You to a Higher Standard than You Hold Yourself",
+      "score": "2249",
+      "url": "https://medium.com/p/surround-yourself-with-people-who-hold-you-to-a-higher-standard-than-you-hold-yourself-822fc429154f"
+    },
+    {
+      "title": "Microsoft reboots war on sleep",
+      "score": "602",
+      "url": "https://medium.com/p/microsoft-reboots-war-on-sleep-a90da0396fb5"
+    },
+    {
+      "title": "Refuge and Fear in Trump’s America",
+      "score": "166",
+      "url": "https://medium.com/p/syrian-immigrant-riyad-alkasem-american-dream-donald-trump-election-caf5a571d943"
+    },
+    {
+      "title": "The State of the NFL MVP Race",
+      "score": "38",
+      "url": "https://medium.com/p/2016-nfl-mvp-tom-brady-derek-carr-ezekiel-elliott-matt-ryan-346a95a46843"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/literai",
+      "title": "Telegraph:  ",
+      "score": "39"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/ekko",
+      "title": "Stash of List:  ",
+      "score": "25"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/react-draft-wysiwyg",
+      "title": "Twitter One Click Block:  ",
+      "score": "19"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/ws-e73ebfb0-1b8c-46cf-80fc-10c41c8f54f0",
+      "title": "Snappy Gifts:  ",
+      "score": "10"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/order-s-up",
+      "title": "GamerLink:  ",
+      "score": "1"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/Developer-Y/cs-video-courses",
+      "title": "Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.",
+      "score": "2413"
+    },
+    {
+      "url": "https://github.com/facebookincubator/Keyframes",
+      "title": "facebookincubator/Keyframes: A library for converting Adobe AE shape based animations to a data format and play it back on Android and iOS devices.",
+      "score": "969"
+    },
+    {
+      "url": "https://github.com/pypa/pipfile",
+      "title": "pypa/pipfile: Generate Google Slides from markdown",
+      "score": "624"
+    },
+    {
+      "url": "https://github.com/phillipi/pix2pix",
+      "title": "phillipi/pix2pix: Image-to-image translation using conditional adversarial nets",
+      "score": "528"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "514"
+    },
+    {
+      "url": "https://github.com/j-delaney/easy-application",
+      "title": "j-delaney/easy-application: 351 software engineering companies that are easy to apply to",
+      "score": "499"
+    },
+    {
+      "url": "https://github.com/andrew--r/channels",
+      "title": "andrew--r/channels: A collection of useful YouTube channels for javascript developers and web designers",
+      "score": "480"
+    },
+    {
+      "url": "https://github.com/BendingSpoons/katana-swift",
+      "title": "BendingSpoons/katana-swift: Swift Apps in a Swoosh! A modern framework for creating iOS apps, inspired by React/Redux.",
+      "score": "474"
+    },
+    {
+      "url": "https://github.com/jpuri/react-draft-wysiwyg",
+      "title": "jpuri/react-draft-wysiwyg: A Wysiwyg editor build on top of ReactJS and DraftJS. ",
+      "score": "446"
+    },
+    {
+      "url": "https://github.com/alibaba/BeeHive",
+      "title": "alibaba/BeeHive:  BeeHive is a solution for iOS Application module programs, it absorbed the Spring Framework API service concept to avoid to coupling between modules.",
+      "score": "225"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/322566#reply79",
+      "title": "手握 3000 块人民币，应该买个 XBOX 还是买个大提琴盒？",
+      "score": "79"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322557#reply62",
+      "title": "有没有代购 google cloud VM 的",
+      "score": "62"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322540#reply58",
+      "title": "你们那下雪了吗？",
+      "score": "58"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322547#reply53",
+      "title": "再也不买戴尔了～",
+      "score": "53"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322561#reply49",
+      "title": "被自己蠢哭了，迁移新 iPhone 一波三折……附很多问题，求指教",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322585#reply39",
+      "title": "同事啪啪机械键盘打字到忘我，求推荐个耳机",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322625#reply39",
+      "title": "你们平时码字时候都吃什么东西？",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322535#reply39",
+      "title": "给小学和初中的小朋友送什么礼物好呢",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322567#reply32",
+      "title": "LG UltraFine 4K Apple Store 现货配送",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322570#reply29",
+      "title": "有时候真的要较真，关于“京东发货/店铺售后”商品的售后",
+      "score": "29"
+    }
+  ]
+}
