@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13023823",
+      "title": "A practical guide to securing macOS",
+      "score": "527"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13024967",
+      "title": "Humble Book Bundle: Unix",
+      "score": "359"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13025204",
+      "title": "Freelance Isn't Free Act Passes in NYC",
+      "score": "215"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13022503",
+      "title": "Israeli firm can steal phone data in seconds",
+      "score": "211"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13026321",
+      "title": "Bruce Schneier: 'The Internet Era of Fun and Games Is Over'",
+      "score": "210"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13028522",
+      "title": "Reddit’s CEO edited comments that criticized him",
+      "score": "198"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13027718",
+      "title": "MacOS 10.12 Open Source",
+      "score": "185"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13027231",
+      "title": "OK Go's video, for the song \"The One Moment,\" took only 4.2 seconds to film",
+      "score": "179"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13025496",
+      "title": "Statistical Mistakes and How to Avoid Them",
+      "score": "175"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13027506",
+      "title": "FreeBSD on a MacBook Pro",
+      "score": "154"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Want to Know if the Election was Hacked? Look at the Ballots",
+      "score": "1621",
+      "url": "https://medium.com/p/want-to-know-if-the-election-was-hacked-look-at-the-ballots-c61a6113b0ba"
+    },
+    {
+      "title": "I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.",
+      "score": "3831",
+      "url": "https://medium.com/p/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331"
+    },
+    {
+      "title": "The NBA’s Kings of the Court, One Month In",
+      "score": "84",
+      "url": "https://medium.com/p/the-nbas-kings-of-the-court-one-month-in-9001e6b5d90e"
+    },
+    {
+      "title": "This 10-Minute Routine Will Increase Your Clarity And Creativity",
+      "score": "1672",
+      "url": "https://medium.com/p/this-10-minute-routine-will-increase-your-clarity-and-creativity-7ce61b11c2f9"
+    },
+    {
+      "title": "The dangers of delightful design",
+      "score": "589",
+      "url": "https://medium.com/p/the-dangers-of-delightful-design-bb5834a1b684"
+    },
+    {
+      "title": "I Have Wasted Years Thinking I’m Not Good Enough.",
+      "score": "708",
+      "url": "https://medium.com/p/i-have-wasted-years-thinking-im-not-good-enough-f7de6e84dcee"
+    },
+    {
+      "title": "Bulletproof Mind: 6 Secrets of Mental Toughness From the Navy SEALs",
+      "score": "1250",
+      "url": "https://medium.com/p/bulletproof-mind-6-secrets-of-mental-toughness-from-the-navy-seals-836154bec989"
+    },
+    {
+      "title": "Why Native Apps Really are Doomed: Native Apps are Doomed pt 2",
+      "score": "884",
+      "url": "https://medium.com/p/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9"
+    },
+    {
+      "title": "Surround Yourself with People Who Hold You to a Higher Standard than You Hold Yourself",
+      "score": "2548",
+      "url": "https://medium.com/p/surround-yourself-with-people-who-hold-you-to-a-higher-standard-than-you-hold-yourself-822fc429154f"
+    },
+    {
+      "title": "When Words Cease to Matter",
+      "score": "206",
+      "url": "https://medium.com/p/draft-c-when-words-cease-to-matter-fe71c3637099"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/enlight-3",
+      "title": "Deseat.me:  ",
+      "score": "49"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/fasterthinking",
+      "title": "Inbbbox for iOS:  ",
+      "score": "15"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/haash",
+      "title": "Subscribe to Change:  ",
+      "score": "19"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/pressreader",
+      "title": "The Growth Show: Chris Messina:  ",
+      "score": "11"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/little-inventors",
+      "title": "Cinesift 2.0:  ",
+      "score": "6"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/drduh/macOS-Security-and-Privacy-Guide",
+      "title": "drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.",
+      "score": "2033"
+    },
+    {
+      "url": "https://github.com/Developer-Y/cs-video-courses",
+      "title": "Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.",
+      "score": "981"
+    },
+    {
+      "url": "https://github.com/facebookincubator/Keyframes",
+      "title": "facebookincubator/Keyframes: A library for converting Adobe AE shape based animations to a data format and play it back on Android and iOS devices.",
+      "score": "518"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "473"
+    },
+    {
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "title": "chrislgarry/Apollo-11: Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "score": "338"
+    },
+    {
+      "url": "https://github.com/phillipi/pix2pix",
+      "title": "phillipi/pix2pix: Image-to-image translation using conditional adversarial nets",
+      "score": "270"
+    },
+    {
+      "url": "https://github.com/nswbmw/N-blog",
+      "title": "nswbmw/N-blog: 一起学 Node.js",
+      "score": "247"
+    },
+    {
+      "url": "https://github.com/j-delaney/easy-application",
+      "title": "j-delaney/easy-application: 351 software engineering companies that are easy to apply to",
+      "score": "231"
+    },
+    {
+      "url": "https://github.com/dmlc/mxnet",
+      "title": "dmlc/mxnet: Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more",
+      "score": "202"
+    },
+    {
+      "url": "https://github.com/googlesamples/md2googleslides",
+      "title": "googlesamples/md2googleslides: Generate Google Slides from markdown",
+      "score": "215"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/322885#reply73",
+      "title": "什么样的情况会让黑客可以直接放一个文件夹上到你的网站上？？",
+      "score": "73"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322970#reply62",
+      "title": "到新公司，发现代码很烂，你会怎么做？",
+      "score": "62"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322852#reply53",
+      "title": "中国移动的 4G 套餐送宽带有没有坑",
+      "score": "53"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322875#reply46",
+      "title": "自由职业应该交社保和公积金吗？",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322904#reply44",
+      "title": "你们愿意放弃大城市一两万的薪资，回老家小城市靠关系去干一个两三千的事业单位么",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322845#reply41",
+      "title": "黑色星期五就快到了， MacOS 应该会有很多限免的软件吧，各位能不能在此 Mark，共同分享啊！",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322937#reply36",
+      "title": "常年用 iPhone 想换个 Android 求推荐",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322857#reply32",
+      "title": "iphone6s 最近有个更换电池计划，找一个靠谱的备份工具",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322862#reply32",
+      "title": "现在的手机配置都赶上 pc 了，同样是 css 动画，为何手机浏览器比不上 pc 浏览器流畅？",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/322878#reply30",
+      "title": "刚发现一款新的 markdown 编辑器，蛮 cool 的",
+      "score": "30"
+    }
+  ]
+}
