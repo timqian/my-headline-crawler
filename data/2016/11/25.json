@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13031492",
+      "title": "Show HN: A visual guide to the most popular CSS properties",
+      "score": "764"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13030603",
+      "title": "Show HN: Dply – Free temporary Linux servers",
+      "score": "548"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13032199",
+      "title": "Edward Snowden Demonstrates How Easy It Is to Hack a Voting Machine",
+      "score": "231"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13032210",
+      "title": "Why squared error?",
+      "score": "211"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13033243",
+      "title": "Cassandra is not row level consistent",
+      "score": "207"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13033299",
+      "title": "Joe Armstrong Interviews Alan Kay [video]",
+      "score": "162"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13033067",
+      "title": "Inside a Moneymaking Machine Like No Other",
+      "score": "156"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13032417",
+      "title": "Venezuela’s Currency Has Had its Biggest Monthly Collapse",
+      "score": "145"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13034936",
+      "title": "Data is being send to Google every time you execute a command with brew",
+      "score": "130"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13033689",
+      "title": "Theranos and David Boies Cut Legal Ties",
+      "score": "109"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Want to Know if the Election was Hacked? Look at the Ballots",
+      "score": "2480",
+      "url": "https://medium.com/p/want-to-know-if-the-election-was-hacked-look-at-the-ballots-c61a6113b0ba"
+    },
+    {
+      "title": "I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.",
+      "score": "4293",
+      "url": "https://medium.com/p/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331"
+    },
+    {
+      "title": "Mark Zuckerberg has great power. But is he responsible?",
+      "score": "435",
+      "url": "https://medium.com/p/mark-zuckerberg-is-the-most-powerful-person-on-earth-but-is-he-responsible-5fbcaeb29ee1"
+    },
+    {
+      "title": "How to Overcome Addiction and Make Permanent Changes in Your Life",
+      "score": "536",
+      "url": "https://medium.com/p/how-to-overcome-addiction-and-make-permanent-changes-in-your-life-f551c130ac3b"
+    },
+    {
+      "title": "I Have Wasted Years Thinking I’m Not Good Enough.",
+      "score": "974",
+      "url": "https://medium.com/p/i-have-wasted-years-thinking-im-not-good-enough-f7de6e84dcee"
+    },
+    {
+      "title": "This 10-Minute Routine Will Increase Your Clarity And Creativity",
+      "score": "2017",
+      "url": "https://medium.com/p/this-10-minute-routine-will-increase-your-clarity-and-creativity-7ce61b11c2f9"
+    },
+    {
+      "title": "How I Detect Fake News",
+      "score": "363",
+      "url": "https://medium.com/p/how-i-detect-fake-news-ebe455d9d4a7"
+    },
+    {
+      "title": "Bulletproof Mind: 6 Secrets of Mental Toughness From the Navy SEALs",
+      "score": "1406",
+      "url": "https://medium.com/p/bulletproof-mind-6-secrets-of-mental-toughness-from-the-navy-seals-836154bec989"
+    },
+    {
+      "title": "The NBA’s Kings of the Court, One Month In",
+      "score": "107",
+      "url": "https://medium.com/p/the-nbas-kings-of-the-court-one-month-in-9001e6b5d90e"
+    },
+    {
+      "title": "Want to Improve Your Life and be a Better Person? Read These Books",
+      "score": "519",
+      "url": "https://medium.com/p/want-to-improve-your-life-and-be-a-better-person-read-these-books-3a20e8a00a06"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/furnishr",
+      "title": "Unhoard:  ",
+      "score": "67"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/pricemoji",
+      "title": "Newsfeed Burner:  ",
+      "score": "17"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/emoji-rags",
+      "title": "Viar.Live:  ",
+      "score": "11"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/blackfriday-ai",
+      "title": "StartUp Season 4, #6: Part 3: Photos:  ",
+      "score": "10"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/print-conductor",
+      "title": "DooBot:  ",
+      "score": "6"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/drduh/macOS-Security-and-Privacy-Guide",
+      "title": "drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.",
+      "score": "930"
+    },
+    {
+      "url": "https://github.com/Developer-Y/cs-video-courses",
+      "title": "Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.",
+      "score": "426"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "407"
+    },
+    {
+      "url": "https://github.com/facebookincubator/Keyframes",
+      "title": "facebookincubator/Keyframes: A library for converting Adobe AE shape based animations to a data format and play it back on Android and iOS devices.",
+      "score": "316"
+    },
+    {
+      "url": "https://github.com/nothings/single_file_libs",
+      "title": "nothings/single_file_libs: List of single-file C/C++ libraries.",
+      "score": "298"
+    },
+    {
+      "url": "https://github.com/jpmorganchase/quorum",
+      "title": "jpmorganchase/quorum: A permissioned implementation of Ethereum supporting data privacy",
+      "score": "289"
+    },
+    {
+      "url": "https://github.com/ElemeFE/restc",
+      "title": "ElemeFE/restc: A server-side middleware to visualize REST requests.",
+      "score": "279"
+    },
+    {
+      "url": "https://github.com/nswbmw/N-blog",
+      "title": "nswbmw/N-blog: 一起学 Node.js",
+      "score": "205"
+    },
+    {
+      "url": "https://github.com/Yalantis/ToDoList",
+      "title": "Yalantis/ToDoList: Micro-Transitions for Smooth Android To-Do List Animations",
+      "score": "183"
+    },
+    {
+      "url": "https://github.com/vuejs/vue",
+      "title": "vuejs/vue: Simple yet powerful library for building modern web interfaces.",
+      "score": "150"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/323139#reply74",
+      "title": "天气太冷，被窝太暖，起床困难户，上班起不来床。有啥子方法，可以很快起床吗？",
+      "score": "74"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323199#reply70",
+      "title": "都来说说你现在用的浏览器主页？",
+      "score": "70"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323138#reply53",
+      "title": "已下单支付宝旗下蚂蚁宝卡,36 元 2G 全国流量 100 分钟通话",
+      "score": "53"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323132#reply49",
+      "title": "据说现在 MIUI 不能用谷歌框架了？",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323159#reply42",
+      "title": "在深圳，早上挤地铁，你跟人吵过架吗？",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323235#reply41",
+      "title": "全站 https 越来越流行，你的图床要搬家吗？",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323195#reply34",
+      "title": "人民币贬值了，大家黑五还有兴趣吗？",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323233#reply34",
+      "title": "各位会考虑小产权房吗，如题。",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323215#reply33",
+      "title": "为什么这个图标像鸽子一样大…",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323257#reply32",
+      "title": "逃离北上广，回到老家你能干啥",
+      "score": "32"
+    }
+  ]
+}
