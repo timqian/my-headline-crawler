@@ -1,0 +1,217 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13036386",
+      "title": "Matrix Multiplication",
+      "score": "721"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13037810",
+      "title": "What if jobs are not the solution but the problem?",
+      "score": "523"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13041886",
+      "title": "Fidel Castro has died",
+      "score": "383"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13037164",
+      "title": "Married to someone with anxiety",
+      "score": "346"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13037455",
+      "title": "Mars Ice Deposit Holds as Much Water as Lake Superior",
+      "score": "319"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13038267",
+      "title": "Shopify is processing over $260k per minute right now",
+      "score": "283"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13037024",
+      "title": "Amazon makes good on its promise to delete “incentivized” reviews",
+      "score": "229"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13037654",
+      "title": "Stripe has raised $150M more at a $9B valuation",
+      "score": "173"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13038990",
+      "title": "Tesla Shock Means Global Gasoline Demand Has All but Peaked",
+      "score": "169"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13037562",
+      "title": "VLC 360° Technical Preview",
+      "score": "151"
+    }
+  ],
+  "medium": [
+    {
+      "title": "I can’t just stand by and watch Mark Zuckerberg destroy the internet.",
+      "score": "1440",
+      "url": "https://medium.com/p/mark-zuckerberg-is-the-most-powerful-person-on-earth-but-is-he-responsible-5fbcaeb29ee1"
+    },
+    {
+      "title": "Want to Know if the Election was Hacked? Look at the Ballots",
+      "score": "2795",
+      "url": "https://medium.com/p/want-to-know-if-the-election-was-hacked-look-at-the-ballots-c61a6113b0ba"
+    },
+    {
+      "title": "Electoral College must reject Trump unless he sells his business, top lawyers for Bush and Obama…",
+      "score": "498",
+      "url": "https://medium.com/p/electoral-college-trump-top-lawyers-8a8b6e0ca916"
+    },
+    {
+      "title": "I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.",
+      "score": "4780",
+      "url": "https://medium.com/p/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331"
+    },
+    {
+      "title": "The Irrational User",
+      "score": "358",
+      "url": "https://medium.com/p/cognitive-bias-ad5f9fe7f59b"
+    },
+    {
+      "title": "Stoking Fires and Poking Bears",
+      "score": "350",
+      "url": "https://medium.com/p/stoking-fires-and-poking-bears-292623d10610"
+    },
+    {
+      "title": "How I Detect Fake News",
+      "score": "593",
+      "url": "https://medium.com/p/how-i-detect-fake-news-ebe455d9d4a7"
+    },
+    {
+      "title": "This 10-Minute Routine Will Increase Your Clarity And Creativity",
+      "score": "2325",
+      "url": "https://medium.com/p/this-10-minute-routine-will-increase-your-clarity-and-creativity-7ce61b11c2f9"
+    },
+    {
+      "title": "I Have Wasted Years Thinking I’m Not Good Enough.",
+      "score": "1188",
+      "url": "https://medium.com/p/i-have-wasted-years-thinking-im-not-good-enough-f7de6e84dcee"
+    },
+    {
+      "title": "Why I’m Thankful for JS Fatigue. I know you’re sick of those words, but this is different.",
+      "score": "519",
+      "url": "https://medium.com/p/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/pioneer-icons",
+      "title": "Httpster:  ",
+      "score": "74"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/buriburisuri/speech-to-text-wavenet",
+      "title": "buriburisuri/speech-to-text-wavenet: Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition using DeepMind's WaveNet and tensorflow",
+      "score": "474"
+    },
+    {
+      "url": "https://github.com/koth/kcws",
+      "title": "koth/kcws: Deep Learning Chinese Word Segment",
+      "score": "390"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "365"
+    },
+    {
+      "url": "https://github.com/drduh/macOS-Security-and-Privacy-Guide",
+      "title": "drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.",
+      "score": "350"
+    },
+    {
+      "url": "https://github.com/jgthms/css-reference",
+      "title": "jgthms/css-reference: CSS Reference: a free visual guide to the most popular CSS properties",
+      "score": "314"
+    },
+    {
+      "url": "https://github.com/Developer-Y/cs-video-courses",
+      "title": "Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.",
+      "score": "241"
+    },
+    {
+      "url": "https://github.com/Yalantis/ToDoList",
+      "title": "Yalantis/ToDoList: Micro-Transitions for Smooth Android To-Do List Animations",
+      "score": "174"
+    },
+    {
+      "url": "https://github.com/staltz/matrixmultiplication.xyz",
+      "title": "staltz/matrixmultiplication.xyz: A library for converting Adobe AE shape based animations to a data format and play it back on Android and iOS devices.",
+      "score": "173"
+    },
+    {
+      "url": "https://github.com/ElemeFE/restc",
+      "title": "ElemeFE/restc: A server-side middleware to visualize REST requests.",
+      "score": "162"
+    },
+    {
+      "url": "https://github.com/nuxt/nuxt.js",
+      "title": "nuxt/nuxt.js: A minimalistic framework for server-rendered Vue.js applications (inspired by Next.js)",
+      "score": "148"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/323424#reply104",
+      "title": "34 了，找不着对象，在北京感觉好累",
+      "score": "104"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323408#reply59",
+      "title": "不要买 小米路由器 3",
+      "score": "59"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323432#reply39",
+      "title": "苹果被黄牛搞崩溃， iPhone 中国区返修率竟大于销售量",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323483#reply34",
+      "title": "忍不住赞赞 Spark for Mac",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323403#reply22",
+      "title": "16 届毕业生,希望寻求下帮助.",
+      "score": "22"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323400#reply20",
+      "title": "当爬虫遇到防火墙",
+      "score": "20"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323419#reply20",
+      "title": "30 了还是码农该如何规划自己——看了“都 40 了还是个小码农”有感而发",
+      "score": "20"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323421#reply20",
+      "title": "lastpass 广告也太恶心了",
+      "score": "20"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323427#reply20",
+      "title": "Windows 如果到了必须重装系统这一步，求教应该如何正确备份？",
+      "score": "20"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323472#reply20",
+      "title": "如何让 iterm2 的网络访问也用上代理？",
+      "score": "20"
+    }
+  ]
+}
