@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13048652",
+      "title": "Let's Colonize Titan",
+      "score": "437"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13051137",
+      "title": "Learning to Read X86 Assembly Language",
+      "score": "406"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13053137",
+      "title": "Show HN: Antd – A set of high-quality React components",
+      "score": "235"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13052013",
+      "title": "Stallman's Law",
+      "score": "213"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13053210",
+      "title": "Theorem of the Day",
+      "score": "210"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13050491",
+      "title": "The Unsound Playground: Java and Scala's Type Systems are Unsound",
+      "score": "184"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13052154",
+      "title": "Probabilistic Programming",
+      "score": "164"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13052487",
+      "title": "Cycle-accurate NES emulator in ~1000 lines of code",
+      "score": "156"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13052671",
+      "title": "A vi-centric family tree of editors",
+      "score": "152"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13050500",
+      "title": "Mail-in-a-Box – one-click, easy-to-deploy email server",
+      "score": "146"
+    }
+  ],
+  "medium": [
+    {
+      "title": "The new MacBook Pro is kind of great for hackers",
+      "score": "1238",
+      "url": "https://medium.com/p/the-new-macbook-pro-is-kind-of-great-for-hackers-64c1c577a4d2"
+    },
+    {
+      "title": "I can’t just stand by and watch Mark Zuckerberg destroy the internet.",
+      "score": "3000",
+      "url": "https://medium.com/p/mark-zuckerberg-is-the-most-powerful-person-on-earth-but-is-he-responsible-5fbcaeb29ee1"
+    },
+    {
+      "title": "5 Things I Learnt as a Designer at LEGO",
+      "score": "1563",
+      "url": "https://medium.com/p/5-things-i-learnt-as-a-designer-at-lego-25705816376d"
+    },
+    {
+      "title": "The Void Left By Apple",
+      "score": "408",
+      "url": "https://medium.com/p/what-happened-to-apple-3c2029b98845"
+    },
+    {
+      "title": "This fast-food-loving, organics-hating Ivy League prof will trick you into eating better",
+      "score": "279",
+      "url": "https://medium.com/p/this-fast-food-loving-organics-hating-ivy-league-prof-will-trick-you-into-eating-better-1ba9241f9c88"
+    },
+    {
+      "title": "Mediocrity is a Virus. Here’s How to Banish it from Your Life.",
+      "score": "677",
+      "url": "https://medium.com/p/mediocrity-is-a-virus-heres-how-to-banish-it-from-your-life-257638ecf8f6"
+    },
+    {
+      "title": "How I Detect Fake News",
+      "score": "1421",
+      "url": "https://medium.com/p/how-i-detect-fake-news-ebe455d9d4a7"
+    },
+    {
+      "title": "The Curious (And Dangerous) Emergence Of Jared Kushner",
+      "score": "454",
+      "url": "https://medium.com/p/the-curious-and-dangerous-emergence-of-jared-kushner-bfe7ad75f3d"
+    },
+    {
+      "title": "Welcome To Your 2025 Driver’s Test",
+      "score": "179",
+      "url": "https://medium.com/p/welcome-to-your-2025-drivers-test-cab1677287af"
+    },
+    {
+      "title": "I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.",
+      "score": "5362",
+      "url": "https://medium.com/p/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/conversational-form",
+      "title": "Nexar:  ",
+      "score": "40"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/life-simplified",
+      "title": "Reelgood Streaming Guide:  ",
+      "score": "11"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/the-cynical-developer-podcast-e4-baking-with-java",
+      "title": "Level AI Filters:  ",
+      "score": "1"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/tally-5",
+      "title": "MailBot:  ",
+      "score": "7"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/saastr-078-kathryn-minshew-founder-ceo-the-muse",
+      "title": "Cently Bot:  ",
+      "score": "1"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/jgthms/css-reference",
+      "title": "jgthms/css-reference: CSS Reference: a free visual guide to the most popular CSS properties",
+      "score": "490"
+    },
+    {
+      "url": "https://github.com/wonderkiln/blurkit-android",
+      "title": "wonderkiln/blurkit-android: The missing Android blurring library. Fast blur-behind layout that parallels iOS.",
+      "score": "455"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "458"
+    },
+    {
+      "url": "https://github.com/AndreaOrru/LaiNES",
+      "title": "AndreaOrru/LaiNES: Cycle-accurate NES emulator in ~1000 lines of code",
+      "score": "326"
+    },
+    {
+      "url": "https://github.com/skx/bookmarks.public",
+      "title": "skx/bookmarks.public: A template for self-hosted bookmarks using HTML &amp; jQuery.",
+      "score": "287"
+    },
+    {
+      "url": "https://github.com/adtac/climate",
+      "title": "adtac/climate: Linux command line tools for developers",
+      "score": "268"
+    },
+    {
+      "url": "https://github.com/mail-in-a-box/mailinabox",
+      "title": "mail-in-a-box/mailinabox: Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.",
+      "score": "262"
+    },
+    {
+      "url": "https://github.com/lukehaas/RegexHub",
+      "title": "lukehaas/RegexHub: A collection of useful regex patterns",
+      "score": "243"
+    },
+    {
+      "url": "https://github.com/arximboldi/immer",
+      "title": "arximboldi/immer: Postmodern immutable and persistent data structures for C++",
+      "score": "232"
+    },
+    {
+      "url": "https://github.com/kubek2k/lambdoku",
+      "title": "kubek2k/lambdoku: Heroku-like experience when using AWS Lambda",
+      "score": "215"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/323751#reply94",
+      "title": "上周末放弃原生 ROM 后改用国产 ROM，终于不会 7 小时没电了",
+      "score": "94"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323737#reply64",
+      "title": "Apple watch 实用吗？最近突然想买个玩玩",
+      "score": "64"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323778#reply61",
+      "title": "支付宝此举，两个目的",
+      "score": "61"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323809#reply60",
+      "title": "为什么没有人吐槽微信支付",
+      "score": "60"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323845#reply51",
+      "title": "突然很想带着老婆孩子逃离这里一年，求推荐宜居小城市",
+      "score": "51"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323735#reply40",
+      "title": "有木有对 Kotlin 感兴趣的？",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323765#reply39",
+      "title": "又拍云是不是要完蛋了，说看我十天没用，就把我帐户停了",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323799#reply37",
+      "title": "能否证明拥有 4 个约数的自然数最多",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323739#reply26",
+      "title": "突然想起一个问题，上网从不科学的人们，用什么网站看世界地图呢？",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/323768#reply25",
+      "title": "怎样防止骚扰电话？或者说有什么好的手段防止手机号泄露？",
+      "score": "25"
+    }
+  ]
+}
