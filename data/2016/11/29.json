@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13056254",
+      "title": "CyberChef – A Cyber Swiss Army Knife",
+      "score": "701"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13058044",
+      "title": "We turned $140k on Kickstarter into $40k debt and broke even",
+      "score": "644"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13060159",
+      "title": "‘Diamond-age’ of power generation as nuclear batteries developed",
+      "score": "220"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13059565",
+      "title": "Amazon Worker Jumps Off Company Building After E-Mail to Staff",
+      "score": "220"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13058148",
+      "title": "Arduboy – A game system the size of a credit card",
+      "score": "192"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13061284",
+      "title": "Writing C software without the standard library",
+      "score": "159"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13057797",
+      "title": "SeaHash: A fast, portable hash function in Rust",
+      "score": "159"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13058480",
+      "title": "Stanford Degrees in Statistics",
+      "score": "154"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13059239",
+      "title": "Where are the Voyagers?",
+      "score": "153"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13058151",
+      "title": "Theranos Sued for Alleged Fraud by Robertson Stephens Co-Founder Colman",
+      "score": "113"
+    }
+  ],
+  "medium": [
+    {
+      "title": "I can’t just stand by and watch Mark Zuckerberg destroy the internet.",
+      "score": "3634",
+      "url": "https://medium.com/p/mark-zuckerberg-is-the-most-powerful-person-on-earth-but-is-he-responsible-5fbcaeb29ee1"
+    },
+    {
+      "title": "How we turned $140k on Kickstarter into $40k in debt. And how we broke even.",
+      "score": "186",
+      "url": "https://medium.com/p/how-we-turned-140k-on-kickstarter-into-40k-in-debt-and-how-we-broke-even-1f86d80fe50f"
+    },
+    {
+      "title": "The new MacBook Pro is kind of great for hackers",
+      "score": "1649",
+      "url": "https://medium.com/p/the-new-macbook-pro-is-kind-of-great-for-hackers-64c1c577a4d2"
+    },
+    {
+      "title": "The Winners and Losers From NFL Week 12",
+      "score": "49",
+      "url": "https://medium.com/p/vontaze-burfict-rams-saints-justin-tucker-willie-snead-nfl-week-12-b7dbcc4c1a4"
+    },
+    {
+      "title": "Trump’s lies have a purpose. They are an assault on democracy.",
+      "score": "471",
+      "url": "https://medium.com/p/when-everything-is-a-lie-power-is-the-only-truth-1e641751d150"
+    },
+    {
+      "title": "Mediocrity is a Virus. Here’s How to Banish it from Your Life.",
+      "score": "1126",
+      "url": "https://medium.com/p/mediocrity-is-a-virus-heres-how-to-banish-it-from-your-life-257638ecf8f6"
+    },
+    {
+      "title": "The Best Moments in Football Rule Book Loophole History",
+      "score": "44",
+      "url": "https://medium.com/p/best-moments-in-nfl-rulebook-loophole-history-harbaugh-belichick-81d22cbcaa36"
+    },
+    {
+      "title": "Ball Don’t Lie, but Wins and Losses Do",
+      "score": "55",
+      "url": "https://medium.com/p/ball-dont-lie-but-wins-and-losses-do-4a6047bf6ee"
+    },
+    {
+      "title": "NFL Week 12 Recap: How Last Season’s NFC Superpowers Flopped",
+      "score": "33",
+      "url": "https://medium.com/p/nfl-week-12-recap-carolina-panthers-arizona-cardinals-23f083f5ae25"
+    },
+    {
+      "title": "The Void Left By Apple",
+      "score": "541",
+      "url": "https://medium.com/p/what-happened-to-apple-3c2029b98845"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/touchswitcher",
+      "title": "Standuply:  ",
+      "score": "27"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/ukys",
+      "title": "Parabola:  ",
+      "score": "16"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/luminar",
+      "title": "It&#x27;s not just about standing up:  ",
+      "score": "16"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/we-don-t-have-cookies-jason-goes-to-the-dentist",
+      "title": "Angry Fly:  ",
+      "score": "2"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/arlo-go",
+      "title": "Artisfy:  ",
+      "score": "8"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/ant-design/ant-design",
+      "title": "ant-design/ant-design:  One design language",
+      "score": "732"
+    },
+    {
+      "url": "https://github.com/jgthms/css-reference",
+      "title": "jgthms/css-reference: CSS Reference: a free visual guide to the most popular CSS properties",
+      "score": "559"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "497"
+    },
+    {
+      "url": "https://github.com/tonsky/AnyBar",
+      "title": "tonsky/AnyBar: OS X menubar status indicator",
+      "score": "431"
+    },
+    {
+      "url": "https://github.com/wonderkiln/blurkit-android",
+      "title": "wonderkiln/blurkit-android: The missing Android blurring library. Fast blur-behind layout that parallels iOS.",
+      "score": "399"
+    },
+    {
+      "url": "https://github.com/AndreaOrru/LaiNES",
+      "title": "AndreaOrru/LaiNES: Cycle-accurate NES emulator in ~1000 lines of code",
+      "score": "386"
+    },
+    {
+      "url": "https://github.com/lukehaas/RegexHub",
+      "title": "lukehaas/RegexHub: A collection of useful regex patterns",
+      "score": "290"
+    },
+    {
+      "url": "https://github.com/adtac/climate",
+      "title": "adtac/climate: Linux command line tools for developers",
+      "score": "269"
+    },
+    {
+      "url": "https://github.com/space10-community/conversational-form",
+      "title": "space10-community/conversational-form: Turning web forms into conversations",
+      "score": "259"
+    },
+    {
+      "url": "https://github.com/mail-in-a-box/mailinabox",
+      "title": "mail-in-a-box/mailinabox: Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.",
+      "score": "264"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/324052#reply78",
+      "title": "北京科技公司的网络环境都这样吗？",
+      "score": "78"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324009#reply66",
+      "title": "离核电站多远是才安全",
+      "score": "66"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324079#reply61",
+      "title": "好奇到底有多少人芝麻信用分超过 750 的？",
+      "score": "61"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324026#reply51",
+      "title": "支付宝和微信之间，差的不止是一个张小龙",
+      "score": "51"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324029#reply37",
+      "title": "Flash 已经没落了么？找个 Flash 播放器这么难",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324028#reply35",
+      "title": "支付宝这次这么做社区估计还真有戏，妥妥把一些垂直社区干死",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324003#reply32",
+      "title": "现在真没多少 IE6 了，为什么还有人拿 IE6 说事情",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324001#reply30",
+      "title": "Apple 真的是吸金啊，吃了全球智能机利润 91%的份额",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324071#reply28",
+      "title": "大家在办公室电动剃须，还是在家里呢？",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324084#reply27",
+      "title": "[大家说说] 这次的黑色星期五促销，大家买了什么，最满意的是？",
+      "score": "27"
+    }
+  ]
+}
