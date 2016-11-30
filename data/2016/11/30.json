@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13065015",
+      "title": "Logojoy: How an AI-powered logo creator makes $15k/mo",
+      "score": "987"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13063541",
+      "title": "Farm Hack: worldwide community of farmers that build and modify our own tools",
+      "score": "549"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13065670",
+      "title": "Show HN: Anycomplete",
+      "score": "340"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13065599",
+      "title": "Help Us Keep the Archive Free, Accessible, and Private",
+      "score": "316"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13065383",
+      "title": "Grafana 4.0 with alerting is released",
+      "score": "278"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13066455",
+      "title": "Git 2.11 has been released",
+      "score": "240"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13066825",
+      "title": "Javascript exploit actively used against TorBrowser",
+      "score": "236"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13067683",
+      "title": "Announcing AWS Organizations: Centrally Manage Multiple AWS Accounts",
+      "score": "187"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13067727",
+      "title": "Why can’t humans regenerate body parts? We’ve got the genes",
+      "score": "184"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13065601",
+      "title": "Belgium and the Netherlands Swap Land, and Remain Friends",
+      "score": "166"
+    }
+  ],
+  "medium": [
+    {
+      "title": "I don’t belong in tech",
+      "score": "912",
+      "url": "https://medium.com/p/i-dont-belong-in-tech-3d73d8fd6f34"
+    },
+    {
+      "title": "Russell Westbrook and the Five Most Disrespectful Dunks of the Year",
+      "score": "250",
+      "url": "https://medium.com/p/disrespectful-nba-dunks-russell-westbrook-zach-lavine-andrew-wiggins-c928fa2b547b"
+    },
+    {
+      "title": "I can’t just stand by and watch Mark Zuckerberg destroy the internet.",
+      "score": "4287",
+      "url": "https://medium.com/p/mark-zuckerberg-is-the-most-powerful-person-on-earth-but-is-he-responsible-5fbcaeb29ee1"
+    },
+    {
+      "title": "How we turned $140k on Kickstarter into $40k in debt. And how we broke even.",
+      "score": "317",
+      "url": "https://medium.com/p/how-we-turned-140k-on-kickstarter-into-40k-in-debt-and-how-we-broke-even-1f86d80fe50f"
+    },
+    {
+      "title": "Nocturnal Animals & the metaphor of fat women.",
+      "score": "413",
+      "url": "https://medium.com/p/nocturnal-animals-the-metaphor-of-fat-women-333318c37577"
+    },
+    {
+      "title": "How To Make Quantum Leaps Personally And Professionally",
+      "score": "607",
+      "url": "https://medium.com/p/how-to-make-quantum-leaps-personally-and-professionally-cfcae58948c1"
+    },
+    {
+      "title": "My Top Apps for 2017",
+      "score": "398",
+      "url": "https://medium.com/p/my-top-apps-for-2017-62473cf873a4"
+    },
+    {
+      "title": "Coping with Chaos in the White House",
+      "score": "1023",
+      "url": "https://medium.com/p/coping-with-chaos-in-the-white-house-697fa2ca3ddf"
+    },
+    {
+      "title": "Life Gets (a Lot) Better When You Stop Giving a F*ck",
+      "score": "693",
+      "url": "https://medium.com/p/life-gets-a-lot-better-when-you-stop-giving-a-f-ck-dbf96255e069"
+    },
+    {
+      "title": "Hype Driven Development",
+      "score": "1090",
+      "url": "https://medium.com/p/hype-driven-development-3469fc2e9b22"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/video-infrastructure-as-a-service-the-bitmovin-api",
+      "title": "NomNom:  ",
+      "score": "51"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/twitter-unfollow-chrome-extension",
+      "title": "MailClark:  ",
+      "score": "22"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/vinylize-it",
+      "title": "CamKix Kit for Snapchat:  ",
+      "score": "15"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/breaking-down-your-business-ep-177",
+      "title": "Fresh Talent:  ",
+      "score": "4"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/mous-limitless-iphone-case",
+      "title": "Sticky Space:  ",
+      "score": "5"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/ExpediaInceCommercePlatform/cyclotron",
+      "title": "ExpediaInceCommercePlatform/cyclotron: A web platform for constructing dashboards.",
+      "score": "746"
+    },
+    {
+      "url": "https://github.com/gchq/CyberChef",
+      "title": "gchq/CyberChef: The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+      "score": "658"
+    },
+    {
+      "url": "https://github.com/sangupta/ps",
+      "title": "sangupta/ps: Problem Solving",
+      "score": "553"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "534"
+    },
+    {
+      "url": "https://github.com/sveltejs/svelte",
+      "title": "sveltejs/svelte: The magical disappearing UI framework",
+      "score": "435"
+    },
+    {
+      "url": "https://github.com/jgthms/css-reference",
+      "title": "jgthms/css-reference: CSS Reference: a free visual guide to the most popular CSS properties",
+      "score": "431"
+    },
+    {
+      "url": "https://github.com/ant-design/ant-design",
+      "title": "ant-design/ant-design:  One design language",
+      "score": "410"
+    },
+    {
+      "url": "https://github.com/space10-community/conversational-form",
+      "title": "space10-community/conversational-form: Turning web forms into conversations",
+      "score": "374"
+    },
+    {
+      "url": "https://github.com/Blankj/AndroidUtilCode",
+      "title": "Blankj/AndroidUtilCode: Android developers should collect the following utils(updating)",
+      "score": "261"
+    },
+    {
+      "url": "https://github.com/lukehaas/RegexHub",
+      "title": "lukehaas/RegexHub: A collection of useful regex patterns",
+      "score": "271"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/324317#reply82",
+      "title": "代码朋友帮我写的，提测出 bug 了 这个 bug 应由谁来解决",
+      "score": "82"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324308#reply70",
+      "title": "没有人关注今天的 Flyme 6 吗？",
+      "score": "70"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324305#reply56",
+      "title": "年轻人的第一台 macbook 求老司机推荐",
+      "score": "56"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324272#reply45",
+      "title": "做个小调查，关于李志",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324249#reply40",
+      "title": "Oneplus 3T 和 Smartisan M1L 怎么选？",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324297#reply40",
+      "title": "你有被朋友圈被“罗一笑，你给我站住”刷屏吗？",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324251#reply37",
+      "title": "mate9 没有 google 相关的 play 服务？[已确认：确实移除了]",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324267#reply37",
+      "title": "一加 3T 貌似很容易买到",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324252#reply36",
+      "title": "两年半的 rMPB 这电池损耗正常吗？",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324350#reply30",
+      "title": "B 站&lt;你的名字&gt;配对观影活动 , 可是我票都已经买了.. mdzz",
+      "score": "30"
+    }
+  ]
+}
