@@ -1,1 +1,237 @@
- 
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13072155",
+      "title": "Amazon LightSail: Simple Virtual Private Servers on AWS",
+      "score": "1013"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13072432",
+      "title": "Developer Preview – EC2 Instances with Programmable Hardware",
+      "score": "574"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13076073",
+      "title": "Software Engineering Internship Amazon Interview Experience",
+      "score": "525"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13069841",
+      "title": "Svelte – A UI framework that compiles into tiny standalone JavaScript modules",
+      "score": "502"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13071012",
+      "title": "More Than 1M Google Accounts Breached by Gooligan",
+      "score": "419"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13071899",
+      "title": "How Google Is Challenging AWS",
+      "score": "408"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13071649",
+      "title": "How to Hide $400M",
+      "score": "337"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13073331",
+      "title": "Autopilot: an open source driving agent",
+      "score": "286"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13072311",
+      "title": "How Font Awesome 5 Became Kickstarter’s Most Funded Software Project",
+      "score": "283"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13074667",
+      "title": "Zero Cost Abstractions",
+      "score": "269"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Coping with Chaos in the White House",
+      "score": "2064",
+      "url": "https://medium.com/p/coping-with-chaos-in-the-white-house-697fa2ca3ddf"
+    },
+    {
+      "title": "5 Ways to be a Silent Trump Protestor",
+      "score": "980",
+      "url": "https://medium.com/p/5-ways-to-be-a-silent-trump-protestor-71a549113119"
+    },
+    {
+      "title": "I don’t belong in tech",
+      "score": "1196",
+      "url": "https://medium.com/p/i-dont-belong-in-tech-3d73d8fd6f34"
+    },
+    {
+      "title": "I can’t just stand by and watch Mark Zuckerberg destroy the internet.",
+      "score": "4735",
+      "url": "https://medium.com/p/mark-zuckerberg-is-the-most-powerful-person-on-earth-but-is-he-responsible-5fbcaeb29ee1"
+    },
+    {
+      "title": "Why there is no PTSD in Afghanistan.",
+      "score": "259",
+      "url": "https://medium.com/p/why-there-is-no-ptsd-in-afghanistan-7c368344c62b"
+    },
+    {
+      "title": "Life Gets (a Lot) Better When You Stop Giving a F*ck",
+      "score": "1179",
+      "url": "https://medium.com/p/life-gets-a-lot-better-when-you-stop-giving-a-f-ck-dbf96255e069"
+    },
+    {
+      "title": "My Top Apps for 2017",
+      "score": "573",
+      "url": "https://medium.com/p/my-top-apps-for-2017-62473cf873a4"
+    },
+    {
+      "title": "What Happens When a Guest Rapper Steals a Whole Song",
+      "score": "67",
+      "url": "https://medium.com/p/guest-rapper-song-theft-kendrick-lamar-busta-rhymes-4b273b069918"
+    },
+    {
+      "title": "Are You Fucking Kidding Me",
+      "score": "4217",
+      "url": "https://medium.com/p/are-you-fucking-kidding-me-86bdc2c638d6"
+    },
+    {
+      "title": "How To Make Quantum Leaps Personally And Professionally",
+      "score": "808",
+      "url": "https://medium.com/p/how-to-make-quantum-leaps-personally-and-professionally-cfcae58948c1"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/amazon-lex",
+      "title": "Spark for Mac:  ",
+      "score": "50"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/amazon-rekognition",
+      "title": "Amazon Polly:  ",
+      "score": "42"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/thum-io",
+      "title": "WorkRamp:  ",
+      "score": "19"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/heybot",
+      "title": "RiteTag Mobile Apps:  ",
+      "score": "22"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/vocal-3",
+      "title": "Sundial:  ",
+      "score": "12"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+      "title": "MaximAbramchuck/awesome-interview-questions: ",
+      "score": "1192"
+    },
+    {
+      "url": "https://github.com/sveltejs/svelte",
+      "title": "sveltejs/svelte: The magical disappearing UI framework",
+      "score": "1046"
+    },
+    {
+      "url": "https://github.com/commaai/openpilot",
+      "title": "commaai/openpilot: open source driving agent",
+      "score": "984"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "523"
+    },
+    {
+      "url": "https://github.com/tiny-dnn/tiny-dnn",
+      "title": "tiny-dnn/tiny-dnn: header only, dependency-free deep learning framework in C++11",
+      "score": "490"
+    },
+    {
+      "url": "https://github.com/gchq/CyberChef",
+      "title": "gchq/CyberChef: The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+      "score": "381"
+    },
+    {
+      "url": "https://github.com/nathancahill/Anycomplete",
+      "title": "nathancahill/Anycomplete: The magic of Google Autocomplete while you're typing. Anywhere.",
+      "score": "357"
+    },
+    {
+      "url": "https://github.com/trueadm/inferno",
+      "title": "trueadm/inferno: An extremely fast, React-like JavaScript library for building modern user interfaces",
+      "score": "338"
+    },
+    {
+      "url": "https://github.com/space10-community/conversational-form",
+      "title": "space10-community/conversational-form: Turning web forms into conversations",
+      "score": "320"
+    },
+    {
+      "url": "https://github.com/ExpediaInceCommercePlatform/cyclotron",
+      "title": "ExpediaInceCommercePlatform/cyclotron: A web platform for constructing dashboards.",
+      "score": "283"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/324496#reply52",
+      "title": "求推荐一台 Android Build Server 硬件配置清单，预算 8-10k",
+      "score": "52"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324504#reply42",
+      "title": "小米 5 有哪些 ROM 可用？",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324473#reply40",
+      "title": "Spark for MAC",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324487#reply39",
+      "title": "手持一加 3 或是一加 3T 的老司机，目前用的是氢 OS、氧 OS 还是 CM 或是其它呢？推荐一下。",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324489#reply37",
+      "title": "想入个 parallels 12",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324480#reply36",
+      "title": "深圳引进人才住房补贴",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324534#reply35",
+      "title": "你们申请的蚂蚁大宝卡，订单里能看到物流信息吗",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324479#reply33",
+      "title": "决定和老大摊牌后心里一阵轻松",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324515#reply31",
+      "title": "不容错过的免费好工具 Apizza",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324502#reply29",
+      "title": "树上的朋友们，你们 Xcode8.1 还好吗",
+      "score": "29"
+    }
+  ]
+}
