@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13080283",
+      "title": "AngelList acquires Product Hunt",
+      "score": "607"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13085098",
+      "title": "Uber Now Tracks Passengers' Locations Even After They're Dropped Off",
+      "score": "548"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13083449",
+      "title": "Maps that show the anatomy of America’s vast infrastructure",
+      "score": "377"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13084693",
+      "title": "My Google Internship",
+      "score": "228"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13084261",
+      "title": "IPv6 Support for EC2 Instances in Virtual Private Clouds",
+      "score": "225"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13081929",
+      "title": "The Busy Person’s Lies",
+      "score": "194"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13083392",
+      "title": "Four New Names Officially Added to the Periodic Table of Elements",
+      "score": "185"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13081940",
+      "title": "Blox – Open Source Tools for Amazon ECS",
+      "score": "135"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13084534",
+      "title": "Weird pupils let octopuses see their colorful gardens",
+      "score": "98"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13085064",
+      "title": "A Dose of a Hallucinogen from a ‘Magic Mushroom,’ and Then Lasting Peace",
+      "score": "94"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Simmons vs. Gladwell: The Future of Football",
+      "score": "408",
+      "url": "https://medium.com/p/bill-simmons-malcolm-gladwell-future-of-the-nfl-b6e14a14124"
+    },
+    {
+      "title": "5 Ways to be a Silent Trump Protestor",
+      "score": "1469",
+      "url": "https://medium.com/p/5-ways-to-be-a-silent-trump-protestor-71a549113119"
+    },
+    {
+      "title": "How the Circle Line rogue train was caught with data",
+      "score": "465",
+      "url": "https://medium.com/p/how-we-caught-the-circle-line-rogue-train-with-data-79405c86ab6a"
+    },
+    {
+      "title": "Are You Fucking Kidding Me",
+      "score": "4569",
+      "url": "https://medium.com/p/are-you-fucking-kidding-me-86bdc2c638d6"
+    },
+    {
+      "title": "Product Hunt + AngelList✌️😸",
+      "score": "951",
+      "url": "https://medium.com/p/product-hunt-angellist-️-c408bfe5d68"
+    },
+    {
+      "title": "Coping with Chaos in the White House",
+      "score": "2436",
+      "url": "https://medium.com/p/coping-with-chaos-in-the-white-house-697fa2ca3ddf"
+    },
+    {
+      "title": "Life Gets (a Lot) Better When You Stop Giving a F*ck",
+      "score": "1547",
+      "url": "https://medium.com/p/life-gets-a-lot-better-when-you-stop-giving-a-f-ck-dbf96255e069"
+    },
+    {
+      "title": "NBA Shootaround: The Paradise of Towns and Porzingis",
+      "score": "50",
+      "url": "https://medium.com/p/nba-shootaround-the-paradise-of-towns-and-porzingis-85e145d846f5"
+    },
+    {
+      "title": "Trevor Noah Eviscerates Tomi Lahren, Who Destroys Trevor Noah",
+      "score": "79",
+      "url": "https://medium.com/p/daily-show-trevor-noah-tomi-lahren-fbb74f8260af"
+    },
+    {
+      "title": "How I Came to See That the Election Needs to be Audited and How You Can Too",
+      "score": "255",
+      "url": "https://medium.com/p/how-i-came-to-see-that-the-election-needs-to-be-audited-and-how-you-can-too-88b0f1d09512"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/upscribe",
+      "title": "Fucking Life Advice:  ",
+      "score": "29"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/color-challenges",
+      "title": "Pinks Animated Stickers:  ",
+      "score": "9"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/clients-from-hell-a-phone-is-all-you-need-to-run-a-business",
+      "title": "Awair Glow:  ",
+      "score": "5"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/flexbot-ai",
+      "title": "Random Casey:  ",
+      "score": "7"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/fearless-geniuses-of-silicon-valley",
+      "title": "Posture:  ",
+      "score": "4"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/commaai/openpilot",
+      "title": "commaai/openpilot: open source driving agent",
+      "score": "1284"
+    },
+    {
+      "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+      "title": "MaximAbramchuck/awesome-interview-questions: ",
+      "score": "773"
+    },
+    {
+      "url": "https://github.com/Tencent/MSEC",
+      "title": "Tencent/MSEC: Mass Service Engine in Cluster(MSEC) is opened source by QQ team from Tencent. It is a backend DEV &amp;OPS engine, including RPC,name finding,load balance,monitoring,release and capacity management.",
+      "score": "574"
+    },
+    {
+      "url": "https://github.com/sveltejs/svelte",
+      "title": "sveltejs/svelte: The magical disappearing UI framework",
+      "score": "624"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "497"
+    },
+    {
+      "url": "https://github.com/phaistos-networks/TANK",
+      "title": "phaistos-networks/TANK: A very high performance distributed log service",
+      "score": "380"
+    },
+    {
+      "url": "https://github.com/blox/blox",
+      "title": "blox/blox: Open source tools for building custom schedulers on Amazon ECS",
+      "score": "310"
+    },
+    {
+      "url": "https://github.com/trueadm/inferno",
+      "title": "trueadm/inferno: An extremely fast, React-like JavaScript library for building modern user interfaces",
+      "score": "311"
+    },
+    {
+      "url": "https://github.com/Blankj/AndroidUtilCode",
+      "title": "Blankj/AndroidUtilCode: Android developers should collect the following utils(updating)",
+      "score": "227"
+    },
+    {
+      "url": "https://github.com/google/oss-fuzz",
+      "title": "google/oss-fuzz: OSS-Fuzz - continuous fuzzing of open source software",
+      "score": "229"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/324719#reply103",
+      "title": "魅族真是越做越垃圾啊",
+      "score": "103"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324790#reply65",
+      "title": "作为一名程序员，如何防止猝死？",
+      "score": "65"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324743#reply60",
+      "title": "因为是野路子走出来的码农，一直觉得自己算法这方面特别烂。",
+      "score": "60"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324731#reply56",
+      "title": "Steam 上有没有一些适合手残的、比较休闲的游戏推荐？",
+      "score": "56"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324765#reply54",
+      "title": "又是程序员猝死",
+      "score": "54"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324803#reply42",
+      "title": "做程序久了觉得最大的变化是什么？",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324733#reply41",
+      "title": "Chrome 55 发布，貌似内存占用少了 50%",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324729#reply37",
+      "title": "evernote 免费版每月只有 60M 的上传流量，逼死人的要交费的节奏啊！！！",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324724#reply35",
+      "title": "订票助手 12306ForMac V1.4 更新",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324846#reply32",
+      "title": "不知道为什么那么多人选择 mac，作为一个用了多年 centos、fedora 来作为桌面的小学生，真的不觉得它好在哪里",
+      "score": "32"
+    }
+  ]
+}
