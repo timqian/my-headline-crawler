@@ -1,0 +1,227 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13089489",
+      "title": "Crypto 101 – Introductory course on cryptography",
+      "score": "721"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13087904",
+      "title": "Htop explained",
+      "score": "593"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13092330",
+      "title": "Canadian journalist's detention at US border raises press freedom alarms",
+      "score": "386"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13090604",
+      "title": "Jq – Work with JSON on the command line",
+      "score": "300"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13093129",
+      "title": "Amazon States Language – A JSON-based language to describe state machines",
+      "score": "230"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13085952",
+      "title": "Spec-ulation – Rich Hickey [video]",
+      "score": "219"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13091941",
+      "title": "Reflections on Rusting Trust",
+      "score": "213"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13091634",
+      "title": "Codebase Refactoring with Go",
+      "score": "197"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13086059",
+      "title": "Golang’s Real-Time GC in Theory and Practice",
+      "score": "178"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13090896",
+      "title": "Listen to Your Customers, They’ll Tell You What to Build",
+      "score": "170"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Simmons vs. Gladwell: The Future of Football",
+      "score": "580",
+      "url": "https://medium.com/p/bill-simmons-malcolm-gladwell-future-of-the-nfl-b6e14a14124"
+    },
+    {
+      "title": "You Have to Take Donald Glover Seriously Now",
+      "score": "210",
+      "url": "https://medium.com/p/you-have-to-take-donald-glover-seriously-now-56363bf513d3"
+    },
+    {
+      "title": "White People Are A Little Too Damn Happy About Trevor Noah vs. Tomi Lahren",
+      "score": "560",
+      "url": "https://medium.com/p/white-people-are-a-little-too-damn-happy-about-trevor-noah-vs-tomi-lahren-999c0158caf6"
+    },
+    {
+      "title": "How the Circle Line rogue train was caught with data",
+      "score": "694",
+      "url": "https://medium.com/p/how-we-caught-the-circle-line-rogue-train-with-data-79405c86ab6a"
+    },
+    {
+      "title": "How Backpage.com Became a Haven for Sex Trafficking … and Free Speech",
+      "score": "69",
+      "url": "https://medium.com/p/backpage-pimping-lawsuit-c4577180c95e"
+    },
+    {
+      "title": "The 3D Printing Revolution That Wasn’t",
+      "score": "125",
+      "url": "https://medium.com/p/the-3d-printing-revolution-that-wasnt-60b000c3a3ed"
+    },
+    {
+      "title": "52 things I learned in 2016",
+      "score": "240",
+      "url": "https://medium.com/p/52-things-i-learned-in-2016-299fd1e6a62b"
+    },
+    {
+      "title": "Governments are outlawing privacy. Here’s how you can stop them.",
+      "score": "774",
+      "url": "https://medium.com/p/your-privacy-is-disappearing-one-law-at-a-time-heres-what-you-can-do-about-it-b85c814035a4"
+    },
+    {
+      "title": "No One Likes Levi’s Stadium",
+      "score": "78",
+      "url": "https://medium.com/p/san-francisco-49ers-levis-stadium-santa-clara-c29a140a1726"
+    },
+    {
+      "title": "Week 13 NFL Picks: The AFC Still Belongs to the Patriots",
+      "score": "25",
+      "url": "https://medium.com/p/nfl-picks-week-13-new-england-patriots-rob-gronkowski-injury-1439ed3c5b55"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/the-thirty-thirty-one-framework",
+      "title": "Rocketbook Everlast:  ",
+      "score": "5"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/nerd-fight",
+      "title": "Junto:  ",
+      "score": "5"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/cordcutter-search",
+      "title": "Hello Tech Pros: Managing Your Internal Dialogue:  ",
+      "score": "6"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/commaai/openpilot",
+      "title": "commaai/openpilot: open source driving agent",
+      "score": "525"
+    },
+    {
+      "url": "https://github.com/trueadm/inferno",
+      "title": "trueadm/inferno: An extremely fast, React-like JavaScript library for building modern user interfaces",
+      "score": "540"
+    },
+    {
+      "url": "https://github.com/Tencent/MSEC",
+      "title": "Tencent/MSEC: Mass Service Engine in Cluster(MSEC) is opened source by QQ team from Tencent. It is a backend DEV &amp;OPS engine, including RPC,name finding,load balance,monitoring,release and capacity management.",
+      "score": "374"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "367"
+    },
+    {
+      "url": "https://github.com/sveltejs/svelte",
+      "title": "sveltejs/svelte: The magical disappearing UI framework",
+      "score": "367"
+    },
+    {
+      "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+      "title": "MaximAbramchuck/awesome-interview-questions: ",
+      "score": "291"
+    },
+    {
+      "url": "https://github.com/google/oss-fuzz",
+      "title": "google/oss-fuzz: OSS-Fuzz - continuous fuzzing of open source software",
+      "score": "198"
+    },
+    {
+      "url": "https://github.com/appbaseio/gem",
+      "title": "appbaseio/gem:  GUI for Data Modeling with Elasticsearch",
+      "score": "154"
+    },
+    {
+      "url": "https://github.com/space10-community/conversational-form",
+      "title": "space10-community/conversational-form: Turning web forms into conversations",
+      "score": "148"
+    },
+    {
+      "url": "https://github.com/despoisj/DeepAudioClassification",
+      "title": "despoisj/DeepAudioClassification: Finding the genre of a song with Deep Learning",
+      "score": "138"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/324994#reply47",
+      "title": "请问程序员周末都喜欢做些什么？",
+      "score": "47"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324981#reply40",
+      "title": "Spark 这样免费无广告 app，赢利模式是什么？",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325003#reply37",
+      "title": "银联云闪付的体验真是太**差了",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324995#reply29",
+      "title": "苹果其实是想让你笔记本连 hub",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324973#reply25",
+      "title": "弄了一个 网页版：扫雷 有市场吗？",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325013#reply25",
+      "title": "成都才是全国污染最严重的城市",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324974#reply21",
+      "title": "好气啊，打开 Firefox 发现又被加了淘宝双 12 的书签",
+      "score": "21"
+    },
+    {
+      "url": "https://www.v2ex.com/t/324983#reply20",
+      "title": "ROG RAMDisk",
+      "score": "20"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325019#reply20",
+      "title": "现在买给父母用的千元机，有啥推荐的么？",
+      "score": "20"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325017#reply17",
+      "title": "“蓝色大海的传说”最近好火，但是各大平台没有点播。于是给女友实现一套能在普通电视上看高清加字幕的方法",
+      "score": "17"
+    }
+  ]
+}
