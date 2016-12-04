@@ -1,0 +1,211 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13096222",
+      "title": "This AI Boom Will Also Bust",
+      "score": "547"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13097082",
+      "title": "Chrome 55 uses 30% less memory than 54",
+      "score": "319"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13096576",
+      "title": "Practical Common Lisp (2005)",
+      "score": "245"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13096592",
+      "title": "The world’s worst air force",
+      "score": "232"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13098432",
+      "title": "Rust: 128 bit integers preparing to be released",
+      "score": "166"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13097050",
+      "title": "24 days of Rust – Rayon",
+      "score": "165"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13097125",
+      "title": "Ripgrep code review",
+      "score": "158"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13097301",
+      "title": "Jid – Drill down JSON data incrementally",
+      "score": "154"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13096641",
+      "title": "Guy Debord’s Situationist Board Game",
+      "score": "124"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13098252",
+      "title": "Erich Bloch, Who Helped Develop IBM Mainframe, Has Died",
+      "score": "122"
+    }
+  ],
+  "medium": [
+    {
+      "title": "White People Are A Little Too Damn Happy About Trevor Noah vs. Tomi Lahren",
+      "score": "1127",
+      "url": "https://medium.com/p/white-people-are-a-little-too-damn-happy-about-trevor-noah-vs-tomi-lahren-999c0158caf6"
+    },
+    {
+      "title": "Simmons vs. Gladwell: The Future of Football",
+      "score": "664",
+      "url": "https://medium.com/p/bill-simmons-malcolm-gladwell-future-of-the-nfl-b6e14a14124"
+    },
+    {
+      "title": "We went in search of the world’s hardest language",
+      "score": "316",
+      "url": "https://medium.com/p/we-went-in-search-of-the-worlds-hardest-language-95a27c2cff3"
+    },
+    {
+      "title": "Men Dump Their Anger Into Women",
+      "score": "674",
+      "url": "https://medium.com/p/men-dump-their-anger-into-women-d5b641fa37bc"
+    },
+    {
+      "title": "The 3D Printing Revolution That Wasn’t",
+      "score": "166",
+      "url": "https://medium.com/p/the-3d-printing-revolution-that-wasnt-60b000c3a3ed"
+    },
+    {
+      "title": "You Have to Take Donald Glover Seriously Now",
+      "score": "321",
+      "url": "https://medium.com/p/you-have-to-take-donald-glover-seriously-now-56363bf513d3"
+    },
+    {
+      "title": "How to Read Like Your Success Depends on It",
+      "score": "584",
+      "url": "https://medium.com/p/how-to-read-like-your-success-depends-on-it-7f658a456806"
+    },
+    {
+      "title": "52 things I learned in 2016",
+      "score": "342",
+      "url": "https://medium.com/p/52-things-i-learned-in-2016-299fd1e6a62b"
+    },
+    {
+      "title": "How Backpage.com Became a Haven for Sex Trafficking … and Free Speech",
+      "score": "91",
+      "url": "https://medium.com/p/backpage-pimping-lawsuit-c4577180c95e"
+    },
+    {
+      "title": "No One Likes Levi’s Stadium",
+      "score": "130",
+      "url": "https://medium.com/p/san-francisco-49ers-levis-stadium-santa-clara-c29a140a1726"
+    }
+  ],
+  "productHunt": [],
+  "github": [
+    {
+      "url": "https://github.com/simeji/jid",
+      "title": "simeji/jid: json incremental digger",
+      "score": "411"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "340"
+    },
+    {
+      "url": "https://github.com/Tencent/MSEC",
+      "title": "Tencent/MSEC: Mass Service Engine in Cluster(MSEC) is opened source by QQ team from Tencent. It is a backend DEV &amp;OPS engine, including RPC,name finding,load balance,monitoring,release and capacity management.",
+      "score": "270"
+    },
+    {
+      "url": "https://github.com/date-fns/date-fns",
+      "title": "date-fns/date-fns: ",
+      "score": "241"
+    },
+    {
+      "url": "https://github.com/commaai/openpilot",
+      "title": "commaai/openpilot: open source driving agent",
+      "score": "214"
+    },
+    {
+      "url": "https://github.com/trueadm/inferno",
+      "title": "trueadm/inferno: An extremely fast, React-like JavaScript library for building modern user interfaces",
+      "score": "215"
+    },
+    {
+      "url": "https://github.com/mathisonian/premonish",
+      "title": "mathisonian/premonish: Predict which DOM element a user will interact with next.",
+      "score": "179"
+    },
+    {
+      "url": "https://github.com/TorchCraft/TorchCraft",
+      "title": "TorchCraft/TorchCraft: Connecting Torch to StarCraft",
+      "score": "167"
+    },
+    {
+      "url": "https://github.com/dflemstr/rq",
+      "title": "dflemstr/rq: Record Query - A tool for doing record analysis and transformation",
+      "score": "163"
+    },
+    {
+      "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+      "title": "MaximAbramchuck/awesome-interview-questions: ",
+      "score": "135"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/325139#reply43",
+      "title": "成都， 9 点 50 分的天空",
+      "score": "43"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325161#reply30",
+      "title": "准备把博客服务器迁到国内，感觉阿里云的（带宽）流量计费比较不错，有什么坑吗？",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325151#reply27",
+      "title": "政策没出几天，骗子就用上了，真会玩",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325194#reply27",
+      "title": "年龄大了就不能写程序了？",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325152#reply26",
+      "title": "手机 chrome 访问网页莫名其妙出现移动的流量球，如何删除？",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325148#reply24",
+      "title": "程序员怎样鉴定强悍的小团队",
+      "score": "24"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325160#reply22",
+      "title": "我的周末就喜欢~骑摩托上山，你们呢？",
+      "score": "22"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325164#reply17",
+      "title": "父母用手机， 1000 - 2000 预算，求推荐",
+      "score": "17"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325134#reply15",
+      "title": "甲骨文可能终止了 Solaris 开发",
+      "score": "15"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325169#reply14",
+      "title": "大家觉得 Android 有哪些 app 能算得上本年佳作？",
+      "score": "14"
+    }
+  ]
+}
