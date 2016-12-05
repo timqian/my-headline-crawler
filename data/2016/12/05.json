@@ -1,0 +1,232 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13100560",
+      "title": "Disassembling Sublime Text",
+      "score": "364"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13100209",
+      "title": "Four Million Commutes Reveal New U.S. 'Megaregions'",
+      "score": "269"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13101855",
+      "title": "Data Science: CSCI E-109 Publication Listing",
+      "score": "248"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13101870",
+      "title": "PouchDB, the JavaScript Database That Syncs",
+      "score": "243"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13103742",
+      "title": "OpenAI Universe",
+      "score": "240"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13101924",
+      "title": "Welcome to the World of Software Defined Radio",
+      "score": "214"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13101240",
+      "title": "No Spanking, No Time-Out, No Problems",
+      "score": "207"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13102698",
+      "title": "Best Wifi Mesh Network Kits",
+      "score": "189"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13100910",
+      "title": "Mars Pathfinder Mission Home Page",
+      "score": "156"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13102721",
+      "title": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11",
+      "score": "140"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Men Dump Their Anger Into Women",
+      "score": "1096",
+      "url": "https://medium.com/p/men-dump-their-anger-into-women-d5b641fa37bc"
+    },
+    {
+      "title": "Simmons vs. Gladwell: The Future of Football",
+      "score": "725",
+      "url": "https://medium.com/p/bill-simmons-malcolm-gladwell-future-of-the-nfl-b6e14a14124"
+    },
+    {
+      "title": "White People Are A Little Too Damn Happy About Trevor Noah vs. Tomi Lahren",
+      "score": "1310",
+      "url": "https://medium.com/p/white-people-are-a-little-too-damn-happy-about-trevor-noah-vs-tomi-lahren-999c0158caf6"
+    },
+    {
+      "title": "The Most Powerful Algorithm in the World",
+      "score": "416",
+      "url": "https://medium.com/p/the-most-powerful-algorithm-in-the-world-9ec7e6494a1d"
+    },
+    {
+      "title": "The State of UX in 2017",
+      "score": "248",
+      "url": "https://medium.com/p/ux-trends-2017-46a63399e3d2"
+    },
+    {
+      "title": "The Winners and Losers From NFL Week 13",
+      "score": "21",
+      "url": "https://medium.com/p/nfl-week-13-winners-and-losers-ravens-eagles-falcons-fc27af98f052"
+    },
+    {
+      "title": "52 things I learned in 2016",
+      "score": "455",
+      "url": "https://medium.com/p/52-things-i-learned-in-2016-299fd1e6a62b"
+    },
+    {
+      "title": "The Equal Protection argument against “winner take all” in the Electoral College",
+      "score": "201",
+      "url": "https://medium.com/p/the-equal-protection-argument-against-winner-take-all-in-the-electoral-college-b09e8a49d777"
+    },
+    {
+      "title": "The hardest part of learning to code is also the funnest part",
+      "score": "340",
+      "url": "https://medium.com/p/this-is-what-ive-gathered-after-a-year-of-teaching-myself-to-code-9e46bb60db9"
+    },
+    {
+      "title": "How to Read Like Your Success Depends on It",
+      "score": "791",
+      "url": "https://medium.com/p/how-to-read-like-your-success-depends-on-it-7f658a456806"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/unicorn-startup-simulator-by-toggl",
+      "title": "OpenAI Universe:  ",
+      "score": "17"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/seo-toolbox-by-oncrawl",
+      "title": "Palatte:  ",
+      "score": "30"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/journi-explore",
+      "title": "Breaking Into Startups: Episode 1 - Albrey Brown:  ",
+      "score": "24"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/greetings",
+      "title": "The Twenty Minute VC: Scott Dorsey, Managing Partner @ HighAlpha:  ",
+      "score": "2"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/simeji/jid",
+      "title": "simeji/jid: json incremental digger",
+      "score": "599"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "377"
+    },
+    {
+      "url": "https://github.com/pubkey/rxdb",
+      "title": "pubkey/rxdb: Reactive Offline-first Database with Sync, Schema, Mongo-Query, Encryption, LevelDown",
+      "score": "340"
+    },
+    {
+      "url": "https://github.com/commaai/openpilot",
+      "title": "commaai/openpilot: open source driving agent",
+      "score": "297"
+    },
+    {
+      "url": "https://github.com/date-fns/date-fns",
+      "title": "date-fns/date-fns: ",
+      "score": "326"
+    },
+    {
+      "url": "https://github.com/Tencent/MSEC",
+      "title": "Tencent/MSEC: Mass Service Engine in Cluster(MSEC) is opened source by QQ team from Tencent. It is a backend DEV &amp;OPS engine, including RPC,name finding,load balance,monitoring,release and capacity management.",
+      "score": "198"
+    },
+    {
+      "url": "https://github.com/mathisonian/premonish",
+      "title": "mathisonian/premonish: Predict which DOM element a user will interact with next.",
+      "score": "215"
+    },
+    {
+      "url": "https://github.com/TorchCraft/TorchCraft",
+      "title": "TorchCraft/TorchCraft: Connecting Torch to StarCraft",
+      "score": "202"
+    },
+    {
+      "url": "https://github.com/hypertrack/smart-scheduler-android",
+      "title": "hypertrack/smart-scheduler-android: A utility library for scheduling periodic and non-periodic jobs efficiently.",
+      "score": "170"
+    },
+    {
+      "url": "https://github.com/eschao/android-PageFlip",
+      "title": "eschao/android-PageFlip: 3D Style Page Flip on Android",
+      "score": "160"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/325330#reply116",
+      "title": "还是个老问题，如何确定我今天出门锁门了",
+      "score": "116"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325305#reply97",
+      "title": "大家还有个人网站吗，来加个友情链接吧",
+      "score": "97"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325317#reply96",
+      "title": "最近考虑到买房子 首付不够 想到和亲戚凑点 我就呵呵了",
+      "score": "96"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325361#reply80",
+      "title": "技术主程总说脏话怎么办？ 这种公司是不是不该呆？",
+      "score": "80"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325364#reply54",
+      "title": "昨晚媳妇新买的 iPhone7 被偷了，分享下处理进程，也请大家忙吧出谋划策下",
+      "score": "54"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325382#reply39",
+      "title": "有多少 V 友不喜欢酒吧的？",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325371#reply33",
+      "title": "公司电脑内置以公司名字命名的根证书",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325300#reply24",
+      "title": "关于 JSPatch 的反思",
+      "score": "24"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325321#reply24",
+      "title": "孤陋寡闻了，刚刚查 httpdns，突然发现 114dns 是腾讯的！",
+      "score": "24"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325358#reply23",
+      "title": "华为给的工资咋那么高啊？看着眼红呀。",
+      "score": "23"
+    }
+  ]
+}
