@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13108404",
+      "title": "Tell HN: Political Detox Week – No politics on HN for one week",
+      "score": "1491"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13108434",
+      "title": "Why does calloc exist?",
+      "score": "443"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13110082",
+      "title": "My Favorite Books of 2016",
+      "score": "412"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13111249",
+      "title": "Google Trusted Contacts",
+      "score": "254"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13108577",
+      "title": "Secure ROM extraction on iPhone 6S",
+      "score": "227"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13111768",
+      "title": "The Distribution of Users’ Computer Skills: Worse Than You Think",
+      "score": "223"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13112589",
+      "title": "Write your own shell in C",
+      "score": "164"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13108962",
+      "title": "Show HN: Staticland – Open source static site hosting with SSL via Let's Encrypt",
+      "score": "155"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13110993",
+      "title": "How to not fuck up your manufacturing startup",
+      "score": "153"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13110230",
+      "title": "R vs. Python for Data Science [video]",
+      "score": "129"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Dear JavaScript,",
+      "score": "1147",
+      "url": "https://medium.com/p/dear-javascript-7e14ffcae36c"
+    },
+    {
+      "title": "The State of UX in 2017",
+      "score": "782",
+      "url": "https://medium.com/p/ux-trends-2017-46a63399e3d2"
+    },
+    {
+      "title": "Today We Launch the Injustice Boycott in Standing Rock, San Francisco, and New York City",
+      "score": "972",
+      "url": "https://medium.com/p/today-we-launch-the-injustice-boycott-against-racial-injustice-police-brutality-in-standing-rock-b1bb18da1f4f"
+    },
+    {
+      "title": "The Winners and Losers From NFL Week 13",
+      "score": "52",
+      "url": "https://medium.com/p/nfl-week-13-winners-and-losers-ravens-eagles-falcons-fc27af98f052"
+    },
+    {
+      "title": "I’m a liberal professor and my conservative students terrify me.",
+      "score": "426",
+      "url": "https://medium.com/p/im-a-liberal-professor-and-my-conservative-students-terrify-me-f4ce5ece0549"
+    },
+    {
+      "title": "Welcome to Warriors World",
+      "score": "111",
+      "url": "https://medium.com/p/welcome-to-warriors-world-594372288358"
+    },
+    {
+      "title": "Men Dump Their Anger Into Women",
+      "score": "1333",
+      "url": "https://medium.com/p/men-dump-their-anger-into-women-d5b641fa37bc"
+    },
+    {
+      "title": "The Rise of the NBA’s Rising Middle Class",
+      "score": "74",
+      "url": "https://medium.com/p/nba-middle-class-milwaukee-bucks-boston-celtics-4d9427a48a38"
+    },
+    {
+      "title": "Simmons vs. Gladwell: The Future of Football",
+      "score": "784",
+      "url": "https://medium.com/p/bill-simmons-malcolm-gladwell-future-of-the-nfl-b6e14a14124"
+    },
+    {
+      "title": "How Backpage.com Became a Haven for Sex Trafficking … and Free Speech",
+      "score": "155",
+      "url": "https://medium.com/p/backpage-pimping-lawsuit-c4577180c95e"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/audio-transcription-api-by-scale",
+      "title": "Paperform:  ",
+      "score": "33"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/zo",
+      "title": "80,000 Hours: Find a fulfilling career that does good - book giveaway:  ",
+      "score": "20"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/stickyt",
+      "title": "Bumpers Categories:  ",
+      "score": "14"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/1-2-3",
+      "title": "Breaking Into Startups: Episode 2 - Emily Racioppi:  ",
+      "score": "3"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/seeds",
+      "title": "Level Therapy:  ",
+      "score": "8"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/openai/universe",
+      "title": "openai/universe: Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.",
+      "score": "1612"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "546"
+    },
+    {
+      "url": "https://github.com/date-fns/date-fns",
+      "title": "date-fns/date-fns: ",
+      "score": "542"
+    },
+    {
+      "url": "https://github.com/simeji/jid",
+      "title": "simeji/jid: json incremental digger",
+      "score": "535"
+    },
+    {
+      "url": "https://github.com/pubkey/rxdb",
+      "title": "pubkey/rxdb: Reactive Offline-first Database with Sync, Schema, Mongo-Query, Encryption, LevelDown",
+      "score": "422"
+    },
+    {
+      "url": "https://github.com/erttyy8821/MyDiary",
+      "title": "erttyy8821/MyDiary: In the Movie \"-your name.-\" (君の名は。, 你的名字) , \"My Diary\" of android version is.",
+      "score": "323"
+    },
+    {
+      "url": "https://github.com/commaai/openpilot",
+      "title": "commaai/openpilot: open source driving agent",
+      "score": "287"
+    },
+    {
+      "url": "https://github.com/eschao/android-PageFlip",
+      "title": "eschao/android-PageFlip: 3D Style Page Flip on Android",
+      "score": "263"
+    },
+    {
+      "url": "https://github.com/donutloop/mux",
+      "title": "donutloop/mux: A utility library for scheduling periodic and non-periodic jobs efficiently.",
+      "score": "222"
+    },
+    {
+      "url": "https://github.com/kelseyhightower/konfd",
+      "title": "kelseyhightower/konfd: Manage application configuration using Kubernetes secrets, configmaps, and Go templates.",
+      "score": "222"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/325608#reply86",
+      "title": "我们会是最后一批用五笔的中国人吗？",
+      "score": "86"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325564#reply78",
+      "title": "HHKB 适合前端开发么？",
+      "score": "78"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325545#reply67",
+      "title": "那个...年底找工作是不是在作死啊?",
+      "score": "67"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325655#reply34",
+      "title": "吐个槽，纯内网环境部署 python web 应用",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325609#reply32",
+      "title": "承诺过的 Star Order for Mac 版本来了",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325539#reply30",
+      "title": "为什么 yum remove docker* 不会删除 docker-engine？",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325547#reply29",
+      "title": "珠三角让你有归属感吗",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325576#reply29",
+      "title": "一个 20 寸行李箱+一个背包能直接上飞机吗？",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325582#reply25",
+      "title": "找个后端自由职业者（语言不限 java、php 等），做类似滴滴打车、Uber 的 app",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325556#reply23",
+      "title": "实例讲解基于 Flask+React 的全栈开发和部署",
+      "score": "23"
+    }
+  ]
+}
