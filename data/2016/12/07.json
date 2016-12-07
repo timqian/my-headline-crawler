@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13114803",
+      "title": "Google says it will run entirely on renewable energy in 2017",
+      "score": "778"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13114538",
+      "title": "I'm giving up on PGP",
+      "score": "665"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13116703",
+      "title": "Dark Patterns – User Interfaces Designed to Trick People",
+      "score": "518"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13119138",
+      "title": "It Takes 6 Days to Change 1 Line of Code (2015)",
+      "score": "386"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13117528",
+      "title": "Apple to Start Publishing AI Research",
+      "score": "381"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13119075",
+      "title": "How to Ship Side Projects",
+      "score": "246"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13116526",
+      "title": "Closure Compiler in JavaScript",
+      "score": "206"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13116335",
+      "title": "Andrew Wiles: what does it feel like to do maths?",
+      "score": "201"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13118291",
+      "title": "QEMU Advent Calendar",
+      "score": "192"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13116727",
+      "title": "Show HN: Victory – ReactJS library for building interactive data visualizations",
+      "score": "191"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Dear JavaScript,",
+      "score": "1736",
+      "url": "https://medium.com/p/dear-javascript-7e14ffcae36c"
+    },
+    {
+      "title": "The State of UX in 2017",
+      "score": "1110",
+      "url": "https://medium.com/p/ux-trends-2017-46a63399e3d2"
+    },
+    {
+      "title": "The Lakers Love Basketball",
+      "score": "118",
+      "url": "https://medium.com/p/lakers-love-basketball-luke-walton-5e5b3f7cf6b9"
+    },
+    {
+      "title": "Our 21 Favorite TV Episodes of the Year",
+      "score": "80",
+      "url": "https://medium.com/p/our-21-favorite-tv-episodes-of-the-year-abe6bdac9dea"
+    },
+    {
+      "title": "You might not need that $15K coding bootcamp",
+      "score": "416",
+      "url": "https://medium.com/p/you-might-not-need-that-15k-coding-bootcamp-be0ba9697885"
+    },
+    {
+      "title": "You Might Not Need TypeScript (or Static Types)",
+      "score": "194",
+      "url": "https://medium.com/p/you-might-not-need-typescript-or-static-types-aa7cb670a77b"
+    },
+    {
+      "title": "Klay Thompson Dropped 60 Points in 29 Minutes",
+      "score": "63",
+      "url": "https://medium.com/p/klay-thompson-dropped-60-points-in-29-minutes-8bca39632e41"
+    },
+    {
+      "title": "A Guide to NBA Bulls**t",
+      "score": "77",
+      "url": "https://medium.com/p/a-guide-to-nba-bulls-t-515dde3eacb3"
+    },
+    {
+      "title": "Simmons vs. Gladwell: The Future of Football",
+      "score": "819",
+      "url": "https://medium.com/p/bill-simmons-malcolm-gladwell-future-of-the-nfl-b6e14a14124"
+    },
+    {
+      "title": "Your privacy is under attack from several terrifying new laws",
+      "score": "1718",
+      "url": "https://medium.com/p/your-privacy-is-disappearing-one-law-at-a-time-heres-what-you-can-do-about-it-b85c814035a4"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/inboard-2",
+      "title": "WoofJS:  ",
+      "score": "29"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/konsus-chatbot",
+      "title": "CakeResume v2:  ",
+      "score": "40"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/inside-streaming",
+      "title": "Send Your Email to SMS:  ",
+      "score": "20"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/santahunt-2016",
+      "title": "LinkedIn Message Tracking by SalesWings:  ",
+      "score": "16"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/the-zen-founder-guide-to-founder-retreats",
+      "title": "Top Entrepreneurs - Wealthfront CEO Andy Rachleff on FinTech Dirty Secrets:  ",
+      "score": "2"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/openai/universe",
+      "title": "openai/universe: Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.",
+      "score": "816"
+    },
+    {
+      "url": "https://github.com/deepmind/lab",
+      "title": "deepmind/lab: A customisable 3D platform for agent-based AI research",
+      "score": "667"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "542"
+    },
+    {
+      "url": "https://github.com/FormidableLabs/victory",
+      "title": "FormidableLabs/victory: A collection of composable React components for building interactive data visualizations",
+      "score": "503"
+    },
+    {
+      "url": "https://github.com/miloyip/game-programmer",
+      "title": "miloyip/game-programmer: A Study Path for Game Programmer",
+      "score": "422"
+    },
+    {
+      "url": "https://github.com/date-fns/date-fns",
+      "title": "date-fns/date-fns: ",
+      "score": "440"
+    },
+    {
+      "url": "https://github.com/andywer/webpack-blocks",
+      "title": "andywer/webpack-blocks:  Configure webpack using functional feature blocks.",
+      "score": "442"
+    },
+    {
+      "url": "https://github.com/el1t/uBlock-Safari",
+      "title": "el1t/uBlock-Safari: uBlock Origin - An efficient blocker for Chromium, Firefox, and Safari. Fast and lean.",
+      "score": "392"
+    },
+    {
+      "url": "https://github.com/simeji/jid",
+      "title": "simeji/jid: json incremental digger",
+      "score": "375"
+    },
+    {
+      "url": "https://github.com/pubkey/rxdb",
+      "title": "pubkey/rxdb: Reactive Offline-first Database with Sync, Schema, Mongo-Query, Encryption, LevelDown",
+      "score": "322"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/325820#reply101",
+      "title": "如何拒绝年会表演节目的要求？",
+      "score": "101"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325809#reply84",
+      "title": "6000 左右码农笔记本，有什么好的选择？难道真的要加钱上苹果？",
+      "score": "84"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325818#reply78",
+      "title": "看到一则新闻，深圳斯凯荣，员工怀孕，被逼却不愿离职，被安排坐门口",
+      "score": "78"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325802#reply75",
+      "title": "[吐槽] 有一些使用了 qq、微博登录的选项，授权后又让用户填写账号密码的网站/app，脑子是进水了吗？",
+      "score": "75"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325806#reply73",
+      "title": "用自己家的联通宽带做网站",
+      "score": "73"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325836#reply64",
+      "title": "有 V 友在用 SE 嘛？控制不住这双手了已经！",
+      "score": "64"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325817#reply62",
+      "title": "关于空气净化器是否真的能提升生活品质？",
+      "score": "62"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325846#reply33",
+      "title": "iPhone7 Plus 的屏幕用的康宁大猩猩 5 代玻璃，我看维基百科上说：宣称跌落高度设定在一米六。我今天仅仅从几十厘米高的地方摔在水泥地上就碎屏了",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325807#reply32",
+      "title": "你们会给父母买商业保险吗？",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/325831#reply28",
+      "title": "再见， Firebug",
+      "score": "28"
+    }
+  ]
+}
