@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13126228",
+      "title": "Launchaco – Instantly generate a responsive, free, website",
+      "score": "716"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13125349",
+      "title": "Bluetooth 5 Now Available",
+      "score": "249"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13126248",
+      "title": "Intel x86 documentation has more pages than the 6502 has transistors",
+      "score": "245"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13125681",
+      "title": "The State of Babel",
+      "score": "189"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13125328",
+      "title": "Liquid Haskell: Haskell as a Theorem Prover [pdf]",
+      "score": "174"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13127263",
+      "title": "It's Not Cold Fusion but It's Something",
+      "score": "164"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13125254",
+      "title": "Show HN: PyFilesystem 2.0 – A Python interface to filesystems of all kinds",
+      "score": "119"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13128146",
+      "title": "Jest – Painless JavaScript Testing",
+      "score": "114"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13126118",
+      "title": "“Exhalation” by Ted Chiang (2008)",
+      "score": "110"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13126711",
+      "title": "Introduction to K-means Clustering",
+      "score": "106"
+    }
+  ],
+  "medium": [
+    {
+      "title": "The State of UX in 2017",
+      "score": "1363",
+      "url": "https://medium.com/p/ux-trends-2017-46a63399e3d2"
+    },
+    {
+      "title": "The 10 Most Misguided Moves of the NFL Season",
+      "score": "47",
+      "url": "https://medium.com/p/nfl-10-most-misguided-moves-of-2016-brock-osweiler-jeff-fisher-josh-norman-a83937d0a771"
+    },
+    {
+      "title": "Faking a Mandate",
+      "score": "295",
+      "url": "https://medium.com/p/faking-a-mandate-a379c802e540"
+    },
+    {
+      "title": "Inside Peter Thiel’s Genius Factory",
+      "score": "152",
+      "url": "https://medium.com/p/inside-peter-thiels-genius-factory-7bf38303c7be"
+    },
+    {
+      "title": "Tim Ferriss — What I Learned From Tim Ferriss’s ‘Tools of Titans’",
+      "score": "386",
+      "url": "https://medium.com/p/tim-ferriss-what-i-learned-from-tim-ferrisss-tools-of-titans-5287d9106088"
+    },
+    {
+      "title": "This is How to be Super Productive Every Day Without Losing Your Mind",
+      "score": "560",
+      "url": "https://medium.com/p/this-is-how-to-be-super-productive-every-day-without-losing-your-mind-aa8baa1977a7"
+    },
+    {
+      "title": "Dear JavaScript,",
+      "score": "1954",
+      "url": "https://medium.com/p/dear-javascript-7e14ffcae36c"
+    },
+    {
+      "title": "Why Design",
+      "score": "487",
+      "url": "https://medium.com/p/why-design-f3c8546c9672"
+    },
+    {
+      "title": "A Gentle Introduction to Data Structures: How Graphs Work",
+      "score": "319",
+      "url": "https://medium.com/p/a-gentle-introduction-to-data-structures-how-graphs-work-a223d9ef8837"
+    },
+    {
+      "title": "You might not need that $15K coding bootcamp",
+      "score": "537",
+      "url": "https://medium.com/p/you-might-not-need-that-15k-coding-bootcamp-be0ba9697885"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/ifttt-bot-on-telegram",
+      "title": "Launchaco Website Builder:  ",
+      "score": "33"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/24-7-casey-neistat",
+      "title": "If No Reply:  ",
+      "score": "30"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/manageyum",
+      "title": "Window Wonderland by Google:  ",
+      "score": "7"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/quick-quiz",
+      "title": "ExcelChat!:  ",
+      "score": "3"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/hello-tech-pros-the-avoidance-of-leadership",
+      "title": "Wherenext.TV:  ",
+      "score": "1"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/miloyip/game-programmer",
+      "title": "miloyip/game-programmer: A Study Path for Game Programmer",
+      "score": "675"
+    },
+    {
+      "url": "https://github.com/facebook/yoga",
+      "title": "facebook/yoga: Yoga is a cross-platform layout engine which implements Flexbox. Yoga enables maximum collaboration within your team by implementing an API familiar to many designers and opening it up to developers across different platforms.",
+      "score": "537"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "518"
+    },
+    {
+      "url": "https://github.com/andywer/webpack-blocks",
+      "title": "andywer/webpack-blocks:  Configure webpack using functional feature blocks.",
+      "score": "490"
+    },
+    {
+      "url": "https://github.com/deepmind/lab",
+      "title": "deepmind/lab: A customisable 3D platform for agent-based AI research",
+      "score": "403"
+    },
+    {
+      "url": "https://github.com/deepmind/learning-to-learn",
+      "title": "deepmind/learning-to-learn: Learning to Learn in TensorFlow",
+      "score": "395"
+    },
+    {
+      "url": "https://github.com/ChaosForge/doomrl",
+      "title": "ChaosForge/doomrl: D**m, the Roguelike",
+      "score": "366"
+    },
+    {
+      "url": "https://github.com/rtsao/styletron",
+      "title": "rtsao/styletron:  Universal, high-performance JavaScript styles",
+      "score": "343"
+    },
+    {
+      "url": "https://github.com/openai/universe",
+      "title": "openai/universe: Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.",
+      "score": "309"
+    },
+    {
+      "url": "https://github.com/FormidableLabs/victory",
+      "title": "FormidableLabs/victory: A collection of composable React components for building interactive data visualizations",
+      "score": "316"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/326106#reply85",
+      "title": "捉急前端女友写的神级代码，我气的一口血喷的满地都是",
+      "score": "85"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326104#reply56",
+      "title": "弱弱的问一句， mac 怎么锁屏，不合盖子的那种",
+      "score": "56"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326128#reply46",
+      "title": "Google Developers 中国网站发布！会是回归的前兆吗？",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326116#reply44",
+      "title": "折寿辣折寿辣，星巴克居然居然可以刷微信了",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326182#reply43",
+      "title": "为知笔记改规则了，免费只能试用 100 天",
+      "score": "43"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326151#reply28",
+      "title": "有在腾讯的同学吗？ QQ 号码被冻结，来讨论下 QQ 号码到底是个人资产还是腾讯资产",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326150#reply26",
+      "title": "巨硬大法好!!! (ARM 平台下运行 x86 应用)",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326168#reply26",
+      "title": "公司真的是太让我伤心了，哎，年前发生这样的事怎么办？",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326097#reply25",
+      "title": "腾讯视频买 1 送 1",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326207#reply24",
+      "title": "大家帮我想一个英文名字吧⊙ω⊙",
+      "score": "24"
+    }
+  ]
+}
