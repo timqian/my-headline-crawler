@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13133954",
+      "title": "John Glenn has died",
+      "score": "748"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13131794",
+      "title": "Google Makes So Much Money, It Never Had to Worry About Financial Discipline",
+      "score": "533"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13132688",
+      "title": "1213486160 has a friend: 1195725856",
+      "score": "467"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13136426",
+      "title": "Linux kernel maintainer says no to AMDGPU patch",
+      "score": "295"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13132538",
+      "title": "Microsoft is bringing Windows 10, with desktop app support, to ARM chipsets",
+      "score": "282"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13135607",
+      "title": "UW engineers achieve Wi-Fi at 10,000 times lower power",
+      "score": "266"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13132944",
+      "title": "Show HN: U.S. Legal Concepts for Founders – Online Handbook",
+      "score": "250"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13133396",
+      "title": "The Silent Anniversary: Fifteen Years Since Our Last Major Crash",
+      "score": "241"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13134702",
+      "title": "Belarus finally bans Tor",
+      "score": "240"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13132721",
+      "title": "AWS announces new region in Canada",
+      "score": "207"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Inside Peter Thiel’s Genius Factory",
+      "score": "335",
+      "url": "https://medium.com/p/inside-peter-thiels-genius-factory-7bf38303c7be"
+    },
+    {
+      "title": "NBA Shootaround: Was Blake’s Dunk Over Draymond Disrespectful Enough?",
+      "score": "53",
+      "url": "https://medium.com/p/nba-shootaround-was-blakes-dunk-over-draymond-disrespectful-enough-545715a7c0cc"
+    },
+    {
+      "title": "Dwyane Wade Is Even Better Than You Think He Is",
+      "score": "172",
+      "url": "https://medium.com/p/dwyane-wade-is-even-better-than-you-think-he-is-de34f9639fd0"
+    },
+    {
+      "title": "The State of UX in 2017",
+      "score": "1556",
+      "url": "https://medium.com/p/ux-trends-2017-46a63399e3d2"
+    },
+    {
+      "title": "Five Takeaways From Warriors-Clippers, Round 1",
+      "score": "80",
+      "url": "https://medium.com/p/five-takeaways-from-warriors-clippers-round-1-52e9cfb82166"
+    },
+    {
+      "title": "This is How to be Super Productive Every Day Without Losing Your Mind",
+      "score": "921",
+      "url": "https://medium.com/p/this-is-how-to-be-super-productive-every-day-without-losing-your-mind-aa8baa1977a7"
+    },
+    {
+      "title": "OKC After KD: A New Era of Thunder Fandom",
+      "score": "72",
+      "url": "https://medium.com/p/nba-oklahoma-city-thunder-fans-russell-westbrook-kevin-durant-d0d2adbbf9b7"
+    },
+    {
+      "title": "‘The Last Guardian’ and the Video Games of the Year",
+      "score": "40",
+      "url": "https://medium.com/p/the-last-guardian-best-video-games-2016-b304e545be1e"
+    },
+    {
+      "title": "I can’t just stand by and watch Mark Zuckerberg destroy the internet.",
+      "score": "5809",
+      "url": "https://medium.com/p/mark-zuckerberg-is-the-most-powerful-person-on-earth-but-is-he-responsible-5fbcaeb29ee1"
+    },
+    {
+      "title": "Tomi Lahren Played Trevor Noah and Charlamagne — and Won",
+      "score": "127",
+      "url": "https://medium.com/p/trevor-noah-charlamagne-tomi-lahren-19a9612fc8e1"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/api-ai-for-google-assistant",
+      "title": "Jelly on Google Home:  ",
+      "score": "45"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/spectaholes",
+      "title": "Volume:  ",
+      "score": "27"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/pomodoneapp-for-mac",
+      "title": "Contactually Printed Cards:  ",
+      "score": "20"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/best-referral-programs",
+      "title": "Optimage:  ",
+      "score": "13"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/paypal-for-business",
+      "title": "Hello Santa:  ",
+      "score": "10"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/exacity/deeplearningbook-chinese",
+      "title": "exacity/deeplearningbook-chinese: Deep Learning Book Chinese Translation",
+      "score": "565"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "505"
+    },
+    {
+      "url": "https://github.com/miloyip/game-programmer",
+      "title": "miloyip/game-programmer: A Study Path for Game Programmer",
+      "score": "476"
+    },
+    {
+      "url": "https://github.com/wesbos/JavaScript30",
+      "title": "wesbos/JavaScript30: 30 Day Vanilla JS Challenge",
+      "score": "334"
+    },
+    {
+      "url": "https://github.com/facebook/yoga",
+      "title": "facebook/yoga: Yoga is a cross-platform layout engine which implements Flexbox. Yoga enables maximum collaboration within your team by implementing an API familiar to many designers and opening it up to developers across different platforms.",
+      "score": "335"
+    },
+    {
+      "url": "https://github.com/rtsao/styletron",
+      "title": "rtsao/styletron:  Universal, high-performance JavaScript styles",
+      "score": "320"
+    },
+    {
+      "url": "https://github.com/deepmind/learning-to-learn",
+      "title": "deepmind/learning-to-learn: Learning to Learn in TensorFlow",
+      "score": "295"
+    },
+    {
+      "url": "https://github.com/githubwing/ZoomHeader",
+      "title": "githubwing/ZoomHeader: A demo of animation show how turn viewpager into detail.神交互。模仿饿了么详情页 viewpager变详情页",
+      "score": "283"
+    },
+    {
+      "url": "https://github.com/tensorflow/tensorflow",
+      "title": "tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning",
+      "score": "231"
+    },
+    {
+      "url": "https://github.com/deepmind/lab",
+      "title": "deepmind/lab: A customisable 3D platform for agent-based AI research",
+      "score": "263"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/326373#reply81",
+      "title": "从日本一个 ftp 拉 3T 的数据过来，速度很慢",
+      "score": "81"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326343#reply62",
+      "title": "说说你觉得适合程序员使用的机械键盘",
+      "score": "62"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326362#reply50",
+      "title": "针对每天写日报，每周写周报，每季度写季报，大家怎么看！",
+      "score": "50"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326374#reply49",
+      "title": "如何看待： C 社因非官方鏡像起訴歐洲雲服務商",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326328#reply47",
+      "title": "v2 不是有规矩不准用无关妹子头像吗？",
+      "score": "47"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326344#reply41",
+      "title": "工作经历 5 个月写成 7 个月，工资虚报增高 1K，会不会被下家 hr 查出来？",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326329#reply39",
+      "title": "谈谈个人(3 年+Wiz 老用户)对为知笔记全面收费的看法",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326420#reply37",
+      "title": "你知道折耳根吗 你拒绝吗",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326409#reply36",
+      "title": "中国的空气污染 大家评论一下最合适程序员发展又污染少的城市",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326363#reply35",
+      "title": "为知笔记开始收费了，截止到 17 年 1 月 1，个人免费版将不再能同步",
+      "score": "35"
+    }
+  ]
+}
