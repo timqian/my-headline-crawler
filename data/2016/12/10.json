@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13139978",
+      "title": "Bose Hearphones",
+      "score": "676"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13142327",
+      "title": "Developers’ side projects",
+      "score": "638"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13138458",
+      "title": "Saving the Internet 2000TB a Day: Fixing Font Awesome’s Fonts",
+      "score": "443"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13139638",
+      "title": "Ask HN: What problem in your industry is a potential startup?",
+      "score": "411"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13140389",
+      "title": "De-Googleify Internet",
+      "score": "343"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13142285",
+      "title": "AMD responds to Linux kernel maintainer's rejection of AMDGPU patch",
+      "score": "253"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13138237",
+      "title": "Intake – American's largest psychiatric chain",
+      "score": "191"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13142372",
+      "title": "Ask HN: Maybe I kind of suck as a programmer – how do I supercharge my work?",
+      "score": "163"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13141602",
+      "title": "Marketing automation is getting out-of-hand",
+      "score": "153"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13141729",
+      "title": "What's New in F# 4.1? [video]",
+      "score": "113"
+    }
+  ],
+  "medium": [
+    {
+      "title": "The Great J. Cole Debate",
+      "score": "285",
+      "url": "https://medium.com/p/the-great-j-cole-debate-31eb37c2a094"
+    },
+    {
+      "title": "Inside Peter Thiel’s Genius Factory",
+      "score": "447",
+      "url": "https://medium.com/p/inside-peter-thiels-genius-factory-7bf38303c7be"
+    },
+    {
+      "title": "How to be 1% Better Every Day (The Kaizen Approach to Self-improvement)",
+      "score": "729",
+      "url": "https://medium.com/p/get-1-better-every-day-the-kaizen-approach-to-self-improvement-b79c9e045678"
+    },
+    {
+      "title": "Week 14 NFL Picks: The Best Possible Football TV",
+      "score": "23",
+      "url": "https://medium.com/p/nfl-week-14-picks-cowboys-giants-patriots-ravens-prime-time-tv-afb790b46bbc"
+    },
+    {
+      "title": "The State of UX in 2017",
+      "score": "1704",
+      "url": "https://medium.com/p/ux-trends-2017-46a63399e3d2"
+    },
+    {
+      "title": "This is How to be Super Productive Every Day Without Losing Your Mind",
+      "score": "1137",
+      "url": "https://medium.com/p/this-is-how-to-be-super-productive-every-day-without-losing-your-mind-aa8baa1977a7"
+    },
+    {
+      "title": "Live like You could Lose Everything, but Know there’s Nothing to Lose.",
+      "score": "423",
+      "url": "https://medium.com/p/success-secret-live-like-you-could-lose-everything-but-know-theres-nothing-to-lose-5488abb68f1b"
+    },
+    {
+      "title": "We can Fix It: Saving the Truth from the Internet",
+      "score": "229",
+      "url": "https://medium.com/p/we-can-fix-it-saving-the-truth-from-the-internet-7bec83df150d"
+    },
+    {
+      "title": "Dear JavaScript,",
+      "score": "2263",
+      "url": "https://medium.com/p/dear-javascript-7e14ffcae36c"
+    },
+    {
+      "title": "Infrastructure is Beautiful",
+      "score": "428",
+      "url": "https://medium.com/p/infrastructure-is-beautiful-cb0daa1aa76b"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/veni-vidi-vc-nima-elyassi-rad-from-indie-vc",
+      "title": "Palette For Mac:  ",
+      "score": "7"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/pricetag",
+      "title": "Netflix VR:  ",
+      "score": "8"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/visibook",
+      "title": "Jump Birthday Party:  ",
+      "score": "14"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/ayy-it-s-christmas",
+      "title": "Culrs:  ",
+      "score": "4"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/proper-pencil-dock",
+      "title": "Pinpaper Press:  ",
+      "score": "6"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/wesbos/JavaScript30",
+      "title": "wesbos/JavaScript30: 30 Day Vanilla JS Challenge",
+      "score": "660"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "412"
+    },
+    {
+      "url": "https://github.com/deepmind/lab",
+      "title": "deepmind/lab: A customisable 3D platform for agent-based AI research",
+      "score": "294"
+    },
+    {
+      "url": "https://github.com/miloyip/game-programmer",
+      "title": "miloyip/game-programmer: A Study Path for Game Programmer",
+      "score": "231"
+    },
+    {
+      "url": "https://github.com/exacity/deeplearningbook-chinese",
+      "title": "exacity/deeplearningbook-chinese: Deep Learning Book Chinese Translation",
+      "score": "198"
+    },
+    {
+      "url": "https://github.com/deepmind/learning-to-learn",
+      "title": "deepmind/learning-to-learn: Learning to Learn in TensorFlow",
+      "score": "180"
+    },
+    {
+      "url": "https://github.com/siddharthkp/cost-of-modules",
+      "title": "siddharthkp/cost-of-modules: Find out which of your dependencies are slowing you down ",
+      "score": "184"
+    },
+    {
+      "url": "https://github.com/firehol/netdata",
+      "title": "firehol/netdata: Get control of your servers. Simple. Effective. Awesome. ",
+      "score": "169"
+    },
+    {
+      "url": "https://github.com/date-fns/date-fns",
+      "title": "date-fns/date-fns: ",
+      "score": "164"
+    },
+    {
+      "url": "https://github.com/FolioReader/FolioReader-Android",
+      "title": "FolioReader/FolioReader-Android: A Java ePub reader and parser framework for Android.",
+      "score": "139"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/326602#reply69",
+      "title": "高中学历、20 岁、三四线城市，想做码农，可是迷茫了",
+      "score": "69"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326621#reply41",
+      "title": "[福利] App Store 新上架，一款锁屏壁纸制作 App，送一些兑换码",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326639#reply34",
+      "title": "你会讨厌别人吃饭发出声音吗？",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326620#reply25",
+      "title": "程序员如何提升抗压能力？",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326622#reply24",
+      "title": "突然想到时间是因为人记忆衰退而产生的",
+      "score": "24"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326594#reply20",
+      "title": "不知不觉，各种 app 都开始问两遍推送的权限了",
+      "score": "20"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326583#reply16",
+      "title": "python 的中文书籍求推荐，上次推荐了很多，但是 E 文多，我 E 文不是很好。",
+      "score": "16"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326599#reply16",
+      "title": "求推荐款上网本当二奶笔记本？",
+      "score": "16"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326603#reply16",
+      "title": "mysql 和 postgresql 好艰难的选择",
+      "score": "16"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326589#reply15",
+      "title": "菊苣们，每日一问的时候到了，咱们工作中都会接触到产品狗，你们工作中遇到的不靠谱的产品狗都有什么特点？",
+      "score": "15"
+    }
+  ]
+}
