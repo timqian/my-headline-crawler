@@ -1,0 +1,211 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13142327",
+      "title": "Developers’ side projects",
+      "score": "916"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13148725",
+      "title": "The short, tormented life of computer genius Phil Katz (2000)",
+      "score": "254"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13144483",
+      "title": "Let your kids lose: Success inhibits preschoolers’ ability to trust",
+      "score": "244"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13145216",
+      "title": "LIGO black hole echoes hint at general-relativity breakdown",
+      "score": "228"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13147042",
+      "title": "Neurogenesis linked to aerobic exercise",
+      "score": "200"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13146315",
+      "title": "Cryptomancer RPG",
+      "score": "166"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13147278",
+      "title": "Ransomware gives free decryption keys to victims who infect their friends",
+      "score": "156"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13147453",
+      "title": "Simplify Service Dependencies with Nodes",
+      "score": "119"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13149635",
+      "title": "Learning Advanced JavaScript (2008)",
+      "score": "118"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13148319",
+      "title": "Tips for Self-Learning Programming",
+      "score": "116"
+    }
+  ],
+  "medium": [
+    {
+      "title": "5 Things I Miss About Alcoholism",
+      "score": "349",
+      "url": "https://medium.com/p/5-things-i-miss-about-alcoholism-bf81fcd28996"
+    },
+    {
+      "title": "My search for a MacBook Pro alternative",
+      "score": "267",
+      "url": "https://medium.com/p/my-search-for-a-macbook-pro-alternative-e549ea2b2dee"
+    },
+    {
+      "title": "Top JavaScript Frameworks & Topics to Learn in 2017",
+      "score": "480",
+      "url": "https://medium.com/p/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711"
+    },
+    {
+      "title": "How to be 1% Better Every Day (The Kaizen Approach to Self-improvement)",
+      "score": "1146",
+      "url": "https://medium.com/p/get-1-better-every-day-the-kaizen-approach-to-self-improvement-b79c9e045678"
+    },
+    {
+      "title": "Inside Peter Thiel’s Genius Factory",
+      "score": "525",
+      "url": "https://medium.com/p/inside-peter-thiels-genius-factory-7bf38303c7be"
+    },
+    {
+      "title": "The Great J. Cole Debate",
+      "score": "340",
+      "url": "https://medium.com/p/the-great-j-cole-debate-31eb37c2a094"
+    },
+    {
+      "title": "This is How to be Super Productive Every Day Without Losing Your Mind",
+      "score": "1345",
+      "url": "https://medium.com/p/this-is-how-to-be-super-productive-every-day-without-losing-your-mind-aa8baa1977a7"
+    },
+    {
+      "title": "Live like You could Lose Everything, but Know there’s Nothing to Lose.",
+      "score": "677",
+      "url": "https://medium.com/p/success-secret-live-like-you-could-lose-everything-but-know-theres-nothing-to-lose-5488abb68f1b"
+    },
+    {
+      "title": "Best Buy vs. The Apple Store",
+      "score": "597",
+      "url": "https://medium.com/p/best-buy-vs-the-apple-store-abb16cf342c0"
+    },
+    {
+      "title": "Our Tech Predictions for 2017",
+      "score": "193",
+      "url": "https://medium.com/p/our-tech-predictions-for-2017-5810bb931d63"
+    }
+  ],
+  "productHunt": [],
+  "github": [
+    {
+      "url": "https://github.com/wesbos/JavaScript30",
+      "title": "wesbos/JavaScript30: 30 Day Vanilla JS Challenge",
+      "score": "408"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "401"
+    },
+    {
+      "url": "https://github.com/deepmind/lab",
+      "title": "deepmind/lab: A customisable 3D platform for agent-based AI research",
+      "score": "148"
+    },
+    {
+      "url": "https://github.com/babel/babel-preset-env",
+      "title": "babel/babel-preset-env:  Autoprefixer for Babel: compile less",
+      "score": "156"
+    },
+    {
+      "url": "https://github.com/Cosmo/TinyConsole",
+      "title": "Cosmo/TinyConsole:  A tiny log console to display information while using your iOS app. Written in Swift 3.",
+      "score": "145"
+    },
+    {
+      "url": "https://github.com/coolcooldee/sloth",
+      "title": "coolcooldee/sloth: A tool to generate java scaffold code for SQL databases。",
+      "score": "137"
+    },
+    {
+      "url": "https://github.com/soumith/ganhacks",
+      "title": "soumith/ganhacks: starter from \"How to Train a GAN?\" at NIPS2016",
+      "score": "124"
+    },
+    {
+      "url": "https://github.com/tensorflow/tensorflow",
+      "title": "tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning",
+      "score": "96"
+    },
+    {
+      "url": "https://github.com/siddharthkp/cost-of-modules",
+      "title": "siddharthkp/cost-of-modules: Find out which of your dependencies are slowing you down ",
+      "score": "121"
+    },
+    {
+      "url": "https://github.com/miloyip/game-programmer",
+      "title": "miloyip/game-programmer: A Study Path for Game Programmer",
+      "score": "117"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/326773#reply71",
+      "title": "京东回应 12G 数据泄露： Struts2 的锅",
+      "score": "71"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326772#reply54",
+      "title": "真是的， js 的语法真心垃圾， import from， bad syntax",
+      "score": "54"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326797#reply45",
+      "title": "现在选择去德国柏林工作安全吗？",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326793#reply41",
+      "title": "为什么豆瓣和知乎的技术氛围那么淡",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326786#reply37",
+      "title": "树莓派家族，求好心的朋友收养",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326801#reply26",
+      "title": "弱弱的问一句，难道程序员就这么没技术要求吗",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326783#reply23",
+      "title": "手机 root 后有什么好玩的东西",
+      "score": "23"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326784#reply21",
+      "title": "键盘用久了，包浆了咋整",
+      "score": "21"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326808#reply21",
+      "title": "中文互联网为什么不能注销帐号？想注销京东这个大垃圾了。",
+      "score": "21"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326778#reply20",
+      "title": "公交恐惧症",
+      "score": "20"
+    }
+  ]
+}
