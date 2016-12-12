@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13153539",
+      "title": "Things You Notice When You Quit the News",
+      "score": "447"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13151566",
+      "title": "Run Unix processes inside your browser",
+      "score": "413"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13153031",
+      "title": "Proposed server purchase for GitLab.com",
+      "score": "311"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13153620",
+      "title": "uBlock Origin for Microsoft Edge",
+      "score": "248"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13154878",
+      "title": "What Makes a Senior Software Developer?",
+      "score": "238"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13151790",
+      "title": "Spaced repetition",
+      "score": "235"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13153664",
+      "title": "All of Richard Feynman’s physics lectures are now available free online (2014)",
+      "score": "223"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13152404",
+      "title": "How I use Anki to learn mathematics",
+      "score": "204"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13155894",
+      "title": "Why Google Pixel lags 10x more than Moto Z",
+      "score": "183"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13153814",
+      "title": "Linux 4.9 is out",
+      "score": "167"
+    }
+  ],
+  "medium": [
+    {
+      "title": "What I saw at the Michigan recount",
+      "score": "725",
+      "url": "https://medium.com/p/what-i-saw-at-the-michigan-recount-7c46fdc87243"
+    },
+    {
+      "title": "My search for a MacBook Pro alternative",
+      "score": "471",
+      "url": "https://medium.com/p/my-search-for-a-macbook-pro-alternative-e549ea2b2dee"
+    },
+    {
+      "title": "How I landed a top-tier tech internship by doing something I love",
+      "score": "720",
+      "url": "https://medium.com/p/how-doing-something-i-love-landed-me-a-top-tier-tech-internship-fe78d8b74e48"
+    },
+    {
+      "title": "Top JavaScript Frameworks & Topics to Learn in 2017",
+      "score": "744",
+      "url": "https://medium.com/p/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711"
+    },
+    {
+      "title": "How to be 1% Better Every Day (The Kaizen Approach to Self-improvement)",
+      "score": "1480",
+      "url": "https://medium.com/p/get-1-better-every-day-the-kaizen-approach-to-self-improvement-b79c9e045678"
+    },
+    {
+      "title": "Inside Peter Thiel’s Genius Factory",
+      "score": "603",
+      "url": "https://medium.com/p/inside-peter-thiels-genius-factory-7bf38303c7be"
+    },
+    {
+      "title": "Best Buy vs. The Apple Store",
+      "score": "812",
+      "url": "https://medium.com/p/best-buy-vs-the-apple-store-abb16cf342c0"
+    },
+    {
+      "title": "Our Tech Predictions for 2017",
+      "score": "331",
+      "url": "https://medium.com/p/our-tech-predictions-for-2017-5810bb931d63"
+    },
+    {
+      "title": "The Winners and Losers From NFL Week 14",
+      "score": "28",
+      "url": "https://medium.com/p/nfl-week-14-winners-losers-matt-barkley-rg3-harry-douglas-hit-16696080faae"
+    },
+    {
+      "title": "5 Things I Miss About Alcoholism",
+      "score": "449",
+      "url": "https://medium.com/p/5-things-i-miss-about-alcoholism-bf81fcd28996"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/2016-wrapped",
+      "title": "Overkill:  ",
+      "score": "40"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/kalani-hilliker-s-bot",
+      "title": "Ziltag:  ",
+      "score": "40"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/business-systems-explored-026-vinay-patankar-tony-brown",
+      "title": "Background:  ",
+      "score": "6"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/voblet",
+      "title": "SKID:  ",
+      "score": "17"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/suppo",
+      "title": "Hangry:  ",
+      "score": "8"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "497"
+    },
+    {
+      "url": "https://github.com/plasma-umass/browsix",
+      "title": "plasma-umass/browsix: Browsix is a Unix-like operating system for the browser.",
+      "score": "464"
+    },
+    {
+      "url": "https://github.com/lastbackend/lastbackend",
+      "title": "lastbackend/lastbackend: Apps cloud hosting you don't need to manage",
+      "score": "445"
+    },
+    {
+      "url": "https://github.com/wesbos/JavaScript30",
+      "title": "wesbos/JavaScript30: 30 Day Vanilla JS Challenge",
+      "score": "308"
+    },
+    {
+      "url": "https://github.com/omaralbeik/SwifterSwift",
+      "title": "omaralbeik/SwifterSwift: A handy collection of more than 365 native Swift 3 extensions to boost your productivity.",
+      "score": "255"
+    },
+    {
+      "url": "https://github.com/Kyubyong/numpy_exercises",
+      "title": "Kyubyong/numpy_exercises: Numpy exercises.",
+      "score": "174"
+    },
+    {
+      "url": "https://github.com/tensorflow/tensorflow",
+      "title": "tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning",
+      "score": "155"
+    },
+    {
+      "url": "https://github.com/babel/babel-preset-env",
+      "title": "babel/babel-preset-env:  Autoprefixer for Babel: compile less",
+      "score": "182"
+    },
+    {
+      "url": "https://github.com/bjarneo/Pytify",
+      "title": "bjarneo/Pytify: A CLI application for controlling Spotify",
+      "score": "154"
+    },
+    {
+      "url": "https://github.com/Cosmo/TinyConsole",
+      "title": "Cosmo/TinyConsole:  A tiny log console to display information while using your iOS app. Written in Swift 3.",
+      "score": "141"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/326939#reply134",
+      "title": "《你的名字。》这部电影真的好看么？",
+      "score": "134"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327003#reply109",
+      "title": "有强迫症的别折腾 Linux，太浪费时间了",
+      "score": "109"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327031#reply61",
+      "title": "新买的 mac 本，放在公司，结果公司被盗，本丢里，公司该赔付我的损失吗？",
+      "score": "61"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326986#reply46",
+      "title": "纠结到底 13 寸还是 15 寸",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327073#reply42",
+      "title": "破事水： 为什么 linux 一键安装脚本如此流行，你们敢不看内容直接贴 root 权限执行么",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327063#reply41",
+      "title": "双 12 被卖家蠢死了",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327084#reply41",
+      "title": "钱和正义选哪个？",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326938#reply34",
+      "title": "PS4 购买问题",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/326983#reply29",
+      "title": "这个 Api 工具不错，用的很顺手,效率杠杠的",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327038#reply29",
+      "title": "你们都有这种程度的朋友吗？",
+      "score": "29"
+    }
+  ]
+}
