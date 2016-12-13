@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13157497",
+      "title": "VimWiki – A personal wiki for Vim",
+      "score": "462"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13161538",
+      "title": "Why I still won’t review for or publish with Elsevier",
+      "score": "425"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13161155",
+      "title": "YC's Winter Reading List",
+      "score": "400"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13161505",
+      "title": "How Discord handles over a million requests per minute with Elixir’s GenStage",
+      "score": "310"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13163895",
+      "title": "Uber employees used the platform to stalk celebrities and their exes",
+      "score": "229"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13161832",
+      "title": "Pebble CEO explains why he sold to Fitbit",
+      "score": "220"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13161638",
+      "title": "The Music Industry Shouldn't Be Able to Cut Off Your Internet Access",
+      "score": "219"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13161396",
+      "title": "To Build a Better Ballot",
+      "score": "218"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13159943",
+      "title": "Radeon Instinct – Optimized Machine and Deep Learning",
+      "score": "205"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13164263",
+      "title": "Ubiquiti all the things: how I finally fixed my dodgy wifi",
+      "score": "190"
+    }
+  ],
+  "medium": [
+    {
+      "title": "The Winners and Losers From NFL Week 14",
+      "score": "56",
+      "url": "https://medium.com/p/nfl-week-14-winners-losers-matt-barkley-rg3-harry-douglas-hit-16696080faae"
+    },
+    {
+      "title": "Ten More ‘Star Wars’ Stories We Want to See",
+      "score": "84",
+      "url": "https://medium.com/p/ten-more-star-wars-stories-we-want-to-see-eecf1506c4fb"
+    },
+    {
+      "title": "How I landed a top-tier tech internship by doing something I love",
+      "score": "1176",
+      "url": "https://medium.com/p/how-doing-something-i-love-landed-me-a-top-tier-tech-internship-fe78d8b74e48"
+    },
+    {
+      "title": "The Nine Most Important Questions About ‘The Fate of the Furious’ Trailer",
+      "score": "130",
+      "url": "https://medium.com/p/the-nine-most-important-questions-about-the-fate-of-the-furious-trailer-202f296d92a4"
+    },
+    {
+      "title": "The Inside Story Behind Pebble’s Demise",
+      "score": "189",
+      "url": "https://medium.com/p/the-real-story-behind-pebbles-demise-303802a7afaa"
+    },
+    {
+      "title": "NFL Week 14 Recap: The Packers Are Terrifying Again",
+      "score": "41",
+      "url": "https://medium.com/p/nfl-week-14-recap-green-bay-packers-aaron-rodgers-6b00e6410b98"
+    },
+    {
+      "title": "My search for a MacBook Pro alternative",
+      "score": "631",
+      "url": "https://medium.com/p/my-search-for-a-macbook-pro-alternative-e549ea2b2dee"
+    },
+    {
+      "title": "Andrew Wiggins vs. Advanced Stats",
+      "score": "56",
+      "url": "https://medium.com/p/andrew-wiggins-timberwolves-advanced-stats-debate-1588a6909ce8"
+    },
+    {
+      "title": "What I saw at the Michigan recount",
+      "score": "1018",
+      "url": "https://medium.com/p/what-i-saw-at-the-michigan-recount-7c46fdc87243"
+    },
+    {
+      "title": "Here’s Why Client-side Rendering Won",
+      "score": "268",
+      "url": "https://medium.com/p/heres-why-client-side-rendering-won-46a349fadb52"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/website-template-bar",
+      "title": "Viral Loops for Startups:  ",
+      "score": "28"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/touch-bar-piano",
+      "title": "Weflock:  ",
+      "score": "35"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/life-is-strange-2",
+      "title": "This OR That:  ",
+      "score": "11"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/fake-iphone-text",
+      "title": "Pixibot:  ",
+      "score": "14"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/breaking-into-startups-episode-5-meghan-schofield",
+      "title": "QuickRes:  ",
+      "score": "4"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/zeit/hyper",
+      "title": "zeit/hyper: A terminal built on web technologies",
+      "score": "826"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "576"
+    },
+    {
+      "url": "https://github.com/omaralbeik/SwifterSwift",
+      "title": "omaralbeik/SwifterSwift: A handy collection of more than 370 native Swift 3 extensions to boost your productivity.",
+      "score": "566"
+    },
+    {
+      "url": "https://github.com/plasma-umass/browsix",
+      "title": "plasma-umass/browsix: Browsix is a Unix-like operating system for the browser.",
+      "score": "427"
+    },
+    {
+      "url": "https://github.com/wesbos/JavaScript30",
+      "title": "wesbos/JavaScript30: 30 Day Vanilla JS Challenge",
+      "score": "337"
+    },
+    {
+      "url": "https://github.com/vimwiki/vimwiki",
+      "title": "vimwiki/vimwiki: Personal Wiki for Vim",
+      "score": "323"
+    },
+    {
+      "url": "https://github.com/krzysztofzablocki/Sourcery",
+      "title": "krzysztofzablocki/Sourcery: A tool that brings meta-programming to Swift, allowing you to code generate Swift code.",
+      "score": "316"
+    },
+    {
+      "url": "https://github.com/lastbackend/lastbackend",
+      "title": "lastbackend/lastbackend: #cloud #docker #kubernetes #AppDev #hosting",
+      "score": "257"
+    },
+    {
+      "url": "https://github.com/Nightonke/BoomMenu",
+      "title": "Nightonke/BoomMenu: A menu which can ... BOOM! - Android",
+      "score": "241"
+    },
+    {
+      "url": "https://github.com/mhausenblas/dnpipes",
+      "title": "mhausenblas/dnpipes: Distributed Named Pipes",
+      "score": "234"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/327212#reply68",
+      "title": "奇葩联通。连接 wifi 情况下还会跑流量？联通客服答复哪个信号强走哪个。。。",
+      "score": "68"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327217#reply39",
+      "title": "推荐一款 ssh 工具 -- shuttle",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327285#reply37",
+      "title": "macbook pro 怎么搭配的电脑包大家",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327309#reply29",
+      "title": "不想当架构师的程序员不是好码农，送你一本《架构师》2016 全年合集可好？",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327341#reply27",
+      "title": "无心失误给公司造成损失，全额承担后果？",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327244#reply26",
+      "title": "国家电网对数据泄漏的回复太 jb 逗了。。",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327223#reply25",
+      "title": "12 月 13 日的 Java 面试题，继续探讨下",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327283#reply25",
+      "title": "为什么同是 Adobe 公司的产品， Photoshop 和 Flash 的技术水准差别这么大？",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327232#reply24",
+      "title": "整理了一些 C/C++的文档...",
+      "score": "24"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327220#reply23",
+      "title": "alfred workflows 多风格的编码变量 插件...",
+      "score": "23"
+    }
+  ]
+}
