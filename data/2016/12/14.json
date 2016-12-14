@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13168888",
+      "title": "Waymo: Google's self-driving car company",
+      "score": "727"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13168257",
+      "title": "A Backdoor in Skype for Mac OS X",
+      "score": "328"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13173417",
+      "title": "New NIST password guidelines: don't require character types or rotation",
+      "score": "312"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13171007",
+      "title": "Sharing National Security Letters with the Public",
+      "score": "287"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13170837",
+      "title": "Show HN: The Road to learn React – Build a Hacker News App on the Way",
+      "score": "248"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13171087",
+      "title": "AMD Gives More Zen Details",
+      "score": "244"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13169831",
+      "title": "AirPods are now available",
+      "score": "231"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13168694",
+      "title": "Slack Calls: Now with video",
+      "score": "228"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13169309",
+      "title": "PR 101 for engineers",
+      "score": "191"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13173007",
+      "title": "Steve Wozniak Was My Computer Teacher in 1995",
+      "score": "185"
+    }
+  ],
+  "medium": [
+    {
+      "title": "The Inside Story Behind Pebble’s Demise",
+      "score": "522",
+      "url": "https://medium.com/p/the-real-story-behind-pebbles-demise-303802a7afaa"
+    },
+    {
+      "title": "Why Most People Will Never Be Successful",
+      "score": "1115",
+      "url": "https://medium.com/p/why-most-people-will-never-be-successful-c93631357133"
+    },
+    {
+      "title": "Bill Belichick Is the Master of the Sick Burn",
+      "score": "81",
+      "url": "https://medium.com/p/bill-belichick-patriots-coaching-insults-sarcasm-humor-e5438e05f13"
+    },
+    {
+      "title": "Understanding Basketball Footwork",
+      "score": "127",
+      "url": "https://medium.com/p/nba-footwork-demar-derozan-giannis-antetokounmpo-jj-redick-c7819c1289b9"
+    },
+    {
+      "title": "Here’s Why Client-side Rendering Won",
+      "score": "484",
+      "url": "https://medium.com/p/heres-why-client-side-rendering-won-46a349fadb52"
+    },
+    {
+      "title": "How to be 1% Better Every Day (The Kaizen Approach to Self-improvement)",
+      "score": "2077",
+      "url": "https://medium.com/p/get-1-better-every-day-the-kaizen-approach-to-self-improvement-b79c9e045678"
+    },
+    {
+      "title": "My search for a MacBook Pro alternative",
+      "score": "730",
+      "url": "https://medium.com/p/my-search-for-a-macbook-pro-alternative-e549ea2b2dee"
+    },
+    {
+      "title": "Darling, Mommy Might Die",
+      "score": "293",
+      "url": "https://medium.com/p/darling-mommy-might-die-e3449e4e1ddf"
+    },
+    {
+      "title": "Choice Minimalism: Why Mark Zuckerberg Wears the Same Thing Every Day",
+      "score": "343",
+      "url": "https://medium.com/p/choice-minimalism-why-mark-zuckerberg-wears-the-same-thing-every-day-2f132f1b5706"
+    },
+    {
+      "title": "How I landed a top-tier tech internship by doing something I love",
+      "score": "1419",
+      "url": "https://medium.com/p/how-doing-something-i-love-landed-me-a-top-tier-tech-internship-fe78d8b74e48"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/imgur-5-0",
+      "title": "The Stocks v2:  ",
+      "score": "44"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/everhour-2",
+      "title": "Breakout List, 2017:  ",
+      "score": "39"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/primo-2",
+      "title": "Tettra:  ",
+      "score": "17"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/facepot",
+      "title": "Calendar.help:  ",
+      "score": "5"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/skyguru",
+      "title": "Global Starters:  ",
+      "score": "13"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/zeit/hyper",
+      "title": "zeit/hyper: A terminal built on web technologies",
+      "score": "702"
+    },
+    {
+      "url": "https://github.com/mawww/kakoune",
+      "title": "mawww/kakoune: mawww's experiment for a better code editor",
+      "score": "591"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "548"
+    },
+    {
+      "url": "https://github.com/RedMail/RedMail",
+      "title": "RedMail/RedMail: A suitable for private use mail server , simple rapid deployment",
+      "score": "456"
+    },
+    {
+      "url": "https://github.com/omaralbeik/SwifterSwift",
+      "title": "omaralbeik/SwifterSwift: A handy collection of more than 370 native Swift 3 extensions to boost your productivity.",
+      "score": "410"
+    },
+    {
+      "url": "https://github.com/wesbos/JavaScript30",
+      "title": "wesbos/JavaScript30: 30 Day Vanilla JS Challenge",
+      "score": "257"
+    },
+    {
+      "url": "https://github.com/jessepollak/card",
+      "title": "jessepollak/card:  make your credit card form better in one line of code",
+      "score": "252"
+    },
+    {
+      "url": "https://github.com/neveragaindottech/neveragaindottech.github.io",
+      "title": "neveragaindottech/neveragaindottech.github.io: Source files for the neveragain.tech site",
+      "score": "52"
+    },
+    {
+      "url": "https://github.com/coolcooldee/sloth",
+      "title": "coolcooldee/sloth:  a code generator for complete java scaffold code ( likes Ruby on Rails ) , based on database schema and springboot framework 。",
+      "score": "258"
+    },
+    {
+      "url": "https://github.com/GPUOpen-ProfessionalCompute-Tools/HIP",
+      "title": "GPUOpen-ProfessionalCompute-Tools/HIP: HIP : Convert CUDA to Portable C++ Code",
+      "score": "236"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/327497#reply69",
+      "title": "公司强制员工关注企业微信公众号",
+      "score": "69"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327515#reply68",
+      "title": "「七牛」我是如何从粉转黑的 😑",
+      "score": "68"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327529#reply49",
+      "title": "win10 专业版 1607 最新磁盘 100%问题",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327483#reply40",
+      "title": "线程题，今天探讨线程问题...",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327499#reply35",
+      "title": "安全提醒 - 来自京东商城密码泄漏的撞库攻击",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327563#reply34",
+      "title": "你们申请的中信京东白条联名卡额度都有多少",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327605#reply34",
+      "title": "[盖楼送书] 让工作更高效优雅~这次除了送书，还邀您体验免费的 Bug 管理云",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327486#reply30",
+      "title": "现在各种隐私泄露，有没有保护个人隐私的方法？",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327559#reply28",
+      "title": "再小的上线，也有意外等着你",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327650#reply23",
+      "title": "这会是 2016 年前端的年末撕逼吗？",
+      "score": "23"
+    }
+  ]
+}
