@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13180033",
+      "title": "Yahoo discloses hack of 1B accounts",
+      "score": "723"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13182120",
+      "title": "Yahoo installed a backdoor for the NSA behind the back of the security team",
+      "score": "519"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13177718",
+      "title": "Kickstarter open-sources their Android and iOS apps",
+      "score": "506"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13175388",
+      "title": "CHVote: Open-source e-voting system from Switzerland",
+      "score": "403"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13180885",
+      "title": "One More Sign World Is Shrinking – eBay Is for Suckers",
+      "score": "363"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13179525",
+      "title": "Visual Studio Code 1.8",
+      "score": "342"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13175832",
+      "title": "I've been writing ring buffers wrong all these years",
+      "score": "319"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13178305",
+      "title": "Does It Make Sense for Programmers to Move to the Bay Area?",
+      "score": "309"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13180312",
+      "title": "Starting a real business",
+      "score": "299"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13182726",
+      "title": "GodBolt: Enter C, get Assembly",
+      "score": "203"
+    }
+  ],
+  "medium": [
+    {
+      "title": "39 Reasons We Won’t Soon Forget 2016",
+      "score": "363",
+      "url": "https://medium.com/p/39-reasons-we-wont-soon-forget-2016-154ac95683af"
+    },
+    {
+      "title": "How a 7-year-old Aleppo girl on Twitter became our era’s Anne Frank",
+      "score": "415",
+      "url": "https://medium.com/p/how-a-7-year-old-aleppo-girl-on-twitter-became-our-eras-anne-frank-5e8bb685ff18"
+    },
+    {
+      "title": "The Inside Story Behind Pebble’s Demise",
+      "score": "707",
+      "url": "https://medium.com/p/the-real-story-behind-pebbles-demise-303802a7afaa"
+    },
+    {
+      "title": "J.R. Smith, Rajon Rondo, and the Post-Contract-Year Regression All-Stars",
+      "score": "75",
+      "url": "https://medium.com/p/the-post-contract-year-regression-all-stars-ffb984e82368"
+    },
+    {
+      "title": "Why Most People Will Never Be Successful",
+      "score": "1527",
+      "url": "https://medium.com/p/why-most-people-will-never-be-successful-c93631357133"
+    },
+    {
+      "title": "When NBA Players Go Off Brand",
+      "score": "142",
+      "url": "https://medium.com/p/on-and-off-brand-basketball-c643ec48c681"
+    },
+    {
+      "title": "Muzli choices in design for 2016",
+      "score": "262",
+      "url": "https://medium.com/p/muzli-choices-in-design-for-2016-f7777541f8c3"
+    },
+    {
+      "title": "The Bearer of Bad Browns News",
+      "score": "48",
+      "url": "https://medium.com/p/mary-kay-cabot-cleveland-browns-beat-reporter-nfl-8499bd2ef346"
+    },
+    {
+      "title": "My search for a MacBook Pro alternative",
+      "score": "823",
+      "url": "https://medium.com/p/my-search-for-a-macbook-pro-alternative-e549ea2b2dee"
+    },
+    {
+      "title": "Your Office Christmas Party Explained… on some post-it notes.",
+      "score": "243",
+      "url": "https://medium.com/p/your-office-christmas-party-explained-on-some-post-it-notes-7b6670c61f05"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/userengage",
+      "title": "Mindful (Beta):  ",
+      "score": "71"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/innovatecards",
+      "title": "Desk 3.0:  ",
+      "score": "17"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/swiftgift-for-imessage",
+      "title": "Ecommerce Stack:  ",
+      "score": "19"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/mojilala-unlimited",
+      "title": "Microsoft Translator 3.0:  ",
+      "score": "60"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/shadowbid",
+      "title": "World of Sales - Episode #4: Meet Kylie:  ",
+      "score": "59"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/cloudson/gitql",
+      "title": "cloudson/gitql: A git query language",
+      "score": "1614"
+    },
+    {
+      "url": "https://github.com/kickstarter/ios-oss",
+      "title": "kickstarter/ios-oss: Kickstarter for iOS. Bring new ideas to life, anywhere.",
+      "score": "1237"
+    },
+    {
+      "url": "https://github.com/kickstarter/android-oss",
+      "title": "kickstarter/android-oss: Kickstarter for Android. Bring new ideas to life, anywhere.",
+      "score": "909"
+    },
+    {
+      "url": "https://github.com/neveragaindottech/neveragaindottech.github.io",
+      "title": "neveragaindottech/neveragaindottech.github.io: Source files for the neveragain.tech site",
+      "score": "243"
+    },
+    {
+      "url": "https://github.com/muicss/loadjs",
+      "title": "muicss/loadjs: A tiny async loader for modern browsers (710 bytes)",
+      "score": "461"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "458"
+    },
+    {
+      "url": "https://github.com/republique-et-canton-de-geneve/chvote-1-0",
+      "title": "republique-et-canton-de-geneve/chvote-1-0: CHVote 1.0 repository",
+      "score": "321"
+    },
+    {
+      "url": "https://github.com/jessepollak/card",
+      "title": "jessepollak/card:  make your credit card form better in one line of code",
+      "score": "316"
+    },
+    {
+      "url": "https://github.com/docker/containerd",
+      "title": "docker/containerd: An open and reliable container runtime, by Docker",
+      "score": "277"
+    },
+    {
+      "url": "https://github.com/shaohui10086/ShareUtil",
+      "title": "shaohui10086/ShareUtil: 社会化登录分享工具库",
+      "score": "273"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/327744#reply82",
+      "title": "B 站的视频那么流畅，然而一个广告都没有，它靠什么盈利/生存？？",
+      "score": "82"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327754#reply38",
+      "title": "Evernote 新的隐私政策将于 2017 年 1 月 23 日生效，允许员工查看用户笔记内容",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327752#reply32",
+      "title": "上海租房子一般通过什么渠道比较靠谱",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327771#reply32",
+      "title": "Super Mario Run 今日发行，大家会买吗？",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327756#reply30",
+      "title": "（朋友）涨薪 20W，做近似的工作，跳槽到 B 公司，靠谱吗？",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327803#reply27",
+      "title": "用 Vue + Laravel 重写了我的博客 <img src=\"/static/img/doge.gif\" style=\"vertical-align: middle; margin: 0px 0px 2px 0px\" alt=\"doge\" />",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327734#reply26",
+      "title": "日本最近有什么好买的电子产品",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327772#reply26",
+      "title": "Pastebot 售价： 128RMB，这货谁买？",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327801#reply25",
+      "title": "同志们，是时候群穿回三十年前重造历史了！",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327791#reply24",
+      "title": "培训机构泄漏身份证信息，如何合理维护自己的权益。",
+      "score": "24"
+    }
+  ]
+}
