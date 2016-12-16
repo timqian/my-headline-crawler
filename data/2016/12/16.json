@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13187315",
+      "title": "German research institutions boycott Elsevier",
+      "score": "649"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13188574",
+      "title": "GitHub lost $66M in nine months of 2016",
+      "score": "425"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13189743",
+      "title": "World Energy Hits a Turning Point: Solar That's Cheaper Than Wind",
+      "score": "387"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13187360",
+      "title": "Amazon Restaurants",
+      "score": "304"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13190824",
+      "title": "Google Web Designer",
+      "score": "284"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13185759",
+      "title": "Pyret – A language exploring scripting and functional programming",
+      "score": "277"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13186093",
+      "title": "The First Annual Underhanded Rust Contest",
+      "score": "223"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13187316",
+      "title": "Leonardo Da Vinci’s To Do List (circa 1490)",
+      "score": "219"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13189864",
+      "title": "Scientists Say the Clock of Aging May Be Reversible",
+      "score": "218"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13188178",
+      "title": "Moody's: U.S. Telecoms are underinvesting in broadband",
+      "score": "191"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Why I Studied Full-Time for 8 Months for a Google Interview",
+      "score": "874",
+      "url": "https://medium.com/p/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13"
+    },
+    {
+      "title": "Let Me Point out to you How Ridiculous the Trump Tech Meeting Was",
+      "score": "1271",
+      "url": "https://medium.com/p/let-me-point-out-to-you-how-ridiculous-the-trump-tech-meeting-was-14c318986244"
+    },
+    {
+      "title": "NBA Sliding Doors: The Great Boogie Heist",
+      "score": "176",
+      "url": "https://medium.com/p/nba-sliding-doors-demarcus-cousins-boston-celtics-good-boogie-967f2f1b26e4"
+    },
+    {
+      "title": "39 Reasons We Won’t Soon Forget 2016",
+      "score": "670",
+      "url": "https://medium.com/p/39-reasons-we-wont-soon-forget-2016-154ac95683af"
+    },
+    {
+      "title": "NBA Sliding Doors: Fear the Boogie Man",
+      "score": "135",
+      "url": "https://medium.com/p/nba-sliding-doors-demarcus-cousins-boston-celtics-bad-boogie-8eb5898f2821"
+    },
+    {
+      "title": "The 25 Worst Contracts in Baseball",
+      "score": "48",
+      "url": "https://medium.com/p/the-25-worst-contracts-in-baseball-b98692ba39d2"
+    },
+    {
+      "title": "NBA Shootaround: Brook Lopez Is Still Alive, We Think",
+      "score": "46",
+      "url": "https://medium.com/p/nba-shootaround-brook-lopez-is-still-alive-we-think-dc75bd531c06"
+    },
+    {
+      "title": "The Top Five NBA Rookies, Ranked by Their Best Skill",
+      "score": "54",
+      "url": "https://medium.com/p/the-top-five-nba-rookies-ranked-by-their-best-skill-2aa4e84e10a1"
+    },
+    {
+      "title": "The Syrian War Condensed: A more Rigorous Way to Look at the Conflict",
+      "score": "421",
+      "url": "https://medium.com/p/the-syrian-war-condensed-a-more-rigorous-way-to-look-at-the-conflict-f841404c3b1d"
+    },
+    {
+      "title": "Why Most People Will Never Be Successful",
+      "score": "1825",
+      "url": "https://medium.com/p/why-most-people-will-never-be-successful-c93631357133"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/kuoll",
+      "title": "VR Resources — Facebook Design:  ",
+      "score": "27"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/foundr-podcast-122-francesca-cavallo-of-timbuktu-labs",
+      "title": "Postmates Gift Cards:  ",
+      "score": "2"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/deezer-imessage-app",
+      "title": "RAW+:  ",
+      "score": "9"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/insto-2",
+      "title": "Slinky:  ",
+      "score": "5"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/real-light-sword-app",
+      "title": "Cinemagraph eCard Builder:  ",
+      "score": "6"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "986"
+    },
+    {
+      "url": "https://github.com/kickstarter/ios-oss",
+      "title": "kickstarter/ios-oss: Kickstarter for iOS. Bring new ideas to life, anywhere.",
+      "score": "969"
+    },
+    {
+      "url": "https://github.com/kickstarter/android-oss",
+      "title": "kickstarter/android-oss: Kickstarter for Android. Bring new ideas to life, anywhere.",
+      "score": "950"
+    },
+    {
+      "url": "https://github.com/cloudson/gitql",
+      "title": "cloudson/gitql: A git query language",
+      "score": "796"
+    },
+    {
+      "url": "https://github.com/Bilibili/flv.js",
+      "title": "Bilibili/flv.js: HTML5 FLV Player",
+      "score": "628"
+    },
+    {
+      "url": "https://github.com/BinRoot/TensorFlow-Book",
+      "title": "BinRoot/TensorFlow-Book: Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.",
+      "score": "476"
+    },
+    {
+      "url": "https://github.com/material-components/material-components-android",
+      "title": "material-components/material-components-android: Modular and customizable Material Design UI components for Android",
+      "score": "480"
+    },
+    {
+      "url": "https://github.com/panzerdp/voca",
+      "title": "panzerdp/voca: The ultimate JavaScript string library",
+      "score": "431"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "423"
+    },
+    {
+      "url": "https://github.com/material-components/material-components-web",
+      "title": "material-components/material-components-web: Modular and customizable Material Design UI components for the web",
+      "score": "402"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/328006#reply72",
+      "title": "为什么大家信任苹果团？信任来自何处？（ 2016 年末）",
+      "score": "72"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328088#reply57",
+      "title": "技术面时被问给大象装冰箱分几步，有人遇到过吗",
+      "score": "57"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327989#reply54",
+      "title": "见过世界最大单体建筑吗？",
+      "score": "54"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328092#reply48",
+      "title": "调查：你愿意尝试会员制电商购物吗",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327982#reply41",
+      "title": "该来的终于来了——JetBrains 的 Go IDE 开始接受内测申请",
+      "score": "41"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328037#reply37",
+      "title": "说个笑话，关于 python",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328003#reply36",
+      "title": "微云调整公告 1T 变 10G",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328061#reply36",
+      "title": "欠薪就不干活，这逻辑有问题吗？",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/327996#reply35",
+      "title": "守望先锋联名信用卡...可以五折买游戏",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328074#reply33",
+      "title": "大家中午都午睡吗？",
+      "score": "33"
+    }
+  ]
+}
