@@ -1,0 +1,232 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13189743",
+      "title": "World Energy Hits a Turning Point: Solar That's Cheaper Than Wind",
+      "score": "717"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13192738",
+      "title": "The Idea of Lisp",
+      "score": "417"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13194074",
+      "title": "Show HN: Hire an Oldster",
+      "score": "411"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13198567",
+      "title": "How is NSA breaking so much crypto?",
+      "score": "286"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13193172",
+      "title": "MacOS FileVault2 Password Retrieval",
+      "score": "252"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13195587",
+      "title": "Prenda Law “copyright trolls” Steele and Hansmeier arrested",
+      "score": "208"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13197143",
+      "title": "Uber's predatory pricing is undermining public transit and density",
+      "score": "170"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13192052",
+      "title": "Stroustrup's Rule and Layering Over Time in Rust",
+      "score": "162"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13196605",
+      "title": "Web Fundamentals",
+      "score": "145"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13197461",
+      "title": "Why is .NET reflection slow?",
+      "score": "121"
+    }
+  ],
+  "medium": [
+    {
+      "title": "The Fall of the 49ers",
+      "score": "74",
+      "url": "https://medium.com/p/nfl-san-francisco-49ers-2016-struggler-chip-kelly-trent-baalke-jed-york-6f31eb4da112"
+    },
+    {
+      "title": "I studied full-time for 8 months just for a Google interview",
+      "score": "1605",
+      "url": "https://medium.com/p/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13"
+    },
+    {
+      "title": "I thought I was designing for SpaceX, I was actually designing for the Silk Road",
+      "score": "292",
+      "url": "https://medium.com/p/i-thought-i-was-designing-for-spacex-i-was-actually-designing-for-the-silk-road-4b4b64834868"
+    },
+    {
+      "title": "Week 15 NFL Picks: A Showcase for the Unconventional MVP",
+      "score": "24",
+      "url": "https://medium.com/p/nfl-picks-week-15-unconventional-mvp-candidates-von-miller-eric-berry-ff5789dd3cf9"
+    },
+    {
+      "title": "J’ai trente ans, j’ai quitté mon CDI et je suis heureuse. Auto-portrait sans concession de Florie",
+      "score": "102",
+      "url": "https://medium.com/p/jai-trente-ans-j-ai-quitté-mon-cdi-et-je-suis-heureuse-auto-portrait-sans-concession-de-florie-d953c7456ad9"
+    },
+    {
+      "title": "The Five Best (or Worst) Non-Vader ‘Star Wars’ Villains",
+      "score": "43",
+      "url": "https://medium.com/p/star-wars-villains-darth-maul-boba-fett-count-dooku-637f016a7cb4"
+    },
+    {
+      "title": "Voyage au pays des sexistes et homophobes",
+      "score": "1079",
+      "url": "https://medium.com/p/voyage-au-pays-des-sexistes-et-homophobes-3706575ea544"
+    },
+    {
+      "title": "Trump, Putin and the Pipelines to Nowhere",
+      "score": "633",
+      "url": "https://medium.com/p/trump-putin-and-the-pipelines-to-nowhere-742d745ce8fd"
+    },
+    {
+      "title": "Minnesota football players boycott bowl game to protest suspensions for alleged gang rape",
+      "score": "4",
+      "url": "https://medium.com/p/minnesota-football-players-boycott-bowl-game-to-protest-suspensions-for-alleged-gang-rape-79d973e9f09d"
+    },
+    {
+      "title": "Let Me Point out to you How Ridiculous the Trump Tech Meeting Was",
+      "score": "1672",
+      "url": "https://medium.com/p/let-me-point-out-to-you-how-ridiculous-the-trump-tech-meeting-was-14c318986244"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/vossier",
+      "title": "QnA Maker by Microsoft:  ",
+      "score": "26"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/the-peg-board-from-greycork",
+      "title": "Bouncy Ball:  ",
+      "score": "11"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/touch-bar-space-fight",
+      "title": "OpenCompany:  ",
+      "score": "8"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/boardup",
+      "title": "Excellence Expected #3 - Bootstrap Branding with Phil Pallen &amp; Kyle Wilkinson:  ",
+      "score": "9"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "1637"
+    },
+    {
+      "url": "https://github.com/Bilibili/flv.js",
+      "title": "Bilibili/flv.js: HTML5 FLV Player",
+      "score": "746"
+    },
+    {
+      "url": "https://github.com/BinRoot/TensorFlow-Book",
+      "title": "BinRoot/TensorFlow-Book: Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.",
+      "score": "553"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "396"
+    },
+    {
+      "url": "https://github.com/kickstarter/ios-oss",
+      "title": "kickstarter/ios-oss: Kickstarter for iOS. Bring new ideas to life, anywhere.",
+      "score": "362"
+    },
+    {
+      "url": "https://github.com/MicheleBertoli/react-fix-it",
+      "title": "MicheleBertoli/react-fix-it: Automagically generate tests from errors",
+      "score": "366"
+    },
+    {
+      "url": "https://github.com/material-components/material-components-web",
+      "title": "material-components/material-components-web: Modular and customizable Material Design UI components for the web",
+      "score": "346"
+    },
+    {
+      "url": "https://github.com/material-components/material-components-android",
+      "title": "material-components/material-components-android: Modular and customizable Material Design UI components for Android",
+      "score": "348"
+    },
+    {
+      "url": "https://github.com/kickstarter/android-oss",
+      "title": "kickstarter/android-oss: Kickstarter for Android. Bring new ideas to life, anywhere.",
+      "score": "304"
+    },
+    {
+      "url": "https://github.com/panzerdp/voca",
+      "title": "panzerdp/voca: The ultimate JavaScript string library",
+      "score": "319"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/328262#reply34",
+      "title": "知乎节操掉光了，只支持国内手机号注册了。如何看待现在国内网站强制手机号注册？",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328288#reply31",
+      "title": "过年回家，好多东西好快递回去，选哪个？",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328236#reply30",
+      "title": "今天到货的 2016 macbook pro",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328232#reply29",
+      "title": "目前有什么好用干净的 Win PE",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328228#reply23",
+      "title": "右手腕不舒服，改用左手用鼠标，问大家个问题，你们左手用鼠标，切换左右键么？",
+      "score": "23"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328242#reply20",
+      "title": "周末耍电脑好冻手啊,该怎么取暖？",
+      "score": "20"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328254#reply18",
+      "title": "还是要买带 bar makbook pro 的理由",
+      "score": "18"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328263#reply18",
+      "title": "太善良真不是件好事，遇到这种情况你们会怎么处理呢？",
+      "score": "18"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328237#reply16",
+      "title": "有没有通过 uefi 启动的 win7 pe？",
+      "score": "16"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328223#reply15",
+      "title": "Ubuntu 图形界面闪烁是怎么回事？",
+      "score": "15"
+    }
+  ]
+}
