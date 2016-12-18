@@ -1,0 +1,222 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13198567",
+      "title": "How is NSA breaking so much crypto? (2015)",
+      "score": "525"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13201876",
+      "title": "Finland will hand out cash to 2000 jobless people to test universal basic income",
+      "score": "510"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13201756",
+      "title": "Galileo navigation satellite system goes live",
+      "score": "308"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13202132",
+      "title": "Ask YC: Any Updates on the Basic Income Project?",
+      "score": "244"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13200000",
+      "title": "SQL Server on Linux public preview",
+      "score": "220"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13200455",
+      "title": "Shopify has paid over $300k in security exploit bounties",
+      "score": "215"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13202114",
+      "title": "Single-file C/C++ public-domain/open source libraries with minimal dependencies",
+      "score": "202"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13200633",
+      "title": "Haiku booting in UEFI mode",
+      "score": "200"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13201910",
+      "title": "God's Number is 20",
+      "score": "196"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13201065",
+      "title": "No Proton Decay Means Grand Unification Must Wait",
+      "score": "132"
+    }
+  ],
+  "medium": [
+    {
+      "title": "J’ai trente ans, j’ai quitté mon CDI et je suis heureuse. Auto-portrait sans concession de Florie",
+      "score": "318",
+      "url": "https://medium.com/p/jai-trente-ans-j-ai-quitté-mon-cdi-et-je-suis-heureuse-auto-portrait-sans-concession-de-florie-d953c7456ad9"
+    },
+    {
+      "title": "Trump, Putin and the Pipelines to Nowhere",
+      "score": "1437",
+      "url": "https://medium.com/p/trump-putin-and-the-pipelines-to-nowhere-742d745ce8fd"
+    },
+    {
+      "title": "The Fall of the 49ers",
+      "score": "107",
+      "url": "https://medium.com/p/nfl-san-francisco-49ers-2016-struggler-chip-kelly-trent-baalke-jed-york-6f31eb4da112"
+    },
+    {
+      "title": "The North Carolina GOP’s Power Grab Represents the End of Democracy",
+      "score": "191",
+      "url": "https://medium.com/p/the-north-carolina-gops-power-grab-represents-the-end-of-democracy-d94a68ca3000"
+    },
+    {
+      "title": "Minnesota football players boycott bowl game to protest suspensions for alleged gang rape",
+      "score": "12",
+      "url": "https://medium.com/p/minnesota-football-players-boycott-bowl-game-to-protest-suspensions-for-alleged-gang-rape-79d973e9f09d"
+    },
+    {
+      "title": "A letter from flyover country",
+      "score": "260",
+      "url": "https://medium.com/p/a-letter-from-flyover-country-5d4e9c32d2ac"
+    },
+    {
+      "title": "I studied full-time for 8 months just for a Google interview",
+      "score": "2096",
+      "url": "https://medium.com/p/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13"
+    },
+    {
+      "title": "‘Rogue One’ Is the Best War Movie Since ‘Saving Private Ryan’",
+      "score": "165",
+      "url": "https://medium.com/p/star-wars-rogue-one-review-d9ab4f86452d"
+    },
+    {
+      "title": "Week 15 NFL Picks: A Showcase for the Unconventional MVP",
+      "score": "29",
+      "url": "https://medium.com/p/nfl-picks-week-15-unconventional-mvp-candidates-von-miller-eric-berry-ff5789dd3cf9"
+    },
+    {
+      "title": "NBA Sliding Doors: The Great Boogie Heist",
+      "score": "230",
+      "url": "https://medium.com/p/nba-sliding-doors-demarcus-cousins-boston-celtics-good-boogie-967f2f1b26e4"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/make-america-kittens-again",
+      "title": "Which Cat Are You?:  ",
+      "score": "11"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/excellence-expected-4-measuring-what-matters-with-ash-maurya",
+      "title": "Learn Educate Discover - Live As If You Have Cancer, Jim McCarthy, Employee #258 @yahoo:  ",
+      "score": "3"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "858"
+    },
+    {
+      "url": "https://github.com/nothings/single_file_libs",
+      "title": "nothings/single_file_libs: List of single-file C/C++ libraries.",
+      "score": "509"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "377"
+    },
+    {
+      "url": "https://github.com/Bilibili/flv.js",
+      "title": "Bilibili/flv.js: HTML5 FLV Player",
+      "score": "238"
+    },
+    {
+      "url": "https://github.com/andrew/github-inbox",
+      "title": "andrew/github-inbox:  Take back control of your GitHub Notifications",
+      "score": "254"
+    },
+    {
+      "url": "https://github.com/intelxed/xed",
+      "title": "intelxed/xed: x86 encoder decoder",
+      "score": "234"
+    },
+    {
+      "url": "https://github.com/BinRoot/TensorFlow-Book",
+      "title": "BinRoot/TensorFlow-Book: Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.",
+      "score": "198"
+    },
+    {
+      "url": "https://github.com/MicheleBertoli/react-fix-it",
+      "title": "MicheleBertoli/react-fix-it: Automagically generate tests from errors",
+      "score": "182"
+    },
+    {
+      "url": "https://github.com/kickstarter/ios-oss",
+      "title": "kickstarter/ios-oss: Kickstarter for iOS. Bring new ideas to life, anywhere.",
+      "score": "150"
+    },
+    {
+      "url": "https://github.com/jonan/ForkHub",
+      "title": "jonan/ForkHub: GitHub client for Android based on the abandoned official app",
+      "score": "154"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/328398#reply72",
+      "title": "大学宿舍里有人凌晨一点多还在大声打游戏，请问如何能自行控制宿舍网络？",
+      "score": "72"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328402#reply42",
+      "title": "[村通网] Android 6.0 如何按日设定流量配额",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328442#reply25",
+      "title": "[12306] 怎么回家？",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328409#reply22",
+      "title": "13 rmbp ME865 电池只能坚持 5 小时了",
+      "score": "22"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328444#reply22",
+      "title": "会写代码的青年，你还好吗？",
+      "score": "22"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328394#reply20",
+      "title": "求推荐空气净化器",
+      "score": "20"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328392#reply19",
+      "title": ".checkbox+.checkbox, .radio+.radio { ... } 这都是什么写法啊？前端真是越来越复杂了。。。",
+      "score": "19"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328426#reply19",
+      "title": "最暗下亮度不均。是 AMOLED 屏幕本来就这样，还是我的 一加 3T 屏幕就这样？",
+      "score": "19"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328453#reply15",
+      "title": "星光互连的中国直连线路网络状况极差",
+      "score": "15"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328461#reply15",
+      "title": "现在从百度网盘下载东西怎样能满速？ Aria2 已经没法满速了。。。",
+      "score": "15"
+    }
+  ]
+}
