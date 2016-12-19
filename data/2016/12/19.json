@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13205965",
+      "title": "Wolfenstein 3D – Gameboy cartridge with co-processor",
+      "score": "434"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13206438",
+      "title": "Making SQL Server run on Linux",
+      "score": "289"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13207825",
+      "title": "Gimli Glider",
+      "score": "273"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13207268",
+      "title": "Ask HN: How do I get freelance developer jobs?",
+      "score": "273"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13206874",
+      "title": "Ten Years at Google",
+      "score": "195"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13208516",
+      "title": "32-bit homebrew CPU using 74' series logic",
+      "score": "145"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13209575",
+      "title": "The Crystal Programming Language",
+      "score": "144"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13207556",
+      "title": "The Longflow Manifesto",
+      "score": "142"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13207441",
+      "title": "An Incremental Approach to Compiler Construction (2006) [pdf]",
+      "score": "130"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13207356",
+      "title": "Growth as a false signal in Y Combinator startups",
+      "score": "129"
+    }
+  ],
+  "medium": [
+    {
+      "title": "J’ai trente ans, j’ai quitté mon CDI et je suis heureuse. Auto-portrait sans concession de Florie",
+      "score": "487",
+      "url": "https://medium.com/p/jai-trente-ans-j-ai-quitté-mon-cdi-et-je-suis-heureuse-auto-portrait-sans-concession-de-florie-d953c7456ad9"
+    },
+    {
+      "title": "Trump, Putin and the Pipelines to Nowhere",
+      "score": "2209",
+      "url": "https://medium.com/p/trump-putin-and-the-pipelines-to-nowhere-742d745ce8fd"
+    },
+    {
+      "title": "White nationalists target Jews in small Montana town",
+      "score": "54",
+      "url": "https://medium.com/p/white-nationalists-target-jews-in-small-montana-town-71f3ed16d14b"
+    },
+    {
+      "title": "The Winners and Losers From NFL Week 15",
+      "score": "23",
+      "url": "https://medium.com/p/the-winners-and-losers-from-nfl-week-15-7bb9829443bd"
+    },
+    {
+      "title": "How to Build Your Own Starter House in Just 5 Steps — for $25,000",
+      "score": "690",
+      "url": "https://medium.com/p/how-to-build-your-own-starter-house-in-just-5-steps-for-25-000-861821051131"
+    },
+    {
+      "title": "The North Carolina GOP’s Power Grab Represents the End of Democracy",
+      "score": "388",
+      "url": "https://medium.com/p/the-north-carolina-gops-power-grab-represents-the-end-of-democracy-d94a68ca3000"
+    },
+    {
+      "title": "How a TV Sitcom Triggered the Downfall of Western Civilization",
+      "score": "12746",
+      "url": "https://medium.com/p/how-a-tv-sitcom-triggered-the-downfall-of-western-civilization-336e8ccf7dd0"
+    },
+    {
+      "title": "The Fall of the 49ers",
+      "score": "124",
+      "url": "https://medium.com/p/nfl-san-francisco-49ers-2016-struggler-chip-kelly-trent-baalke-jed-york-6f31eb4da112"
+    },
+    {
+      "title": "I Am Jennifer, a Compulsive Overeater",
+      "score": "55",
+      "url": "https://medium.com/p/i-am-jennifer-a-compulsive-overeater-ac15abdbb5ef"
+    },
+    {
+      "title": "Why I studied full-time for 8 months for a Google interview",
+      "score": "2463",
+      "url": "https://medium.com/p/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/spectacles-prescription-lenses",
+      "title": "Prynt 2.0:  ",
+      "score": "29"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/16bestof16",
+      "title": "Streak 2.0 Contacts:  ",
+      "score": "20"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/juice",
+      "title": "BotSpeak database:  ",
+      "score": "7"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/wicub",
+      "title": "Business Systems Explored #027: Doyle Albee, Metzger Albee:  ",
+      "score": "6"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/saastr-084-alex-maccaw-founder-ceo-clearbit",
+      "title": "Shrink for Github:  ",
+      "score": "1"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "863"
+    },
+    {
+      "url": "https://github.com/nothings/single_file_libs",
+      "title": "nothings/single_file_libs: List of single-file C/C++ libraries.",
+      "score": "554"
+    },
+    {
+      "url": "https://github.com/kennethreitz/maya",
+      "title": "kennethreitz/maya: Datetimes for Humans™",
+      "score": "493"
+    },
+    {
+      "url": "https://github.com/facebookincubator/TextLayoutBuilder",
+      "title": "facebookincubator/TextLayoutBuilder: An Android library that allows you to build text layouts more easily.",
+      "score": "388"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "386"
+    },
+    {
+      "url": "https://github.com/Bilibili/flv.js",
+      "title": "Bilibili/flv.js: HTML5 FLV Player",
+      "score": "320"
+    },
+    {
+      "url": "https://github.com/andrew/octobox",
+      "title": "andrew/octobox:  Take back control of your GitHub Notifications",
+      "score": "285"
+    },
+    {
+      "url": "https://github.com/kickstarter/android-oss",
+      "title": "kickstarter/android-oss: Kickstarter for Android. Bring new ideas to life, anywhere.",
+      "score": "211"
+    },
+    {
+      "url": "https://github.com/golastmile/rasa_nlu",
+      "title": "golastmile/rasa_nlu: A collection of services with great free tiers for developers on a budget",
+      "score": "199"
+    },
+    {
+      "url": "https://github.com/kickstarter/ios-oss",
+      "title": "kickstarter/ios-oss: Kickstarter for iOS. Bring new ideas to life, anywhere.",
+      "score": "175"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/328594#reply134",
+      "title": "除了好看，已经受够了 Mac OS，想装 Win 10，怎么破？",
+      "score": "134"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328589#reply101",
+      "title": "很难想象这是一家 10 年互联网经验的公司给我配的工作电脑",
+      "score": "101"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328543#reply53",
+      "title": "天猫上好像有在卖全国无限流量，但是限速的联通卡",
+      "score": "53"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328641#reply52",
+      "title": "刚入职,遇到这样的代码,怎么办...",
+      "score": "52"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328567#reply38",
+      "title": "Asgardia (太空国家) 发来了一封 ID 验证邮件",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328554#reply33",
+      "title": "如何从一台无物理网路连接的服务器上取出文件？",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328544#reply31",
+      "title": "大家如何看待跨境电商",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328669#reply30",
+      "title": "想买葡萄糖氯化钠注液在某些时候当饭吃",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328550#reply29",
+      "title": "关于 10.12.2 版本不再显示电池剩余可用时间,大家有什么想说的么~",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328608#reply28",
+      "title": "有玩马里奥的没有，加个好友一起玩吧",
+      "score": "28"
+    }
+  ]
+}
