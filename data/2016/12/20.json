@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13212976",
+      "title": "Building Jarvis",
+      "score": "959"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13213871",
+      "title": "Bootstrapping a SaaS Startup from Scratch ",
+      "score": "511"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13213902",
+      "title": "So you want to expose Go on the Internet",
+      "score": "352"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13213594",
+      "title": "One Way to Improve Your Coding",
+      "score": "283"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13215590",
+      "title": "Backpropagation is a leaky abstraction",
+      "score": "255"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13216451",
+      "title": "Uber's Loss Exceeds $800M in Q3 on $1.7B in Net Revenue",
+      "score": "236"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13217320",
+      "title": "Solar Now Produces a Better Energy Return on Investment Than Oil",
+      "score": "234"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13217008",
+      "title": "Tim Cook assures employees that Apple is committed to the Mac",
+      "score": "186"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13213233",
+      "title": "ALPHA observes light spectrum of antimatter for first time",
+      "score": "177"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13213322",
+      "title": "Voice Is the Next Big Platform, and Alexa Will Own It",
+      "score": "144"
+    }
+  ],
+  "medium": [
+    {
+      "title": "The Winners and Losers From NFL Week 15",
+      "score": "55",
+      "url": "https://medium.com/p/the-winners-and-losers-from-nfl-week-15-7bb9829443bd"
+    },
+    {
+      "title": "J’ai trente ans, j’ai quitté mon CDI et je suis heureuse.",
+      "score": "599",
+      "url": "https://medium.com/p/jai-trente-ans-j-ai-quitté-mon-cdi-et-je-suis-heureuse-auto-portrait-sans-concession-de-florie-d953c7456ad9"
+    },
+    {
+      "title": "Week 15 NFL Recap: The Playoff Picture Is Ridiculously Crowded",
+      "score": "47",
+      "url": "https://medium.com/p/nfl-week-15-recap-afc-nfc-playoff-scenarios-7aac6a44a0ef"
+    },
+    {
+      "title": "Lessons From the NBA’s Pick-and-Roll Masters",
+      "score": "74",
+      "url": "https://medium.com/p/nba-pick-and-roll-lou-williams-kemba-walker-draymond-green-f9a1ec934a2a"
+    },
+    {
+      "title": "A letter to the man who tried to rape me",
+      "score": "197",
+      "url": "https://medium.com/p/a-letter-to-the-man-who-tried-to-rape-me-3a18c17d8eb9"
+    },
+    {
+      "title": "Trump, Putin and the Pipelines to Nowhere",
+      "score": "2701",
+      "url": "https://medium.com/p/trump-putin-and-the-pipelines-to-nowhere-742d745ce8fd"
+    },
+    {
+      "title": "Under political pressure, Kuwait cancels major event at Four Seasons, switches to Trump’s D.C.",
+      "score": "96",
+      "url": "https://medium.com/p/under-political-pressure-kuwait-cancels-major-event-at-four-seasons-switches-to-trumps-d-c-1f204315d513"
+    },
+    {
+      "title": "How a TV Sitcom Triggered the Downfall of Western Civilization",
+      "score": "12953",
+      "url": "https://medium.com/p/how-a-tv-sitcom-triggered-the-downfall-of-western-civilization-336e8ccf7dd0"
+    },
+    {
+      "title": "Saying Goodbye to Tim Duncan",
+      "score": "243",
+      "url": "https://medium.com/p/san-antonio-spurs-tim-duncan-jersey-retirement-ceremony-ff3efd21c98d"
+    },
+    {
+      "title": "‘Rogue One’ Isn’t a Stand-Alone ‘Star Wars’ Movie",
+      "score": "71",
+      "url": "https://medium.com/p/movies-rogue-one-star-wars-anthology-label-4889c48d13a1"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/sphere-2",
+      "title": "Momento for iOS:  ",
+      "score": "48"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/matcha",
+      "title": "Minecraft: Pocket Edition:  ",
+      "score": "26"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/croove",
+      "title": "Voicy:  ",
+      "score": "27"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/nowtrendingbot",
+      "title": "Dragonera:  ",
+      "score": "15"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/excellence-expected-6-creating-the-perfect-media-launch-plan-with-ayelet-noff",
+      "title": "Startup Toolkit:  ",
+      "score": "5"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/255kb/stack-on-a-budget",
+      "title": "255kb/stack-on-a-budget: A collection of services with great free tiers for developers on a budget",
+      "score": "953"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "711"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "482"
+    },
+    {
+      "url": "https://github.com/google/wycheproof",
+      "title": "google/wycheproof: Project Wycheproof tests crypto libraries against known attacks.",
+      "score": "361"
+    },
+    {
+      "url": "https://github.com/allinurl/goaccess",
+      "title": "allinurl/goaccess: GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
+      "score": "338"
+    },
+    {
+      "url": "https://github.com/mcuadros/ofelia",
+      "title": "mcuadros/ofelia: A docker job scheduler (aka. crontab for docker)",
+      "score": "273"
+    },
+    {
+      "url": "https://github.com/Bilibili/flv.js",
+      "title": "Bilibili/flv.js: HTML5 FLV Player",
+      "score": "246"
+    },
+    {
+      "url": "https://github.com/vuetifyjs/vuetify",
+      "title": "vuetifyjs/vuetify: Material Component Framework for Vue JS 2.0",
+      "score": "255"
+    },
+    {
+      "url": "https://github.com/Nax/longflow-manifesto",
+      "title": "Nax/longflow-manifesto:  The longflow manifesto",
+      "score": "247"
+    },
+    {
+      "url": "https://github.com/nothings/single_file_libs",
+      "title": "nothings/single_file_libs: List of single-file C/C++ libraries.",
+      "score": "246"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/328822#reply72",
+      "title": "快节奏生活的你们,是否也会有这种心态?",
+      "score": "72"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328784#reply65",
+      "title": "前端圈这么浮躁大家怎么看？",
+      "score": "65"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328837#reply58",
+      "title": "日语歌曲推荐",
+      "score": "58"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328812#reply47",
+      "title": "大家在 mac 上用什么邮件客户端来收发 gmail 邮件？",
+      "score": "47"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328864#reply42",
+      "title": "腾讯内部是不是有内鬼啊，刚刚申请了微信支付，结果就发来诈骗短信",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328838#reply40",
+      "title": "元旦有去冲绳的 V 友吗？",
+      "score": "40"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328844#reply31",
+      "title": "数人云互动趴 3.0|柚是一年圣诞节，说说你的梦想",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328832#reply30",
+      "title": "春运抢票好难啊",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328806#reply27",
+      "title": "如何处理 api 分页导致的数据重复或丢失",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/328821#reply27",
+      "title": "喜迎双“旦”， ThinkPHP V5.0.4 版本发布^_^——文末有福利",
+      "score": "27"
+    }
+  ]
+}
