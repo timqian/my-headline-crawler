@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13224588",
+      "title": "Practical Deep Learning for Coders",
+      "score": "430"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13224520",
+      "title": "Twitter’s Chief Technology Officer to Leave Company",
+      "score": "340"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13223856",
+      "title": "20 years ago, Apple bought NeXT",
+      "score": "298"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13222616",
+      "title": "No Doctor Should Work 30 Hours Straight with No Sleep",
+      "score": "298"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13223648",
+      "title": "Learning from a Year of Security Breaches",
+      "score": "282"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13219980",
+      "title": "Firebug lives on in Firefox DevTools",
+      "score": "281"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13222733",
+      "title": "AdNauseam: Fight Back Against Advertising Networks and Privacy Abuse",
+      "score": "232"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13225492",
+      "title": "Why are browsers so slow?",
+      "score": "212"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13222063",
+      "title": "Mdmath – LaTeX Math for Markdown inside of Visual Studio Code",
+      "score": "209"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13222935",
+      "title": "Stack identical flat objects so they project over an edge as far as possible",
+      "score": "156"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Special report: I spent 5 years with some of Trump’s biggest fans. Here’s what they won’t tell you.",
+      "score": "388",
+      "url": "https://medium.com/p/special-report-i-spent-5-years-with-some-of-trumps-biggest-fans-here-s-what-they-won-t-tell-you-6dfd24ae0ff3"
+    },
+    {
+      "title": "The Epic Guide to Bootstrapping a SaaS Startup from Scratch — By Yourself (Part 1)",
+      "score": "662",
+      "url": "https://medium.com/p/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1"
+    },
+    {
+      "title": "The Best Technology Products of 2016",
+      "score": "526",
+      "url": "https://medium.com/p/the-best-technology-products-of-2016-cea5f922e014"
+    },
+    {
+      "title": "The 10 Best Books of 2016",
+      "score": "738",
+      "url": "https://medium.com/p/the-10-best-books-of-2016-f9ab9c494f8e"
+    },
+    {
+      "title": "The NBA Might Have Too Many Big Men",
+      "score": "74",
+      "url": "https://medium.com/p/the-nba-might-have-too-many-big-men-1a654d0b1dec"
+    },
+    {
+      "title": "The 10 Best Dishes of 2016",
+      "score": "112",
+      "url": "https://medium.com/p/10-best-dishes-of-2016-franklin-barbecue-qui-lasa-2a4a83b75a5a"
+    },
+    {
+      "title": "Modern garbage collection",
+      "score": "213",
+      "url": "https://medium.com/p/modern-garbage-collection-911ef4f8bd8e"
+    },
+    {
+      "title": "Why I studied full-time for 8 months for a Google interview",
+      "score": "2942",
+      "url": "https://medium.com/p/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13"
+    },
+    {
+      "title": "This is what happens to the bodies of the women you know.",
+      "score": "588",
+      "url": "https://medium.com/p/this-is-what-happens-to-the-bodies-of-the-women-you-know-70f228a14137"
+    },
+    {
+      "title": "39 Reasons We Won’t Soon Forget 2016",
+      "score": "1498",
+      "url": "https://medium.com/p/39-reasons-we-wont-soon-forget-2016-154ac95683af"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/500-hunters",
+      "title": "Prisma 3.0:  ",
+      "score": "31"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/investor-updater",
+      "title": "TrainYourTesseract:  ",
+      "score": "29"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/500-error",
+      "title": "Pana Free:  ",
+      "score": "25"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/reveal-automation",
+      "title": "#TravelOften:  ",
+      "score": "24"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/the-twenty-minute-vc-parker-thompson-partner-angellist",
+      "title": "Groupies:  ",
+      "score": "1"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/255kb/stack-on-a-budget",
+      "title": "255kb/stack-on-a-budget: A collection of services with great free tiers for developers on a budget",
+      "score": "1180"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "640"
+    },
+    {
+      "url": "https://github.com/SmartisanTech/android",
+      "title": "SmartisanTech/android: Smartisan open source code for full build.(repo manifest xml)",
+      "score": "515"
+    },
+    {
+      "url": "https://github.com/google/wycheproof",
+      "title": "google/wycheproof: Project Wycheproof tests crypto libraries against known attacks.",
+      "score": "441"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "430"
+    },
+    {
+      "url": "https://github.com/allinurl/goaccess",
+      "title": "allinurl/goaccess: GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
+      "score": "345"
+    },
+    {
+      "url": "https://github.com/Bilibili/flv.js",
+      "title": "Bilibili/flv.js: HTML5 FLV Player",
+      "score": "291"
+    },
+    {
+      "url": "https://github.com/goessner/mdmath",
+      "title": "goessner/mdmath: LaTeX Math for Markdown inside of Visual Studio Code.",
+      "score": "308"
+    },
+    {
+      "url": "https://github.com/facebookresearch/fastText",
+      "title": "facebookresearch/fastText: Library for fast text representation and classification.",
+      "score": "226"
+    },
+    {
+      "url": "https://github.com/OpenNMT/OpenNMT",
+      "title": "OpenNMT/OpenNMT: Open-Source Neural Machine Translation in Torch",
+      "score": "193"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/329083#reply147",
+      "title": "分享几个 Setapp 和即刻 3.0 邀请码",
+      "score": "147"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329057#reply69",
+      "title": "降噪耳机",
+      "score": "69"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329073#reply48",
+      "title": "做一款摩拜单车 APP 跟后台管理，大概要多少 W",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329154#reply43",
+      "title": "北京雾霾会导致大批程序员南下找工作定居吗？",
+      "score": "43"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329105#reply39",
+      "title": "冬至",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329070#reply36",
+      "title": "毕业一年半在杭州应该达到什么样的薪资水平",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329068#reply34",
+      "title": "讨论下 U 盘做本地磁盘的最佳方案",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329122#reply31",
+      "title": "日经贴，求推荐安卓手机：电信， 5.2 寸以下， 3 千元以下，不要小米魅族，下巴小或者按钮在下巴",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329075#reply28",
+      "title": "据传支付宝推出小程序，求证实",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329136#reply27",
+      "title": "开源我公司微信支付 python 版本的全部代码，包含生成微信订单，以及最新的微信平台向用户发红包，向用户付款等功能",
+      "score": "27"
+    }
+  ]
+}
