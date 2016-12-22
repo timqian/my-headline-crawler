@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13230904",
+      "title": "Cat-proofing a cat feeding machine",
+      "score": "869"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13232616",
+      "title": "Update on Multi-Process Firefox",
+      "score": "403"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13234463",
+      "title": "To Slow Global Warming, We Need Nuclear Power",
+      "score": "356"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13231709",
+      "title": "Bootstrap 4 drops IE9 support and goes full flexbox",
+      "score": "329"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13231154",
+      "title": "Linux Container Internals",
+      "score": "178"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13235004",
+      "title": "Why the Elixir language has great potential",
+      "score": "171"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13234302",
+      "title": "A man who put up $1.5M to help 200 Syrian refugees",
+      "score": "163"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13232740",
+      "title": "The Long-Term Jobs Killer Is Not China, It’s Automation",
+      "score": "144"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13231808",
+      "title": "Tool AIs want to be agent AIs",
+      "score": "139"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13234406",
+      "title": "Do Not Eat, Touch, or Even Inhale the Air Around the Manchineel Tree",
+      "score": "132"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Battle of the NBA Unicorns",
+      "score": "297",
+      "url": "https://medium.com/p/battle-of-the-nba-unicorns-bdf6c4a7b331"
+    },
+    {
+      "title": "Special report: I spent 5 years with some of Trump’s biggest fans. Here’s what they won’t tell you.",
+      "score": "581",
+      "url": "https://medium.com/p/special-report-i-spent-5-years-with-some-of-trumps-biggest-fans-here-s-what-they-won-t-tell-you-6dfd24ae0ff3"
+    },
+    {
+      "title": "The Best Technology Products of 2016",
+      "score": "686",
+      "url": "https://medium.com/p/the-best-technology-products-of-2016-cea5f922e014"
+    },
+    {
+      "title": "The 10 Best Books of 2016",
+      "score": "1054",
+      "url": "https://medium.com/p/the-10-best-books-of-2016-f9ab9c494f8e"
+    },
+    {
+      "title": "The Primary Barrier Stopping You From Everything You Want In Life",
+      "score": "819",
+      "url": "https://medium.com/p/the-primary-barrier-stopping-you-from-everything-you-want-in-life-7e62c1c30316"
+    },
+    {
+      "title": "Khalil Mack Is Outsmarting His Way to Legendary Status",
+      "score": "78",
+      "url": "https://medium.com/p/oakland-raiders-khalil-mack-genius-pass-rusher-179cf9c715b"
+    },
+    {
+      "title": "If It Doesn’t Suck, It’s Not Worth Doing",
+      "score": "403",
+      "url": "https://medium.com/p/if-it-doesnt-suck-it-s-not-worth-doing-d72533893aba"
+    },
+    {
+      "title": "The Constitution of the United States has failed",
+      "score": "195",
+      "url": "https://medium.com/p/the-constitution-of-the-united-states-has-failed-797a657eab28"
+    },
+    {
+      "title": "This is what happens to the bodies of the women you know.",
+      "score": "824",
+      "url": "https://medium.com/p/this-is-what-happens-to-the-bodies-of-the-women-you-know-70f228a14137"
+    },
+    {
+      "title": "Voice Is the Next Big Platform, and Alexa Will Own It",
+      "score": "482",
+      "url": "https://medium.com/p/voice-is-the-next-big-platform-and-alexa-will-own-it-c2cf13fab911"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/bitmovin-html5-player-v7",
+      "title": "Gatebox:  ",
+      "score": "37"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/duobook",
+      "title": "Priime 4.0:  ",
+      "score": "28"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/santa-slam-2-0",
+      "title": "The Fourth Transformation:  ",
+      "score": "17"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/panols",
+      "title": "Chat With Traders – Alex, @AT09_Trader:  ",
+      "score": "12"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/holiday-artist-meme-generator",
+      "title": "Why Go On Facebook?:  ",
+      "score": "4"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/255kb/stack-on-a-budget",
+      "title": "255kb/stack-on-a-budget: A collection of services with great free tiers for developers on a budget",
+      "score": "1157"
+    },
+    {
+      "url": "https://github.com/SmartisanTech/android",
+      "title": "SmartisanTech/android: Smartisan open source code for full build.(repo manifest xml)",
+      "score": "505"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "432"
+    },
+    {
+      "url": "https://github.com/keonkim/awesome-bits",
+      "title": "keonkim/awesome-bits:  A curated list of awesome bitwise operations and tricks",
+      "score": "417"
+    },
+    {
+      "url": "https://github.com/devongovett/regexgen",
+      "title": "devongovett/regexgen: Generate regular expressions that match a set of strings",
+      "score": "399"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "338"
+    },
+    {
+      "url": "https://github.com/Bilibili/flv.js",
+      "title": "Bilibili/flv.js: HTML5 FLV Player",
+      "score": "278"
+    },
+    {
+      "url": "https://github.com/brianway/webporter",
+      "title": "brianway/webporter: 基于 webmagic 的 Java 爬虫应用",
+      "score": "261"
+    },
+    {
+      "url": "https://github.com/Jolly23/wx_pay_python",
+      "title": "Jolly23/wx_pay_python: 微信支付功能集，前期开发借鉴 的代码，致敬。",
+      "score": "183"
+    },
+    {
+      "url": "https://github.com/tunz/js-vuln-db",
+      "title": "tunz/js-vuln-db: A collection of JavaScript engine CVEs with PoCs",
+      "score": "187"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/329305#reply110",
+      "title": "15 万预算，求推荐一辆家用车",
+      "score": "110"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329338#reply86",
+      "title": "一个办公室的男程序员，没有一个不脱发！！！",
+      "score": "86"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329320#reply59",
+      "title": "OOP 思想真的很先进吗 GOTO 真的不能用吗",
+      "score": "59"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329309#reply49",
+      "title": "很有趣的现象：男厕所三个并排的小便池，中间的那个几乎没有人用。",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329384#reply48",
+      "title": "30 到 35 预算求推荐一辆车 现在开的是福克斯，每天 100 公里高速",
+      "score": "48"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329303#reply37",
+      "title": "MBP 只能用无绒软布清洁，如果沾了油污，比如指纹怎么办",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329356#reply29",
+      "title": "Apple 的 ATS 延期了",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329327#reply26",
+      "title": "图床神器 iPic 年终最后一发: 支持上传前压缩图片、全面适配 https",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329335#reply26",
+      "title": "拿下了台一加 3T 6g+128g 版",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329424#reply25",
+      "title": "PHP 工程师简历中有“妙笔驿站”项目，可以考虑直接 PASS，涉嫌简历造假",
+      "score": "25"
+    }
+  ]
+}
