@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13230904",
+      "title": "Cat-proofing a cat feeding machine",
+      "score": "1046"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13240811",
+      "title": "Superintelligence: The Idea That Eats Smart People",
+      "score": "584"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13241669",
+      "title": "LiChess: Learn from your mistakes",
+      "score": "339"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13239567",
+      "title": "Announcing Rust 1.14",
+      "score": "309"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13240409",
+      "title": "How Social Isolation Is Killing Us",
+      "score": "261"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13238568",
+      "title": "Hedge Fund Is Building an Algorithmic Model From Its Employees’ Brains",
+      "score": "228"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13239632",
+      "title": "An Introduction to Geometric Algebra",
+      "score": "185"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13239604",
+      "title": "GitLab 8.15 Released",
+      "score": "165"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13241784",
+      "title": "The Disadvantages of an Elite Education (2008)",
+      "score": "151"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13241185",
+      "title": "Uber lawsuit alleges employees were misled on equity compensation",
+      "score": "144"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Battle of the NBA Unicorns",
+      "score": "401",
+      "url": "https://medium.com/p/battle-of-the-nba-unicorns-bdf6c4a7b331"
+    },
+    {
+      "title": "If It Doesn’t Suck, It’s Not Worth Doing",
+      "score": "911",
+      "url": "https://medium.com/p/if-it-doesnt-suck-it-s-not-worth-doing-d72533893aba"
+    },
+    {
+      "title": "Special report: I spent 5 years with some of Trump’s biggest fans. Here’s what they won’t tell you.",
+      "score": "674",
+      "url": "https://medium.com/p/special-report-i-spent-5-years-with-some-of-trumps-biggest-fans-here-s-what-they-won-t-tell-you-6dfd24ae0ff3"
+    },
+    {
+      "title": "Break Up the Sixers",
+      "score": "65",
+      "url": "https://medium.com/p/break-up-the-sixers-1e46886a16fa"
+    },
+    {
+      "title": "The Ringer’s 2017 NBA Draft Lottery Big Board, Version 1.0",
+      "score": "48",
+      "url": "https://medium.com/p/the-ringers-2017-nba-draft-lottery-big-board-version-1-0-33d7a05d7193"
+    },
+    {
+      "title": "The NFL Is Preparing for an Offseason of QB Uncertainty",
+      "score": "34",
+      "url": "https://medium.com/p/nfl-quarterback-carousel-tony-romo-jay-cutler-75953cd38cb2"
+    },
+    {
+      "title": "NBA Shootaround: Marc Gasol Couldn’t Miss Last Night",
+      "score": "42",
+      "url": "https://medium.com/p/nba-shootaround-marc-gasol-couldnt-miss-last-night-1cc1b17d778d"
+    },
+    {
+      "title": "The Best Technology Products of 2016",
+      "score": "784",
+      "url": "https://medium.com/p/the-best-technology-products-of-2016-cea5f922e014"
+    },
+    {
+      "title": "The 10 Best Books of 2016",
+      "score": "1285",
+      "url": "https://medium.com/p/the-10-best-books-of-2016-f9ab9c494f8e"
+    },
+    {
+      "title": "10 things I learned making the fastest site in the world",
+      "score": "195",
+      "url": "https://medium.com/p/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/timehop-4-0",
+      "title": "Vid.me:  ",
+      "score": "38"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/jack-the-detective",
+      "title": "Timebomb Messenger:  ",
+      "score": "4"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/7-best-practices-of-content-marketing-for-mobile-apps",
+      "title": "The SaaS Bootstrapper: Lee Rubenstein of ArtSnacks and EatSleepDraw.:  ",
+      "score": "1"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/workouts",
+      "title": "Stagg EKG:  ",
+      "score": "1"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/blackjack-buddies",
+      "title": "Angry Birds Blast:  ",
+      "score": "2"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/255kb/stack-on-a-budget",
+      "title": "255kb/stack-on-a-budget: A collection of services with great free tiers for developers on a budget",
+      "score": "596"
+    },
+    {
+      "url": "https://github.com/keonkim/awesome-bits",
+      "title": "keonkim/awesome-bits:  A curated list of awesome bitwise operations and tricks",
+      "score": "446"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "433"
+    },
+    {
+      "url": "https://github.com/devongovett/regexgen",
+      "title": "devongovett/regexgen: Generate regular expressions that match a set of strings",
+      "score": "432"
+    },
+    {
+      "url": "https://github.com/rstacruz/webpack-tricks",
+      "title": "rstacruz/webpack-tricks: Tips and tricks in using Webpack",
+      "score": "413"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "348"
+    },
+    {
+      "url": "https://github.com/channelcat/sanic",
+      "title": "channelcat/sanic: Python 3.5+ web server that's written to go fast",
+      "score": "376"
+    },
+    {
+      "url": "https://github.com/Microsoft/HoloJS",
+      "title": "Microsoft/HoloJS: Provides a framework for creating holographic apps using JavaScript and WebGL.",
+      "score": "346"
+    },
+    {
+      "url": "https://github.com/facebookincubator/beringei",
+      "title": "facebookincubator/beringei: Beringei is a high performance, in-memory storage engine for time series data.",
+      "score": "198"
+    },
+    {
+      "url": "https://github.com/Bilibili/flv.js",
+      "title": "Bilibili/flv.js: HTML5 FLV Player",
+      "score": "173"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/329592#reply148",
+      "title": "防盗版软件黑科技又一案例",
+      "score": "148"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329594#reply79",
+      "title": "所以抢票的正确姿势应该是？",
+      "score": "79"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329613#reply52",
+      "title": "今天发现了个很好玩的游戏,就是自己人肉自己,看看能人肉到哪一步",
+      "score": "52"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329595#reply46",
+      "title": "你们的加班工资是怎么算的？",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329653#reply45",
+      "title": "家里有个亲戚 30 岁 想转做程序员 初中毕业 能学会吗？",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329576#reply38",
+      "title": "纠结在家的云服务器，求大家推荐",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329679#reply29",
+      "title": "如何提高酒量？同事都白酒 1 斤左右、一斤多 。我也就半斤的量。。。",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329602#reply27",
+      "title": "摩拜单车、ofo 单车、小鸣单车等实名身份证认证连接公安系统吗？",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329617#reply27",
+      "title": "为什么斗鱼主播游戏延迟这么低？",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329605#reply25",
+      "title": "GitHub Pages 限制月流量 1GB，各位 git 博客看是要迁移了",
+      "score": "25"
+    }
+  ]
+}
