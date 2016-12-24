@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13245475",
+      "title": "Show HN: Rocket – Web Framework for Rust",
+      "score": "407"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13245647",
+      "title": "Offline First – A Better HTML5 User Experience",
+      "score": "361"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13244827",
+      "title": "Show HN: Wick – A free and open-source creation suite",
+      "score": "294"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13245396",
+      "title": "Hedge Fund Math: Heads We Win, Tails You Lose",
+      "score": "220"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13248207",
+      "title": "“Children of Men”'s vision of the future is now disturbingly familiar",
+      "score": "206"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13247858",
+      "title": "Writing web applications using only the Go Standard Library",
+      "score": "190"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13247548",
+      "title": "Things I learnt making a fast website",
+      "score": "168"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13246682",
+      "title": "A homemade receiver for GPS and GLONASS satellites",
+      "score": "166"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13248344",
+      "title": "Deep Learning Enables You to Hide Screen When Your Boss Is Approaching",
+      "score": "156"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13247214",
+      "title": "The First Female Doctor in Britain Spent 56 Years Disguised as a Man",
+      "score": "149"
+    }
+  ],
+  "medium": [
+    {
+      "title": "10 things I learned making the fastest site in the world",
+      "score": "451",
+      "url": "https://medium.com/p/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7"
+    },
+    {
+      "title": "Special report: I spent 5 years with some of Trump’s biggest fans. Here’s what they won’t tell you.",
+      "score": "750",
+      "url": "https://medium.com/p/special-report-i-spent-5-years-with-some-of-trumps-biggest-fans-here-s-what-they-won-t-tell-you-6dfd24ae0ff3"
+    },
+    {
+      "title": "Week 16 NFL Picks: The Five Players and Coaches With the Most on the Line",
+      "score": "36",
+      "url": "https://medium.com/p/nfl-picks-week-16-aaron-rodgers-jameis-winston-36d406322412"
+    },
+    {
+      "title": "Your Ultimate Guide For Waking Up Early",
+      "score": "292",
+      "url": "https://medium.com/p/how-to-wake-up-early-your-ultimate-blueprint-1f8bb2045b90"
+    },
+    {
+      "title": "If It Doesn’t Suck, It’s Not Worth Doing",
+      "score": "1193",
+      "url": "https://medium.com/p/if-it-doesnt-suck-it-s-not-worth-doing-d72533893aba"
+    },
+    {
+      "title": "Battle of the NBA Unicorns",
+      "score": "443",
+      "url": "https://medium.com/p/battle-of-the-nba-unicorns-bdf6c4a7b331"
+    },
+    {
+      "title": "The Harsh (but beautiful) Truth of Rapid Personal Growth",
+      "score": "494",
+      "url": "https://medium.com/p/the-harsh-but-beautiful-truth-of-rapid-personal-growth-e5ea7d48c14"
+    },
+    {
+      "title": "Fuck You, Donald Trump",
+      "score": "1060",
+      "url": "https://medium.com/p/fuck-you-donald-trump-c644ae3dd94c"
+    },
+    {
+      "title": "Denzel Washington in Eighty-Nine Pieces",
+      "score": "94",
+      "url": "https://medium.com/p/denzel-washington-films-ranked-fences-31505f7d9156"
+    },
+    {
+      "title": "What really happened to Ivanka Trump on JetBlue",
+      "score": "20",
+      "url": "https://medium.com/p/daniel-goldstein-ivanka-trump-jetblue-c754b519453d"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/machine-learning-weekly",
+      "title": "AfterShip for Android:  ",
+      "score": "23"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/evil-icons",
+      "title": "Saurochat:  ",
+      "score": "15"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/zones",
+      "title": "Julius:  ",
+      "score": "5"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/scooby",
+      "title": "BitPay:  ",
+      "score": "30"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/growth-kung-fu-interview-how-to-make-guy-kawasaki-a-mentor-with-hung-tran-from-gotit",
+      "title": "The Keys:  ",
+      "score": "3"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/SergioBenitez/Rocket",
+      "title": "SergioBenitez/Rocket: A web framework for Rust.",
+      "score": "475"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "418"
+    },
+    {
+      "url": "https://github.com/255kb/stack-on-a-budget",
+      "title": "255kb/stack-on-a-budget: A collection of services with great free tiers for developers on a budget",
+      "score": "371"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "325"
+    },
+    {
+      "url": "https://github.com/facebookincubator/beringei",
+      "title": "facebookincubator/beringei: Beringei is a high performance, in-memory storage engine for time series data.",
+      "score": "277"
+    },
+    {
+      "url": "https://github.com/devongovett/regexgen",
+      "title": "devongovett/regexgen: Generate regular expressions that match a set of strings",
+      "score": "248"
+    },
+    {
+      "url": "https://github.com/rstacruz/webpack-tricks",
+      "title": "rstacruz/webpack-tricks: Tips and tricks in using Webpack",
+      "score": "224"
+    },
+    {
+      "url": "https://github.com/keonkim/awesome-bits",
+      "title": "keonkim/awesome-bits:  A curated list of awesome bitwise operations and tricks",
+      "score": "210"
+    },
+    {
+      "url": "https://github.com/channelcat/sanic",
+      "title": "channelcat/sanic: Python 3.5+ web server that's written to go fast",
+      "score": "155"
+    },
+    {
+      "url": "https://github.com/mancj/SlideUp-Android",
+      "title": "mancj/SlideUp-Android: SlideUp is a small library that allows you to add sweet slide effect to any view.",
+      "score": "141"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/329876#reply58",
+      "title": "从京东新买的笔记本 在注册表发现了这个",
+      "score": "58"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329839#reply42",
+      "title": "为什么阿里小号不做成阿里大号？",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329850#reply42",
+      "title": "如何找回自我",
+      "score": "42"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329883#reply36",
+      "title": "支付宝 AR 红包图片处理在线工具",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329888#reply32",
+      "title": "华硕官方售后重装系统居然要收我 1100",
+      "score": "32"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329848#reply28",
+      "title": "圣诞节公司匿名互赠礼物活动, 唯一被送大包抽纸 &lt;全脸懵逼&gt;",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329886#reply27",
+      "title": "为什么要结婚？",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329869#reply26",
+      "title": "macOS 地位不保",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329855#reply21",
+      "title": "想用 xamarin 开发一个 IOS 程序，有没有 V 友愿意提供 mac 编译服务的？",
+      "score": "21"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329893#reply21",
+      "title": "打死也不写小外包，验收阶段搞的我一肚子火",
+      "score": "21"
+    }
+  ]
+}
