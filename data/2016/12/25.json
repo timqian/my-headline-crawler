@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13249675",
+      "title": "Computer Science from the Bottom Up (2013)",
+      "score": "386"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13235654",
+      "title": "Why time management is ruining our lives",
+      "score": "361"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13250949",
+      "title": "Die photos and analysis of the revolutionary 8008 microprocessor, 45 years old",
+      "score": "218"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13252367",
+      "title": "U.S. Election Agency Breached by Hackers After November Vote",
+      "score": "203"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13252225",
+      "title": "Ruby 2.4.0 Released",
+      "score": "161"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13252376",
+      "title": "A practical introduction to functional programming (2013)",
+      "score": "155"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13252651",
+      "title": "House Judiciary Committee Encryption Working Group Year-End Report [pdf]",
+      "score": "146"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13251463",
+      "title": "2D Terrain generation using midpoint displacement",
+      "score": "116"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13251158",
+      "title": "Do Teachers Need to Include the History of Mathematics in Their Teaching? (2003)",
+      "score": "108"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13251889",
+      "title": "QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs (2000) [pdf]",
+      "score": "84"
+    }
+  ],
+  "medium": [
+    {
+      "title": "10 things I learned making the fastest site in the world",
+      "score": "1000",
+      "url": "https://medium.com/p/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7"
+    },
+    {
+      "title": "Your Ultimate Guide For Waking Up Early",
+      "score": "492",
+      "url": "https://medium.com/p/how-to-wake-up-early-your-ultimate-blueprint-1f8bb2045b90"
+    },
+    {
+      "title": "Chat is the New Browser",
+      "score": "240",
+      "url": "https://medium.com/p/chat-is-the-new-browser-cef0ead46c8b"
+    },
+    {
+      "title": "10 Things that Immediately Happen when Real Leadership Shows Up",
+      "score": "279",
+      "url": "https://medium.com/p/10-things-that-immediately-happen-when-real-leadership-shows-up-c16658c1a21"
+    },
+    {
+      "title": "The Internet Is Broken. Here’s How I’d Fix It",
+      "score": "183",
+      "url": "https://medium.com/p/the-internet-is-broken-heres-how-i-d-fix-it-19d0b2503aee"
+    },
+    {
+      "title": "Special report: I spent 5 years with some of Trump’s biggest fans. Here’s what they won’t tell you.",
+      "score": "795",
+      "url": "https://medium.com/p/special-report-i-spent-5-years-with-some-of-trumps-biggest-fans-here-s-what-they-won-t-tell-you-6dfd24ae0ff3"
+    },
+    {
+      "title": "6 Brutal Truths About Productivity No One Wants to Talk About",
+      "score": "343",
+      "url": "https://medium.com/p/the-brutal-truth-about-productivity-that-no-one-wants-to-talk-about-6e54a4111af"
+    },
+    {
+      "title": "If It Doesn’t Suck, It’s Not Worth Doing",
+      "score": "1361",
+      "url": "https://medium.com/p/if-it-doesnt-suck-it-s-not-worth-doing-d72533893aba"
+    },
+    {
+      "title": "The 10 Best Books of 2016",
+      "score": "1592",
+      "url": "https://medium.com/p/the-10-best-books-of-2016-f9ab9c494f8e"
+    },
+    {
+      "title": "Battle of the NBA Unicorns",
+      "score": "467",
+      "url": "https://medium.com/p/battle-of-the-nba-unicorns-bdf6c4a7b331"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/pokemon-go-for-apple-watch",
+      "title": "Give Back Box:  ",
+      "score": "8"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/cssviewer",
+      "title": "SpecOut:  ",
+      "score": "16"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/foodies-recipe-by-ingredients",
+      "title": "Redbeard Marketplace:  ",
+      "score": "10"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/twit-alexa-skill",
+      "title": "Light Rider:  ",
+      "score": "7"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/allrecipes-alexa-skill",
+      "title": "LineageOS:  ",
+      "score": "6"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/ttlequals0/autovpn",
+      "title": "ttlequals0/autovpn: Script to create an OpenVPN Endpoint on AWS.",
+      "score": "331"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "306"
+    },
+    {
+      "url": "https://github.com/amark/gun",
+      "title": "amark/gun: A realtime, decentralized, offline-first, graph database engine.",
+      "score": "296"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "284"
+    },
+    {
+      "url": "https://github.com/SergioBenitez/Rocket",
+      "title": "SergioBenitez/Rocket: A web framework for Rust.",
+      "score": "282"
+    },
+    {
+      "url": "https://github.com/255kb/stack-on-a-budget",
+      "title": "255kb/stack-on-a-budget: A collection of services with great free tiers for developers on a budget",
+      "score": "183"
+    },
+    {
+      "url": "https://github.com/devongovett/regexgen",
+      "title": "devongovett/regexgen: Generate regular expressions that match a set of strings",
+      "score": "130"
+    },
+    {
+      "url": "https://github.com/trailofbits/algo",
+      "title": "trailofbits/algo: 1-click IPSEC VPN in the Cloud",
+      "score": "109"
+    },
+    {
+      "url": "https://github.com/facebookincubator/beringei",
+      "title": "facebookincubator/beringei: Beringei is a high performance, in-memory storage engine for time series data.",
+      "score": "104"
+    },
+    {
+      "url": "https://github.com/rstacruz/webpack-tricks",
+      "title": "rstacruz/webpack-tricks: Tips and tricks in using Webpack",
+      "score": "101"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/329968#reply142",
+      "title": "各位“勺子”“调羹”家乡话里都怎么念的？",
+      "score": "142"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329991#reply106",
+      "title": "Google 搞的 chrome 就是业界毒瘤",
+      "score": "106"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329993#reply37",
+      "title": "各位程序员，你们写代码都是盲打吗？各种符号也是盲打吗？你们打字速度如何？",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329986#reply26",
+      "title": "CM 系统竟然真的不做了",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329987#reply26",
+      "title": "给博客加上了七牛的 CDN，欢迎各位大佬来测速=￣ω￣=",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330002#reply25",
+      "title": "CM 死后，求可用的安卓 ROM.",
+      "score": "25"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330006#reply24",
+      "title": "男同胞们有人收到圣诞礼物了吗？",
+      "score": "24"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330031#reply18",
+      "title": "AWS Linux AMI 升级 Kernel 4.9 后如何启用 BBR",
+      "score": "18"
+    },
+    {
+      "url": "https://www.v2ex.com/t/329973#reply18",
+      "title": "又到一年一度的抢票大作战 电脑手机 各种软件 购买抢票服务 依旧没有买到",
+      "score": "18"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330001#reply16",
+      "title": "请教大家一个在生产环境部署代码的问题",
+      "score": "16"
+    }
+  ]
+}
