@@ -1,0 +1,222 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13254342",
+      "title": "Show HN: 8bitworkshop IDE for Atari 2600",
+      "score": "261"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13254401",
+      "title": "Basics of Making a Rootkit – From syscall to hook",
+      "score": "251"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13255910",
+      "title": "Advent of Code Solutions",
+      "score": "232"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13255433",
+      "title": "'All I wanted to do is build a house' (2010)",
+      "score": "225"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13254520",
+      "title": "LineageOS will be a continuation of what CyanogenMod was",
+      "score": "212"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13255650",
+      "title": "Ask HN: What do you want to learn in 2017?",
+      "score": "209"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13256092",
+      "title": "Reflecting on Haskell in 2016",
+      "score": "179"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13253453",
+      "title": "Ways to do load balancing wrong",
+      "score": "160"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13254871",
+      "title": "Automakers Prepare for an America That’s Over the Whole Car Thing",
+      "score": "101"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13255159",
+      "title": "Eatsa: Quinoa-based fast food",
+      "score": "95"
+    }
+  ],
+  "medium": [
+    {
+      "title": "10 things I learned making the fastest site in the world",
+      "score": "1312",
+      "url": "https://medium.com/p/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7"
+    },
+    {
+      "title": "Your Ultimate Guide For Waking Up Early",
+      "score": "721",
+      "url": "https://medium.com/p/how-to-wake-up-early-your-ultimate-blueprint-1f8bb2045b90"
+    },
+    {
+      "title": "Chat is the New Browser",
+      "score": "355",
+      "url": "https://medium.com/p/chat-is-the-new-browser-cef0ead46c8b"
+    },
+    {
+      "title": "10 Things that Immediately Happen when Real Leadership Shows Up",
+      "score": "464",
+      "url": "https://medium.com/p/10-things-that-immediately-happen-when-real-leadership-shows-up-c16658c1a21"
+    },
+    {
+      "title": "The Internet Is Broken. Here’s How I’d Fix It",
+      "score": "293",
+      "url": "https://medium.com/p/the-internet-is-broken-heres-how-i-d-fix-it-19d0b2503aee"
+    },
+    {
+      "title": "Special report: I spent 5 years with some of Trump’s biggest fans. Here’s what they won’t tell you.",
+      "score": "845",
+      "url": "https://medium.com/p/special-report-i-spent-5-years-with-some-of-trumps-biggest-fans-here-s-what-they-won-t-tell-you-6dfd24ae0ff3"
+    },
+    {
+      "title": "6 Brutal Truths About Productivity No One Wants to Talk About",
+      "score": "514",
+      "url": "https://medium.com/p/the-brutal-truth-about-productivity-that-no-one-wants-to-talk-about-6e54a4111af"
+    },
+    {
+      "title": "If It Doesn’t Suck, It’s Not Worth Doing",
+      "score": "1546",
+      "url": "https://medium.com/p/if-it-doesnt-suck-it-s-not-worth-doing-d72533893aba"
+    },
+    {
+      "title": "The 10 Best Books of 2016",
+      "score": "1755",
+      "url": "https://medium.com/p/the-10-best-books-of-2016-f9ab9c494f8e"
+    },
+    {
+      "title": "10 Crucial Mistakes I Want To Stop Making In 2017",
+      "score": "256",
+      "url": "https://medium.com/p/10-crucial-mistakes-i-want-to-stop-making-in-2017-fe533fff2fba"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/pythagorea-geometry-on-square-grid",
+      "title": "Marquix Startup Domains:  ",
+      "score": "5"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/kamerar-zoom-lens-kit",
+      "title": "Zittly:  ",
+      "score": "5"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/ttlequals0/autovpn",
+      "title": "ttlequals0/autovpn: Script to create an OpenVPN Endpoint on AWS.",
+      "score": "313"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "303"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "245"
+    },
+    {
+      "url": "https://github.com/zxytim/neural-painter",
+      "title": "zxytim/neural-painter: Paint artistic patterns using random neural network",
+      "score": "232"
+    },
+    {
+      "url": "https://github.com/lk-geimfari/awesomeo",
+      "title": "lk-geimfari/awesomeo: The really big list of really interesting open source projects in all languages.",
+      "score": "203"
+    },
+    {
+      "url": "https://github.com/255kb/stack-on-a-budget",
+      "title": "255kb/stack-on-a-budget: A collection of services with great free tiers for developers on a budget",
+      "score": "185"
+    },
+    {
+      "url": "https://github.com/amark/gun",
+      "title": "amark/gun: A realtime, decentralized, offline-first, graph database engine.",
+      "score": "183"
+    },
+    {
+      "url": "https://github.com/garretyoder/Colorful",
+      "title": "garretyoder/Colorful: SlideUp is a small library that allows you to add sweet slide effect to any view.",
+      "score": "167"
+    },
+    {
+      "url": "https://github.com/githubwing/DragPhotoView",
+      "title": "githubwing/DragPhotoView: A Draggable PhotoView Like Wechat，高仿微信可拖拽返回PhotoView",
+      "score": "156"
+    },
+    {
+      "url": "https://github.com/citybound/citybound",
+      "title": "citybound/citybound: The city sim you deserve.",
+      "score": "151"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/330165#reply100",
+      "title": "发现现在只撸优衣库了，怎么破",
+      "score": "100"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330134#reply78",
+      "title": "今年的票好像并不难抢啊？？",
+      "score": "78"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330166#reply54",
+      "title": "发钱了，我却高兴不起来",
+      "score": "54"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330168#reply43",
+      "title": "各位 V 友，有没有什么「有趣的」、「可实现的」本科毕业设计题目啊？",
+      "score": "43"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330151#reply31",
+      "title": "你用哪种方式抢到过春运期间的火车票？",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330226#reply31",
+      "title": "年会老板一直夸产品和运营，对我们开发只字不提，是不是不重视技术？",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330281#reply30",
+      "title": "我一伙伴忽悠我玩域名，还给我看他赚了多少",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330144#reply30",
+      "title": "最近打算去买房，有个疑问大家是怎样去找新房信息的（二三线城市）？",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330154#reply29",
+      "title": "买车车求老司机推荐",
+      "score": "29"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330234#reply28",
+      "title": "为什么经常看到 建议前端使用 mac",
+      "score": "28"
+    }
+  ]
+}
