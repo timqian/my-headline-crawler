@@ -1,0 +1,227 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13258029",
+      "title": "HandBrake 1.0.0 Released",
+      "score": "678"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13258063",
+      "title": "The little book about OS development",
+      "score": "399"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13259399",
+      "title": "How to find size of an array in C without sizeof",
+      "score": "315"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13257970",
+      "title": "The farmer who built her own broadband",
+      "score": "224"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13258631",
+      "title": "&mu;WWVB: A Tiny WWVB Station",
+      "score": "217"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13258078",
+      "title": "Raspberry Pi releases an OS to breathe new life into old PCs",
+      "score": "213"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13259000",
+      "title": "Show HN: Mitmproxy 1.0 released, now with a web interface",
+      "score": "207"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13259760",
+      "title": "A bigger problem than ISIS: The Mosul Dam is failing",
+      "score": "199"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13259686",
+      "title": "Falsehoods programmers believe about video",
+      "score": "199"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13259429",
+      "title": "Show HN: Learn how to build electronics with monthly kits",
+      "score": "190"
+    }
+  ],
+  "medium": [
+    {
+      "title": "10 things I learned making the fastest site in the world",
+      "score": "1569",
+      "url": "https://medium.com/p/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7"
+    },
+    {
+      "title": "Your Ultimate Guide For Waking Up Early",
+      "score": "979",
+      "url": "https://medium.com/p/how-to-wake-up-early-your-ultimate-blueprint-1f8bb2045b90"
+    },
+    {
+      "title": "Chat is the New Browser",
+      "score": "446",
+      "url": "https://medium.com/p/chat-is-the-new-browser-cef0ead46c8b"
+    },
+    {
+      "title": "10 Things that Immediately Happen when Real Leadership Shows Up",
+      "score": "591",
+      "url": "https://medium.com/p/10-things-that-immediately-happen-when-real-leadership-shows-up-c16658c1a21"
+    },
+    {
+      "title": "The Internet Is Broken. Here’s How I’d Fix It",
+      "score": "359",
+      "url": "https://medium.com/p/the-internet-is-broken-heres-how-i-d-fix-it-19d0b2503aee"
+    },
+    {
+      "title": "Special report: I spent 5 years with some of Trump’s biggest fans. Here’s what they won’t tell you.",
+      "score": "881",
+      "url": "https://medium.com/p/special-report-i-spent-5-years-with-some-of-trumps-biggest-fans-here-s-what-they-won-t-tell-you-6dfd24ae0ff3"
+    },
+    {
+      "title": "6 Brutal Truths About Productivity No One Wants to Talk About",
+      "score": "658",
+      "url": "https://medium.com/p/the-brutal-truth-about-productivity-that-no-one-wants-to-talk-about-6e54a4111af"
+    },
+    {
+      "title": "If It Doesn’t Suck, It’s Not Worth Doing",
+      "score": "1790",
+      "url": "https://medium.com/p/if-it-doesnt-suck-it-s-not-worth-doing-d72533893aba"
+    },
+    {
+      "title": "The 10 Best Books of 2016",
+      "score": "1905",
+      "url": "https://medium.com/p/the-10-best-books-of-2016-f9ab9c494f8e"
+    },
+    {
+      "title": "10 Crucial Mistakes I Want To Stop Making In 2017",
+      "score": "327",
+      "url": "https://medium.com/p/10-crucial-mistakes-i-want-to-stop-making-in-2017-fe533fff2fba"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/command-tab-plus",
+      "title": "Docdown:  ",
+      "score": "21"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/planiro",
+      "title": "Get Your Sh*t Together:  ",
+      "score": "28"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/rogue-one-a-star-wars-story",
+      "title": "Daniel Beauchamp, Head of VR, Shopify:  ",
+      "score": "13"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/lk-geimfari/awesomeo",
+      "title": "lk-geimfari/awesomeo: The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, Shell and Swift.",
+      "score": "467"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "421"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "280"
+    },
+    {
+      "url": "https://github.com/ttlequals0/autovpn",
+      "title": "ttlequals0/autovpn: Script to Create On Demand OpenVPN Endpoints on AWS.",
+      "score": "214"
+    },
+    {
+      "url": "https://github.com/255kb/stack-on-a-budget",
+      "title": "255kb/stack-on-a-budget: A collection of services with great free tiers for developers on a budget",
+      "score": "212"
+    },
+    {
+      "url": "https://github.com/HandBrake/HandBrake",
+      "title": "HandBrake/HandBrake: HandBrake's main development repository",
+      "score": "190"
+    },
+    {
+      "url": "https://github.com/mitmproxy/mitmproxy",
+      "title": "mitmproxy/mitmproxy: An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers",
+      "score": "185"
+    },
+    {
+      "url": "https://github.com/garretyoder/Colorful",
+      "title": "garretyoder/Colorful: QMUI iOS——致力于提高项目 UI 开发效率的解决方案",
+      "score": "141"
+    },
+    {
+      "url": "https://github.com/keonkim/awesome-bits",
+      "title": "keonkim/awesome-bits:  A curated list of awesome bitwise operations and tricks",
+      "score": "140"
+    },
+    {
+      "url": "https://github.com/mogulanyang/LYMagicMacro",
+      "title": "mogulanyang/LYMagicMacro: 小兰魔法宏,OC黑魔法+语法糖,单文件轻量级,免分类实现快捷声明,创建各种控件属性",
+      "score": "134"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/330450#reply132",
+      "title": "[有奖互动] 一句话年终工作总结大赛",
+      "score": "132"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330392#reply63",
+      "title": "买了 mbp，可最终还是折腾回 Linux 了",
+      "score": "63"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330427#reply59",
+      "title": "交通事故理赔，求帮助。",
+      "score": "59"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330387#reply57",
+      "title": "如果有公司把 Time machine 做成服务在互联网上买，大家估计会买吗？你的心里价位是多少？",
+      "score": "57"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330465#reply52",
+      "title": "求推荐一款好用的远程 SSH 工具。",
+      "score": "52"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330466#reply49",
+      "title": "知识变现的套路",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330464#reply38",
+      "title": "目前国产主流浏览器官网 HTML5 特效都是吊炸天，感觉还是百度浏览器官网最 LOW",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330440#reply36",
+      "title": "马上 30 岁了，还想换个城市，求先行者鼓励/泼冷水/分享经验",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330384#reply34",
+      "title": "你们是否有工作听音乐的习惯？工作单位允许吗？",
+      "score": "34"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330473#reply34",
+      "title": "Python，我用这些库就够了！！！",
+      "score": "34"
+    }
+  ]
+}
