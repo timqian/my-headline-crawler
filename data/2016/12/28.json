@@ -1,0 +1,237 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13264054",
+      "title": "Library-managed 'arXiv' spreads scientific advances rapidly and worldwide",
+      "score": "375"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13264952",
+      "title": "WebRTC: the future of web games",
+      "score": "237"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13263038",
+      "title": "Finger Trees: A Simple General-Purpose Data Structure (2006)",
+      "score": "236"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13267108",
+      "title": "About Those Air Cushions in Amazon Packages",
+      "score": "162"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13265758",
+      "title": "Rust vs C Pitfalls",
+      "score": "135"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13268344",
+      "title": "Valve fined for poor customer service",
+      "score": "122"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13266695",
+      "title": "Haskus, a Haskell Framework for Systems Programming",
+      "score": "108"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13268673",
+      "title": "An American airline wins the right to weigh passengers on its Samoan route",
+      "score": "99"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13268768",
+      "title": "Watch Tesla's Autopilot Brake for a Crash Before It Even Happens",
+      "score": "98"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13265959",
+      "title": "Understanding Clojure's PersistentVector implementation (2009)",
+      "score": "94"
+    }
+  ],
+  "medium": [
+    {
+      "title": "10 things I learned making the fastest site in the world",
+      "score": "1791",
+      "url": "https://medium.com/p/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7"
+    },
+    {
+      "title": "Your Ultimate Guide For Waking Up Early",
+      "score": "1251",
+      "url": "https://medium.com/p/how-to-wake-up-early-your-ultimate-blueprint-1f8bb2045b90"
+    },
+    {
+      "title": "No, Jesus was not a “NonWhite” refugee who would have voted for …",
+      "score": "374",
+      "url": "https://medium.com/p/no-jesus-was-not-a-nonwhite-refugee-who-would-have-voted-for-43779209eea4"
+    },
+    {
+      "title": "A guide to giving your cats their annual performance review",
+      "score": "1242",
+      "url": "https://medium.com/p/a-guide-to-giving-your-cats-their-annual-performance-review-fbf14610305"
+    },
+    {
+      "title": "The Winners and Losers From NFL Week 16",
+      "score": "59",
+      "url": "https://medium.com/p/nfl-week-16-winners-and-losers-2116b1e6b620"
+    },
+    {
+      "title": "10 Things that Immediately Happen when Real Leadership Shows Up",
+      "score": "701",
+      "url": "https://medium.com/p/10-things-that-immediately-happen-when-real-leadership-shows-up-c16658c1a21"
+    },
+    {
+      "title": "The Internet Is Broken. Here’s How I’d Fix It",
+      "score": "418",
+      "url": "https://medium.com/p/the-internet-is-broken-heres-how-i-d-fix-it-19d0b2503aee"
+    },
+    {
+      "title": "Special report: I spent 5 years with some of Trump’s biggest fans. Here’s what they won’t tell you.",
+      "score": "919",
+      "url": "https://medium.com/p/special-report-i-spent-5-years-with-some-of-trumps-biggest-fans-here-s-what-they-won-t-tell-you-6dfd24ae0ff3"
+    },
+    {
+      "title": "If It Doesn’t Suck, It’s Not Worth Doing",
+      "score": "2001",
+      "url": "https://medium.com/p/if-it-doesnt-suck-it-s-not-worth-doing-d72533893aba"
+    },
+    {
+      "title": "The 10 Best Books of 2016",
+      "score": "1992",
+      "url": "https://medium.com/p/the-10-best-books-of-2016-f9ab9c494f8e"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/8-760-hours-2-0",
+      "title": "Emoji Ransom Generator:  ",
+      "score": "12"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/remote-stories",
+      "title": "Letterpress 3.0:  ",
+      "score": "9"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/researchvr-027",
+      "title": "Atlis:  ",
+      "score": "3"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/zero-sugar-diet",
+      "title": "GetRoadmaps:  ",
+      "score": "5"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/the-princess-diarist",
+      "title": "Let&#x27;s Pong It:  ",
+      "score": "1"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+      "title": "ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.",
+      "score": "930"
+    },
+    {
+      "url": "https://github.com/lk-geimfari/awesomo",
+      "title": "lk-geimfari/awesomo: The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc.",
+      "score": "598"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "446"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "392"
+    },
+    {
+      "url": "https://github.com/mitmproxy/mitmproxy",
+      "title": "mitmproxy/mitmproxy: An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers",
+      "score": "240"
+    },
+    {
+      "url": "https://github.com/HandBrake/HandBrake",
+      "title": "HandBrake/HandBrake: HandBrake's main development repository",
+      "score": "228"
+    },
+    {
+      "url": "https://github.com/gjiazhe/PanoramaImageView",
+      "title": "gjiazhe/PanoramaImageView: An imageView can auto scroll with device rotating.",
+      "score": "224"
+    },
+    {
+      "url": "https://github.com/255kb/stack-on-a-budget",
+      "title": "255kb/stack-on-a-budget: A collection of services with great free tiers for developers on a budget",
+      "score": "200"
+    },
+    {
+      "url": "https://github.com/QMUI/QMUI_iOS",
+      "title": "QMUI/QMUI_iOS: QMUI iOS——致力于提高项目 UI 开发效率的解决方案",
+      "score": "169"
+    },
+    {
+      "url": "https://github.com/devongovett/regexgen",
+      "title": "devongovett/regexgen: Generate regular expressions that match a set of strings",
+      "score": "170"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/330655#reply93",
+      "title": "和大家分享一下你 2016 年完成的小目标吧",
+      "score": "93"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330695#reply79",
+      "title": "各位午餐一般吃什么，多少钱？",
+      "score": "79"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330685#reply59",
+      "title": "[提问] [求助] 大家在 Android 上都用什么浏览器啊？",
+      "score": "59"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330741#reply38",
+      "title": "年会礼物",
+      "score": "38"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330666#reply35",
+      "title": "老话题，付费网盘哪个靠谱",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330759#reply33",
+      "title": "你们怕死吗",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330743#reply33",
+      "title": "大家鉴定下京东金融的这个理财项目,其显示近 36 万人已投资金额逾 638 亿元,人均投资超 17 万.",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330726#reply31",
+      "title": "UltraFine 5K 显示器到货了，简单讲一下感觉",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330656#reply28",
+      "title": "老用户 Vultr 充值了 5 美刀，然后余额多出 30 美刀？",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330660#reply27",
+      "title": "“老年人”想弄个机器玩点游戏，求建议也求机器配置推荐",
+      "score": "27"
+    }
+  ]
+}
