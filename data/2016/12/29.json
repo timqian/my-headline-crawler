@@ -1,0 +1,232 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13272840",
+      "title": "Lessons from 3,000 technical interviews",
+      "score": "524"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13271844",
+      "title": "A Guide to Deep Learning",
+      "score": "316"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13272610",
+      "title": "UDP vs. TCP",
+      "score": "299"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13271588",
+      "title": "Nintendo releases original Zelda design docs",
+      "score": "284"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13272521",
+      "title": "Microsoft Word for Windows Version 1.1a Source Code",
+      "score": "241"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13274545",
+      "title": "Berkeley: Machine Learning Crash Course",
+      "score": "208"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13274064",
+      "title": "Why I close pull requests",
+      "score": "207"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13273461",
+      "title": "From Secretary to Software Developer: The Hard Way",
+      "score": "194"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13273901",
+      "title": "Musical Chord Progression Arpeggiator",
+      "score": "193"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13274562",
+      "title": "Markdown.css – make HTML look like plain-text markdown",
+      "score": "187"
+    }
+  ],
+  "medium": [
+    {
+      "title": "13 Things You Should Give Up If You Want To Be Successful",
+      "score": "8590",
+      "url": "https://medium.com/p/13-things-you-need-to-give-up-if-you-want-to-be-successful-44b5b9b06a26"
+    },
+    {
+      "title": "Who Is the Pettiest NBA Superstar?",
+      "score": "201",
+      "url": "https://medium.com/p/lebron-james-russell-westbrook-2016-nba-pettyweight-champion-6649fd77d828"
+    },
+    {
+      "title": "Inequality and Skin in the Game",
+      "score": "473",
+      "url": "https://medium.com/p/inequality-and-skin-in-the-game-d8f00bc0cb46"
+    },
+    {
+      "title": "2016 Is Not Killing People",
+      "score": "774",
+      "url": "https://medium.com/p/2016-is-not-killing-people-984b583a0ecc"
+    },
+    {
+      "title": "Your Ultimate Guide For Waking Up Early",
+      "score": "1625",
+      "url": "https://medium.com/p/how-to-wake-up-early-your-ultimate-blueprint-1f8bb2045b90"
+    },
+    {
+      "title": "Why doing a PhD is often a waste of time",
+      "score": "310",
+      "url": "https://medium.com/p/why-doing-a-phd-is-often-a-waste-of-time-349206f9addb"
+    },
+    {
+      "title": "10 things I learned making the fastest site in the world",
+      "score": "1957",
+      "url": "https://medium.com/p/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7"
+    },
+    {
+      "title": "How To Go From Successful To Very Successful (and why most people can’t do it)",
+      "score": "543",
+      "url": "https://medium.com/p/how-to-go-from-successful-to-very-successful-and-why-most-people-cant-do-it-eab95f82be53"
+    },
+    {
+      "title": "Introducing “Zero,” a new app to help you fast",
+      "score": "672",
+      "url": "https://medium.com/p/introducing-zero-a-new-app-to-help-you-fast-209935e8245d"
+    },
+    {
+      "title": "If It Doesn’t Suck, It’s Not Worth Doing",
+      "score": "2244",
+      "url": "https://medium.com/p/if-it-doesnt-suck-it-s-not-worth-doing-d72533893aba"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/searchtrack-handy",
+      "title": "Auto-Layout for Sketch:  ",
+      "score": "19"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/design-hunt-3-0",
+      "title": "Notification Hub:  ",
+      "score": "13"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/bttn-css",
+      "title": "Imagizer Engine:  ",
+      "score": "12"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/gamemania-kenya",
+      "title": "Helpful Mom Sticky Notes:  ",
+      "score": "9"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/Tencent/mars",
+      "title": "Tencent/mars: Mars is a cross-platform network component developed by WeChat.",
+      "score": "4274"
+    },
+    {
+      "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+      "title": "ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.",
+      "score": "597"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "431"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "359"
+    },
+    {
+      "url": "https://github.com/lk-geimfari/awesomo",
+      "title": "lk-geimfari/awesomo: The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc.",
+      "score": "310"
+    },
+    {
+      "url": "https://github.com/andywer/leakage",
+      "title": "andywer/leakage:  Memory leak testing for node.",
+      "score": "301"
+    },
+    {
+      "url": "https://github.com/kdeldycke/awesome-falsehood",
+      "title": "kdeldycke/awesome-falsehood:  Curated list of falsehoods programmers believe in.",
+      "score": "187"
+    },
+    {
+      "url": "https://github.com/gjiazhe/PanoramaImageView",
+      "title": "gjiazhe/PanoramaImageView: An imageView can auto scroll with device rotating.",
+      "score": "177"
+    },
+    {
+      "url": "https://github.com/jirengu/frontend-interview",
+      "title": "jirengu/frontend-interview: 前端笔试面试题题库",
+      "score": "171"
+    },
+    {
+      "url": "https://github.com/hdjirdeh/angular2-hn",
+      "title": "hdjirdeh/angular2-hn:  Progressive Hacker News client built with Angular",
+      "score": "173"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/330949#reply52",
+      "title": "招聘黑话大全",
+      "score": "52"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330927#reply46",
+      "title": "微信 PC 端的几大缺陷",
+      "score": "46"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330958#reply44",
+      "title": "12306 真的很难买到票，有没有老司机分享下抢火车票最好的方式或软件",
+      "score": "44"
+    },
+    {
+      "url": "https://www.v2ex.com/t/331037#reply43",
+      "title": "来来来，学 Laraval 的，学 TP 的给你出一道简单的题",
+      "score": "43"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330921#reply36",
+      "title": "我如何利用前端技术得到 XXOO 网站的 VIP",
+      "score": "36"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330900#reply35",
+      "title": "Atom 编辑 markdown 意外的不错嘛",
+      "score": "35"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330948#reply31",
+      "title": "2017 年，从零开始学前端开发，有推荐的技术栈么？",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330973#reply30",
+      "title": "日了，高仿钓鱼网站好多，差点被骗...",
+      "score": "30"
+    },
+    {
+      "url": "https://www.v2ex.com/t/330997#reply28",
+      "title": "「MDUI」一个轻量级、无依赖的 Material Design 前端框架",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/331016#reply26",
+      "title": "大家离职的时候是怎么清理公司电脑上的私人信息的？",
+      "score": "26"
+    }
+  ]
+}
