@@ -1,0 +1,232 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13278607",
+      "title": "Creative Tim: Growing a side project into a $17k/month business",
+      "score": "373"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13278966",
+      "title": "Facebook Doesn’t Tell Users Everything It Really Knows About Them",
+      "score": "297"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13278211",
+      "title": "Machine Learning Crash Course: Part 1",
+      "score": "252"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13278664",
+      "title": "The Original Postal Has Been Made Open Source",
+      "score": "214"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13277191",
+      "title": "The U.S. Will Surpass China as the No. 1 Country for Manufacturing by 2020",
+      "score": "213"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13281981",
+      "title": "US government to withdraw longstanding warnings about cholesterol (2015)",
+      "score": "202"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13280846",
+      "title": "How to Validate Demand for Your Product",
+      "score": "162"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13280818",
+      "title": "A calculus for automatically differentiable computer programs",
+      "score": "107"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13279207",
+      "title": "BrowserFS: an in-browser filesystem with many back ends",
+      "score": "102"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13280933",
+      "title": "A Sad Announcement",
+      "score": "88"
+    }
+  ],
+  "medium": [
+    {
+      "title": "13 Things You Should Give Up If You Want To Be Successful",
+      "score": "16576",
+      "url": "https://medium.com/p/13-things-you-need-to-give-up-if-you-want-to-be-successful-44b5b9b06a26"
+    },
+    {
+      "title": "Your Ultimate Guide For Waking Up Early",
+      "score": "2047",
+      "url": "https://medium.com/p/how-to-wake-up-early-your-ultimate-blueprint-1f8bb2045b90"
+    },
+    {
+      "title": "Toward a Universal Theory of Ben Affleck",
+      "score": "53",
+      "url": "https://medium.com/p/toward-a-universal-theory-of-ben-affleck-da1522b6f68e"
+    },
+    {
+      "title": "All of 2016’s top mobile apps are owned by either Google or Facebook",
+      "score": "525",
+      "url": "https://medium.com/p/all-of-2016s-top-mobile-apps-are-owned-by-either-google-or-facebook-a9c56d77a74b"
+    },
+    {
+      "title": "Boot Up 2017 with the #100DaysOfCode Challenge",
+      "score": "685",
+      "url": "https://medium.com/p/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b"
+    },
+    {
+      "title": "Why doing a PhD is often a waste of time",
+      "score": "453",
+      "url": "https://medium.com/p/why-doing-a-phd-is-often-a-waste-of-time-349206f9addb"
+    },
+    {
+      "title": "I’m Tired of Star Wars",
+      "score": "244",
+      "url": "https://medium.com/p/im-tired-of-star-wars-242a69536b0e"
+    },
+    {
+      "title": "Why You Should be Planning for 2018, Not 2017.",
+      "score": "383",
+      "url": "https://medium.com/p/why-you-should-be-planning-for-2018-not-2017-7c8fea3e2e52"
+    },
+    {
+      "title": "5 scientific myths you probably believe about the Universe",
+      "score": "217",
+      "url": "https://medium.com/p/5-scientific-myths-you-probably-believe-about-the-universe-9a34597d7435"
+    },
+    {
+      "title": "2016 Is Not Killing People",
+      "score": "1106",
+      "url": "https://medium.com/p/2016-is-not-killing-people-984b583a0ecc"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/insta-mash-by-1-second-everyday",
+      "title": "Product Hunt on Amazon Echo:  ",
+      "score": "18"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/dr-ft",
+      "title": "Whaller:  ",
+      "score": "3"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/20-minute-vc-nitesh-banta-founder-ceo-b12",
+      "title": "Hidden Figures:  ",
+      "score": "1"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/playlister",
+      "title": "BuildStore:  ",
+      "score": "6"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/Tencent/mars",
+      "title": "Tencent/mars: Mars is a cross-platform network component developed by WeChat.",
+      "score": "1068"
+    },
+    {
+      "url": "https://github.com/vhf/free-programming-books",
+      "title": "vhf/free-programming-books:  Freely available programming books",
+      "score": "726"
+    },
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "661"
+    },
+    {
+      "url": "https://github.com/facebooknuclide/atom-in-orbit",
+      "title": "facebooknuclide/atom-in-orbit: Putting Atom in the browser",
+      "score": "438"
+    },
+    {
+      "url": "https://github.com/zdhxiong/mdui",
+      "title": "zdhxiong/mdui: MDUI 是一个基于 Material Design 的前端框架。",
+      "score": "404"
+    },
+    {
+      "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+      "title": "ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.",
+      "score": "332"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "266"
+    },
+    {
+      "url": "https://github.com/sindresorhus/awesome",
+      "title": "sindresorhus/awesome:  Curated list of awesome lists",
+      "score": "276"
+    },
+    {
+      "url": "https://github.com/getify/You-Dont-Know-JS",
+      "title": "getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.",
+      "score": "255"
+    },
+    {
+      "url": "https://github.com/lk-geimfari/awesomo",
+      "title": "lk-geimfari/awesomo: The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc.",
+      "score": "264"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/331168#reply157",
+      "title": "2016，进入到计时了，如果用“一个汉字”来总结“你的 2016”，你会选用哪一个字？",
+      "score": "157"
+    },
+    {
+      "url": "https://www.v2ex.com/t/331156#reply96",
+      "title": "一年又一年，大家来晒下 2016 年已入的装备和 2017 年想入的装备吧！？",
+      "score": "96"
+    },
+    {
+      "url": "https://www.v2ex.com/t/331197#reply58",
+      "title": "西医怎么解释走热了一吹风为什么容易感冒？",
+      "score": "58"
+    },
+    {
+      "url": "https://www.v2ex.com/t/331155#reply53",
+      "title": "杭州好像互联网公司很多 13 薪无年终的，各位 v 友能否晒晒自己公司的年终",
+      "score": "53"
+    },
+    {
+      "url": "https://www.v2ex.com/t/331203#reply45",
+      "title": "准备去办理入深户了，但是心情却很沉重",
+      "score": "45"
+    },
+    {
+      "url": "https://www.v2ex.com/t/331210#reply43",
+      "title": "五儿子刷了 CM14/Android7，配合空调狗/冰箱，感觉还能再战 2 年",
+      "score": "43"
+    },
+    {
+      "url": "https://www.v2ex.com/t/331178#reply37",
+      "title": "简历魔板--一款酷炫的在线简历制作工具",
+      "score": "37"
+    },
+    {
+      "url": "https://www.v2ex.com/t/331245#reply31",
+      "title": "密码加密与登录验证的原理是怎样的？",
+      "score": "31"
+    },
+    {
+      "url": "https://www.v2ex.com/t/331165#reply27",
+      "title": "2016 一个想做架构师的码农",
+      "score": "27"
+    },
+    {
+      "url": "https://www.v2ex.com/t/331162#reply24",
+      "title": "求一个免费空间",
+      "score": "24"
+    }
+  ]
+}
