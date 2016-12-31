@@ -1,0 +1,222 @@
+{
+  "HN": [
+    {
+      "url": "https://news.ycombinator.com/item?id=13286134",
+      "title": "China announces ban on ivory trade by end of 2017",
+      "score": "383"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13284879",
+      "title": "Kalzumeus Software Year in Review 2016",
+      "score": "310"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13286024",
+      "title": "Working remotely, coworking spaces, and mental health",
+      "score": "277"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13286150",
+      "title": "ThinkPad X1 Carbon",
+      "score": "259"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13284946",
+      "title": "Once mocked, Facebook’s $1B acquisition of Instagram was a good move",
+      "score": "202"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13288614",
+      "title": "EveryPolitician: Open dataset on politicians",
+      "score": "199"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13286894",
+      "title": "Larry Page is pouring millions into flying cars",
+      "score": "195"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13284784",
+      "title": "The Hardware Hacker: Bunnie Huang's Tour-De-force",
+      "score": "174"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13289484",
+      "title": "I'm at Fog Creek, and we're introducing Gomix",
+      "score": "160"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=13285777",
+      "title": "Apple to slice iPhone production 10% due to sluggish sales",
+      "score": "139"
+    }
+  ],
+  "medium": [
+    {
+      "title": "Behind the Lens: 2016 Year in Photographs",
+      "score": "1111",
+      "url": "https://medium.com/p/behind-the-lens-2016-year-in-photographs-9e2c8733bbb3"
+    },
+    {
+      "title": "13 Things You Should Give Up If You Want To Be Successful",
+      "score": "21325",
+      "url": "https://medium.com/p/13-things-you-need-to-give-up-if-you-want-to-be-successful-44b5b9b06a26"
+    },
+    {
+      "title": "Why You Should be Planning for 2018, Not 2017.",
+      "score": "1286",
+      "url": "https://medium.com/p/why-you-should-be-planning-for-2018-not-2017-7c8fea3e2e52"
+    },
+    {
+      "title": "A billion dollar gift for Twitter",
+      "score": "1057",
+      "url": "https://medium.com/p/a-billion-dollar-gift-for-twitter-8b3d541b9e1e"
+    },
+    {
+      "title": "5 scientific myths you probably believe about the Universe",
+      "score": "420",
+      "url": "https://medium.com/p/5-scientific-myths-you-probably-believe-about-the-universe-9a34597d7435"
+    },
+    {
+      "title": "Your Ultimate Guide For Waking Up Early",
+      "score": "2286",
+      "url": "https://medium.com/p/how-to-wake-up-early-your-ultimate-blueprint-1f8bb2045b90"
+    },
+    {
+      "title": "All of 2016’s top mobile apps are owned by either Google or Facebook",
+      "score": "932",
+      "url": "https://medium.com/p/all-of-2016s-top-mobile-apps-are-owned-by-either-google-or-facebook-a9c56d77a74b"
+    },
+    {
+      "title": "The Legacy of the NFL’s Post–Randy Moss Wide Receiver Generation",
+      "score": "57",
+      "url": "https://medium.com/p/nfl-receiver-generation-larry-fitzgerald-steve-smith-andre-johnson-54e622ef00c8"
+    },
+    {
+      "title": "Week 17 NFL Picks: When to Sit the Starters",
+      "score": "27",
+      "url": "https://medium.com/p/nfl-picks-week-17-when-to-sit-starters-patriots-cowboys-steelers-d218799700f1"
+    },
+    {
+      "title": "‘Blade Runner 2049’ and More Culture to Look Forward to in 2017",
+      "score": "47",
+      "url": "https://medium.com/p/blade-runner-2049-john-wick-chapter-2-and-more-culture-we-re-looking-forward-to-in-2017-ae8cd9c064d0"
+    }
+  ],
+  "productHunt": [
+    {
+      "url": "https://www.producthunt.com/posts/year-in-review-for-makers",
+      "title": "KeepQuoting:  ",
+      "score": "7"
+    },
+    {
+      "url": "https://www.producthunt.com/posts/mountain-hub",
+      "title": "Flickpic:  ",
+      "score": "5"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+      "title": "FreeCodeCamp/FreeCodeCamp: The  open source codebase and curriculum. Learn to code and help nonprofits.",
+      "score": "500"
+    },
+    {
+      "url": "https://github.com/vhf/free-programming-books",
+      "title": "vhf/free-programming-books:  Freely available programming books",
+      "score": "428"
+    },
+    {
+      "url": "https://github.com/tidwall/tile38",
+      "title": "tidwall/tile38: Tile38 is a fast geolocation data store, spatial index, and realtime geofence. It supports a variety of object types including lat/lon points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON. ",
+      "score": "427"
+    },
+    {
+      "url": "https://github.com/Tencent/mars",
+      "title": "Tencent/mars: Mars is a cross-platform network component developed by WeChat.",
+      "score": "290"
+    },
+    {
+      "url": "https://github.com/facebooknuclide/atom-in-orbit",
+      "title": "facebooknuclide/atom-in-orbit: Putting Atom in the browser",
+      "score": "263"
+    },
+    {
+      "url": "https://github.com/jwasham/google-interview-university",
+      "title": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+      "score": "177"
+    },
+    {
+      "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+      "title": "ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.",
+      "score": "181"
+    },
+    {
+      "url": "https://github.com/hharnisc/tabbie",
+      "title": "hharnisc/tabbie: The missing tab manager for Chrome",
+      "score": "187"
+    },
+    {
+      "url": "https://github.com/ganapativs/bttn.css",
+      "title": "ganapativs/bttn.css: Awesome buttons for awesome projects!",
+      "score": "172"
+    },
+    {
+      "url": "https://github.com/sindresorhus/awesome",
+      "title": "sindresorhus/awesome:  Curated list of awesome lists",
+      "score": "162"
+    }
+  ],
+  "v2ex": [
+    {
+      "url": "https://www.v2ex.com/t/331424#reply49",
+      "title": "2017 你会看春晚么？",
+      "score": "49"
+    },
+    {
+      "url": "https://www.v2ex.com/t/331416#reply39",
+      "title": "大家是怎么熟练的在两门以上语言之间切换的?",
+      "score": "39"
+    },
+    {
+      "url": "https://www.v2ex.com/t/331429#reply33",
+      "title": "有没有啥有趣，可玩性高，耐玩，烧脑的游戏。",
+      "score": "33"
+    },
+    {
+      "url": "https://www.v2ex.com/t/331406#reply28",
+      "title": "2016 你的 Github 成绩单",
+      "score": "28"
+    },
+    {
+      "url": "https://www.v2ex.com/t/331387#reply26",
+      "title": "在使用 Python 的时候，是面向对象多点呢还是面向过程多点？",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/331399#reply26",
+      "title": "“last but not least”怎么翻译比较好？",
+      "score": "26"
+    },
+    {
+      "url": "https://www.v2ex.com/t/331426#reply23",
+      "title": "处于丢失模式的 iPhone 突然从 iCloud 账户中消失，是何缘由？",
+      "score": "23"
+    },
+    {
+      "url": "https://www.v2ex.com/t/331403#reply21",
+      "title": "[分享经验] 我是怎么让老一辈放弃 IE 改用 Chrome 滴",
+      "score": "21"
+    },
+    {
+      "url": "https://www.v2ex.com/t/331409#reply21",
+      "title": "有没有人不喜欢用 CDN，你为什么不用 CDN？",
+      "score": "21"
+    },
+    {
+      "url": "https://www.v2ex.com/t/331389#reply15",
+      "title": "2017 年，大家有没有什么小愿望想要实现的？",
+      "score": "15"
+    }
+  ]
+}
